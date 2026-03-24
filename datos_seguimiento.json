@@ -150,6 +150,10 @@
           {
             "desc": "Firma de contrato",
             "fechaPrevista": "15/05/2026"
+          },
+          {
+            "desc": "",
+            "fechaPrevista": ""
           }
         ]
       },
