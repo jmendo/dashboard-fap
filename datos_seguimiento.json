@@ -83,17 +83,6 @@
             "fechaPrevista": ""
           }
         ]
-      },
-      {
-        "etapa": "DEVENGADO",
-        "mes": "",
-        "status": "pending",
-        "actividades": [
-          {
-            "desc": "Pago / Devengado",
-            "fechaPrevista": ""
-          }
-        ]
       }
     ],
     "resultado": {
