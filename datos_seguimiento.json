@@ -142,17 +142,6 @@
             "fechaPrevista": "31/07/2026"
           }
         ]
-      },
-      {
-        "etapa": "DEVENGADO",
-        "mes": "JULIO",
-        "status": "pending",
-        "actividades": [
-          {
-            "desc": "Pago Adelantado con Carta de Crédito — DIREC (31-07-2026)",
-            "fechaPrevista": "31/07/2026"
-          }
-        ]
       }
     ],
     "resultado": {
