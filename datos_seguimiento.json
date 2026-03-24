@@ -154,6 +154,10 @@
           {
             "desc": "Compromiso anual",
             "fechaPrevista": "19/05/2026"
+          },
+          {
+            "desc": "Orden de compra",
+            "fechaPrevista": ""
           }
         ]
       },
