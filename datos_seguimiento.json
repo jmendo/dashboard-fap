@@ -660,6 +660,73 @@
       "subtitulo": ""
     }
   },
+  "snpmgi_v1_2576672": {
+    "metaFisica": "",
+    "devengadoLabel": "",
+    "comentarios": "",
+    "pasos": [
+      {
+        "etapa": "ACTOS PREPARATORIOS",
+        "mes": "",
+        "status": "pending",
+        "actividades": [
+          {
+            "desc": "Actos preparatorios / Certificación",
+            "fechaPrevista": ""
+          }
+        ]
+      },
+      {
+        "etapa": "PROCEDIMIENTO DE SELECCIÓN",
+        "mes": "",
+        "status": "pending",
+        "actividades": [
+          {
+            "desc": "Convocatoria / Selección de proveedor",
+            "fechaPrevista": ""
+          }
+        ]
+      },
+      {
+        "etapa": "CONTRATO",
+        "mes": "",
+        "status": "pending",
+        "actividades": [
+          {
+            "desc": "Firma de contrato / Buena pro",
+            "fechaPrevista": ""
+          }
+        ]
+      },
+      {
+        "etapa": "EJECUCIÓN",
+        "mes": "",
+        "status": "pending",
+        "actividades": [
+          {
+            "desc": "Ejecución y recepción",
+            "fechaPrevista": ""
+          }
+        ]
+      },
+      {
+        "etapa": "DEVENGADO",
+        "mes": "",
+        "status": "pending",
+        "actividades": [
+          {
+            "desc": "Pago / Devengado",
+            "fechaPrevista": ""
+          }
+        ]
+      }
+    ],
+    "resultado": {
+      "icono": "📋",
+      "titulo": "Meta AF-2026",
+      "subtitulo": ""
+    }
+  },
   "snpmgi_v1_2481370": {
     "metaFisica": "Adquisición de equipo Manpack (02) ",
     "devengadoLabel": "",
