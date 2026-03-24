@@ -1,0 +1,69 @@
+{
+  "snpmgi_v1_2163489": {
+    "metaFisica": "El importe de S/14,022,612",
+    "devengadoLabel": "",
+    "comentarios": "El PIM por el importe de S/14,022,612 se reorientaran a otras inversiones de rapida ejecución en el AF-2026, Obra paralizada en controversia, en el AF-2025 el contratista se quedo sin respaldo financiero para ejecutar los Hangares 3 y 4 en Pisco.",
+    "pasos": [
+      {
+        "etapa": "ACTOS PREPARATORIOS",
+        "mes": "",
+        "status": "pending",
+        "actividades": [
+          {
+            "desc": "Actos preparatorios / Certificación",
+            "fechaPrevista": ""
+          }
+        ]
+      },
+      {
+        "etapa": "PROCEDIMIENTO DE SELECCIÓN",
+        "mes": "",
+        "status": "pending",
+        "actividades": [
+          {
+            "desc": "Convocatoria / Selección de proveedor",
+            "fechaPrevista": ""
+          }
+        ]
+      },
+      {
+        "etapa": "CONTRATO",
+        "mes": "",
+        "status": "pending",
+        "actividades": [
+          {
+            "desc": "Firma de contrato / Buena pro",
+            "fechaPrevista": ""
+          }
+        ]
+      },
+      {
+        "etapa": "EJECUCIÓN",
+        "mes": "",
+        "status": "pending",
+        "actividades": [
+          {
+            "desc": "Ejecución y recepción",
+            "fechaPrevista": ""
+          }
+        ]
+      },
+      {
+        "etapa": "DEVENGADO",
+        "mes": "",
+        "status": "pending",
+        "actividades": [
+          {
+            "desc": "Pago / Devengado",
+            "fechaPrevista": ""
+          }
+        ]
+      }
+    ],
+    "resultado": {
+      "icono": "📋",
+      "titulo": "Meta AF-2026",
+      "subtitulo": ""
+    }
+  }
+}
