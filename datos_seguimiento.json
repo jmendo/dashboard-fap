@@ -50,6 +50,10 @@
           {
             "desc": "Convocatoria",
             "fechaPrevista": "06/04/2026"
+          },
+          {
+            "desc": "Presentación de ofertas",
+            "fechaPrevista": ""
           }
         ]
       },
