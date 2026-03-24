@@ -65,5 +65,88 @@
       "titulo": "Meta AF-2026",
       "subtitulo": ""
     }
+  },
+  "snpmgi_v1_2573425": {
+    "metaFisica": "Adelanto 02 Aeronaves Caza 1er Tramo",
+    "devengadoLabel": "Devengado AF-2026: S/ 1,659 millones",
+    "comentarios": "",
+    "pasos": [
+      {
+        "etapa": "ACTOS PREPARATORIOS",
+        "mes": "FEBRERO",
+        "status": "done",
+        "actividades": [
+          {
+            "desc": "Asignación Presupuestal a la OEC 19-02-2026",
+            "fechaPrevista": "19/02/2026"
+          },
+          {
+            "desc": "Certificación de Reserva (CPP) 17-02-2026",
+            "fechaPrevista": "17/02/2026"
+          }
+        ]
+      },
+      {
+        "etapa": "ACTOS PREPARATORIOS",
+        "mes": "MARZO",
+        "status": "done",
+        "actividades": [
+          {
+            "desc": "Actos preparatorios FAP / MINDEF",
+            "fechaPrevista": "01/03/2026"
+          },
+          {
+            "desc": "Solicitud demanda adicional S/522,353,365.00 (27-02-2026)",
+            "fechaPrevista": "27/02/2026"
+          }
+        ]
+      },
+      {
+        "etapa": "PROCEDIMIENTO DE SELECCIÓN",
+        "mes": "ABRIL",
+        "status": "pending",
+        "actividades": [
+          {
+            "desc": "Remisión de Expediente de Inicio — ACFFAA",
+            "fechaPrevista": ""
+          },
+          {
+            "desc": "Otorgamiento de buena pro — ACFFAA",
+            "fechaPrevista": ""
+          }
+        ]
+      },
+      {
+        "etapa": "CONTRATO",
+        "mes": "MAYO",
+        "status": "pending",
+        "actividades": [
+          {
+            "desc": "Consentimiento de la Buena pro — SINTE",
+            "fechaPrevista": ""
+          },
+          {
+            "desc": "Firma de contrato — SINTE",
+            "fechaPrevista": ""
+          }
+        ]
+      },
+      {
+        "etapa": "DEVENGADO",
+        "mes": "JULIO",
+        "status": "pending",
+        "actividades": [
+          {
+            "desc": "Pago Adelantado con Carta de Crédito — DIREC (31-07-2026)",
+            "fechaPrevista": "31/07/2026"
+          }
+        ]
+      }
+    ],
+    "resultado": {
+      "icono": "✈️",
+      "titulo": "Adelanto pago Aeronaves Caza",
+      "subtitulo": "1er Tramo"
+    }
   }
 }
