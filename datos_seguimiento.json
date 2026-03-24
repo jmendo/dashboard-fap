@@ -177,10 +177,10 @@
         "ene": 0,
         "feb": 0,
         "mar": 0,
-        "abr": 1137000000,
+        "abr": 0,
         "may": 0,
         "jun": 0,
-        "jul": 522353365,
+        "jul": 1659353665,
         "ago": 0,
         "set": 0,
         "oct": 0,
@@ -199,8 +199,8 @@
         "feb": 0,
         "mar": 0,
         "abr": 0,
-        "may": 240000000,
-        "jun": 0,
+        "may": 0,
+        "jun": 240000000,
         "jul": 0,
         "ago": 0,
         "set": 0,
@@ -222,8 +222,8 @@
         "abr": 0,
         "may": 0,
         "jun": 0,
-        "jul": 150000000,
-        "ago": 0,
+        "jul": 0,
+        "ago": 150000000,
         "set": 0,
         "oct": 0,
         "nov": 0,
@@ -712,7 +712,7 @@
   "snpmgi_arch_2313734": [
     {
       "tipo": "drive",
-      "nombre": "Cronograma ejecución Radar 3D al 24.03.2026",
+      "nombre": "Cronograma de ejecución Radar 3D al 24.03.26",
       "servicio": "Google Drive",
       "icono": "🔵",
       "link": "https://drive.google.com/file/d/1AddkCtqkOGk1PbLmAHn22UNk7BuRHzlx/view",
@@ -1054,20 +1054,10 @@
       "subtitulo": ""
     }
   },
-  "snpmgi_arch_2234934": [
-    {
-      "tipo": "drive",
-      "nombre": "C.E. SPARTAN AL 24.03.2026",
-      "servicio": "Google Drive",
-      "icono": "🔵",
-      "link": "https://drive.google.com/file/d/1wFOSLc8OH3qr9c1YGVPgrLpOCN-aGfKV/view",
-      "fecha": "24/3/2026"
-    }
-  ],
-  "snpmgi_v1_2481370": {
-    "metaFisica": "Adquisición de equipo Manpack (02) ",
+  "snpmgi_v1_2576672": {
+    "metaFisica": "Remodelación de sala de Usos múltiples e Instalación de red eléctrica",
     "devengadoLabel": "",
-    "comentarios": "UNIDAD EJECUTORA DE INVERSIONES (UEI)\tDIRECCION DE TELEMATICA FAP",
+    "comentarios": "UNIDAD EJECUTORA DE INVERSIONES (UEI)\tDIRECCIÓN DE LOGISTICA FAP",
     "pasos": [
       {
         "etapa": "ACTOS PREPARATORIOS",
@@ -1131,10 +1121,10 @@
       "subtitulo": ""
     }
   },
-  "snpmgi_v1_2576672": {
-    "metaFisica": "Remodelación de sala de Usos múltiples e Instalación de red eléctrica",
+  "snpmgi_v1_2481370": {
+    "metaFisica": "Adquisición de equipo Manpack (02) ",
     "devengadoLabel": "",
-    "comentarios": "UNIDAD EJECUTORA DE INVERSIONES (UEI)\tDIRECCIÓN DE LOGISTICA FAP",
+    "comentarios": "UNIDAD EJECUTORA DE INVERSIONES (UEI)\tDIRECCION DE TELEMATICA FAP",
     "pasos": [
       {
         "etapa": "ACTOS PREPARATORIOS",
