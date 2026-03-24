@@ -103,6 +103,10 @@
         "actividades": [
           {
             "desc": "Trámite de estandarización",
+            "fechaPrevista": "16/02/2026"
+          },
+          {
+            "desc": "",
             "fechaPrevista": ""
           }
         ]
