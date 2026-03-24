@@ -1188,6 +1188,16 @@
       "subtitulo": ""
     }
   },
+  "snpmgi_arch_2234934": [
+    {
+      "tipo": "drive",
+      "nombre": "Cronograma ejecución C27J al 24.03.26",
+      "servicio": "Google Drive",
+      "icono": "🔵",
+      "link": "https://drive.google.com/file/d/1wFOSLc8OH3qr9c1YGVPgrLpOCN-aGfKV/view",
+      "fecha": "24/3/2026"
+    }
+  ],
   "snpmgi_v1_2163489": {
     "metaFisica": "El importe de S/14,022,612",
     "devengadoLabel": "",
