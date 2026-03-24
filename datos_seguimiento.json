@@ -173,6 +173,10 @@
           {
             "desc": "Revisión exoediente pago DIREC",
             "fechaPrevista": "25/05/2026"
+          },
+          {
+            "desc": "Devengado (adelanto carta credito)",
+            "fechaPrevista": ""
           }
         ]
       },
