@@ -166,6 +166,323 @@
       "subtitulo": ""
     }
   },
+  "snpmgi_seguimiento_v1": [
+    {
+      "cui": "2573425",
+      "nombre": "AVIONES CAZA-PI",
+      "fuente": "ROOC",
+      "pim": 1659353665,
+      "dev": 0,
+      "meses": {
+        "ene": 0,
+        "feb": 0,
+        "mar": 0,
+        "abr": 1137000000,
+        "may": 0,
+        "jun": 0,
+        "jul": 522353365,
+        "ago": 0,
+        "set": 0,
+        "oct": 0,
+        "nov": 0,
+        "dic": 0
+      }
+    },
+    {
+      "cui": "2234934",
+      "nombre": "SPARTAN - C27J-PI",
+      "fuente": "RO",
+      "pim": 240000000,
+      "dev": 0,
+      "meses": {
+        "ene": 0,
+        "feb": 0,
+        "mar": 0,
+        "abr": 0,
+        "may": 240000000,
+        "jun": 0,
+        "jul": 0,
+        "ago": 0,
+        "set": 0,
+        "oct": 0,
+        "nov": 0,
+        "dic": 0
+      }
+    },
+    {
+      "cui": "2313734",
+      "nombre": "RADAR 3D-PI",
+      "fuente": "ROOC",
+      "pim": 150000000,
+      "dev": 0,
+      "meses": {
+        "ene": 0,
+        "feb": 0,
+        "mar": 0,
+        "abr": 0,
+        "may": 0,
+        "jun": 0,
+        "jul": 150000000,
+        "ago": 0,
+        "set": 0,
+        "oct": 0,
+        "nov": 0,
+        "dic": 0
+      }
+    },
+    {
+      "cui": "2163489",
+      "nombre": "HANGARES EFOPI-PI",
+      "fuente": "RO",
+      "pim": 14022612,
+      "dev": 0,
+      "meses": {
+        "ene": 0,
+        "feb": 0,
+        "mar": 0,
+        "abr": 0,
+        "may": 0,
+        "jun": 0,
+        "jul": 0,
+        "ago": 0,
+        "set": 8000000,
+        "oct": 0,
+        "nov": 0,
+        "dic": 6022612
+      }
+    },
+    {
+      "cui": "2598085",
+      "nombre": "CRIPTOLÓGICO-IOARR",
+      "fuente": "RO",
+      "pim": 5240386,
+      "dev": 0,
+      "meses": {
+        "ene": 0,
+        "feb": 0,
+        "mar": 0,
+        "abr": 0,
+        "may": 0,
+        "jun": 0,
+        "jul": 0,
+        "ago": 0,
+        "set": 5240386,
+        "oct": 0,
+        "nov": 0,
+        "dic": 0
+      }
+    },
+    {
+      "cui": "2652526",
+      "nombre": "REPOSICIÓN DATA CENTER-IOARR",
+      "fuente": "RO",
+      "pim": 5135151,
+      "dev": 0,
+      "meses": {
+        "ene": 0,
+        "feb": 0,
+        "mar": 0,
+        "abr": 0,
+        "may": 0,
+        "jun": 0,
+        "jul": 5135151,
+        "ago": 0,
+        "set": 0,
+        "oct": 0,
+        "nov": 0,
+        "dic": 0
+      }
+    },
+    {
+      "cui": "2662544",
+      "nombre": "HELIBALDES-IOARR",
+      "fuente": "RO",
+      "pim": 3673283,
+      "dev": 0,
+      "meses": {
+        "ene": 0,
+        "feb": 0,
+        "mar": 0,
+        "abr": 0,
+        "may": 0,
+        "jun": 0,
+        "jul": 0,
+        "ago": 3673283,
+        "set": 0,
+        "oct": 0,
+        "nov": 0,
+        "dic": 0
+      }
+    },
+    {
+      "cui": "2644770",
+      "nombre": "LUCES DE BALIZAJES-IOARR",
+      "fuente": "RO",
+      "pim": 3181162,
+      "dev": 0,
+      "meses": {
+        "ene": 0,
+        "feb": 0,
+        "mar": 0,
+        "abr": 0,
+        "may": 0,
+        "jun": 0,
+        "jul": 0,
+        "ago": 3181162,
+        "set": 0,
+        "oct": 0,
+        "nov": 0,
+        "dic": 0
+      }
+    },
+    {
+      "cui": "2676804",
+      "nombre": "ADQUIS. HARDWARE E IMPRESORAS-IOARR",
+      "fuente": "RO",
+      "pim": 2904671,
+      "dev": 1557538,
+      "meses": {
+        "ene": 0,
+        "feb": 0,
+        "mar": 0,
+        "abr": 1347133,
+        "may": 0,
+        "jun": 0,
+        "jul": 0,
+        "ago": 0,
+        "set": 0,
+        "oct": 0,
+        "nov": 0,
+        "dic": 0
+      }
+    },
+    {
+      "cui": "2494066",
+      "nombre": "PARACAIDAS-IOARR",
+      "fuente": "RO",
+      "pim": 1975832,
+      "dev": 0,
+      "meses": {
+        "ene": 0,
+        "feb": 0,
+        "mar": 0,
+        "abr": 0,
+        "may": 0,
+        "jun": 0,
+        "jul": 1975832,
+        "ago": 0,
+        "set": 0,
+        "oct": 0,
+        "nov": 0,
+        "dic": 0
+      }
+    },
+    {
+      "cui": "2481370",
+      "nombre": "SIST. COMUNICACIÓN SATELITAL-PI",
+      "fuente": "RO",
+      "pim": 1390640,
+      "dev": 0,
+      "meses": {
+        "ene": 0,
+        "feb": 0,
+        "mar": 0,
+        "abr": 0,
+        "may": 0,
+        "jun": 0,
+        "jul": 1390640,
+        "ago": 0,
+        "set": 0,
+        "oct": 0,
+        "nov": 0,
+        "dic": 0
+      }
+    },
+    {
+      "cui": "2674913",
+      "nombre": "CERCO PERIMÉTRICO - ESSEL-IOARR",
+      "fuente": "RO",
+      "pim": 964546,
+      "dev": 0,
+      "meses": {
+        "ene": 0,
+        "feb": 0,
+        "mar": 0,
+        "abr": 0,
+        "may": 0,
+        "jun": 0,
+        "jul": 0,
+        "ago": 0,
+        "set": 0,
+        "oct": 0,
+        "nov": 964546,
+        "dic": 0
+      }
+    },
+    {
+      "cui": "2641956",
+      "nombre": "AERONAVES ACROBÁTICAS-PI",
+      "fuente": "RO",
+      "pim": 598351,
+      "dev": 0,
+      "meses": {
+        "ene": 0,
+        "feb": 0,
+        "mar": 0,
+        "abr": 0,
+        "may": 0,
+        "jun": 0,
+        "jul": 0,
+        "ago": 0,
+        "set": 0,
+        "oct": 0,
+        "nov": 0,
+        "dic": 598351
+      }
+    },
+    {
+      "cui": "2576672",
+      "nombre": "SALA DE USOS MÚLTIPLES - ESFAP-IOARR",
+      "fuente": "RO",
+      "pim": 245627,
+      "dev": 0,
+      "meses": {
+        "ene": 0,
+        "feb": 0,
+        "mar": 0,
+        "abr": 0,
+        "may": 245627,
+        "jun": 0,
+        "jul": 0,
+        "ago": 0,
+        "set": 0,
+        "oct": 0,
+        "nov": 0,
+        "dic": 0
+      }
+    },
+    {
+      "cui": "2492600",
+      "nombre": "VEHÍCULOS - SETRA-IOARR",
+      "fuente": "RO",
+      "pim": 146425,
+      "dev": 0,
+      "meses": {
+        "ene": 0,
+        "feb": 0,
+        "mar": 0,
+        "abr": 0,
+        "may": 0,
+        "jun": 0,
+        "jul": 0,
+        "ago": 0,
+        "set": 0,
+        "oct": 0,
+        "nov": 146425,
+        "dic": 0
+      }
+    }
+  ],
   "snpmgi_v1_2492600": {
     "metaFisica": "Se reorientará en su totalidad el PIM de la Inversión",
     "devengadoLabel": "",
@@ -593,10 +910,10 @@
       "subtitulo": ""
     }
   },
-  "snpmgi_v1_2652526": {
-    "metaFisica": "Adquisición de Sistemas Antidenegación DDOS y solución Firewall ",
+  "snpmgi_v1_2644770": {
+    "metaFisica": "Adquisición de Sistema Móvil de Luces de Balizaje ",
     "devengadoLabel": "",
-    "comentarios": "UNIDAD EJECUTORA DE INVERSIONES (UEI)\tDIRECCION DE TELEMATICA FAP",
+    "comentarios": "UNIDAD EJECUTORA DE INVERSIONES (UEI)\tDIRECCIÓN DE LOGISTICA FAP",
     "pasos": [
       {
         "etapa": "ACTOS PREPARATORIOS",
@@ -660,10 +977,10 @@
       "subtitulo": ""
     }
   },
-  "snpmgi_v1_2644770": {
-    "metaFisica": "Adquisición de Sistema Móvil de Luces de Balizaje ",
+  "snpmgi_v1_2652526": {
+    "metaFisica": "Adquisición de Sistemas Antidenegación DDOS y solución Firewall ",
     "devengadoLabel": "",
-    "comentarios": "UNIDAD EJECUTORA DE INVERSIONES (UEI)\tDIRECCIÓN DE LOGISTICA FAP",
+    "comentarios": "UNIDAD EJECUTORA DE INVERSIONES (UEI)\tDIRECCION DE TELEMATICA FAP",
     "pasos": [
       {
         "etapa": "ACTOS PREPARATORIOS",
@@ -861,6 +1178,16 @@
       "subtitulo": ""
     }
   },
+  "snpmgi_arch_2234934": [
+    {
+      "tipo": "drive",
+      "nombre": "C.E. SPARTAN AL 24.03.2026",
+      "servicio": "Google Drive",
+      "icono": "🔵",
+      "link": "https://drive.google.com/file/d/1wFOSLc8OH3qr9c1YGVPgrLpOCN-aGfKV/view",
+      "fecha": "24/3/2026"
+    }
+  ],
   "snpmgi_v1_2163489": {
     "metaFisica": "El importe de S/14,022,612",
     "devengadoLabel": "",
