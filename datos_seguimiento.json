@@ -130,6 +130,10 @@
         "actividades": [
           {
             "desc": "Estudio de mercado",
+            "fechaPrevista": "06/04/2026"
+          },
+          {
+            "desc": "",
             "fechaPrevista": ""
           }
         ]
