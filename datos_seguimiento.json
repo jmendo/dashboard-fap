@@ -77,6 +77,10 @@
           {
             "desc": "Devengado",
             "fechaPrevista": "31/07/2026"
+          },
+          {
+            "desc": "Internamiento",
+            "fechaPrevista": ""
           }
         ]
       },
