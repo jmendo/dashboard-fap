@@ -73,6 +73,10 @@
           {
             "desc": "Suscripción de contrato (SELEC)",
             "fechaPrevista": "22/05/2026"
+          },
+          {
+            "desc": "Devengado",
+            "fechaPrevista": ""
           }
         ]
       },
