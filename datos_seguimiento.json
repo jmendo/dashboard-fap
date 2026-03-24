@@ -89,7 +89,7 @@
       {
         "etapa": "ACTOS PREP.",
         "mes": "MARZO",
-        "status": "done",
+        "status": "pending",
         "actividades": [
           {
             "desc": "Actos preparatorios FAP / MINDEF",
