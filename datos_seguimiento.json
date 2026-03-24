@@ -183,17 +183,6 @@
             "fechaPrevista": "01/12/2027"
           }
         ]
-      },
-      {
-        "etapa": "DEVENGADO",
-        "mes": "",
-        "status": "pending",
-        "actividades": [
-          {
-            "desc": "Pago / Devengado",
-            "fechaPrevista": ""
-          }
-        ]
       }
     ],
     "resultado": {
