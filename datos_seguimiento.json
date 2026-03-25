@@ -550,6 +550,16 @@
       "subtitulo": ""
     }
   },
+  "snpmgi_arch_2313734": [
+    {
+      "tipo": "drive",
+      "nombre": "Cronograma de ejecución Radar 3D al 24.03.26",
+      "servicio": "Google Drive",
+      "icono": "🔵",
+      "link": "https://drive.google.com/file/d/1AddkCtqkOGk1PbLmAHn22UNk7BuRHzlx/view",
+      "fecha": "24/3/2026"
+    }
+  ],
   "snpmgi_v1_2313734": {
     "metaFisica": "Adquisición de 01 Radar 3D ",
     "devengadoLabel": "",
@@ -709,16 +719,6 @@
       "subtitulo": ""
     }
   },
-  "snpmgi_arch_2313734": [
-    {
-      "tipo": "drive",
-      "nombre": "Cronograma de ejecución Radar 3D al 24.03.26",
-      "servicio": "Google Drive",
-      "icono": "🔵",
-      "link": "https://drive.google.com/file/d/1AddkCtqkOGk1PbLmAHn22UNk7BuRHzlx/view",
-      "fecha": "24/3/2026"
-    }
-  ],
   "snpmgi_v1_2676804": {
     "metaFisica": "Adquisición de 190 PC, 291 Impresoras y 182 Laptops ",
     "devengadoLabel": "",
@@ -990,6 +990,83 @@
   "snpmgi_v1_2652526": {
     "metaFisica": "Adquisición de Sistemas Antidenegación DDOS y solución Firewall ",
     "devengadoLabel": "",
+    "comentarios": "UNIDAD EJECUTORA DE INVERSIONES (UEI)\tDIRECCION DE TELEMATICA FAP\n",
+    "pasos": [
+      {
+        "etapa": "ACTOS PREPARATORIOS",
+        "mes": "",
+        "status": "pending",
+        "actividades": [
+          {
+            "desc": "Actos preparatorios / Certificación",
+            "fechaPrevista": ""
+          }
+        ]
+      },
+      {
+        "etapa": "PROCEDIMIENTO DE SELECCIÓN",
+        "mes": "",
+        "status": "pending",
+        "actividades": [
+          {
+            "desc": "Convocatoria / Selección de proveedor",
+            "fechaPrevista": ""
+          }
+        ]
+      },
+      {
+        "etapa": "CONTRATO",
+        "mes": "",
+        "status": "pending",
+        "actividades": [
+          {
+            "desc": "Firma de contrato / Buena pro",
+            "fechaPrevista": ""
+          }
+        ]
+      },
+      {
+        "etapa": "EJECUCIÓN",
+        "mes": "",
+        "status": "pending",
+        "actividades": [
+          {
+            "desc": "Ejecución y recepción",
+            "fechaPrevista": ""
+          }
+        ]
+      },
+      {
+        "etapa": "DEVENGADO",
+        "mes": "",
+        "status": "pending",
+        "actividades": [
+          {
+            "desc": "Pago / Devengado",
+            "fechaPrevista": ""
+          }
+        ]
+      }
+    ],
+    "resultado": {
+      "icono": "📋",
+      "titulo": "Meta AF-2026",
+      "subtitulo": ""
+    }
+  },
+  "snpmgi_arch_2234934": [
+    {
+      "tipo": "drive",
+      "nombre": "Cronograma ejecución C27J al 24.03.26",
+      "servicio": "Google Drive",
+      "icono": "🔵",
+      "link": "https://drive.google.com/file/d/1wFOSLc8OH3qr9c1YGVPgrLpOCN-aGfKV/view",
+      "fecha": "24/3/2026"
+    }
+  ],
+  "snpmgi_v1_2481370": {
+    "metaFisica": "Adquisición de equipo Manpack (02) ",
+    "devengadoLabel": "",
     "comentarios": "UNIDAD EJECUTORA DE INVERSIONES (UEI)\tDIRECCION DE TELEMATICA FAP",
     "pasos": [
       {
@@ -1121,83 +1198,6 @@
       "subtitulo": ""
     }
   },
-  "snpmgi_v1_2481370": {
-    "metaFisica": "Adquisición de equipo Manpack (02) ",
-    "devengadoLabel": "",
-    "comentarios": "UNIDAD EJECUTORA DE INVERSIONES (UEI)\tDIRECCION DE TELEMATICA FAP",
-    "pasos": [
-      {
-        "etapa": "ACTOS PREPARATORIOS",
-        "mes": "",
-        "status": "pending",
-        "actividades": [
-          {
-            "desc": "Actos preparatorios / Certificación",
-            "fechaPrevista": ""
-          }
-        ]
-      },
-      {
-        "etapa": "PROCEDIMIENTO DE SELECCIÓN",
-        "mes": "",
-        "status": "pending",
-        "actividades": [
-          {
-            "desc": "Convocatoria / Selección de proveedor",
-            "fechaPrevista": ""
-          }
-        ]
-      },
-      {
-        "etapa": "CONTRATO",
-        "mes": "",
-        "status": "pending",
-        "actividades": [
-          {
-            "desc": "Firma de contrato / Buena pro",
-            "fechaPrevista": ""
-          }
-        ]
-      },
-      {
-        "etapa": "EJECUCIÓN",
-        "mes": "",
-        "status": "pending",
-        "actividades": [
-          {
-            "desc": "Ejecución y recepción",
-            "fechaPrevista": ""
-          }
-        ]
-      },
-      {
-        "etapa": "DEVENGADO",
-        "mes": "",
-        "status": "pending",
-        "actividades": [
-          {
-            "desc": "Pago / Devengado",
-            "fechaPrevista": ""
-          }
-        ]
-      }
-    ],
-    "resultado": {
-      "icono": "📋",
-      "titulo": "Meta AF-2026",
-      "subtitulo": ""
-    }
-  },
-  "snpmgi_arch_2234934": [
-    {
-      "tipo": "drive",
-      "nombre": "Cronograma ejecución C27J al 24.03.26",
-      "servicio": "Google Drive",
-      "icono": "🔵",
-      "link": "https://drive.google.com/file/d/1wFOSLc8OH3qr9c1YGVPgrLpOCN-aGfKV/view",
-      "fecha": "24/3/2026"
-    }
-  ],
   "snpmgi_v1_2163489": {
     "metaFisica": "El importe de S/14,022,612",
     "devengadoLabel": "",
