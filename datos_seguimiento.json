@@ -550,16 +550,7 @@
       "subtitulo": ""
     }
   },
-  "snpmgi_arch_2313734": [
-    {
-      "tipo": "drive",
-      "nombre": "Cronograma de ejecución Radar 3D al 24.03.26",
-      "servicio": "Google Drive",
-      "icono": "🔵",
-      "link": "https://drive.google.com/file/d/1AddkCtqkOGk1PbLmAHn22UNk7BuRHzlx/view",
-      "fecha": "24/3/2026"
-    }
-  ],
+  "snpmgi_arch_2313734": [],
   "snpmgi_v1_2313734": {
     "metaFisica": "Adquisición de 01 Radar 3D ",
     "devengadoLabel": "",
