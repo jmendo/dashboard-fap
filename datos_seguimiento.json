@@ -564,93 +564,45 @@
     "metaFisica": "Adquisición de 01 Radar 3D ",
     "devengadoLabel": "",
     "comentarios": "UNIDAD EJECUTORA DE INVERSIONES (UEI)\tCOMANDO DE OPERACIONES FAP (COMOP)\nA la espera del sustento de la FAP  como sistema de armas, en el AF- 2025 salió como competitivo secreto.\nA la espera de la Resolución como sistema de armas \n",
-    "pasos": [
-      {
-        "etapa": "ACTOS PREP.",
-        "mes": "febrero",
-        "status": "done",
-        "actividades": [
-          {
-            "desc": "Informes y Aprobación de Modalidad\n",
-            "fechaPrevista": ""
-          },
-          {
-            "desc": "Inclusión en lista  de Secreto Militar\n",
-            "fechaPrevista": ""
-          },
-          {
-            "desc": "Remisión del Expediente al MINDEF\n",
-            "fechaPrevista": ""
-          }
-        ]
-      },
-      {
-        "etapa": "actos prep.",
-        "mes": "marzo",
-        "status": "done",
-        "actividades": [
-          {
-            "desc": "Publicación del Decreto Supremo.",
-            "fechaPrevista": ""
-          },
-          {
-            "desc": "Solicitud de Opinión favorable a CGR.",
-            "fechaPrevista": ""
-          },
-          {
-            "desc": "Remisión de expediente de inicio a la ACFFAA",
-            "fechaPrevista": ""
-          }
-        ]
-      },
-      {
-        "etapa": "proc. selecc",
-        "mes": "abril",
-        "status": "pending",
-        "actividades": [
-          {
-            "desc": "Convocatoria",
-            "fechaPrevista": "06/04/2026"
-          },
-          {
-            "desc": "Presentación de ofertas",
-            "fechaPrevista": "14/04/2026"
-          },
-          {
-            "desc": "Evaluación de ofertas",
-            "fechaPrevista": "17/04/2026"
-          },
-          {
-            "desc": "Buena Pro y Consentimiento",
-            "fechaPrevista": "20/04/2026"
-          }
-        ]
-      },
-      {
-        "etapa": "Ejec. contrac.",
-        "mes": "may-jul",
-        "status": "pending",
-        "actividades": [
-          {
-            "desc": "Suscripción de contrato (SELEC)",
-            "fechaPrevista": "22/05/2026"
-          },
-          {
-            "desc": "Devengado",
-            "fechaPrevista": "31/07/2026"
-          },
-          {
-            "desc": "Internamiento del activo (540 D.C.)",
-            "fechaPrevista": ""
-          }
-        ]
-      }
-    ],
     "resultado": {
       "icono": "📋",
       "titulo": "Meta AF-2026",
       "subtitulo": ""
-    }
+    },
+    "gantt": [
+      {
+        "id": "t1",
+        "nombre": "FASE 1 — Actos preparatorios",
+        "fi": "",
+        "ff": "",
+        "resp": "",
+        "est": "por_hacer",
+        "com": "",
+        "exp": true,
+        "subs": [
+          {
+            "id": "t1s1",
+            "nombre": "Actividad 1",
+            "fi": "",
+            "ff": "",
+            "resp": "",
+            "est": "por_hacer",
+            "com": ""
+          }
+        ]
+      },
+      {
+        "id": "t2",
+        "nombre": "FASE 2 — Procedimiento de selección",
+        "fi": "",
+        "ff": "",
+        "resp": "",
+        "est": "por_hacer",
+        "com": "",
+        "exp": true,
+        "subs": []
+      }
+    ]
   },
   "snpmgi_v1_2662544": {
     "metaFisica": "Adquisición de diez (10) helibaldes y dos (02) tanques de almacenamiento de agua 54,000 litros c/u",
