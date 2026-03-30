@@ -101,6 +101,17 @@
             "com": ""
           }
         ]
+      },
+      {
+        "id": "t1774911088489",
+        "nombre": "Nueva tarea principal",
+        "fi": "",
+        "ff": "",
+        "resp": "",
+        "est": "por_hacer",
+        "com": "",
+        "exp": true,
+        "subs": []
       }
     ]
   },
