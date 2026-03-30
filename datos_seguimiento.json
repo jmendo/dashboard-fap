@@ -654,6 +654,15 @@
             "resp": "",
             "est": "completado",
             "com": ""
+          },
+          {
+            "id": "s1774906426965",
+            "nombre": "Nueva subtarea",
+            "fi": "",
+            "ff": "",
+            "resp": "",
+            "est": "por_hacer",
+            "com": ""
           }
         ]
       }
