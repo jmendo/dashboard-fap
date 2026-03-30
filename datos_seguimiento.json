@@ -599,6 +599,17 @@
             "com": ""
           }
         ]
+      },
+      {
+        "id": "t1774905858256",
+        "nombre": "Nueva tarea principal",
+        "fi": "",
+        "ff": "",
+        "resp": "",
+        "est": "por_hacer",
+        "com": "",
+        "exp": true,
+        "subs": []
       }
     ]
   },
