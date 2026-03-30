@@ -824,6 +824,15 @@
             "id": "s1774908392627",
             "nombre": "Presentación de ofertas",
             "fi": "2026-05-19",
+            "ff": "2026-06-08",
+            "resp": "",
+            "est": "por_hacer",
+            "com": ""
+          },
+          {
+            "id": "s1774908421779",
+            "nombre": "Nueva subtarea",
+            "fi": "",
             "ff": "",
             "resp": "",
             "est": "por_hacer",
