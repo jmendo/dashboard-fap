@@ -50,17 +50,7 @@
         "est": "por_hacer",
         "com": "",
         "exp": true,
-        "subs": [
-          {
-            "id": "t3s1",
-            "nombre": "Actividad 1",
-            "fi": "",
-            "ff": "",
-            "resp": "",
-            "est": "por_hacer",
-            "com": ""
-          }
-        ]
+        "subs": []
       }
     ]
   },
