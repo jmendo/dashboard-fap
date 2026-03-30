@@ -29,28 +29,6 @@
             "com": ""
           }
         ]
-      },
-      {
-        "id": "t2",
-        "nombre": "FASE 2 — Procedimiento de selección",
-        "fi": "",
-        "ff": "",
-        "resp": "",
-        "est": "por_hacer",
-        "com": "",
-        "exp": true,
-        "subs": []
-      },
-      {
-        "id": "t3",
-        "nombre": "FASE 3 — Ejecución",
-        "fi": "",
-        "ff": "",
-        "resp": "",
-        "est": "por_hacer",
-        "com": "",
-        "exp": true,
-        "subs": []
       }
     ]
   },
