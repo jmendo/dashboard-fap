@@ -150,7 +150,17 @@
         "est": "por_hacer",
         "com": "",
         "exp": true,
-        "subs": []
+        "subs": [
+          {
+            "id": "s1774911400387",
+            "nombre": "Nueva subtarea",
+            "fi": "",
+            "ff": "",
+            "resp": "",
+            "est": "por_hacer",
+            "com": ""
+          }
+        ]
       }
     ]
   },
