@@ -72,6 +72,15 @@
             "resp": "COFAP",
             "est": "completado",
             "com": ""
+          },
+          {
+            "id": "s1774910975641",
+            "nombre": "Nueva subtarea",
+            "fi": "",
+            "ff": "",
+            "resp": "",
+            "est": "por_hacer",
+            "com": ""
           }
         ]
       }
