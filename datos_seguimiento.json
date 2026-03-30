@@ -579,27 +579,6 @@
         "est": "por_hacer",
         "com": "",
         "exp": true,
-        "subs": [
-          {
-            "id": "t1s1",
-            "nombre": "Actividad 1",
-            "fi": "",
-            "ff": "",
-            "resp": "",
-            "est": "por_hacer",
-            "com": ""
-          }
-        ]
-      },
-      {
-        "id": "t2",
-        "nombre": "FASE 2 — Procedimiento de selección",
-        "fi": "",
-        "ff": "",
-        "resp": "",
-        "est": "por_hacer",
-        "com": "",
-        "exp": true,
         "subs": []
       }
     ]
