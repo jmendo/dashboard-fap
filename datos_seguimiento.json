@@ -195,6 +195,15 @@
             "resp": "SEBAT",
             "est": "por_hacer",
             "com": ""
+          },
+          {
+            "id": "s1774911576227",
+            "nombre": "Nueva subtarea",
+            "fi": "",
+            "ff": "",
+            "resp": "",
+            "est": "por_hacer",
+            "com": ""
           }
         ]
       }
