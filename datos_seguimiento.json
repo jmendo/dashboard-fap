@@ -12,12 +12,12 @@
       {
         "id": "t1",
         "nombre": "ACTUACIONES PREPARATORIAS FAP",
-        "fi": "",
-        "ff": "",
+        "fi": "2025-10-17",
+        "ff": "2026-03-23",
         "resp": "",
         "est": "por_hacer",
         "com": "",
-        "exp": true,
+        "exp": false,
         "subs": [
           {
             "id": "t1s1",
@@ -105,12 +105,12 @@
       {
         "id": "t1774911088489",
         "nombre": "ACTUACIONES PREPARATORIAS ACFFAA",
-        "fi": "",
-        "ff": "",
+        "fi": "2026-03-24",
+        "ff": "2026-04-21",
         "resp": "",
         "est": "por_hacer",
         "com": "",
-        "exp": true,
+        "exp": false,
         "subs": [
           {
             "id": "s1774911266914",
@@ -144,12 +144,12 @@
       {
         "id": "t1774911391027",
         "nombre": "EJECUCIÓN CONTRACTUAL",
-        "fi": "",
-        "ff": "",
+        "fi": "2026-04-22",
+        "ff": "2027-12-31",
         "resp": "",
         "est": "por_hacer",
         "com": "",
-        "exp": true,
+        "exp": false,
         "subs": [
           {
             "id": "s1774911400387",
