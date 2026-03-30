@@ -572,7 +572,7 @@
     "gantt": [
       {
         "id": "t1",
-        "nombre": "FASE 1 — Actos preparatorios",
+        "nombre": "Actos preparatorios",
         "fi": "",
         "ff": "",
         "resp": "",
