@@ -1728,88 +1728,75 @@
     "metaFisica": "Adelanto 02 Aeronaves Caza 1er Tramo",
     "devengadoLabel": "Devengado AF-2026: S/ 1,659 millones",
     "comentarios": "UNIDAD EJECUTORA: COMANDO DE OPERACIONES - COMOP\nA la fecha se encuentra, en espera de la Respuesta de Contraloría a las observaciones planteadas.",
-    "pasos": [
-      {
-        "etapa": "ACTOS prep.",
-        "mes": "FEBRERO",
-        "status": "done",
-        "actividades": [
-          {
-            "desc": "Asignación Presupuestal a la OEC.(EMGRA)",
-            "fechaPrevista": "19/02/2026"
-          },
-          {
-            "desc": "Certificación de Reserva (CPP) (EMGRA)",
-            "fechaPrevista": "17/02/2026"
-          }
-        ]
-      },
-      {
-        "etapa": "ACTOS PREP.",
-        "mes": "MAR-abr",
-        "status": "pending",
-        "actividades": [
-          {
-            "desc": "Actos preparatorios FAP / MINDEF",
-            "fechaPrevista": "01/03/2026"
-          },
-          {
-            "desc": "Solicitud demanda adicional S/522,353,365.00 ",
-            "fechaPrevista": "27/02/2026"
-          },
-          {
-            "desc": "Incorporación de recursos S/522,353,365.00 DS 043-2026 EF (17.03.2026) ",
-            "fechaPrevista": "18/03/2026"
-          },
-          {
-            "desc": "Remisión de expediente Inicio a la ACFFAA",
-            "fechaPrevista": "07/04/2026"
-          }
-        ]
-      },
-      {
-        "etapa": "Proc. selecc.",
-        "mes": "ABRIL",
-        "status": "pending",
-        "actividades": [
-          {
-            "desc": "Convocatoria",
-            "fechaPrevista": "08/04/2026"
-          },
-          {
-            "desc": "Presentación de ofertas",
-            "fechaPrevista": "14/04/2026"
-          },
-          {
-            "desc": "Otorgamiento de buena pro",
-            "fechaPrevista": "15/04/2026"
-          },
-          {
-            "desc": "Consentimiento Buena Pro",
-            "fechaPrevista": "15/04/2026"
-          }
-        ]
-      },
-      {
-        "etapa": "ejec. contrac.",
-        "mes": "abril",
-        "status": "pending",
-        "actividades": [
-          {
-            "desc": "Firma de contrato (SINTE)",
-            "fechaPrevista": "27/04/2026"
-          },
-          {
-            "desc": "Pago Adelantado con Carta de Crédito — DIREC ",
-            "fechaPrevista": "30/04/2026"
-          }
-        ]
-      }
-    ],
     "resultado": {
       "icono": "✈️",
       "titulo": "Adelanto pago Aeronaves Caza",
       "subtitulo": "1er Tramo"
-    }
+    },
+    "gantt": [
+      {
+        "id": "t1",
+        "nombre": "APROBACIÓN MODALIDAD SECRETO MILITAR",
+        "fi": "",
+        "ff": "",
+        "resp": "",
+        "est": "por_hacer",
+        "com": "",
+        "exp": true,
+        "subs": [
+          {
+            "id": "t1s1",
+            "nombre": "Actividad 1",
+            "fi": "",
+            "ff": "",
+            "resp": "",
+            "est": "por_hacer",
+            "com": ""
+          }
+        ]
+      },
+      {
+        "id": "t2",
+        "nombre": "FASE 2 — Procedimiento de selección",
+        "fi": "",
+        "ff": "",
+        "resp": "",
+        "est": "por_hacer",
+        "com": "",
+        "exp": true,
+        "subs": [
+          {
+            "id": "t2s1",
+            "nombre": "Actividad 1",
+            "fi": "",
+            "ff": "",
+            "resp": "",
+            "est": "por_hacer",
+            "com": ""
+          }
+        ]
+      },
+      {
+        "id": "t3",
+        "nombre": "FASE 3 — Ejecución",
+        "fi": "",
+        "ff": "",
+        "resp": "",
+        "est": "por_hacer",
+        "com": "",
+        "exp": true,
+        "subs": [
+          {
+            "id": "t3s1",
+            "nombre": "Actividad 1",
+            "fi": "",
+            "ff": "",
+            "resp": "",
+            "est": "por_hacer",
+            "com": ""
+          }
+        ]
+      }
+    ]
   }
 }
