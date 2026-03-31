@@ -395,7 +395,7 @@
       "cui": "2652526",
       "nombre": "REPOSICIÓN DATA CENTER-IOARR",
       "fuente": "RO",
-      "pim": 5135151,
+      "pim": 5.135,
       "dev": 0,
       "meses": {
         "ene": 0,
@@ -416,7 +416,7 @@
       "cui": "2662544",
       "nombre": "HELIBALDES-IOARR",
       "fuente": "RO",
-      "pim": 6,
+      "pim": 6.111241,
       "dev": 0,
       "meses": {
         "ene": 0,
