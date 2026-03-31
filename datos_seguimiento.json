@@ -1860,6 +1860,33 @@
             "resp": "",
             "est": "en_progreso",
             "com": "Con fecha 30.03.2026 , según la ACFFAA la Contraloría volvió a observar el expediente. FAP se encuentra levantando esas observaciones plazo 01.04.2026"
+          },
+          {
+            "id": "s1774994152146",
+            "nombre": "Nueva subtarea",
+            "fi": "",
+            "ff": "",
+            "resp": "",
+            "est": "por_hacer",
+            "com": ""
+          },
+          {
+            "id": "s1774994152586",
+            "nombre": "Nueva subtarea",
+            "fi": "",
+            "ff": "",
+            "resp": "",
+            "est": "por_hacer",
+            "com": ""
+          },
+          {
+            "id": "s1774994153026",
+            "nombre": "Nueva subtarea",
+            "fi": "",
+            "ff": "",
+            "resp": "",
+            "est": "por_hacer",
+            "com": ""
           }
         ]
       },
