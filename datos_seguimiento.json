@@ -1738,7 +1738,7 @@
         "id": "t1",
         "nombre": "APROBACIÓN MODALIDAD SECRETO MILITAR",
         "fi": "2026-03-03",
-        "ff": "2026-03-03",
+        "ff": "2026-03-05",
         "resp": "",
         "est": "por_hacer",
         "com": "",
@@ -1757,7 +1757,7 @@
             "id": "s1774993011769",
             "nombre": "Emisión informes del Comité (determinación modalidad secerto militar y acreditación solución identificada)",
             "fi": "2026-03-04",
-            "ff": "",
+            "ff": "2026-03-05",
             "resp": "",
             "est": "por_hacer",
             "com": ""
