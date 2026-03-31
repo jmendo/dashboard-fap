@@ -1738,7 +1738,7 @@
         "id": "t1",
         "nombre": "APROBACIÓN MODALIDAD SECRETO MILITAR",
         "fi": "2026-03-03",
-        "ff": "2026-03-05",
+        "ff": "2026-03-06",
         "resp": "",
         "est": "por_hacer",
         "com": "",
@@ -1766,7 +1766,7 @@
             "id": "s1774993086123",
             "nombre": "Emisión de Resolución COFAP aprobando modalidad de secreto militar",
             "fi": "2026-03-06",
-            "ff": "",
+            "ff": "2026-03-06",
             "resp": "",
             "est": "por_hacer",
             "com": ""
