@@ -1737,7 +1737,7 @@
       {
         "id": "t1",
         "nombre": "APROBACIÓN MODALIDAD SECRETO MILITAR",
-        "fi": "",
+        "fi": "2026-03-03",
         "ff": "",
         "resp": "",
         "est": "por_hacer",
@@ -1747,7 +1747,7 @@
           {
             "id": "t1s1",
             "nombre": "Nombramiento del Comité Multidisciplinario",
-            "fi": "",
+            "fi": "2026-03-03",
             "ff": "",
             "resp": "",
             "est": "por_hacer",
