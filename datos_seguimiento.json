@@ -416,7 +416,7 @@
       "cui": "2662544",
       "nombre": "HELIBALDES-IOARR",
       "fuente": "RO",
-      "pim": 6.111,
+      "pim": 6,
       "dev": 0,
       "meses": {
         "ene": 0,
@@ -426,7 +426,7 @@
         "may": 0,
         "jun": 0,
         "jul": 0,
-        "ago": 3673283,
+        "ago": 3.673,
         "set": 0,
         "oct": 0,
         "nov": 0,
