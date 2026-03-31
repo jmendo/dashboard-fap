@@ -695,9 +695,9 @@
         "fi": "2026-01-23",
         "ff": "2026-03-04",
         "resp": "",
-        "est": "por_hacer",
+        "est": "completado",
         "com": "",
-        "exp": true,
+        "exp": false,
         "subs": [
           {
             "id": "s1774905718814",
