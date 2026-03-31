@@ -1653,68 +1653,76 @@
     "metaFisica": "Adquisición de 01 Generador Portátil y 01 Tractor Remolque ",
     "devengadoLabel": "",
     "comentarios": "UNIDAD EJECUTORA DE INVERSIONES (UEI)\tCOMANDO DE OPERACIONES FAP (COMOP)\nLo organiza el SETra, \nEn elaboración de Estudio mercado\nConvocatoria para la segunda semana de Abril.",
-    "pasos": [
-      {
-        "etapa": "ACTOS PREPARATORIOS",
-        "mes": "",
-        "status": "pending",
-        "actividades": [
-          {
-            "desc": "Actos preparatorios / Certificación",
-            "fechaPrevista": ""
-          }
-        ]
-      },
-      {
-        "etapa": "PROCEDIMIENTO DE SELECCIÓN",
-        "mes": "",
-        "status": "pending",
-        "actividades": [
-          {
-            "desc": "Convocatoria / Selección de proveedor",
-            "fechaPrevista": ""
-          }
-        ]
-      },
-      {
-        "etapa": "CONTRATO",
-        "mes": "",
-        "status": "pending",
-        "actividades": [
-          {
-            "desc": "Firma de contrato / Buena pro",
-            "fechaPrevista": ""
-          }
-        ]
-      },
-      {
-        "etapa": "EJECUCIÓN",
-        "mes": "",
-        "status": "pending",
-        "actividades": [
-          {
-            "desc": "Ejecución y recepción",
-            "fechaPrevista": ""
-          }
-        ]
-      },
-      {
-        "etapa": "DEVENGADO",
-        "mes": "",
-        "status": "pending",
-        "actividades": [
-          {
-            "desc": "Pago / Devengado",
-            "fechaPrevista": ""
-          }
-        ]
-      }
-    ],
     "resultado": {
       "icono": "📋",
       "titulo": "Meta AF-2026",
       "subtitulo": ""
-    }
+    },
+    "gantt": [
+      {
+        "id": "t1",
+        "nombre": "FASE 1 — Actos preparatorios",
+        "fi": "",
+        "ff": "",
+        "resp": "",
+        "est": "por_hacer",
+        "com": "",
+        "exp": false,
+        "subs": [
+          {
+            "id": "t1s1",
+            "nombre": "Actividad 1",
+            "fi": "",
+            "ff": "",
+            "resp": "",
+            "est": "por_hacer",
+            "com": ""
+          }
+        ]
+      },
+      {
+        "id": "t2",
+        "nombre": "FASE 2 — Procedimiento de selección",
+        "fi": "",
+        "ff": "",
+        "resp": "",
+        "est": "por_hacer",
+        "com": "",
+        "exp": false,
+        "subs": [
+          {
+            "id": "t2s1",
+            "nombre": "Actividad 1",
+            "fi": "",
+            "ff": "",
+            "resp": "",
+            "est": "por_hacer",
+            "com": ""
+          }
+        ]
+      },
+      {
+        "id": "t3",
+        "nombre": "FASE 3 — Ejecución",
+        "fi": "",
+        "ff": "",
+        "resp": "",
+        "est": "por_hacer",
+        "com": "",
+        "exp": false,
+        "subs": [
+          {
+            "id": "t3s1",
+            "nombre": "Actividad 1",
+            "fi": "",
+            "ff": "",
+            "resp": "",
+            "est": "por_hacer",
+            "com": ""
+          }
+        ]
+      }
+    ]
   },
   "snpmgi_v1_2573425": {
     "metaFisica": "Adelanto 02 Aeronaves Caza 1er Tramo",
