@@ -1738,7 +1738,7 @@
         "id": "t1",
         "nombre": "APROBACIÓN MODALIDAD SECRETO MILITAR",
         "fi": "2026-03-03",
-        "ff": "2026-03-13",
+        "ff": "2026-03-16",
         "resp": "",
         "est": "por_hacer",
         "com": "",
@@ -1820,9 +1820,9 @@
             "id": "s1774993668111",
             "nombre": "Remisión de expediente a MINDEF para emisión de DS",
             "fi": "2026-03-16",
-            "ff": "",
+            "ff": "2026-03-16",
             "resp": "",
-            "est": "por_hacer",
+            "est": "completado",
             "com": ""
           },
           {
