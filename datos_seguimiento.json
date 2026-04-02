@@ -521,7 +521,7 @@
       "cui": "2674913",
       "nombre": "CERCO PERIMÉTRICO - ESSEL-IOARR",
       "fuente": "RO",
-      "pim": 1538,
+      "pim": 1.538304,
       "dev": 0,
       "meses": {
         "ene": 0,
@@ -534,7 +534,7 @@
         "ago": 0,
         "set": 0,
         "oct": 0,
-        "nov": 1.538,
+        "nov": 2,
         "dic": 0
       }
     },
