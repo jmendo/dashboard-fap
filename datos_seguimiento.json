@@ -1618,71 +1618,79 @@
     }
   },
   "snpmgi_v1_2163489": {
-    "metaFisica": "El importe de S/14,022,612 se reorientara a otras inversiones.",
+    "metaFisica": "El PIM se reorientara a otras inversiones.",
     "devengadoLabel": "",
     "comentarios": "UNIDAD EJECUTORA DE INVERSIONES (UEI)\tDIRECCIÓN DE LOGISTICA FAP- SEING\nEl PIM por el importe de S/14,022,612 en el AF-2026, se va reorientar a otras inversiones de rápida ejecución. En el 2026 el contratista se quedó sin respaldo financiero por ello la obra está en controversia por la construcción de los Hangares 3 y 4 en Pisco.\nYa se emitió la liquidación del supervisor se emitió observaciones a la espera del levantamiento de observaciones. ",
-    "pasos": [
-      {
-        "etapa": "ACTOS PREPARATORIOS",
-        "mes": "",
-        "status": "pending",
-        "actividades": [
-          {
-            "desc": "Actos preparatorios / Certificación",
-            "fechaPrevista": ""
-          }
-        ]
-      },
-      {
-        "etapa": "PROCEDIMIENTO DE SELECCIÓN",
-        "mes": "",
-        "status": "pending",
-        "actividades": [
-          {
-            "desc": "Convocatoria / Selección de proveedor",
-            "fechaPrevista": ""
-          }
-        ]
-      },
-      {
-        "etapa": "CONTRATO",
-        "mes": "",
-        "status": "pending",
-        "actividades": [
-          {
-            "desc": "Firma de contrato / Buena pro",
-            "fechaPrevista": ""
-          }
-        ]
-      },
-      {
-        "etapa": "EJECUCIÓN",
-        "mes": "",
-        "status": "pending",
-        "actividades": [
-          {
-            "desc": "Ejecución y recepción",
-            "fechaPrevista": ""
-          }
-        ]
-      },
-      {
-        "etapa": "DEVENGADO",
-        "mes": "",
-        "status": "pending",
-        "actividades": [
-          {
-            "desc": "Pago / Devengado",
-            "fechaPrevista": ""
-          }
-        ]
-      }
-    ],
     "resultado": {
       "icono": "📋",
       "titulo": "Meta AF-2026",
       "subtitulo": ""
-    }
+    },
+    "gantt": [
+      {
+        "id": "t1",
+        "nombre": "FASE 1 — Actos preparatorios",
+        "fi": "",
+        "ff": "",
+        "resp": "",
+        "est": "por_hacer",
+        "com": "",
+        "exp": true,
+        "subs": [
+          {
+            "id": "t1s1",
+            "nombre": "Actividad 1",
+            "fi": "",
+            "ff": "",
+            "resp": "",
+            "est": "por_hacer",
+            "com": ""
+          }
+        ]
+      },
+      {
+        "id": "t2",
+        "nombre": "FASE 2 — Procedimiento de selección",
+        "fi": "",
+        "ff": "",
+        "resp": "",
+        "est": "por_hacer",
+        "com": "",
+        "exp": true,
+        "subs": [
+          {
+            "id": "t2s1",
+            "nombre": "Actividad 1",
+            "fi": "",
+            "ff": "",
+            "resp": "",
+            "est": "por_hacer",
+            "com": ""
+          }
+        ]
+      },
+      {
+        "id": "t3",
+        "nombre": "FASE 3 — Ejecución",
+        "fi": "",
+        "ff": "",
+        "resp": "",
+        "est": "por_hacer",
+        "com": "",
+        "exp": true,
+        "subs": [
+          {
+            "id": "t3s1",
+            "nombre": "Actividad 1",
+            "fi": "",
+            "ff": "",
+            "resp": "",
+            "est": "por_hacer",
+            "com": ""
+          }
+        ]
+      }
+    ]
   },
   "snpmgi_v1_2641956": {
     "metaFisica": "Adquisición de 01 Generador Portátil y 01 Tractor Remolque ",
