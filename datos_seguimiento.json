@@ -106,7 +106,7 @@
         "id": "t1774911088489",
         "nombre": "ACTUACIONES PREPARATORIAS ACFFAA",
         "fi": "2026-03-24",
-        "ff": "2026-04-16",
+        "ff": "2026-04-17",
         "resp": "",
         "est": "por_hacer",
         "com": "",
@@ -160,8 +160,8 @@
           {
             "id": "s1775580403288",
             "nombre": "Otorgamiento de la Buena Pro",
-            "fi": "",
-            "ff": "",
+            "fi": "2026-04-17",
+            "ff": "2026-04-17",
             "resp": "",
             "est": "por_hacer",
             "com": ""
