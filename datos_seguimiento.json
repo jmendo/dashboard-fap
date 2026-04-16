@@ -1226,68 +1226,66 @@
     "metaFisica": "Adquisición de 01 servidor tipo rack y 26 licencias ",
     "devengadoLabel": "",
     "comentarios": "UNIDAD EJECUTORA DE INVERSIONES (UEI)\tDIRECCION DE TELEMATICA FAP\nEstudio de Mercado en la ACFFAA.\nDivido en tres fases, En la Fase 2\nMismo proveedor de la Fase 1 dev 15.06.26\n",
-    "pasos": [
-      {
-        "etapa": "ACTOS PREPARATORIOS",
-        "mes": "",
-        "status": "pending",
-        "actividades": [
-          {
-            "desc": "Actos preparatorios / Certificación",
-            "fechaPrevista": ""
-          }
-        ]
-      },
-      {
-        "etapa": "PROCEDIMIENTO DE SELECCIÓN",
-        "mes": "",
-        "status": "pending",
-        "actividades": [
-          {
-            "desc": "Convocatoria / Selección de proveedor",
-            "fechaPrevista": ""
-          }
-        ]
-      },
-      {
-        "etapa": "CONTRATO",
-        "mes": "",
-        "status": "pending",
-        "actividades": [
-          {
-            "desc": "Firma de contrato / Buena pro",
-            "fechaPrevista": ""
-          }
-        ]
-      },
-      {
-        "etapa": "EJECUCIÓN",
-        "mes": "",
-        "status": "pending",
-        "actividades": [
-          {
-            "desc": "Ejecución y recepción",
-            "fechaPrevista": ""
-          }
-        ]
-      },
-      {
-        "etapa": "DEVENGADO",
-        "mes": "",
-        "status": "pending",
-        "actividades": [
-          {
-            "desc": "Pago / Devengado",
-            "fechaPrevista": ""
-          }
-        ]
-      }
-    ],
     "resultado": {
       "icono": "📋",
       "titulo": "Meta AF-2026",
       "subtitulo": ""
-    }
+    },
+    "gantt": [
+      {
+        "id": "t1",
+        "nombre": "FASE 1 — Actos preparatorios",
+        "fi": "",
+        "ff": "",
+        "resp": "",
+        "est": "por_hacer",
+        "com": "",
+        "exp": true,
+        "subs": []
+      },
+      {
+        "id": "t2",
+        "nombre": "FASE 2 — Procedimiento de selección",
+        "fi": "",
+        "ff": "",
+        "resp": "",
+        "est": "por_hacer",
+        "com": "",
+        "exp": true,
+        "subs": [
+          {
+            "id": "t2s1",
+            "nombre": "Actividad 1",
+            "fi": "",
+            "ff": "",
+            "resp": "",
+            "est": "por_hacer",
+            "com": ""
+          }
+        ]
+      },
+      {
+        "id": "t3",
+        "nombre": "FASE 3 — Ejecución",
+        "fi": "",
+        "ff": "",
+        "resp": "",
+        "est": "por_hacer",
+        "com": "",
+        "exp": true,
+        "subs": [
+          {
+            "id": "t3s1",
+            "nombre": "Actividad 1",
+            "fi": "",
+            "ff": "",
+            "resp": "",
+            "est": "por_hacer",
+            "com": ""
+          }
+        ]
+      }
+    ]
   },
   "snpmgi_v1_2674913": {
     "metaFisica": "Construcción de Ambiente Administrativo y cerco perimétrico – ESSEL ",
