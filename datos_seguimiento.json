@@ -1247,7 +1247,7 @@
         "id": "t2",
         "nombre": "FASE Procedimiento de selección",
         "fi": "2026-03-31",
-        "ff": "2026-03-31",
+        "ff": "2026-04-01",
         "resp": "",
         "est": "por_hacer",
         "com": "",
@@ -1266,7 +1266,7 @@
             "id": "s1776374387099",
             "nombre": "Registro de participantes",
             "fi": "2026-04-01",
-            "ff": "",
+            "ff": "2026-04-01",
             "resp": "",
             "est": "por_hacer",
             "com": ""
