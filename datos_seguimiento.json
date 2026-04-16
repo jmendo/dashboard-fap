@@ -1279,6 +1279,15 @@
             "resp": "",
             "est": "en_progreso",
             "com": ""
+          },
+          {
+            "id": "s1776374446924",
+            "nombre": "Nueva subtarea",
+            "fi": "",
+            "ff": "",
+            "resp": "",
+            "est": "por_hacer",
+            "com": ""
           }
         ]
       },
