@@ -1198,7 +1198,7 @@
         "resp": "",
         "est": "completado",
         "com": "",
-        "exp": false,
+        "exp": true,
         "subs": [
           {
             "id": "t3s1",
