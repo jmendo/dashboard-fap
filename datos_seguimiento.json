@@ -2026,7 +2026,7 @@
       {
         "id": "t3",
         "nombre": "FASE 3 — Ejecución Contractual Tramo 1",
-        "fi": "2026-04-28",
+        "fi": "2026-04-17",
         "ff": "2026-07-01",
         "resp": "",
         "est": "por_hacer",
@@ -2036,7 +2036,7 @@
           {
             "id": "t3s1",
             "nombre": "Perfeccionamiento y Suscripción del contrato ",
-            "fi": "2026-04-28",
+            "fi": "2026-04-17",
             "ff": "2026-05-12",
             "resp": "",
             "est": "por_hacer",
