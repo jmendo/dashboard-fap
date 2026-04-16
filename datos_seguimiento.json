@@ -1247,7 +1247,7 @@
         "id": "t2",
         "nombre": "FASE Procedimiento de selección",
         "fi": "2026-03-31",
-        "ff": "",
+        "ff": "2026-03-31",
         "resp": "",
         "est": "por_hacer",
         "com": "",
@@ -1257,7 +1257,7 @@
             "id": "t2s1",
             "nombre": "Convocatoria",
             "fi": "2026-03-31",
-            "ff": "",
+            "ff": "2026-03-31",
             "resp": "",
             "est": "por_hacer",
             "com": ""
