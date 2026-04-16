@@ -1295,7 +1295,7 @@
         "id": "t3",
         "nombre": "FASE Ejecución Contractual",
         "fi": "2026-04-22",
-        "ff": "",
+        "ff": "2026-05-05",
         "resp": "",
         "est": "por_hacer",
         "com": "",
@@ -1305,7 +1305,7 @@
             "id": "t3s1",
             "nombre": "Suscripción de contrato",
             "fi": "2026-04-22",
-            "ff": "",
+            "ff": "2026-05-05",
             "resp": "",
             "est": "por_hacer",
             "com": ""
