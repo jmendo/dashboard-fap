@@ -1194,7 +1194,7 @@
         "id": "t3",
         "nombre": "FASE 3 — Ejecución Contractual",
         "fi": "2026-04-10",
-        "ff": "",
+        "ff": "2026-04-10",
         "resp": "",
         "est": "por_hacer",
         "com": "",
@@ -1204,9 +1204,9 @@
             "id": "t3s1",
             "nombre": "Devengado",
             "fi": "2026-04-10",
-            "ff": "",
+            "ff": "2026-04-10",
             "resp": "",
-            "est": "por_hacer",
+            "est": "en_progreso",
             "com": ""
           }
         ]
