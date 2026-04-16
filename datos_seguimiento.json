@@ -1208,6 +1208,15 @@
             "resp": "",
             "est": "completado",
             "com": "Ejecutado al 100 %"
+          },
+          {
+            "id": "s1776371881869",
+            "nombre": "Nueva subtarea",
+            "fi": "",
+            "ff": "",
+            "resp": "",
+            "est": "por_hacer",
+            "com": ""
           }
         ]
       }
