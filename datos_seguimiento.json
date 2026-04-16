@@ -1193,7 +1193,7 @@
       {
         "id": "t3",
         "nombre": "FASE 3 — Ejecución Contractual",
-        "fi": "",
+        "fi": "2026-04-10",
         "ff": "",
         "resp": "",
         "est": "por_hacer",
@@ -1203,7 +1203,7 @@
           {
             "id": "t3s1",
             "nombre": "Devengado",
-            "fi": "",
+            "fi": "2026-04-10",
             "ff": "",
             "resp": "",
             "est": "por_hacer",
