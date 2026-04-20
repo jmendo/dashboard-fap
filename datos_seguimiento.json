@@ -1528,7 +1528,7 @@
       {
         "id": "t3",
         "nombre": "FASE 3 Ejecución Contractual",
-        "fi": "",
+        "fi": "2026-03-03",
         "ff": "",
         "resp": "",
         "est": "por_hacer",
@@ -1538,7 +1538,7 @@
           {
             "id": "t3s1",
             "nombre": "Contrarto (N°046-CS-SINFA) ",
-            "fi": "",
+            "fi": "2026-03-03",
             "ff": "",
             "resp": "",
             "est": "por_hacer",
