@@ -1663,6 +1663,15 @@
           },
           {
             "id": "s1776712436345",
+            "nombre": "Presentación de propuestas",
+            "fi": "",
+            "ff": "",
+            "resp": "",
+            "est": "por_hacer",
+            "com": ""
+          },
+          {
+            "id": "s1776712449265",
             "nombre": "Nueva subtarea",
             "fi": "",
             "ff": "",
