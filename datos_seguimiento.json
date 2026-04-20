@@ -1198,7 +1198,7 @@
       {
         "id": "t3",
         "nombre": "FASE 3 — Ejecución Contractual",
-        "fi": "",
+        "fi": "2026-06-10",
         "ff": "",
         "resp": "",
         "est": "por_hacer",
@@ -1208,7 +1208,7 @@
           {
             "id": "t3s1",
             "nombre": "Presentación de requisitos para el contrato",
-            "fi": "",
+            "fi": "2026-06-10",
             "ff": "",
             "resp": "",
             "est": "por_hacer",
