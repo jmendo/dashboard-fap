@@ -1876,7 +1876,17 @@
         "est": "por_hacer",
         "com": "",
         "exp": true,
-        "subs": []
+        "subs": [
+          {
+            "id": "s1776712590569",
+            "nombre": "Nueva subtarea",
+            "fi": "",
+            "ff": "",
+            "resp": "",
+            "est": "por_hacer",
+            "com": ""
+          }
+        ]
       },
       {
         "id": "t1776712550272",
