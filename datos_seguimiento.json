@@ -1529,7 +1529,7 @@
         "id": "t3",
         "nombre": "FASE 3 Ejecución Contractual",
         "fi": "2026-03-03",
-        "ff": "2026-03-03",
+        "ff": "2026-07-02",
         "resp": "",
         "est": "por_hacer",
         "com": "",
@@ -1548,7 +1548,7 @@
             "id": "s1776702935635",
             "nombre": "Internamiento (120 dias calendario)",
             "fi": "2026-03-04",
-            "ff": "",
+            "ff": "2026-07-02",
             "resp": "",
             "est": "por_hacer",
             "com": ""
