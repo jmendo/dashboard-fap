@@ -1841,7 +1841,7 @@
         "resp": "",
         "est": "por_hacer",
         "com": "",
-        "exp": true,
+        "exp": false,
         "subs": [
           {
             "id": "t2s1",
