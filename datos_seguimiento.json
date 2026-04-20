@@ -1816,31 +1816,12 @@
         "id": "t1",
         "nombre": "FASE 1 — Actos preparatorios",
         "fi": "2026-04-24",
-        "ff": "2026-04-27",
+        "ff": "2026-04-24",
         "resp": "",
         "est": "por_hacer",
         "com": "",
         "exp": true,
-        "subs": [
-          {
-            "id": "t1s1",
-            "nombre": "Estudio Mercado ACFFFA",
-            "fi": "2026-04-24",
-            "ff": "2026-04-24",
-            "resp": "",
-            "est": "en_progreso",
-            "com": ""
-          },
-          {
-            "id": "s1776706594888",
-            "nombre": "Aprobación de expediente inicio",
-            "fi": "2026-04-27",
-            "ff": "2026-04-27",
-            "resp": "",
-            "est": "por_hacer",
-            "com": ""
-          }
-        ]
+        "subs": []
       },
       {
         "id": "t2",
