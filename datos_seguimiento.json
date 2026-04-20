@@ -1871,7 +1871,7 @@
         "id": "t2",
         "nombre": "FASE 2 — Procedimiento de selección",
         "fi": "2026-03-31",
-        "ff": "2026-04-01",
+        "ff": "2026-04-20",
         "resp": "",
         "est": "por_hacer",
         "com": "",
@@ -1899,7 +1899,7 @@
             "id": "s1776712646697",
             "nombre": "Presentación de propuestas(Presencial)",
             "fi": "2026-04-20",
-            "ff": "",
+            "ff": "2026-04-20",
             "resp": "",
             "est": "por_hacer",
             "com": ""
