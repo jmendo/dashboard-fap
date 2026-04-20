@@ -1820,11 +1820,20 @@
         "resp": "",
         "est": "por_hacer",
         "com": "",
-        "exp": false,
+        "exp": true,
         "subs": [
           {
             "id": "t1s1",
-            "nombre": "Actividad 1",
+            "nombre": "Estudio Mercado ACFFFA",
+            "fi": "",
+            "ff": "",
+            "resp": "",
+            "est": "por_hacer",
+            "com": ""
+          },
+          {
+            "id": "s1776706594888",
+            "nombre": "Nueva subtarea",
             "fi": "",
             "ff": "",
             "resp": "",
