@@ -1851,38 +1851,7 @@
         "est": "por_hacer",
         "com": "",
         "exp": true,
-        "subs": [
-          {
-            "id": "t2s1",
-            "nombre": "Convocatoria ",
-            "fi": "",
-            "ff": "2026-04-28",
-            "resp": "",
-            "est": "por_hacer",
-            "com": ""
-          }
-        ]
-      },
-      {
-        "id": "t3",
-        "nombre": "FASE 3 — Ejecución",
-        "fi": "",
-        "ff": "",
-        "resp": "",
-        "est": "por_hacer",
-        "com": "",
-        "exp": false,
-        "subs": [
-          {
-            "id": "t3s1",
-            "nombre": "Actividad 1",
-            "fi": "",
-            "ff": "",
-            "resp": "",
-            "est": "por_hacer",
-            "com": ""
-          }
-        ]
+        "subs": []
       }
     ]
   },
