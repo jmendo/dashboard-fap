@@ -1877,6 +1877,17 @@
         "com": "",
         "exp": true,
         "subs": []
+      },
+      {
+        "id": "t1776712550272",
+        "nombre": "Nueva tarea principal",
+        "fi": "",
+        "ff": "",
+        "resp": "",
+        "est": "por_hacer",
+        "com": "",
+        "exp": true,
+        "subs": []
       }
     ]
   },
