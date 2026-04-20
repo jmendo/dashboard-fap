@@ -1606,7 +1606,7 @@
       {
         "id": "t1",
         "nombre": "FASE 1 — Actos preparatorios",
-        "fi": "",
+        "fi": "2026-04-24",
         "ff": "",
         "resp": "",
         "est": "por_hacer",
@@ -1616,7 +1616,7 @@
           {
             "id": "t1s1",
             "nombre": "Estudio mercado ACFFAA",
-            "fi": "",
+            "fi": "2026-04-24",
             "ff": "",
             "resp": "",
             "est": "por_hacer",
