@@ -1793,7 +1793,7 @@
         "id": "t3",
         "nombre": "FASE 3 — Ejecución",
         "fi": "2026-06-15",
-        "ff": "2026-06-26",
+        "ff": "2026-08-13",
         "resp": "",
         "est": "por_hacer",
         "com": "",
@@ -1812,7 +1812,7 @@
             "id": "s1776786372109",
             "nombre": "Internamiento (45 dc)",
             "fi": "",
-            "ff": "",
+            "ff": "2026-08-13",
             "resp": "",
             "est": "por_hacer",
             "com": ""
