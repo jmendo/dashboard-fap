@@ -99,6 +99,24 @@
             "resp": "SEBAT",
             "est": "completado",
             "com": ""
+          },
+          {
+            "id": "s1776787058378",
+            "nombre": "Nueva subtarea",
+            "fi": "",
+            "ff": "",
+            "resp": "",
+            "est": "por_hacer",
+            "com": ""
+          },
+          {
+            "id": "s1776787058874",
+            "nombre": "Nueva subtarea",
+            "fi": "",
+            "ff": "",
+            "resp": "",
+            "est": "por_hacer",
+            "com": ""
           }
         ]
       },
