@@ -1375,7 +1375,7 @@
         "id": "t3",
         "nombre": "FASE Ejecución Contractual",
         "fi": "2026-04-22",
-        "ff": "2026-08-28",
+        "ff": "2026-09-03",
         "resp": "",
         "est": "por_hacer",
         "com": "",
@@ -1403,7 +1403,7 @@
             "id": "s1776798202486",
             "nombre": "Conformidad",
             "fi": "2026-09-01",
-            "ff": "",
+            "ff": "2026-09-03",
             "resp": "",
             "est": "por_hacer",
             "com": ""
