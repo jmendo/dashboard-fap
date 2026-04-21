@@ -613,69 +613,77 @@
   "snpmgi_v1_2492600": {
     "metaFisica": "Adquisición de camión cisternna, se reorientará recursos.",
     "devengadoLabel": "",
-    "comentarios": "UNIDAD EJECUTORA DE INVERSIONES (UEI)\tDIRECCIÓN DE LOGISTICA FAP\nSe está propone reorientar para la adquisición  de un cisterna.",
-    "pasos": [
-      {
-        "etapa": "ACTOS PREPARATORIOS",
-        "mes": "",
-        "status": "pending",
-        "actividades": [
-          {
-            "desc": "Actos preparatorios / Certificación",
-            "fechaPrevista": ""
-          }
-        ]
-      },
-      {
-        "etapa": "PROCEDIMIENTO DE SELECCIÓN",
-        "mes": "",
-        "status": "pending",
-        "actividades": [
-          {
-            "desc": "Convocatoria / Selección de proveedor",
-            "fechaPrevista": ""
-          }
-        ]
-      },
-      {
-        "etapa": "CONTRATO",
-        "mes": "",
-        "status": "pending",
-        "actividades": [
-          {
-            "desc": "Firma de contrato / Buena pro",
-            "fechaPrevista": ""
-          }
-        ]
-      },
-      {
-        "etapa": "EJECUCIÓN",
-        "mes": "",
-        "status": "pending",
-        "actividades": [
-          {
-            "desc": "Ejecución y recepción",
-            "fechaPrevista": ""
-          }
-        ]
-      },
-      {
-        "etapa": "DEVENGADO",
-        "mes": "",
-        "status": "pending",
-        "actividades": [
-          {
-            "desc": "Pago / Devengado",
-            "fechaPrevista": ""
-          }
-        ]
-      }
-    ],
+    "comentarios": "UNIDAD EJECUTORA DE INVERSIONES (UEI)\tDIRECCIÓN DE LOGISTICA FAP\nSe viene evaluado por la FAP reorientar para la adquisición  de un cisterna.",
     "resultado": {
       "icono": "📋",
       "titulo": "Meta AF-2026",
       "subtitulo": ""
-    }
+    },
+    "gantt": [
+      {
+        "id": "t1",
+        "nombre": "FASE 1 — Actos preparatorios",
+        "fi": "",
+        "ff": "",
+        "resp": "",
+        "est": "por_hacer",
+        "com": "",
+        "exp": true,
+        "subs": [
+          {
+            "id": "t1s1",
+            "nombre": "Actividad 1",
+            "fi": "",
+            "ff": "",
+            "resp": "",
+            "est": "por_hacer",
+            "com": ""
+          }
+        ]
+      },
+      {
+        "id": "t2",
+        "nombre": "FASE 2 — Procedimiento de selección",
+        "fi": "",
+        "ff": "",
+        "resp": "",
+        "est": "por_hacer",
+        "com": "",
+        "exp": true,
+        "subs": [
+          {
+            "id": "t2s1",
+            "nombre": "Actividad 1",
+            "fi": "",
+            "ff": "",
+            "resp": "",
+            "est": "por_hacer",
+            "com": ""
+          }
+        ]
+      },
+      {
+        "id": "t3",
+        "nombre": "FASE 3 — Ejecución",
+        "fi": "",
+        "ff": "",
+        "resp": "",
+        "est": "por_hacer",
+        "com": "",
+        "exp": true,
+        "subs": [
+          {
+            "id": "t3s1",
+            "nombre": "Actividad 1",
+            "fi": "",
+            "ff": "",
+            "resp": "",
+            "est": "por_hacer",
+            "com": ""
+          }
+        ]
+      }
+    ]
   },
   "snpmgi_arch_2313734": [
     {
