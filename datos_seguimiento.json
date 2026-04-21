@@ -144,7 +144,7 @@
       {
         "id": "t1774911391027",
         "nombre": "EJECUCIÓN CONTRACTUAL",
-        "fi": "2026-04-20",
+        "fi": "2026-05-18",
         "ff": "2027-12-31",
         "resp": "",
         "est": "por_hacer",
@@ -154,7 +154,7 @@
           {
             "id": "s1774911400387",
             "nombre": "FIRMA DE CONTRATO",
-            "fi": "2026-04-20",
+            "fi": "2026-05-20",
             "ff": "2026-05-18",
             "resp": "SEBAT",
             "est": "por_hacer",
