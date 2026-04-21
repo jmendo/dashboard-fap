@@ -1736,7 +1736,7 @@
         "id": "t2",
         "nombre": "FASE 2 — Procedimiento de selección",
         "fi": "2026-04-28",
-        "ff": "2026-06-12",
+        "ff": "2026-06-02",
         "resp": "",
         "est": "por_hacer",
         "com": "",
@@ -1774,15 +1774,6 @@
             "nombre": "Otorgamiento de buena pro",
             "fi": "2026-06-02",
             "ff": "2026-06-02",
-            "resp": "",
-            "est": "por_hacer",
-            "com": ""
-          },
-          {
-            "id": "s1776786263980",
-            "nombre": "Consentimiento",
-            "fi": "2026-06-03",
-            "ff": "2026-06-12",
             "resp": "",
             "est": "por_hacer",
             "com": ""
