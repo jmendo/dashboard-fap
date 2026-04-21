@@ -99,24 +99,6 @@
             "resp": "SEBAT",
             "est": "completado",
             "com": ""
-          },
-          {
-            "id": "s1776787058378",
-            "nombre": "Nueva subtarea",
-            "fi": "",
-            "ff": "",
-            "resp": "",
-            "est": "por_hacer",
-            "com": ""
-          },
-          {
-            "id": "s1776787058874",
-            "nombre": "APROBACIÓN DEL EXPEDIENTE DE INICIO EN EL SIGCO",
-            "fi": "",
-            "ff": "",
-            "resp": "",
-            "est": "por_hacer",
-            "com": ""
           }
         ]
       },
