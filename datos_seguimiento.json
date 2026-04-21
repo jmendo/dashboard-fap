@@ -105,7 +105,7 @@
       {
         "id": "t1774911088489",
         "nombre": "ACTUACIONES PREPARATORIAS ACFFAA",
-        "fi": "2026-04-08",
+        "fi": "2026-04-09",
         "ff": "2026-04-27",
         "resp": "",
         "est": "por_hacer",
@@ -117,15 +117,6 @@
             "nombre": "CONVOCATORIA",
             "fi": "2026-04-27",
             "ff": "2026-04-27",
-            "resp": "ACFFAA",
-            "est": "por_hacer",
-            "com": ""
-          },
-          {
-            "id": "s1774911332564",
-            "nombre": "Formulación de consultas y observaciones(Presencial)",
-            "fi": "2026-04-08",
-            "ff": "2026-04-08",
             "resp": "ACFFAA",
             "est": "por_hacer",
             "com": ""
