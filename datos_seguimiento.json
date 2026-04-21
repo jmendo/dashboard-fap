@@ -1793,7 +1793,7 @@
         "id": "t3",
         "nombre": "FASE 3 — Ejecución",
         "fi": "2026-06-15",
-        "ff": "",
+        "ff": "2026-06-26",
         "resp": "",
         "est": "por_hacer",
         "com": "",
@@ -1803,7 +1803,7 @@
             "id": "t3s1",
             "nombre": "Suscripción de contratro",
             "fi": "2026-06-15",
-            "ff": "",
+            "ff": "2026-06-26",
             "resp": "",
             "est": "por_hacer",
             "com": ""
