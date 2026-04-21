@@ -1455,7 +1455,7 @@
       {
         "id": "t2",
         "nombre": "FASE 2 — Procedimiento de selección",
-        "fi": "",
+        "fi": "2026-05-13",
         "ff": "",
         "resp": "",
         "est": "por_hacer",
@@ -1465,7 +1465,7 @@
           {
             "id": "t2s1",
             "nombre": "Consentimiento",
-            "fi": "",
+            "fi": "2026-05-13",
             "ff": "",
             "resp": "",
             "est": "por_hacer",
