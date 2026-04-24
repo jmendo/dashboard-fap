@@ -1095,7 +1095,7 @@
       {
         "id": "t2",
         "nombre": "FASE 2 — Procedimiento de selección",
-        "fi": "2026-04-23",
+        "fi": "2026-04-24",
         "ff": "2026-06-09",
         "resp": "",
         "est": "por_hacer",
@@ -1105,7 +1105,7 @@
           {
             "id": "t2s1",
             "nombre": "Convocatoria",
-            "fi": "2026-04-23",
+            "fi": "2026-04-30",
             "ff": "2026-04-23",
             "resp": "",
             "est": "por_hacer",
