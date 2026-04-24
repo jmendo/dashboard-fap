@@ -1464,7 +1464,7 @@
         "id": "t2",
         "nombre": "FASE 2 — Procedimiento de selección",
         "fi": "2026-05-22",
-        "ff": "2026-06-12",
+        "ff": "2026-06-17",
         "resp": "",
         "est": "por_hacer",
         "com": "",
@@ -1510,7 +1510,7 @@
             "id": "s1777066443131",
             "nombre": "Evaluación y Calificación",
             "fi": "2026-06-15",
-            "ff": "",
+            "ff": "2026-06-17",
             "resp": "",
             "est": "por_hacer",
             "com": ""
