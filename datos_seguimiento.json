@@ -2125,7 +2125,7 @@
         "id": "t1776712550272",
         "nombre": "Fase 3 - Ejecución Contractual",
         "fi": "2026-06-25",
-        "ff": "2026-07-07",
+        "ff": "2026-07-09",
         "resp": "",
         "est": "por_hacer",
         "com": "",
@@ -2144,7 +2144,7 @@
             "id": "s1777062878960",
             "nombre": "Contrato",
             "fi": "2026-07-08",
-            "ff": "",
+            "ff": "2026-07-09",
             "resp": "",
             "est": "por_hacer",
             "com": ""
