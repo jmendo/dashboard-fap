@@ -1443,7 +1443,7 @@
         "id": "t1",
         "nombre": "FASE 1 — Actos preparatorios",
         "fi": "2026-04-24",
-        "ff": "",
+        "ff": "2026-04-24",
         "resp": "",
         "est": "por_hacer",
         "com": "",
@@ -1453,7 +1453,7 @@
             "id": "t1s1",
             "nombre": "Remisión de expediente Incio a la ACFFAA",
             "fi": "2026-04-24",
-            "ff": "",
+            "ff": "2026-04-24",
             "resp": "",
             "est": "por_hacer",
             "com": ""
