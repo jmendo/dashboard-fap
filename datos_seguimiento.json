@@ -2082,6 +2082,15 @@
             "resp": "",
             "est": "por_hacer",
             "com": "5 d"
+          },
+          {
+            "id": "s1777062247839",
+            "nombre": "Nueva subtarea",
+            "fi": "",
+            "ff": "",
+            "resp": "",
+            "est": "por_hacer",
+            "com": ""
           }
         ]
       },
