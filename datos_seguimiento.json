@@ -953,7 +953,7 @@
         "resp": "",
         "est": "por_hacer",
         "com": "",
-        "exp": false,
+        "exp": true,
         "subs": [
           {
             "id": "s1774908360139",
