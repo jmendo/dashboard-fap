@@ -1701,7 +1701,7 @@
         "id": "t2",
         "nombre": "FASE 2 — Procedimiento de selección",
         "fi": "2026-06-05",
-        "ff": "2026-06-05",
+        "ff": "2026-07-08",
         "resp": "",
         "est": "por_hacer",
         "com": "",
@@ -1720,7 +1720,7 @@
             "id": "s1777327246986",
             "nombre": "Registro de Participantes",
             "fi": "2026-06-08",
-            "ff": "",
+            "ff": "2026-07-08",
             "resp": "",
             "est": "por_hacer",
             "com": ""
