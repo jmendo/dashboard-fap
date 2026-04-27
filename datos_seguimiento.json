@@ -1700,7 +1700,7 @@
       {
         "id": "t2",
         "nombre": "FASE 2 — Procedimiento de selección",
-        "fi": "",
+        "fi": "2026-06-05",
         "ff": "",
         "resp": "",
         "est": "por_hacer",
@@ -1710,7 +1710,7 @@
           {
             "id": "t2s1",
             "nombre": "Convocatoria",
-            "fi": "",
+            "fi": "2026-06-05",
             "ff": "",
             "resp": "",
             "est": "por_hacer",
