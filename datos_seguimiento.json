@@ -1643,7 +1643,7 @@
       {
         "id": "t1",
         "nombre": "FASE 1 — Actos preparatorios",
-        "fi": "",
+        "fi": "2026-04-30",
         "ff": "",
         "resp": "",
         "est": "por_hacer",
@@ -1653,7 +1653,7 @@
           {
             "id": "t1s1",
             "nombre": "Remisión de expediente de inicio",
-            "fi": "",
+            "fi": "2026-04-30",
             "ff": "",
             "resp": "SELEC",
             "est": "por_hacer",
