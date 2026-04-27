@@ -1682,6 +1682,15 @@
             "nombre": "Certificación y Aprobación Exp",
             "fi": "2026-06-01",
             "ff": "2026-06-02",
+            "resp": "ACFFAA - FAP",
+            "est": "por_hacer",
+            "com": ""
+          },
+          {
+            "id": "s1777327023152",
+            "nombre": "Nueva subtarea",
+            "fi": "",
+            "ff": "",
             "resp": "",
             "est": "por_hacer",
             "com": ""
