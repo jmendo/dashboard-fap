@@ -1701,7 +1701,7 @@
         "id": "t2",
         "nombre": "FASE 2 — Procedimiento de selección",
         "fi": "2026-06-04",
-        "ff": "2026-07-07",
+        "ff": "72026-01-10",
         "resp": "",
         "est": "por_hacer",
         "com": "",
@@ -1774,7 +1774,7 @@
             "id": "s1777327783461",
             "nombre": "Consentimiento",
             "fi": "2029-07-01",
-            "ff": "",
+            "ff": "72026-01-10",
             "resp": "",
             "est": "por_hacer",
             "com": ""
