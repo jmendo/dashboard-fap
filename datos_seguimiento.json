@@ -144,7 +144,7 @@
       {
         "id": "t1774911391027",
         "nombre": "EJECUCIÓN CONTRACTUAL",
-        "fi": "2026-05-20",
+        "fi": "2026-05-21",
         "ff": "2027-12-31",
         "resp": "",
         "est": "por_hacer",
@@ -172,7 +172,7 @@
           {
             "id": "s1774911481011",
             "nombre": "ORDEN DE COMPRA",
-            "fi": "2026-05-20",
+            "fi": "2026-06-10",
             "ff": "2026-05-20",
             "resp": "SEBAT",
             "est": "por_hacer",
