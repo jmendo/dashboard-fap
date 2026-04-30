@@ -1965,7 +1965,7 @@
       {
         "id": "t1",
         "nombre": "FASE 1 — Actos preparatorios",
-        "fi": "2026-04-24",
+        "fi": "2026-03-16",
         "ff": "2026-04-29",
         "resp": "",
         "est": "por_hacer",
@@ -1975,7 +1975,7 @@
           {
             "id": "t1s1",
             "nombre": "Aprobación expediente de inicio",
-            "fi": "2026-04-24",
+            "fi": "2026-03-16",
             "ff": "2026-04-24",
             "resp": "",
             "est": "completado",
