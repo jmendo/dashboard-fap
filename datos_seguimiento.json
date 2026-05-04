@@ -2046,6 +2046,15 @@
             "resp": "",
             "est": "por_hacer",
             "com": "Proveedor unico"
+          },
+          {
+            "id": "s1777927920424",
+            "nombre": "Nueva subtarea",
+            "fi": "",
+            "ff": "",
+            "resp": "",
+            "est": "por_hacer",
+            "com": ""
           }
         ]
       },
