@@ -2005,7 +2005,7 @@
         "id": "t2",
         "nombre": "FASE 2 — Procedimiento de selección",
         "fi": "2026-04-30",
-        "ff": "2026-06-18",
+        "ff": "2026-06-08",
         "resp": "",
         "est": "por_hacer",
         "com": "",
@@ -2046,15 +2046,6 @@
             "resp": "",
             "est": "por_hacer",
             "com": "Proveedor unico"
-          },
-          {
-            "id": "s1777306884340",
-            "nombre": "Nueva subtarea",
-            "fi": "2026-06-09",
-            "ff": "2026-06-18",
-            "resp": "",
-            "est": "por_hacer",
-            "com": ""
           }
         ]
       },
