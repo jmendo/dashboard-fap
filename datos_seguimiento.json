@@ -1048,7 +1048,7 @@
         "id": "t1",
         "nombre": "FASE 1 — Actos preparatorios",
         "fi": "2026-04-16",
-        "ff": "2026-04-29",
+        "ff": "2026-05-07",
         "resp": "",
         "est": "por_hacer",
         "com": "",
@@ -1058,7 +1058,7 @@
             "id": "t1s1",
             "nombre": "Estudio de mercado ACFFAA",
             "fi": "2026-04-16",
-            "ff": "2026-04-28",
+            "ff": "2026-05-07",
             "resp": "",
             "est": "en_progreso",
             "com": "En actualización de requerimiento por la FAP, debido a la escasez de postores."
