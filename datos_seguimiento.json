@@ -695,7 +695,7 @@
         "resp": "",
         "est": "completado",
         "com": "",
-        "exp": false,
+        "exp": true,
         "subs": [
           {
             "id": "s1774905718814",
