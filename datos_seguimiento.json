@@ -92,7 +92,7 @@
         "resp": "",
         "est": "completado",
         "com": "",
-        "exp": false,
+        "exp": true,
         "subs": [
           {
             "id": "s1774911303714",
