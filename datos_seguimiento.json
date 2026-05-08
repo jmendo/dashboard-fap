@@ -1574,7 +1574,7 @@
       {
         "id": "t3",
         "nombre": "FASE 3 — Ejecución",
-        "fi": "2026-07-01",
+        "fi": "2026-07-10",
         "ff": "2026-11-12",
         "resp": "",
         "est": "por_hacer",
@@ -1584,7 +1584,7 @@
           {
             "id": "t3s1",
             "nombre": "Perfeccionamiento",
-            "fi": "2026-07-01",
+            "fi": "2026-07-10",
             "ff": "2026-07-13",
             "resp": "",
             "est": "por_hacer",
