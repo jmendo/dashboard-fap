@@ -1434,7 +1434,7 @@
         "id": "t1",
         "nombre": "FASE 1 — Actos preparatorios",
         "fi": "2026-04-24",
-        "ff": "2026-06-11",
+        "ff": "2026-06-12",
         "resp": "",
         "est": "por_hacer",
         "com": "",
@@ -1488,8 +1488,8 @@
           {
             "id": "s1777067065987",
             "nombre": "Preparación y Aprobación de Bases",
-            "fi": "2026-05-21",
-            "ff": "2026-05-21",
+            "fi": "2026-06-12",
+            "ff": "2026-06-12",
             "resp": "",
             "est": "por_hacer",
             "com": ""
