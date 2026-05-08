@@ -2289,20 +2289,20 @@
       {
         "id": "t1",
         "nombre": "ASE 1 — Actos preparatorios",
-        "fi": "2026-04-20",
+        "fi": "2026-04-07",
         "ff": "2026-04-28",
         "resp": "",
-        "est": "por_hacer",
+        "est": "completado",
         "com": "",
         "exp": true,
         "subs": [
           {
             "id": "s1777061699301",
             "nombre": "Estudio de mercado",
-            "fi": "2026-04-20",
+            "fi": "2026-04-07",
             "ff": "2026-04-27",
             "resp": "",
-            "est": "en_progreso",
+            "est": "completado",
             "com": ""
           },
           {
@@ -2311,7 +2311,7 @@
             "fi": "2026-04-28",
             "ff": "2026-04-28",
             "resp": "",
-            "est": "por_hacer",
+            "est": "completado",
             "com": ""
           }
         ]
@@ -2332,7 +2332,7 @@
             "fi": "2026-04-29",
             "ff": "2026-04-29",
             "resp": "",
-            "est": "por_hacer",
+            "est": "completado",
             "com": "1 d"
           },
           {
