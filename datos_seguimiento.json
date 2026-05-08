@@ -2395,7 +2395,7 @@
         "id": "t1776712550272",
         "nombre": "Fase 3 - Ejecución Contractual",
         "fi": "2026-06-04",
-        "ff": "2026-06-19",
+        "ff": "2026-11-26",
         "resp": "",
         "est": "por_hacer",
         "com": "",
@@ -2423,7 +2423,7 @@
             "id": "s1777062879568",
             "nombre": "Internamiento del Bien ( hasta 210 dc)",
             "fi": "2026-06-20",
-            "ff": "",
+            "ff": "2026-11-26",
             "resp": "",
             "est": "por_hacer",
             "com": "Se debe hacer la entrega en 160 dc como maximo para asegurar el devengado."
