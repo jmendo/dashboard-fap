@@ -1499,7 +1499,7 @@
       {
         "id": "t2",
         "nombre": "FASE 2 — Procedimiento de selección",
-        "fi": "2026-06-01",
+        "fi": "2026-06-12",
         "ff": "2026-06-30",
         "resp": "",
         "est": "por_hacer",
@@ -1527,8 +1527,8 @@
           {
             "id": "s1777066442299",
             "nombre": "Absolución e Integración",
-            "fi": "2026-06-01",
-            "ff": "2026-06-03",
+            "fi": "2026-06-19",
+            "ff": "2026-06-23",
             "resp": "",
             "est": "por_hacer",
             "com": ""
