@@ -1060,7 +1060,7 @@
             "fi": "2026-04-16",
             "ff": "2026-05-07",
             "resp": "",
-            "est": "en_progreso",
+            "est": "completado",
             "com": "En actualización de requerimiento por la FAP, debido a la escasez de postores."
           },
           {
@@ -1069,7 +1069,7 @@
             "fi": "2026-05-11",
             "ff": "2026-05-11",
             "resp": "",
-            "est": "por_hacer",
+            "est": "en_progreso",
             "com": ""
           }
         ]
