@@ -1499,7 +1499,7 @@
       {
         "id": "t2",
         "nombre": "FASE 2 — Procedimiento de selección",
-        "fi": "2026-06-12",
+        "fi": "2026-06-15",
         "ff": "2026-06-30",
         "resp": "",
         "est": "por_hacer",
@@ -1536,8 +1536,8 @@
           {
             "id": "s1777066442723",
             "nombre": "Presentación de Ofertas",
-            "fi": "2026-06-12",
-            "ff": "2026-06-12",
+            "fi": "2026-06-24",
+            "ff": "2026-06-24",
             "resp": "",
             "est": "por_hacer",
             "com": ""
