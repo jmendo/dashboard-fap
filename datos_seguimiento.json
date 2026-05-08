@@ -1500,7 +1500,7 @@
         "id": "t2",
         "nombre": "FASE 2 — Procedimiento de selección",
         "fi": "2026-06-15",
-        "ff": "2026-06-30",
+        "ff": "2026-07-09",
         "resp": "",
         "est": "por_hacer",
         "com": "",
@@ -1563,8 +1563,8 @@
           {
             "id": "s1777066543355",
             "nombre": "Consentimiento",
-            "fi": "2026-08-03",
-            "ff": "2026-06-30",
+            "fi": "2026-07-01",
+            "ff": "2026-07-09",
             "resp": "",
             "est": "por_hacer",
             "com": ""
@@ -1579,7 +1579,7 @@
         "resp": "",
         "est": "por_hacer",
         "com": "",
-        "exp": false,
+        "exp": true,
         "subs": [
           {
             "id": "t3s1",
