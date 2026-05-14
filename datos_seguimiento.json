@@ -590,6 +590,27 @@
         "nov": 146425,
         "dic": 0
       }
+    },
+    {
+      "cui": "2702643",
+      "nombre": "2702643: ADQUISICIÓN DE EQUIPOS - DIFAP-IOARR",
+      "fuente": "RO",
+      "pim": 1685959,
+      "dev": 0,
+      "meses": {
+        "ene": 0,
+        "feb": 0,
+        "mar": 0,
+        "abr": 0,
+        "may": 0,
+        "jun": 0,
+        "jul": 515959,
+        "ago": 1170000,
+        "set": 0,
+        "oct": 0,
+        "nov": 0,
+        "dic": 0
+      }
     }
   ],
   "snpmgi_v1_2492600": {
