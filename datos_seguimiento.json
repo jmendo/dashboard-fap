@@ -1098,7 +1098,7 @@
       {
         "id": "t2",
         "nombre": "FASE 2 — Procedimiento de selección",
-        "fi": "2026-05-27",
+        "fi": "2026-05-29",
         "ff": "2026-06-25",
         "resp": "",
         "est": "por_hacer",
@@ -1126,8 +1126,8 @@
           {
             "id": "s1776713990100",
             "nombre": "Absolución e Integración de bases",
-            "fi": "2026-05-27",
-            "ff": "2026-06-02",
+            "fi": "2026-06-10",
+            "ff": "2026-06-12",
             "resp": "",
             "est": "por_hacer",
             "com": "5 d"
@@ -1135,8 +1135,8 @@
           {
             "id": "s1776713992116",
             "nombre": "Presentación de Ofertas",
-            "fi": "2026-06-11",
-            "ff": "2026-06-11",
+            "fi": "2026-06-15",
+            "ff": "2026-06-23",
             "resp": "",
             "est": "por_hacer",
             "com": "1 d"
