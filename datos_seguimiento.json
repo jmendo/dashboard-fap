@@ -1229,6 +1229,81 @@
       }
     ]
   },
+  "snpmgi_v1_2702643": {
+    "metaFisica": "",
+    "devengadoLabel": "",
+    "comentarios": "",
+    "gantt": [
+      {
+        "id": "t1",
+        "nombre": "FASE 1 — Actos preparatorios",
+        "fi": "",
+        "ff": "",
+        "resp": "",
+        "est": "por_hacer",
+        "com": "",
+        "exp": true,
+        "subs": [
+          {
+            "id": "t1s1",
+            "nombre": "Actividad 1",
+            "fi": "",
+            "ff": "",
+            "resp": "",
+            "est": "por_hacer",
+            "com": ""
+          }
+        ]
+      },
+      {
+        "id": "t2",
+        "nombre": "FASE 2 — Procedimiento de selección",
+        "fi": "",
+        "ff": "",
+        "resp": "",
+        "est": "por_hacer",
+        "com": "",
+        "exp": true,
+        "subs": [
+          {
+            "id": "t2s1",
+            "nombre": "Actividad 1",
+            "fi": "",
+            "ff": "",
+            "resp": "",
+            "est": "por_hacer",
+            "com": ""
+          }
+        ]
+      },
+      {
+        "id": "t3",
+        "nombre": "FASE 3 — Ejecución",
+        "fi": "",
+        "ff": "",
+        "resp": "",
+        "est": "por_hacer",
+        "com": "",
+        "exp": true,
+        "subs": [
+          {
+            "id": "t3s1",
+            "nombre": "Actividad 1",
+            "fi": "",
+            "ff": "",
+            "resp": "",
+            "est": "por_hacer",
+            "com": ""
+          }
+        ]
+      }
+    ],
+    "resultado": {
+      "icono": "📋",
+      "titulo": "Meta AF-2026",
+      "subtitulo": ""
+    }
+  },
   "snpmgi_v1_2676804": {
     "metaFisica": "Adquisición de 190 PC, 291 Impresoras y 182 Laptops ",
     "devengadoLabel": "",
