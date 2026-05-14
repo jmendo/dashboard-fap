@@ -1098,7 +1098,7 @@
       {
         "id": "t2",
         "nombre": "FASE 2 — Procedimiento de selección",
-        "fi": "2026-05-19",
+        "fi": "2026-01-01",
         "ff": "2026-06-25",
         "resp": "",
         "est": "por_hacer",
@@ -1117,7 +1117,7 @@
           {
             "id": "s1776713989563",
             "nombre": "Consultas y Observaciones",
-            "fi": "2026-05-19",
+            "fi": "2026-01-01",
             "ff": "2026-05-26",
             "resp": "",
             "est": "por_hacer",
