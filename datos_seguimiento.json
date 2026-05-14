@@ -1069,7 +1069,7 @@
         "id": "t1",
         "nombre": "FASE 1 — Actos preparatorios",
         "fi": "2026-04-16",
-        "ff": "2026-05-15",
+        "ff": "2026-05-28",
         "resp": "",
         "est": "por_hacer",
         "com": "",
@@ -1088,7 +1088,7 @@
             "id": "s1776712900409",
             "nombre": "Aprobación expediente de contratación",
             "fi": "2026-05-11",
-            "ff": "2026-05-15",
+            "ff": "2026-05-28",
             "resp": "",
             "est": "en_progreso",
             "com": ""
