@@ -590,6 +590,27 @@
         "nov": 146425,
         "dic": 0
       }
+    },
+    {
+      "cui": "",
+      "nombre": "NUEVA INVERSIÓN",
+      "fuente": "RO",
+      "pim": 0,
+      "dev": 0,
+      "meses": {
+        "ene": 0,
+        "feb": 0,
+        "mar": 0,
+        "abr": 0,
+        "may": 0,
+        "jun": 0,
+        "jul": 0,
+        "ago": 0,
+        "set": 0,
+        "oct": 0,
+        "nov": 0,
+        "dic": 0
+      }
     }
   ],
   "snpmgi_v1_2492600": {
