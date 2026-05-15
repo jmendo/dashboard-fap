@@ -1417,7 +1417,7 @@
         "resp": "",
         "est": "por_hacer",
         "com": "",
-        "exp": false,
+        "exp": true,
         "subs": [
           {
             "id": "t2s1",
@@ -2073,9 +2073,9 @@
         "fi": "2026-03-16",
         "ff": "2026-04-29",
         "resp": "",
-        "est": "por_hacer",
+        "est": "completado",
         "com": "",
-        "exp": false,
+        "exp": true,
         "subs": [
           {
             "id": "t1s1",
@@ -2101,7 +2101,7 @@
         "id": "t2",
         "nombre": "FASE 2 — Procedimiento de selección",
         "fi": "2026-04-30",
-        "ff": "2026-06-04",
+        "ff": "2026-06-08",
         "resp": "",
         "est": "por_hacer",
         "com": "",
@@ -2165,7 +2165,7 @@
             "id": "s1777928002336",
             "nombre": "Consentimiento",
             "fi": "2026-05-28",
-            "ff": "2026-06-04",
+            "ff": "2026-06-08",
             "resp": "",
             "est": "por_hacer",
             "com": ""
@@ -2175,17 +2175,17 @@
       {
         "id": "t3",
         "nombre": "FASE 3 — Ejecución",
-        "fi": "2026-06-05",
+        "fi": "2026-06-09",
         "ff": "2026-08-17",
         "resp": "",
         "est": "por_hacer",
         "com": "",
-        "exp": false,
+        "exp": true,
         "subs": [
           {
             "id": "t3s1",
             "nombre": "Contrato",
-            "fi": "2026-06-05",
+            "fi": "2026-06-09",
             "ff": "2026-06-18",
             "resp": "",
             "est": "por_hacer",
