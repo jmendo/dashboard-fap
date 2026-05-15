@@ -1071,7 +1071,7 @@
         "fi": "2026-04-16",
         "ff": "2026-05-13",
         "resp": "",
-        "est": "por_hacer",
+        "est": "completado",
         "com": "",
         "exp": true,
         "subs": [
@@ -1090,7 +1090,7 @@
             "fi": "2026-05-11",
             "ff": "2026-05-13",
             "resp": "",
-            "est": "en_progreso",
+            "est": "completado",
             "com": ""
           }
         ]
@@ -1098,20 +1098,20 @@
       {
         "id": "t2",
         "nombre": "FASE 2 — Procedimiento de selección",
-        "fi": "2026-05-29",
+        "fi": "2026-05-14",
         "ff": "2026-07-17",
         "resp": "",
         "est": "por_hacer",
         "com": "",
-        "exp": false,
+        "exp": true,
         "subs": [
           {
             "id": "t2s1",
             "nombre": "Convocatoria",
-            "fi": "2026-05-29",
-            "ff": "2026-05-29",
+            "fi": "2026-05-14",
+            "ff": "2026-05-14",
             "resp": "",
-            "est": "por_hacer",
+            "est": "completado",
             "com": "1 d"
           },
           {
