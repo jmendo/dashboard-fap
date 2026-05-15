@@ -2131,23 +2131,23 @@
             "fi": "2026-05-06",
             "ff": "2026-05-12",
             "resp": "",
-            "est": "en_progreso",
+            "est": "completado",
             "com": ""
           },
           {
             "id": "s1776712449265",
             "nombre": "Absolución de consultas y observaciones",
             "fi": "2026-05-13",
-            "ff": "2026-05-13",
+            "ff": "2026-05-15",
             "resp": "",
-            "est": "por_hacer",
+            "est": "en_progreso",
             "com": "Proveedor unico"
           },
           {
             "id": "s1777927920424",
             "nombre": "Presentación de propuestas(Presencial)",
-            "fi": "2026-05-20",
-            "ff": "2026-05-20",
+            "fi": "2026-05-18",
+            "ff": "2026-05-22",
             "resp": "",
             "est": "por_hacer",
             "com": ""
@@ -2155,8 +2155,8 @@
           {
             "id": "s1777927976521",
             "nombre": "Buena Pro",
-            "fi": "2026-05-25",
-            "ff": "2026-05-25",
+            "fi": "2026-05-27",
+            "ff": "2026-05-27",
             "resp": "",
             "est": "por_hacer",
             "com": ""
