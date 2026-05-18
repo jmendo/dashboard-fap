@@ -712,7 +712,7 @@
         "id": "t1",
         "nombre": "Actos preparatorios",
         "fi": "2026-05-15",
-        "ff": "2026-06-10",
+        "ff": "2026-06-11",
         "resp": "",
         "est": "por_hacer",
         "com": "",
@@ -766,8 +766,8 @@
           {
             "id": "s1779121127821",
             "nombre": "REMISIÓN INFORME TÉCNICO Y LEGAL A DIGLO",
-            "fi": "",
-            "ff": "",
+            "fi": "2026-06-11",
+            "ff": "2026-06-11",
             "resp": "",
             "est": "por_hacer",
             "com": ""
