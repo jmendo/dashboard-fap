@@ -712,7 +712,7 @@
         "id": "t1",
         "nombre": "Actos preparatorios",
         "fi": "2026-05-15",
-        "ff": "2026-06-25",
+        "ff": "2026-06-26",
         "resp": "",
         "est": "por_hacer",
         "com": "",
@@ -829,8 +829,8 @@
           {
             "id": "s1779121398822",
             "nombre": "DEM APRUEBA EXPEDIENTE DE INICIO",
-            "fi": "",
-            "ff": "",
+            "fi": "2026-06-26",
+            "ff": "2026-06-26",
             "resp": "",
             "est": "por_hacer",
             "com": ""
