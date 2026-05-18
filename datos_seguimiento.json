@@ -712,7 +712,7 @@
         "id": "t1",
         "nombre": "Actos preparatorios",
         "fi": "2026-05-15",
-        "ff": "2026-06-23",
+        "ff": "2026-06-26",
         "resp": "",
         "est": "por_hacer",
         "com": "",
@@ -821,7 +821,7 @@
             "id": "s1779121277477",
             "nombre": "FAP LEVANTA OBSERVACIONES",
             "fi": "2026-06-24",
-            "ff": "",
+            "ff": "2026-06-26",
             "resp": "",
             "est": "por_hacer",
             "com": ""
