@@ -877,7 +877,7 @@
         "id": "t1774905858256",
         "nombre": "Aprobación Secreto Militar",
         "fi": "2026-01-16",
-        "ff": "2026-05-27",
+        "ff": "2026-05-21",
         "resp": "",
         "est": "por_hacer",
         "com": "",
@@ -987,15 +987,6 @@
             "nombre": "Emisión de DS que incluye contratación en lista de secreto militar (incluye informe de DGRRMM y OGAJ)",
             "fi": "2026-05-13",
             "ff": "2026-05-21",
-            "resp": "",
-            "est": "por_hacer",
-            "com": ""
-          },
-          {
-            "id": "s1774908023162",
-            "nombre": "Formulación de expediente para opinión CGR",
-            "fi": "2026-05-22",
-            "ff": "2026-05-27",
             "resp": "",
             "est": "por_hacer",
             "com": ""
