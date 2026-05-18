@@ -724,7 +724,7 @@
             "fi": "2026-01-23",
             "ff": "2026-03-02",
             "resp": "",
-            "est": "completado",
+            "est": "por_hacer",
             "com": ""
           },
           {
@@ -733,7 +733,7 @@
             "fi": "2026-03-03",
             "ff": "2026-03-04",
             "resp": "",
-            "est": "completado",
+            "est": "por_hacer",
             "com": ""
           }
         ]
