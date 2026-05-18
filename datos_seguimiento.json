@@ -885,7 +885,7 @@
         "subs": [
           {
             "id": "s1774908360139",
-            "nombre": "Convocatoria",
+            "nombre": "CONVOCATORIA",
             "fi": "2026-07-15",
             "ff": "2026-07-15",
             "resp": "",
@@ -894,7 +894,7 @@
           },
           {
             "id": "s1774908392627",
-            "nombre": "Presentación de ofertas",
+            "nombre": "PRESENTACIÓN DE OFERTAS Y CALIFICACIÓN",
             "fi": "2026-07-16",
             "ff": "2026-07-22",
             "resp": "",
