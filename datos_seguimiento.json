@@ -712,7 +712,7 @@
         "id": "t1",
         "nombre": "Actos preparatorios",
         "fi": "2026-05-15",
-        "ff": "2026-06-16",
+        "ff": "2026-06-17",
         "resp": "",
         "est": "por_hacer",
         "com": "",
@@ -793,9 +793,9 @@
           {
             "id": "s1779121275069",
             "nombre": "ACFFAA SOLICITA EXPEDIENTE DE INICIO",
-            "fi": "",
-            "ff": "",
-            "resp": "",
+            "fi": "2026-06-17",
+            "ff": "2026-06-17",
+            "resp": "ACFFAA",
             "est": "por_hacer",
             "com": ""
           },
