@@ -780,6 +780,15 @@
             "resp": "MINDEF, ACFFFA, FAP",
             "est": "por_hacer",
             "com": ""
+          },
+          {
+            "id": "s1779121230332",
+            "nombre": "Nueva subtarea",
+            "fi": "",
+            "ff": "",
+            "resp": "",
+            "est": "por_hacer",
+            "com": ""
           }
         ]
       },
