@@ -916,7 +916,7 @@
         "id": "t1774908472586",
         "nombre": "EJECUCIÓN CONTRACTUAL",
         "fi": "2026-07-27",
-        "ff": "2028-08-19",
+        "ff": "2028-09-01",
         "resp": "",
         "est": "por_hacer",
         "com": "",
@@ -970,8 +970,8 @@
           {
             "id": "s1774908744939",
             "nombre": "Internamiento del activo (720 dc)",
-            "fi": "2026-09-01",
-            "ff": "2028-08-19",
+            "fi": "2026-09-12",
+            "ff": "2028-09-01",
             "resp": "",
             "est": "por_hacer",
             "com": ""
