@@ -712,7 +712,7 @@
         "id": "t1",
         "nombre": "Actos preparatorios",
         "fi": "2026-05-15",
-        "ff": "2026-06-15",
+        "ff": "2026-06-16",
         "resp": "",
         "est": "por_hacer",
         "com": "",
@@ -783,9 +783,9 @@
           },
           {
             "id": "s1779121230332",
-            "nombre": "Nueva subtarea",
-            "fi": "",
-            "ff": "",
+            "nombre": "PUBLICACIÓN DE ACTIVIDAD",
+            "fi": "2026-06-16",
+            "ff": "2026-06-16",
             "resp": "",
             "est": "por_hacer",
             "com": ""
