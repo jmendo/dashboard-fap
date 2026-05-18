@@ -712,7 +712,7 @@
         "id": "t1",
         "nombre": "Actos preparatorios",
         "fi": "2026-05-15",
-        "ff": "2026-06-11",
+        "ff": "2026-06-15",
         "resp": "",
         "est": "por_hacer",
         "com": "",
@@ -776,7 +776,7 @@
             "id": "s1779121156853",
             "nombre": "DETERMINACIÓN DE COMPETENCIAS",
             "fi": "2026-06-12",
-            "ff": "",
+            "ff": "2026-06-15",
             "resp": "",
             "est": "por_hacer",
             "com": ""
