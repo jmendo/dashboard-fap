@@ -877,7 +877,7 @@
         "id": "t1774905858256",
         "nombre": "Aprobación Secreto Militar",
         "fi": "2026-01-16",
-        "ff": "2026-05-21",
+        "ff": "2026-01-23",
         "resp": "",
         "est": "por_hacer",
         "com": "",
@@ -890,105 +890,6 @@
             "ff": "2026-01-23",
             "resp": "",
             "est": "completado",
-            "com": ""
-          },
-          {
-            "id": "s1774906032450",
-            "nombre": "Nombramiento del Comite Multidisciplinario -Secreto Mi",
-            "fi": "2026-01-23",
-            "ff": "2026-01-23",
-            "resp": "",
-            "est": "completado",
-            "com": ""
-          },
-          {
-            "id": "s1774906115850",
-            "nombre": "Emisión de informes Secreto Militar del Comite",
-            "fi": "2026-01-26",
-            "ff": "2026-02-05",
-            "resp": "",
-            "est": "completado",
-            "com": ""
-          },
-          {
-            "id": "s1774906305916",
-            "nombre": "Comunicación al OCI para determinar acompañamiento",
-            "fi": "2026-02-06",
-            "ff": "2026-02-06",
-            "resp": "",
-            "est": "completado",
-            "com": ""
-          },
-          {
-            "id": "s1774906373517",
-            "nombre": "Emisión de Resolución COFAP aprobando modalidad de secreto militar",
-            "fi": "2026-02-09",
-            "ff": "2026-02-10",
-            "resp": "",
-            "est": "completado",
-            "com": ""
-          },
-          {
-            "id": "s1774906426965",
-            "nombre": "Formulación de expediente para inclusión en lista de secreto militar",
-            "fi": "2026-02-11",
-            "ff": "2026-02-17",
-            "resp": "",
-            "est": "completado",
-            "com": ""
-          },
-          {
-            "id": "s1774906456134",
-            "nombre": "Emisión de Resolución de COFAP para declarar radares como sistema de armas con la ACFFAA.",
-            "fi": "2026-02-18",
-            "ff": "2026-03-30",
-            "resp": "",
-            "est": "completado",
-            "com": ""
-          },
-          {
-            "id": "s1774906551862",
-            "nombre": "Trámite de expediente para inclusión a la ACFFAA",
-            "fi": "2026-03-31",
-            "ff": "2026-03-31",
-            "resp": "",
-            "est": "completado",
-            "com": ""
-          },
-          {
-            "id": "s1774906594662",
-            "nombre": "Emisión de Acta del Comité de Inclusión en Lista General de Secreto Militar(en definición)",
-            "fi": "",
-            "ff": "",
-            "resp": "",
-            "est": "en_progreso",
-            "com": ""
-          },
-          {
-            "id": "s1774906681743",
-            "nombre": "Elaboración del informe técnico legal de la inclusión",
-            "fi": "2026-05-08",
-            "ff": "2026-05-11",
-            "resp": "",
-            "est": "por_hacer",
-            "com": ""
-          },
-          {
-            "id": "s1774906713174",
-            "nombre": "Remisión de expediente a MINDEF para emisión de DS",
-            "fi": "2026-05-12",
-            "ff": "2026-05-12",
-            "resp": "",
-            "est": "por_hacer",
-            "com": ""
-          },
-          {
-            "id": "s1774906780191",
-            "nombre": "Emisión de DS que incluye contratación en lista de secreto militar (incluye informe de DGRRMM y OGAJ)",
-            "fi": "2026-05-13",
-            "ff": "2026-05-21",
-            "resp": "",
-            "est": "por_hacer",
             "com": ""
           }
         ]
