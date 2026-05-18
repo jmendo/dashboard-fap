@@ -723,7 +723,7 @@
             "nombre": "ACTUALIZACION DE ESTUDIO DEFINITIVO",
             "fi": "2026-05-15",
             "ff": "2026-06-04",
-            "resp": "",
+            "resp": "FAP",
             "est": "en_progreso",
             "com": ""
           },
@@ -732,7 +732,7 @@
             "nombre": "RD PARA APROBACIÓN DE ESTUDIO DEFINITIVO",
             "fi": "2026-06-05",
             "ff": "2026-06-05",
-            "resp": "",
+            "resp": "FAP",
             "est": "por_hacer",
             "com": ""
           },
@@ -741,7 +741,7 @@
             "nombre": "RCG DE CLASIFICACIÓN",
             "fi": "2026-06-08",
             "ff": "2026-06-08",
-            "resp": "",
+            "resp": "FAP",
             "est": "por_hacer",
             "com": ""
           },
@@ -750,7 +750,7 @@
             "nombre": "FORMULACIÓN DE ANEXO 2 - SE REMITE A SELEC",
             "fi": "2026-06-09",
             "ff": "2026-06-09",
-            "resp": "",
+            "resp": "FAP",
             "est": "por_hacer",
             "com": ""
           },
@@ -759,7 +759,7 @@
             "nombre": "SOLICITUD DE INCLUSIÓN PAC A DIGLO",
             "fi": "2026-06-10",
             "ff": "2026-06-10",
-            "resp": "",
+            "resp": "FAP",
             "est": "por_hacer",
             "com": ""
           },
@@ -768,7 +768,7 @@
             "nombre": "REMISIÓN INFORME TÉCNICO Y LEGAL A DIGLO",
             "fi": "2026-06-11",
             "ff": "2026-06-11",
-            "resp": "",
+            "resp": "FAP",
             "est": "por_hacer",
             "com": ""
           },
