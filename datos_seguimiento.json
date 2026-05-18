@@ -877,7 +877,7 @@
         "id": "t1774905858256",
         "nombre": "Aprobación Secreto Militar",
         "fi": "2026-01-16",
-        "ff": "2026-07-14",
+        "ff": "2026-05-27",
         "resp": "",
         "est": "por_hacer",
         "com": "",
@@ -996,78 +996,6 @@
             "nombre": "Formulación de expediente para opinión CGR",
             "fi": "2026-05-22",
             "ff": "2026-05-27",
-            "resp": "",
-            "est": "por_hacer",
-            "com": ""
-          },
-          {
-            "id": "s1774908068482",
-            "nombre": "Trámite ante CGR",
-            "fi": "2026-05-28",
-            "ff": "2026-05-28",
-            "resp": "",
-            "est": "por_hacer",
-            "com": ""
-          },
-          {
-            "id": "s1774908110451",
-            "nombre": "Emisión de opinión favorable de la CGR",
-            "fi": "2026-05-29",
-            "ff": "2026-06-18",
-            "resp": "",
-            "est": "por_hacer",
-            "com": ""
-          },
-          {
-            "id": "s1774908155203",
-            "nombre": "ACFFAA solicita expediente de inicio a FAP",
-            "fi": "2026-06-19",
-            "ff": "2026-06-25",
-            "resp": "",
-            "est": "por_hacer",
-            "com": ""
-          },
-          {
-            "id": "s1774908184195",
-            "nombre": "FAP remite expediente de inicio",
-            "fi": "2026-06-26",
-            "ff": "2026-06-26",
-            "resp": "",
-            "est": "por_hacer",
-            "com": ""
-          },
-          {
-            "id": "s1774908209859",
-            "nombre": "Revisión del expediente de inicio",
-            "fi": "2026-06-30",
-            "ff": "2026-07-02",
-            "resp": "",
-            "est": "por_hacer",
-            "com": ""
-          },
-          {
-            "id": "s1774908236483",
-            "nombre": "Interacción de mercado",
-            "fi": "2026-07-03",
-            "ff": "2026-07-10",
-            "resp": "",
-            "est": "por_hacer",
-            "com": ""
-          },
-          {
-            "id": "s1774908284732",
-            "nombre": "Consensuar el requerimiento y el proyecto",
-            "fi": "2026-07-13",
-            "ff": "2026-07-13",
-            "resp": "",
-            "est": "por_hacer",
-            "com": ""
-          },
-          {
-            "id": "s1774908315259",
-            "nombre": "Aprobación del expediente de contratación",
-            "fi": "2026-07-14",
-            "ff": "2026-07-14",
             "resp": "",
             "est": "por_hacer",
             "com": ""
