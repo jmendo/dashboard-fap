@@ -877,7 +877,7 @@
         "id": "t1774908344563",
         "nombre": "PROCEDIMIENTO DE SELECCIÓN (ACFFAA)",
         "fi": "2026-07-15",
-        "ff": "2026-07-31",
+        "ff": "2026-07-24",
         "resp": "",
         "est": "por_hacer",
         "com": "",
@@ -904,8 +904,8 @@
           {
             "id": "s1774908448243",
             "nombre": "BUENA PRO",
-            "fi": "2026-07-31",
-            "ff": "2026-07-31",
+            "fi": "2026-07-24",
+            "ff": "2026-07-24",
             "resp": "",
             "est": "por_hacer",
             "com": ""
@@ -920,7 +920,7 @@
         "resp": "",
         "est": "por_hacer",
         "com": "",
-        "exp": false,
+        "exp": true,
         "subs": [
           {
             "id": "s1774908487875",
