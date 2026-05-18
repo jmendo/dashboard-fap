@@ -711,8 +711,8 @@
       {
         "id": "t1",
         "nombre": "Actos preparatorios",
-        "fi": "2026-03-03",
-        "ff": "2026-06-04",
+        "fi": "2026-05-15",
+        "ff": "2026-06-05",
         "resp": "",
         "est": "por_hacer",
         "com": "",
@@ -730,8 +730,8 @@
           {
             "id": "s1774905786327",
             "nombre": "RD PARA APROBACIÓN DE ESTUDIO DEFINITIVO",
-            "fi": "2026-03-03",
-            "ff": "2026-03-04",
+            "fi": "2026-06-05",
+            "ff": "2026-06-05",
             "resp": "",
             "est": "por_hacer",
             "com": ""
