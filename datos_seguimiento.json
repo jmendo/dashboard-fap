@@ -712,7 +712,7 @@
         "id": "t1",
         "nombre": "Actos preparatorios",
         "fi": "2026-05-15",
-        "ff": "2026-06-08",
+        "ff": "2026-06-09",
         "resp": "",
         "est": "por_hacer",
         "com": "",
@@ -748,8 +748,8 @@
           {
             "id": "s1779121063797",
             "nombre": "FORMULACIÓN DE ANEXO 2 - SE REMITE A SELEC",
-            "fi": "",
-            "ff": "",
+            "fi": "2026-06-09",
+            "ff": "2026-06-09",
             "resp": "",
             "est": "por_hacer",
             "com": ""
