@@ -712,7 +712,7 @@
         "id": "t1",
         "nombre": "Actos preparatorios",
         "fi": "2026-05-15",
-        "ff": "2026-06-17",
+        "ff": "2026-06-18",
         "resp": "",
         "est": "por_hacer",
         "com": "",
@@ -802,8 +802,8 @@
           {
             "id": "s1779121276095",
             "nombre": "DIGLO REMITE EXPEDIENTE DE INICIO",
-            "fi": "",
-            "ff": "",
+            "fi": "2026-06-18",
+            "ff": "2026-06-18",
             "resp": "",
             "est": "por_hacer",
             "com": ""
