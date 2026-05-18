@@ -1395,7 +1395,7 @@
         "id": "t3",
         "nombre": "FASE Ejecución Contractual",
         "fi": "2026-05-05",
-        "ff": "2026-08-31",
+        "ff": "2026-09-04",
         "resp": "",
         "est": "por_hacer",
         "com": "",
@@ -1450,7 +1450,7 @@
             "id": "s1779126529688",
             "nombre": "Devengado",
             "fi": "2026-09-01",
-            "ff": "",
+            "ff": "2026-09-04",
             "resp": "",
             "est": "por_hacer",
             "com": ""
