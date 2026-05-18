@@ -874,27 +874,6 @@
         ]
       },
       {
-        "id": "t1774905858256",
-        "nombre": "Aprobación Secreto Militar",
-        "fi": "2026-01-16",
-        "ff": "2026-01-23",
-        "resp": "",
-        "est": "por_hacer",
-        "com": "",
-        "exp": true,
-        "subs": [
-          {
-            "id": "s1774905951441",
-            "nombre": "Consulta a ACFFA categoria sist de armas",
-            "fi": "2026-01-16",
-            "ff": "2026-01-23",
-            "resp": "",
-            "est": "completado",
-            "com": ""
-          }
-        ]
-      },
-      {
         "id": "t1774908344563",
         "nombre": "PROCEDIMIENTO DE SELECCIÓN (ACFFAA)",
         "fi": "2026-07-15",
