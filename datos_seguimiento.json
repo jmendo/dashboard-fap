@@ -1405,14 +1405,14 @@
             "id": "t3s1",
             "nombre": "Suscripción de contrato",
             "fi": "2026-05-05",
-            "ff": "2026-05-18",
+            "ff": "2026-05-14",
             "resp": "",
-            "est": "en_progreso",
+            "est": "completado",
             "com": ""
           },
           {
             "id": "s1776374551463",
-            "nombre": "Internamiento (90 dc)",
+            "nombre": "Compromiso",
             "fi": "2026-05-19",
             "ff": "2026-08-28",
             "resp": "",
