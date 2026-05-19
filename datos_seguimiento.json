@@ -1457,7 +1457,7 @@
         "tipo": "proceso",
         "nombre": "PROCESO 2:ALMACENAMIENTO STORAGE",
         "fi": "2026-05-19",
-        "ff": "2026-06-12",
+        "ff": "2026-06-22",
         "resp": "",
         "est": "por_hacer",
         "com": "",
@@ -1506,7 +1506,7 @@
             "id": "p1779210467534f2",
             "nombre": "FASE 2 — Procedimiento de Selección",
             "fi": "2026-06-02",
-            "ff": "2026-06-12",
+            "ff": "2026-06-22",
             "resp": "",
             "est": "por_hacer",
             "com": "",
@@ -1533,8 +1533,8 @@
               {
                 "id": "s1779211004872",
                 "nombre": "BUENA PRO",
-                "fi": "",
-                "ff": "",
+                "fi": "2026-06-22",
+                "ff": "2026-06-22",
                 "resp": "",
                 "est": "por_hacer",
                 "com": ""
