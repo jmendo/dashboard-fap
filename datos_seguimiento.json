@@ -1164,7 +1164,7 @@
         "id": "t1",
         "nombre": "FASE 1 — Actos preparatorios",
         "fi": "2026-05-19",
-        "ff": "2026-05-21",
+        "ff": "2026-05-27",
         "resp": "",
         "est": "por_hacer",
         "com": "",
@@ -1192,7 +1192,7 @@
             "id": "s1779208797281",
             "nombre": "CERTIFICACIÓN PRESUPUESTAL",
             "fi": "2026-05-22",
-            "ff": "",
+            "ff": "2026-05-27",
             "resp": "",
             "est": "por_hacer",
             "com": ""
