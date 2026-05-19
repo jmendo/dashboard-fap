@@ -1255,7 +1255,7 @@
         "resp": "",
         "est": "por_hacer",
         "com": "",
-        "exp": true,
+        "exp": false,
         "subs": [
           {
             "id": "t3s1",
@@ -1313,7 +1313,7 @@
         "resp": "",
         "est": "por_hacer",
         "com": "",
-        "exp": true,
+        "exp": false,
         "fases": [
           {
             "id": "p1779209592309f1",
@@ -1323,7 +1323,7 @@
             "resp": "",
             "est": "por_hacer",
             "com": "",
-            "exp": true,
+            "exp": false,
             "subs": [
               {
                 "id": "s1779209669183",
@@ -1362,7 +1362,7 @@
             "resp": "",
             "est": "por_hacer",
             "com": "",
-            "exp": true,
+            "exp": false,
             "subs": [
               {
                 "id": "s1779210134101",
@@ -1401,7 +1401,7 @@
             "resp": "",
             "est": "por_hacer",
             "com": "",
-            "exp": true,
+            "exp": false,
             "subs": [
               {
                 "id": "s1779210272926",
