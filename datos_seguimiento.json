@@ -1510,8 +1510,27 @@
             "resp": "",
             "est": "por_hacer",
             "com": "",
-            "exp": false,
-            "subs": []
+            "exp": true,
+            "subs": [
+              {
+                "id": "s1779210947111",
+                "nombre": "Nueva subtarea",
+                "fi": "",
+                "ff": "",
+                "resp": "",
+                "est": "por_hacer",
+                "com": ""
+              },
+              {
+                "id": "s1779210947751",
+                "nombre": "Nueva subtarea",
+                "fi": "",
+                "ff": "",
+                "resp": "",
+                "est": "por_hacer",
+                "com": ""
+              }
+            ]
           },
           {
             "id": "p1779210467534f3",
