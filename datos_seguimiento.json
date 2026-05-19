@@ -1628,7 +1628,7 @@
             "resp": "",
             "est": "por_hacer",
             "com": "",
-            "exp": true,
+            "exp": false,
             "subs": [
               {
                 "id": "s1779211531302",
@@ -1667,8 +1667,36 @@
             "resp": "",
             "est": "por_hacer",
             "com": "",
-            "exp": false,
-            "subs": []
+            "exp": true,
+            "subs": [
+              {
+                "id": "s1779211614358",
+                "nombre": "Nueva subtarea",
+                "fi": "",
+                "ff": "",
+                "resp": "",
+                "est": "por_hacer",
+                "com": ""
+              },
+              {
+                "id": "s1779211614918",
+                "nombre": "Nueva subtarea",
+                "fi": "",
+                "ff": "",
+                "resp": "",
+                "est": "por_hacer",
+                "com": ""
+              },
+              {
+                "id": "s1779211615590",
+                "nombre": "Nueva subtarea",
+                "fi": "",
+                "ff": "",
+                "resp": "",
+                "est": "por_hacer",
+                "com": ""
+              }
+            ]
           },
           {
             "id": "p1779211255035f3",
