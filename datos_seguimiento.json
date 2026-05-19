@@ -2240,6 +2240,104 @@
       }
     ]
   },
+  "snpmgi_catalogo_v1": {
+    "2163489": {
+      "nombre": "HANGARES EFOPI",
+      "tipo": "PI",
+      "fuente": "RO",
+      "uei": "DIGLO"
+    },
+    "2234934": {
+      "nombre": "SPARTAN - C27J",
+      "tipo": "PI",
+      "fuente": "RO",
+      "uei": "DIGLO"
+    },
+    "2313734": {
+      "nombre": "RADAR 3D",
+      "tipo": "PI",
+      "fuente": "ROOC",
+      "uei": "COMOP"
+    },
+    "2481370": {
+      "nombre": "SIST. COMUNICACIÓN SATELITAL",
+      "tipo": "PI",
+      "fuente": "RO",
+      "uei": "DITEL"
+    },
+    "2492600": {
+      "nombre": "VEHÍCULOS - SETRA",
+      "tipo": "IOARR",
+      "fuente": "RO",
+      "uei": "DIGLO"
+    },
+    "2494066": {
+      "nombre": "PARACAIDAS",
+      "tipo": "IOARR",
+      "fuente": "RO",
+      "uei": "COMOP"
+    },
+    "2573425": {
+      "nombre": "AVIONES CAZA",
+      "tipo": "PI",
+      "fuente": "ROOC",
+      "uei": "COMOP"
+    },
+    "2576672": {
+      "nombre": "SALA DE USOS MÚLTIPLES - ESFAP",
+      "tipo": "IOARR",
+      "fuente": "RO",
+      "uei": "DIGLO"
+    },
+    "2598085": {
+      "nombre": "CRIPTOLÓGICO",
+      "tipo": "IOARR",
+      "fuente": "RO",
+      "uei": "DITEL"
+    },
+    "2641956": {
+      "nombre": "AERONAVES ACROBÁTICAS",
+      "tipo": "PI",
+      "fuente": "RO",
+      "uei": "COMOP"
+    },
+    "2644770": {
+      "nombre": "LUCES DE BALIZAJES",
+      "tipo": "IOARR",
+      "fuente": "RO",
+      "uei": "DIGLO"
+    },
+    "2652526": {
+      "nombre": "REPOSICIÓN DATA CENTER",
+      "tipo": "IOARR",
+      "fuente": "RO",
+      "uei": "DITEL"
+    },
+    "2662544": {
+      "nombre": "HELIBALDES",
+      "tipo": "IOARR",
+      "fuente": "RO",
+      "uei": "DIGLO"
+    },
+    "2674913": {
+      "nombre": "CERCO PERIMÉTRICO - ESSEL",
+      "tipo": "IOARR",
+      "fuente": "RO",
+      "uei": "DIGLO"
+    },
+    "2676804": {
+      "nombre": "ADQUIS. HARDWARE E IMPRESORAS",
+      "tipo": "IOARR",
+      "fuente": "RO",
+      "uei": "DITEL"
+    },
+    "2702643": {
+      "nombre": "ADQUISICIÓN DE EQUIPOS - DIFAP",
+      "tipo": "IOARR",
+      "fuente": "RO",
+      "uei": "—"
+    }
+  },
   "snpmgi_v1_2163489": {
     "metaFisica": "El PIM será reorientado a otras inversiones priorizadas por la FAP.",
     "devengadoLabel": "",
