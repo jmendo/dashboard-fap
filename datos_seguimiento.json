@@ -1457,7 +1457,7 @@
         "tipo": "proceso",
         "nombre": "PROCESO 2:ALMACENAMIENTO STORAGE",
         "fi": "2026-05-19",
-        "ff": "2026-06-30",
+        "ff": "2026-07-07",
         "resp": "",
         "est": "por_hacer",
         "com": "",
@@ -1553,8 +1553,8 @@
           {
             "id": "p1779210467534f3",
             "nombre": "FASE 3 — Ejecución Contractual",
-            "fi": "",
-            "ff": "",
+            "fi": "2026-07-01",
+            "ff": "2026-07-07",
             "resp": "",
             "est": "por_hacer",
             "com": "",
@@ -1563,8 +1563,8 @@
               {
                 "id": "s1779211074153",
                 "nombre": "PERFECCIONAMIENTO",
-                "fi": "",
-                "ff": "",
+                "fi": "2026-07-01",
+                "ff": "2026-07-07",
                 "resp": "",
                 "est": "por_hacer",
                 "com": ""
