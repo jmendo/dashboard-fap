@@ -1456,7 +1456,7 @@
         "id": "p1779210467534",
         "tipo": "proceso",
         "nombre": "PROCESO 2:ALMACENAMIENTO STORAGE",
-        "fi": "",
+        "fi": "2026-05-19",
         "ff": "",
         "resp": "",
         "est": "por_hacer",
@@ -1466,7 +1466,7 @@
           {
             "id": "p1779210467534f1",
             "nombre": "FASE 1 — Actos Preparatorios",
-            "fi": "",
+            "fi": "2026-05-19",
             "ff": "",
             "resp": "",
             "est": "por_hacer",
@@ -1476,7 +1476,7 @@
               {
                 "id": "s1779210511399",
                 "nombre": "INCLUSIÓN EN EL PAC",
-                "fi": "",
+                "fi": "2026-05-19",
                 "ff": "",
                 "resp": "",
                 "est": "por_hacer",
