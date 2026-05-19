@@ -1179,7 +1179,7 @@
             "resp": "",
             "est": "por_hacer",
             "com": "",
-            "exp": false,
+            "exp": true,
             "subs": [
               {
                 "id": "s1779229888798",
@@ -1187,7 +1187,7 @@
                 "fi": "2026-05-19",
                 "ff": "2026-05-19",
                 "resp": "",
-                "est": "por_hacer",
+                "est": "en_progreso",
                 "com": ""
               },
               {
@@ -1218,7 +1218,7 @@
             "resp": "",
             "est": "por_hacer",
             "com": "",
-            "exp": true,
+            "exp": false,
             "subs": []
           },
           {
