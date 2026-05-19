@@ -1165,7 +1165,7 @@
         "tipo": "proceso",
         "nombre": "PROCESO 1: TRABAJO WORKSTATION Y LAPTOP ROBUSTECIDA",
         "fi": "2026-05-19",
-        "ff": "2026-06-09",
+        "ff": "2026-06-10",
         "resp": "",
         "est": "por_hacer",
         "com": "",
@@ -1214,7 +1214,7 @@
             "id": "f1779229823416",
             "nombre": "FASE 2 — Procedimiento de Selección",
             "fi": "2026-05-28",
-            "ff": "2026-06-09",
+            "ff": "2026-06-10",
             "resp": "",
             "est": "por_hacer",
             "com": "",
@@ -1241,8 +1241,8 @@
               {
                 "id": "s1779230044695",
                 "nombre": "BUENA PRO",
-                "fi": "",
-                "ff": "",
+                "fi": "2026-06-10",
+                "ff": "2026-06-10",
                 "resp": "",
                 "est": "por_hacer",
                 "com": ""
