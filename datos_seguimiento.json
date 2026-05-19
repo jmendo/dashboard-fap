@@ -1165,7 +1165,7 @@
         "tipo": "proceso",
         "nombre": "PROCESO 1: TRABAJO WORKSTATION Y LAPTOP ROBUSTECIDA",
         "fi": "2026-05-19",
-        "ff": "2026-05-19",
+        "ff": "2026-05-21",
         "resp": "",
         "est": "por_hacer",
         "com": "",
@@ -1175,7 +1175,7 @@
             "id": "f1779229820791",
             "nombre": "FASE 1 — Actos Preparatorios",
             "fi": "2026-05-19",
-            "ff": "2026-05-19",
+            "ff": "2026-05-21",
             "resp": "",
             "est": "por_hacer",
             "com": "",
@@ -1193,8 +1193,8 @@
               {
                 "id": "s1779229909343",
                 "nombre": "REQUERIMIENTO ÁREA USUARIA",
-                "fi": "",
-                "ff": "",
+                "fi": "2026-05-20",
+                "ff": "2026-05-21",
                 "resp": "",
                 "est": "por_hacer",
                 "com": ""
