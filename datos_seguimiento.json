@@ -1340,7 +1340,7 @@
         "fi": "2026-03-31",
         "ff": "2026-05-04",
         "resp": "",
-        "est": "por_hacer",
+        "est": "completado",
         "com": "",
         "exp": true,
         "subs": [
@@ -1386,7 +1386,7 @@
             "fi": "2026-04-22",
             "ff": "2026-05-04",
             "resp": "",
-            "est": "por_hacer",
+            "est": "completado",
             "com": ""
           }
         ]
