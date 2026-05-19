@@ -1746,6 +1746,15 @@
               },
               {
                 "id": "s1779211736383",
+                "nombre": "INTERNAMIENTO",
+                "fi": "",
+                "ff": "",
+                "resp": "",
+                "est": "por_hacer",
+                "com": ""
+              },
+              {
+                "id": "s1779211811920",
                 "nombre": "Nueva subtarea",
                 "fi": "",
                 "ff": "",
