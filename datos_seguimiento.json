@@ -1309,7 +1309,7 @@
         "tipo": "proceso",
         "nombre": "PROCESO 2: COMPUTADORA PORTATIL Y MONITOR",
         "fi": "2026-05-20",
-        "ff": "2026-05-25",
+        "ff": "2026-05-27",
         "resp": "",
         "est": "por_hacer",
         "com": "",
@@ -1319,7 +1319,7 @@
             "id": "p1779209592309f1",
             "nombre": "FASE 1 — Actos Preparatorios",
             "fi": "2026-05-20",
-            "ff": "2026-05-25",
+            "ff": "2026-05-27",
             "resp": "",
             "est": "por_hacer",
             "com": "",
@@ -1337,8 +1337,8 @@
               {
                 "id": "s1779209703383",
                 "nombre": "REQUERIMIENTO ÁREA USUARIA",
-                "fi": "",
-                "ff": "",
+                "fi": "2026-05-26",
+                "ff": "2026-05-27",
                 "resp": "",
                 "est": "por_hacer",
                 "com": ""
