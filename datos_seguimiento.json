@@ -1313,7 +1313,7 @@
         "resp": "",
         "est": "por_hacer",
         "com": "",
-        "exp": false,
+        "exp": true,
         "fases": [
           {
             "id": "p1779209592309f1",
@@ -1449,6 +1449,17 @@
                 "com": ""
               }
             ]
+          },
+          {
+            "id": "f1779226027903",
+            "nombre": "Nueva fase",
+            "fi": "",
+            "ff": "",
+            "resp": "",
+            "est": "por_hacer",
+            "com": "",
+            "exp": true,
+            "subs": []
           }
         ]
       },
