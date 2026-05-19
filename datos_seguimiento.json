@@ -1180,7 +1180,17 @@
             "est": "por_hacer",
             "com": "",
             "exp": true,
-            "subs": []
+            "subs": [
+              {
+                "id": "s1779229888798",
+                "nombre": "INCLUSIÓN EN EL PAC",
+                "fi": "",
+                "ff": "",
+                "resp": "",
+                "est": "por_hacer",
+                "com": ""
+              }
+            ]
           },
           {
             "id": "f1779229823416",
