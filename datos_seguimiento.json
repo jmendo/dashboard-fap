@@ -1164,7 +1164,7 @@
         "id": "t1",
         "nombre": "FASE 1 — Actos preparatorios",
         "fi": "2026-05-19",
-        "ff": "2026-05-19",
+        "ff": "2026-05-21",
         "resp": "",
         "est": "por_hacer",
         "com": "",
@@ -1182,6 +1182,15 @@
           {
             "id": "s1779208708393",
             "nombre": "REQUERIMIENTO ÁREA USUARIA",
+            "fi": "2026-05-20",
+            "ff": "2026-05-21",
+            "resp": "",
+            "est": "por_hacer",
+            "com": ""
+          },
+          {
+            "id": "s1779208797281",
+            "nombre": "Nueva subtarea",
             "fi": "",
             "ff": "",
             "resp": "",
