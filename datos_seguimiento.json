@@ -1250,7 +1250,7 @@
       {
         "id": "t3",
         "nombre": "FASE 3 — Ejecución",
-        "fi": "",
+        "fi": "2026-06-19",
         "ff": "",
         "resp": "",
         "est": "por_hacer",
@@ -1260,7 +1260,7 @@
           {
             "id": "t3s1",
             "nombre": "PERFECCIONAMIENTO DEL CONTRATO",
-            "fi": "",
+            "fi": "2026-06-19",
             "ff": "",
             "resp": "",
             "est": "por_hacer",
