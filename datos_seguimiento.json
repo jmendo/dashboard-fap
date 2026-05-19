@@ -1169,7 +1169,7 @@
         "resp": "",
         "est": "por_hacer",
         "com": "",
-        "exp": false,
+        "exp": true,
         "fases": [
           {
             "id": "p1779226065727f1",
