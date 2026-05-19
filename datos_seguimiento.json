@@ -1283,6 +1283,15 @@
             "resp": "",
             "est": "por_hacer",
             "com": ""
+          },
+          {
+            "id": "s1779209425693",
+            "nombre": "Nueva subtarea",
+            "fi": "",
+            "ff": "",
+            "resp": "",
+            "est": "por_hacer",
+            "com": ""
           }
         ]
       }
