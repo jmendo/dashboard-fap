@@ -610,7 +610,8 @@
         "oct": 0,
         "nov": 0,
         "dic": 0
-      }
+      },
+      "uei": "DITEL"
     }
   ],
   "snpmgi_v1_2492600": {
@@ -2335,7 +2336,7 @@
       "nombre": "ADQUISICIÓN DE EQUIPOS - DIFAP",
       "tipo": "IOARR",
       "fuente": "RO",
-      "uei": "—"
+      "uei": "DITEL"
     }
   },
   "snpmgi_v1_2163489": {
