@@ -1218,7 +1218,7 @@
             "resp": "",
             "est": "por_hacer",
             "com": "",
-            "exp": false,
+            "exp": true,
             "subs": [
               {
                 "id": "s1779229974839",
@@ -1249,7 +1249,7 @@
               },
               {
                 "id": "s1779230067383",
-                "nombre": "CONSENTIMIENTO BUENA PRO",
+                "nombre": "CONSENTIMIENTO",
                 "fi": "2026-06-11",
                 "ff": "2026-06-17",
                 "resp": "",
