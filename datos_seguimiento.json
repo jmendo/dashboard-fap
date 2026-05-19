@@ -1161,41 +1161,54 @@
     "comentarios": "Proceso 1: TRABAJO WORKSTATION Y LAPTOP ROBUSTECIDA/ Proceso 2: ",
     "gantt": [
       {
-        "id": "t1",
-        "nombre": "FASE 1 — Actos preparatorios",
+        "id": "p1779226065727",
+        "tipo": "proceso",
+        "nombre": "PROCESO 1: FASE 1 — Actos preparatorios",
         "fi": "2026-05-19",
         "ff": "2026-05-27",
         "resp": "",
         "est": "por_hacer",
         "com": "",
-        "exp": false,
-        "subs": [
+        "exp": true,
+        "fases": [
           {
-            "id": "t1s1",
-            "nombre": "INCLUSIÓN EN EL PAC",
+            "id": "p1779226065727f1",
+            "nombre": "FASE 1 — Actos preparatorios",
             "fi": "2026-05-19",
-            "ff": "2026-05-19",
-            "resp": "",
-            "est": "en_progreso",
-            "com": ""
-          },
-          {
-            "id": "s1779208708393",
-            "nombre": "REQUERIMIENTO ÁREA USUARIA",
-            "fi": "2026-05-20",
-            "ff": "2026-05-21",
-            "resp": "",
-            "est": "por_hacer",
-            "com": ""
-          },
-          {
-            "id": "s1779208797281",
-            "nombre": "CERTIFICACIÓN PRESUPUESTAL",
-            "fi": "2026-05-22",
             "ff": "2026-05-27",
             "resp": "",
             "est": "por_hacer",
-            "com": ""
+            "com": "",
+            "exp": true,
+            "subs": [
+              {
+                "id": "t1s1",
+                "nombre": "INCLUSIÓN EN EL PAC",
+                "fi": "2026-05-19",
+                "ff": "2026-05-19",
+                "resp": "",
+                "est": "en_progreso",
+                "com": ""
+              },
+              {
+                "id": "s1779208708393",
+                "nombre": "REQUERIMIENTO ÁREA USUARIA",
+                "fi": "2026-05-20",
+                "ff": "2026-05-21",
+                "resp": "",
+                "est": "por_hacer",
+                "com": ""
+              },
+              {
+                "id": "s1779208797281",
+                "nombre": "CERTIFICACIÓN PRESUPUESTAL",
+                "fi": "2026-05-22",
+                "ff": "2026-05-27",
+                "resp": "",
+                "est": "por_hacer",
+                "com": ""
+              }
+            ]
           }
         ]
       },
