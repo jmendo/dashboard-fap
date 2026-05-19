@@ -1203,7 +1203,7 @@
         "id": "t2",
         "nombre": "FASE 2 — Procedimiento de selección",
         "fi": "2026-05-28",
-        "ff": "2026-06-05",
+        "ff": "2026-06-08",
         "resp": "",
         "est": "por_hacer",
         "com": "",
@@ -1230,8 +1230,8 @@
           {
             "id": "s1779209207916",
             "nombre": "BUENA PRO",
-            "fi": "",
-            "ff": "",
+            "fi": "2026-06-08",
+            "ff": "2026-06-08",
             "resp": "",
             "est": "por_hacer",
             "com": ""
