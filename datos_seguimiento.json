@@ -1163,8 +1163,8 @@
       {
         "id": "t1",
         "nombre": "FASE 1 — Actos preparatorios",
-        "fi": "",
-        "ff": "",
+        "fi": "2026-05-19",
+        "ff": "2026-05-19",
         "resp": "",
         "est": "por_hacer",
         "com": "",
@@ -1173,8 +1173,8 @@
           {
             "id": "t1s1",
             "nombre": "INCLUSIÓN EN EL PAC",
-            "fi": "",
-            "ff": "",
+            "fi": "2026-05-19",
+            "ff": "2026-05-19",
             "resp": "",
             "est": "por_hacer",
             "com": ""
