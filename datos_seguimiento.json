@@ -1259,7 +1259,7 @@
         "subs": [
           {
             "id": "t3s1",
-            "nombre": "PERFECCIONAMIENTO DEL CONTRATO",
+            "nombre": "PERFECCIONAMIENTO",
             "fi": "2026-06-19",
             "ff": "2026-07-01",
             "resp": "",
@@ -1268,7 +1268,7 @@
           },
           {
             "id": "s1779209329893",
-            "nombre": "Nueva subtarea",
+            "nombre": "CONTRATO",
             "fi": "2026-07-02",
             "ff": "2026-07-03",
             "resp": "",
