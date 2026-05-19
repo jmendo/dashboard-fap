@@ -1308,7 +1308,7 @@
         "id": "p1779209592309",
         "tipo": "proceso",
         "nombre": "PROCESO 2: COMPUTADORA PORTATIL Y MONITOR",
-        "fi": "",
+        "fi": "2026-05-20",
         "ff": "",
         "resp": "",
         "est": "por_hacer",
@@ -1318,7 +1318,7 @@
           {
             "id": "p1779209592309f1",
             "nombre": "FASE 1 — Actos Preparatorios",
-            "fi": "",
+            "fi": "2026-05-20",
             "ff": "",
             "resp": "",
             "est": "por_hacer",
@@ -1328,7 +1328,7 @@
               {
                 "id": "s1779209669183",
                 "nombre": "INCLUSIÓN EN EL PAC",
-                "fi": "",
+                "fi": "2026-05-20",
                 "ff": "",
                 "resp": "",
                 "est": "por_hacer",
