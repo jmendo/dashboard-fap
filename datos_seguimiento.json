@@ -1251,7 +1251,7 @@
         "id": "t3",
         "nombre": "FASE 3 — Ejecución",
         "fi": "2026-06-19",
-        "ff": "2026-07-01",
+        "ff": "2026-07-03",
         "resp": "",
         "est": "por_hacer",
         "com": "",
@@ -1270,7 +1270,7 @@
             "id": "s1779209329893",
             "nombre": "Nueva subtarea",
             "fi": "2026-07-02",
-            "ff": "",
+            "ff": "2026-07-03",
             "resp": "",
             "est": "por_hacer",
             "com": ""
