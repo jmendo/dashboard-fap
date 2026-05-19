@@ -1165,7 +1165,7 @@
         "tipo": "proceso",
         "nombre": "PROCESO 1: TRABAJO WORKSTATION Y LAPTOP ROBUSTECIDA",
         "fi": "2026-05-19",
-        "ff": "2026-05-27",
+        "ff": "2026-05-19",
         "resp": "",
         "est": "por_hacer",
         "com": "",
@@ -1174,8 +1174,8 @@
           {
             "id": "f1779229820791",
             "nombre": "FASE 1 — Actos Preparatorios",
-            "fi": "",
-            "ff": "",
+            "fi": "2026-05-19",
+            "ff": "2026-05-19",
             "resp": "",
             "est": "por_hacer",
             "com": "",
@@ -1184,8 +1184,8 @@
               {
                 "id": "s1779229888798",
                 "nombre": "INCLUSIÓN EN EL PAC",
-                "fi": "",
-                "ff": "",
+                "fi": "2026-05-19",
+                "ff": "2026-05-19",
                 "resp": "",
                 "est": "por_hacer",
                 "com": ""
