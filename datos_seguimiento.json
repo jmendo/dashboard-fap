@@ -1172,148 +1172,37 @@
         "exp": true,
         "fases": [
           {
-            "id": "p1779226065727f1",
-            "nombre": "FASE 1 — Actos preparatorios",
-            "fi": "2026-05-19",
-            "ff": "2026-05-27",
+            "id": "f1779229820791",
+            "nombre": "FASE 1 — Actos Preparatorios",
+            "fi": "",
+            "ff": "",
             "resp": "",
             "est": "por_hacer",
             "com": "",
-            "exp": false,
-            "subs": [
-              {
-                "id": "t1s1",
-                "nombre": "INCLUSIÓN EN EL PAC",
-                "fi": "2026-05-19",
-                "ff": "2026-05-19",
-                "resp": "",
-                "est": "en_progreso",
-                "com": ""
-              },
-              {
-                "id": "s1779208708393",
-                "nombre": "REQUERIMIENTO ÁREA USUARIA",
-                "fi": "2026-05-20",
-                "ff": "2026-05-21",
-                "resp": "",
-                "est": "por_hacer",
-                "com": ""
-              },
-              {
-                "id": "s1779208797281",
-                "nombre": "CERTIFICACIÓN PRESUPUESTAL",
-                "fi": "2026-05-22",
-                "ff": "2026-05-27",
-                "resp": "",
-                "est": "por_hacer",
-                "com": ""
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "id": "t2",
-        "nombre": "FASE 2 — Procedimiento de selección",
-        "fi": "2026-05-28",
-        "ff": "2026-06-18",
-        "resp": "",
-        "est": "por_hacer",
-        "com": "",
-        "exp": false,
-        "subs": [
-          {
-            "id": "t2s1",
-            "nombre": "CONVOCATORIA",
-            "fi": "2026-05-28",
-            "ff": "2026-05-28",
-            "resp": "",
-            "est": "por_hacer",
-            "com": ""
+            "exp": true,
+            "subs": []
           },
           {
-            "id": "s1779209159589",
-            "nombre": "PRESENTACIÓN DE PROPUESTAS TÉCNICAS",
-            "fi": "2026-05-29",
-            "ff": "2026-06-05",
+            "id": "f1779229823416",
+            "nombre": "FASE 2 — Procedimiento de Selección",
+            "fi": "",
+            "ff": "",
             "resp": "",
             "est": "por_hacer",
-            "com": ""
+            "com": "",
+            "exp": true,
+            "subs": []
           },
           {
-            "id": "s1779209207916",
-            "nombre": "BUENA PRO",
-            "fi": "2026-06-08",
-            "ff": "2026-06-08",
+            "id": "f1779229824336",
+            "nombre": "FASE 3 — Ejecución Contractual",
+            "fi": "",
+            "ff": "",
             "resp": "",
             "est": "por_hacer",
-            "com": ""
-          },
-          {
-            "id": "s1779209248997",
-            "nombre": "CONSENTIMIENTO",
-            "fi": "2026-06-09",
-            "ff": "2026-06-18",
-            "resp": "",
-            "est": "por_hacer",
-            "com": ""
-          }
-        ]
-      },
-      {
-        "id": "t3",
-        "nombre": "FASE 3 — Ejecución",
-        "fi": "2026-06-19",
-        "ff": "2026-08-04",
-        "resp": "",
-        "est": "por_hacer",
-        "com": "",
-        "exp": false,
-        "subs": [
-          {
-            "id": "t3s1",
-            "nombre": "PERFECCIONAMIENTO",
-            "fi": "2026-06-19",
-            "ff": "2026-07-01",
-            "resp": "",
-            "est": "por_hacer",
-            "com": ""
-          },
-          {
-            "id": "s1779209329893",
-            "nombre": "CONTRATO",
-            "fi": "2026-07-02",
-            "ff": "2026-07-03",
-            "resp": "",
-            "est": "por_hacer",
-            "com": ""
-          },
-          {
-            "id": "s1779209378828",
-            "nombre": "COMPROMISO ANUAL",
-            "fi": "2026-07-06",
-            "ff": "2026-07-07",
-            "resp": "",
-            "est": "por_hacer",
-            "com": ""
-          },
-          {
-            "id": "s1779209425693",
-            "nombre": "EJECUCIÓN CONTRACTUAL (15 dc)",
-            "fi": "2026-07-08",
-            "ff": "2026-07-22",
-            "resp": "",
-            "est": "por_hacer",
-            "com": ""
-          },
-          {
-            "id": "s1779209474230",
-            "nombre": "DEVENGADO",
-            "fi": "2026-07-23",
-            "ff": "2026-08-04",
-            "resp": "",
-            "est": "por_hacer",
-            "com": ""
+            "com": "",
+            "exp": true,
+            "subs": []
           }
         ]
       },
@@ -1326,7 +1215,7 @@
         "resp": "",
         "est": "por_hacer",
         "com": "",
-        "exp": false,
+        "exp": true,
         "fases": [
           {
             "id": "p1779209592309f1",
