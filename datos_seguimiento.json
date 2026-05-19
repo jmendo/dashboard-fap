@@ -1451,6 +1451,52 @@
             ]
           }
         ]
+      },
+      {
+        "id": "p1779210467534",
+        "tipo": "proceso",
+        "nombre": "PROCESO 2: Descripción del proceso",
+        "fi": "",
+        "ff": "",
+        "resp": "",
+        "est": "por_hacer",
+        "com": "",
+        "exp": true,
+        "fases": [
+          {
+            "id": "p1779210467534f1",
+            "nombre": "FASE 1 — Actos Preparatorios",
+            "fi": "",
+            "ff": "",
+            "resp": "",
+            "est": "por_hacer",
+            "com": "",
+            "exp": true,
+            "subs": []
+          },
+          {
+            "id": "p1779210467534f2",
+            "nombre": "FASE 2 — Procedimiento de Selección",
+            "fi": "",
+            "ff": "",
+            "resp": "",
+            "est": "por_hacer",
+            "com": "",
+            "exp": true,
+            "subs": []
+          },
+          {
+            "id": "p1779210467534f3",
+            "nombre": "FASE 3 — Ejecución Contractual",
+            "fi": "",
+            "ff": "",
+            "resp": "",
+            "est": "por_hacer",
+            "com": "",
+            "exp": true,
+            "subs": []
+          }
+        ]
       }
     ],
     "resultado": {
