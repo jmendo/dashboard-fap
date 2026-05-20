@@ -213,8 +213,8 @@
       {
         "id": "t1",
         "nombre": "FASE 1 — Actos preparatorios",
-        "fi": "",
-        "ff": "",
+        "fi": "2026-05-12",
+        "ff": "2026-05-12",
         "resp": "",
         "est": "por_hacer",
         "com": "",
@@ -223,8 +223,8 @@
           {
             "id": "t1s1",
             "nombre": "Aprobación Expediente de Inicio",
-            "fi": "",
-            "ff": "",
+            "fi": "2026-05-12",
+            "ff": "2026-05-12",
             "resp": "",
             "est": "por_hacer",
             "com": ""
