@@ -373,7 +373,7 @@
         "id": "t3",
         "nombre": "FASE 3 — Ejecución",
         "fi": "2026-07-13",
-        "ff": "2026-08-04",
+        "ff": "2026-08-18",
         "resp": "",
         "est": "por_hacer",
         "com": "",
@@ -400,8 +400,8 @@
           {
             "id": "s1779313015334",
             "nombre": "Devengado (Pago Adelantado)",
-            "fi": "",
-            "ff": "",
+            "fi": "2026-08-05",
+            "ff": "2026-08-18",
             "resp": "",
             "est": "por_hacer",
             "com": ""
