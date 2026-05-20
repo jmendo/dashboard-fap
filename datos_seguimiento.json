@@ -280,7 +280,7 @@
         "id": "t2",
         "nombre": "FASE 2 — Procedimiento de selección",
         "fi": "2026-06-03",
-        "ff": "",
+        "ff": "2026-06-03",
         "resp": "",
         "est": "por_hacer",
         "com": "",
@@ -290,7 +290,7 @@
             "id": "t2s1",
             "nombre": "Convocatoria",
             "fi": "2026-06-03",
-            "ff": "",
+            "ff": "2026-06-03",
             "resp": "",
             "est": "por_hacer",
             "com": ""
