@@ -280,7 +280,7 @@
         "id": "t2",
         "nombre": "FASE 2 — Procedimiento de selección",
         "fi": "2026-06-03",
-        "ff": "2026-06-03",
+        "ff": "2026-06-24",
         "resp": "",
         "est": "por_hacer",
         "com": "",
@@ -297,9 +297,9 @@
           },
           {
             "id": "s1779312792342",
-            "nombre": "Nueva subtarea",
-            "fi": "",
-            "ff": "",
+            "nombre": "Registro de Participantes",
+            "fi": "2026-06-04",
+            "ff": "2026-06-24",
             "resp": "",
             "est": "por_hacer",
             "com": ""
