@@ -373,7 +373,7 @@
         "id": "t3",
         "nombre": "FASE 3 — Ejecución",
         "fi": "2026-07-13",
-        "ff": "2027-03-03",
+        "ff": "2027-03-11",
         "resp": "",
         "est": "por_hacer",
         "com": "",
@@ -419,7 +419,7 @@
             "id": "s1779313015958",
             "nombre": "Recepción y Conformidad Técnica de los Paracaídas",
             "fi": "2027-03-04",
-            "ff": "",
+            "ff": "2027-03-11",
             "resp": "",
             "est": "por_hacer",
             "com": ""
