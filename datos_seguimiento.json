@@ -214,7 +214,7 @@
         "id": "t1",
         "nombre": "FASE 1 — Actos preparatorios",
         "fi": "2026-05-12",
-        "ff": "2026-05-29",
+        "ff": "2026-06-01",
         "resp": "",
         "est": "por_hacer",
         "com": "",
@@ -259,8 +259,8 @@
           {
             "id": "s1779312689780",
             "nombre": "Designación del Comité de Selección e Instalación",
-            "fi": "",
-            "ff": "",
+            "fi": "2026-06-01",
+            "ff": "2026-06-01",
             "resp": "",
             "est": "por_hacer",
             "com": ""
