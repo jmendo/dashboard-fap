@@ -2793,14 +2793,14 @@
             "fi": "2026-05-13",
             "ff": "2026-05-20",
             "resp": "",
-            "est": "en_progreso",
+            "est": "completado",
             "com": "Proveedor unico"
           },
           {
             "id": "s1777927920424",
             "nombre": "Presentación de propuestas(Presencial)",
             "fi": "2026-05-21",
-            "ff": "2026-05-27",
+            "ff": "2026-05-29",
             "resp": "",
             "est": "por_hacer",
             "com": ""
