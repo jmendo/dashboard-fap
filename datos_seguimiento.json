@@ -3213,9 +3213,9 @@
             "id": "s1777062252503",
             "nombre": "Evaluación y Calificación",
             "fi": "2026-05-21",
-            "ff": "2026-05-21",
+            "ff": "2026-05-22",
             "resp": "",
-            "est": "por_hacer",
+            "est": "completado",
             "com": "2 d"
           },
           {
@@ -3224,7 +3224,7 @@
             "fi": "2026-05-25",
             "ff": "2026-05-25",
             "resp": "",
-            "est": "por_hacer",
+            "est": "en_progreso",
             "com": "1 d"
           },
           {
