@@ -2173,7 +2173,7 @@
       {
         "id": "t1",
         "nombre": "FASE 1 — Actos preparatorios",
-        "fi": "2026-05-01",
+        "fi": "2026-05-04",
         "ff": "2026-06-12",
         "resp": "",
         "est": "por_hacer",
@@ -2201,7 +2201,7 @@
           {
             "id": "s1777066716939",
             "nombre": "Certificación de Crédito Presupuestario (CCP)",
-            "fi": "2026-05-01",
+            "fi": "2026-05-12",
             "ff": "2026-06-01",
             "resp": "",
             "est": "por_hacer",
