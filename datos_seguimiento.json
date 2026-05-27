@@ -279,7 +279,7 @@
       {
         "id": "t2",
         "nombre": "FASE 2 — Procedimiento de selección",
-        "fi": "2026-06-04",
+        "fi": "2026-06-18",
         "ff": "2026-07-10",
         "resp": "",
         "est": "por_hacer",
@@ -299,7 +299,7 @@
             "id": "s1779312792342",
             "nombre": "Registro de Participantes",
             "fi": "",
-            "ff": "2026-06-24",
+            "ff": "",
             "resp": "",
             "est": "por_hacer",
             "com": ""
@@ -307,8 +307,8 @@
           {
             "id": "s1779312792997",
             "nombre": "Formulación de Consultas y Observaciones",
-            "fi": "2026-06-04",
-            "ff": "2026-06-10",
+            "fi": "",
+            "ff": "",
             "resp": "",
             "est": "por_hacer",
             "com": ""
@@ -316,8 +316,8 @@
           {
             "id": "s1779312793446",
             "nombre": "Absolución de Consultas e Integración de Bases",
-            "fi": "2026-06-11",
-            "ff": "2026-06-17",
+            "fi": "",
+            "ff": "",
             "resp": "",
             "est": "por_hacer",
             "com": ""
@@ -325,8 +325,8 @@
           {
             "id": "s1779312793829",
             "nombre": "Formulación y Preparación de Ofertas por Postores",
-            "fi": "2026-06-18",
-            "ff": "2026-06-23",
+            "fi": "",
+            "ff": "",
             "resp": "",
             "est": "por_hacer",
             "com": ""
@@ -334,8 +334,8 @@
           {
             "id": "s1779312794173",
             "nombre": "Presentación Electrónica de Ofertas (Cierre de Sistema)",
-            "fi": "2026-06-24",
-            "ff": "2026-06-24",
+            "fi": "",
+            "ff": "",
             "resp": "",
             "est": "por_hacer",
             "com": ""
