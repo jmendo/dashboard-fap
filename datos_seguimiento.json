@@ -1514,18 +1514,18 @@
           {
             "id": "p1779209592309f2",
             "nombre": "FASE 2 — Procedimiento de Selección",
-            "fi": "2026-06-03",
-            "ff": "2026-06-10",
+            "fi": "2026-06-10",
+            "ff": "2026-06-11",
             "resp": "",
             "est": "por_hacer",
             "com": "",
-            "exp": false,
+            "exp": true,
             "subs": [
               {
                 "id": "s1779210134101",
                 "nombre": "CONVOCATORIA",
-                "fi": "2026-06-03",
-                "ff": "2026-06-05",
+                "fi": "2026-06-11",
+                "ff": "2026-06-11",
                 "resp": "",
                 "est": "por_hacer",
                 "com": ""
@@ -1533,7 +1533,7 @@
               {
                 "id": "s1779210136904",
                 "nombre": "PRESENTACIÓN DE PROPUESTAS TÉCNICAS",
-                "fi": "2026-06-08",
+                "fi": "2026-06-12",
                 "ff": "2026-06-09",
                 "resp": "",
                 "est": "por_hacer",
