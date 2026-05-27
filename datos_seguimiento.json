@@ -1476,7 +1476,7 @@
             "id": "p1779209592309f1",
             "nombre": "FASE 1 — Actos Preparatorios",
             "fi": "2026-05-20",
-            "ff": "2026-06-05",
+            "ff": "2026-06-10",
             "resp": "",
             "est": "por_hacer",
             "com": "",
@@ -1503,8 +1503,8 @@
               {
                 "id": "s1779209709046",
                 "nombre": "CERTIFICACIÓN PRESUPUESTAL",
-                "fi": "2026-05-28",
-                "ff": "2026-06-02",
+                "fi": "2026-06-08",
+                "ff": "2026-06-10",
                 "resp": "",
                 "est": "por_hacer",
                 "com": ""
