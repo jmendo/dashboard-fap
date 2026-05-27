@@ -2402,7 +2402,7 @@
         "id": "t1",
         "nombre": "FASE 1 — Actos preparatorios",
         "fi": "2026-04-30",
-        "ff": "2026-06-03",
+        "ff": "2026-06-12",
         "resp": "",
         "est": "por_hacer",
         "com": "",
@@ -2430,7 +2430,7 @@
             "id": "s1777326941571",
             "nombre": "Interacción con el Mercado",
             "fi": "2026-06-01",
-            "ff": "2026-05-29",
+            "ff": "2026-06-12",
             "resp": "ACFFAA",
             "est": "por_hacer",
             "com": ""
