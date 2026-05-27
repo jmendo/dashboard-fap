@@ -214,7 +214,7 @@
         "id": "t1",
         "nombre": "FASE 1 — Actos preparatorios",
         "fi": "2026-05-12",
-        "ff": "2026-06-02",
+        "ff": "2026-06-10",
         "resp": "",
         "est": "por_hacer",
         "com": "",
@@ -233,7 +233,7 @@
             "id": "s1779312435883",
             "nombre": "Interacción con el mercado (Indagación y Valor Estimado)",
             "fi": "2026-05-13",
-            "ff": "2026-05-26",
+            "ff": "2026-06-10",
             "resp": "",
             "est": "completado",
             "com": ""
