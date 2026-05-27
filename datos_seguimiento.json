@@ -280,7 +280,7 @@
         "id": "t2",
         "nombre": "FASE 2 — Procedimiento de selección",
         "fi": "2026-06-18",
-        "ff": "2026-07-10",
+        "ff": "2026-06-18",
         "resp": "",
         "est": "por_hacer",
         "com": "",
@@ -344,7 +344,7 @@
             "id": "s1779312794478",
             "nombre": "Evaluación, Calificación y Puntuación de Ofertas",
             "fi": "",
-            "ff": "2026-06-26",
+            "ff": "",
             "resp": "",
             "est": "por_hacer",
             "com": ""
@@ -352,8 +352,8 @@
           {
             "id": "s1779312952526",
             "nombre": "Buena Pro",
-            "fi": "2026-06-30",
-            "ff": "2026-06-30",
+            "fi": "",
+            "ff": "",
             "resp": "",
             "est": "por_hacer",
             "com": ""
@@ -361,8 +361,8 @@
           {
             "id": "s1779312953126",
             "nombre": "Consentimiento",
-            "fi": "2026-07-01",
-            "ff": "2026-07-10",
+            "fi": "",
+            "ff": "",
             "resp": "",
             "est": "por_hacer",
             "com": ""
