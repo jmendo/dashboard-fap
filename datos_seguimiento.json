@@ -1514,8 +1514,8 @@
           {
             "id": "p1779209592309f2",
             "nombre": "FASE 2 — Procedimiento de Selección",
-            "fi": "2026-06-10",
-            "ff": "2026-06-11",
+            "fi": "2026-06-11",
+            "ff": "2026-06-19",
             "resp": "",
             "est": "por_hacer",
             "com": "",
@@ -1534,7 +1534,7 @@
                 "id": "s1779210136904",
                 "nombre": "PRESENTACIÓN DE PROPUESTAS TÉCNICAS",
                 "fi": "2026-06-12",
-                "ff": "2026-06-09",
+                "ff": "2026-06-18",
                 "resp": "",
                 "est": "por_hacer",
                 "com": ""
@@ -1542,8 +1542,8 @@
               {
                 "id": "s1779210197574",
                 "nombre": "BUENA PRO",
-                "fi": "2026-06-10",
-                "ff": "2026-06-10",
+                "fi": "2026-06-19",
+                "ff": "2026-06-19",
                 "resp": "",
                 "est": "por_hacer",
                 "com": ""
