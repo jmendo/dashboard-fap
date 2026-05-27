@@ -1357,7 +1357,7 @@
           {
             "id": "f1779229823416",
             "nombre": "FASE 2 — Procedimiento de Selección",
-            "fi": "2026-06-02",
+            "fi": "2026-06-10",
             "ff": "2026-06-17",
             "resp": "",
             "est": "por_hacer",
@@ -1376,8 +1376,8 @@
               {
                 "id": "s1779230014865",
                 "nombre": "PRESENTACIÓN DE PROPUESTAS TÉCNICAS",
-                "fi": "2026-06-02",
-                "ff": "2026-06-09",
+                "fi": "2026-06-11",
+                "ff": "2026-06-15",
                 "resp": "",
                 "est": "por_hacer",
                 "com": ""
