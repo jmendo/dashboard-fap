@@ -2174,7 +2174,7 @@
         "id": "t1",
         "nombre": "FASE 1 — Actos preparatorios",
         "fi": "2026-05-04",
-        "ff": "2026-06-12",
+        "ff": "2026-06-18",
         "resp": "",
         "est": "por_hacer",
         "com": "",
@@ -2210,8 +2210,8 @@
           {
             "id": "s1777067022347",
             "nombre": "Aprobación del Expediente de Contratación",
-            "fi": "2026-06-08",
-            "ff": "2026-06-10",
+            "fi": "2026-06-15",
+            "ff": "2026-06-17",
             "resp": "",
             "est": "por_hacer",
             "com": ""
@@ -2219,8 +2219,8 @@
           {
             "id": "s1777067022868",
             "nombre": "Designación del Comité de Selección",
-            "fi": "2026-06-11",
-            "ff": "2026-06-11",
+            "fi": "2026-06-18",
+            "ff": "2026-06-18",
             "resp": "",
             "est": "por_hacer",
             "com": ""
