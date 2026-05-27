@@ -1553,7 +1553,7 @@
           {
             "id": "p1779209592309f3",
             "nombre": "FASE 3 — Ejecución Contractual",
-            "fi": "2026-06-16",
+            "fi": "2026-06-18",
             "ff": "2026-07-16",
             "resp": "",
             "est": "por_hacer",
@@ -1581,8 +1581,8 @@
               {
                 "id": "s1779210325462",
                 "nombre": "COMPROMISO ANUAL",
-                "fi": "2026-06-16",
-                "ff": "2026-06-17",
+                "fi": "2026-07-03",
+                "ff": "2026-07-07",
                 "resp": "",
                 "est": "por_hacer",
                 "com": ""
