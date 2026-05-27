@@ -2459,7 +2459,7 @@
         "id": "t2",
         "nombre": "FASE 2 — Procedimiento de selección",
         "fi": "2026-06-19",
-        "ff": "2026-07-14",
+        "ff": "2026-07-15",
         "resp": "",
         "est": "por_hacer",
         "com": "",
@@ -2522,8 +2522,8 @@
           {
             "id": "s1777327783197",
             "nombre": "Buena Pro",
-            "fi": "2026-06-30",
-            "ff": "2026-06-30",
+            "fi": "2026-07-15",
+            "ff": "2026-07-15",
             "resp": "ACFFAA",
             "est": "por_hacer",
             "com": ""
