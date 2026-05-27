@@ -1476,7 +1476,7 @@
             "id": "p1779209592309f1",
             "nombre": "FASE 1 — Actos Preparatorios",
             "fi": "2026-05-20",
-            "ff": "2026-06-02",
+            "ff": "2026-06-05",
             "resp": "",
             "est": "por_hacer",
             "com": "",
@@ -1494,8 +1494,8 @@
               {
                 "id": "s1779209703383",
                 "nombre": "REQUERIMIENTO ÁREA USUARIA",
-                "fi": "2026-05-26",
-                "ff": "2026-05-27",
+                "fi": "2026-06-03",
+                "ff": "2026-06-05",
                 "resp": "",
                 "est": "por_hacer",
                 "com": ""
