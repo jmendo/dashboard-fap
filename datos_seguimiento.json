@@ -1319,7 +1319,7 @@
             "id": "f1779229820791",
             "nombre": "FASE 1 — Actos Preparatorios",
             "fi": "2026-05-19",
-            "ff": "2026-06-02",
+            "ff": "2026-06-09",
             "resp": "",
             "est": "por_hacer",
             "com": "",
@@ -1338,7 +1338,7 @@
                 "id": "s1779229909343",
                 "nombre": "REQUERIMIENTO ÁREA USUARIA",
                 "fi": "2026-05-20",
-                "ff": "2026-05-21",
+                "ff": "2026-06-08",
                 "resp": "",
                 "est": "completado",
                 "com": ""
@@ -1346,8 +1346,8 @@
               {
                 "id": "s1779229930937",
                 "nombre": "CERTIFICACIÓN PRESUPUESTAL",
-                "fi": "2026-05-22",
-                "ff": "2026-05-27",
+                "fi": "2026-06-09",
+                "ff": "2026-06-09",
                 "resp": "",
                 "est": "en_progreso",
                 "com": ""
