@@ -372,7 +372,7 @@
       {
         "id": "t3",
         "nombre": "FASE 3 — Ejecución",
-        "fi": "2026-07-13",
+        "fi": "2027-03-04",
         "ff": "2027-03-11",
         "resp": "",
         "est": "por_hacer",
@@ -382,8 +382,8 @@
           {
             "id": "t3s1",
             "nombre": "Perfeccionamiento: Entrega de requisitos y Carta Fianza de Adelanto",
-            "fi": "2026-07-13",
-            "ff": "2026-07-24",
+            "fi": "",
+            "ff": "",
             "resp": "",
             "est": "por_hacer",
             "com": ""
@@ -391,8 +391,8 @@
           {
             "id": "s1779313014918",
             "nombre": "Contrato",
-            "fi": "2026-08-03",
-            "ff": "2026-08-04",
+            "fi": "",
+            "ff": "",
             "resp": "",
             "est": "por_hacer",
             "com": ""
@@ -400,8 +400,8 @@
           {
             "id": "s1779313015334",
             "nombre": "Devengado (Pago Adelantado)",
-            "fi": "2026-08-05",
-            "ff": "2026-08-18",
+            "fi": "",
+            "ff": "",
             "resp": "",
             "est": "por_hacer",
             "com": ""
@@ -409,8 +409,8 @@
           {
             "id": "s1779313015694",
             "nombre": "Internamiento del Bien (Plazo Principal de Ejecución 210 dc)",
-            "fi": "2026-08-05",
-            "ff": "2027-03-03",
+            "fi": "",
+            "ff": "",
             "resp": "",
             "est": "por_hacer",
             "com": ""
