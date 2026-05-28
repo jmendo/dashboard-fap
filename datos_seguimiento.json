@@ -1662,7 +1662,7 @@
           {
             "id": "p1779210467534f2",
             "nombre": "FASE 2 — Procedimiento de Selección",
-            "fi": "2026-06-02",
+            "fi": "2026-06-05",
             "ff": "2026-06-30",
             "resp": "",
             "est": "por_hacer",
@@ -1672,8 +1672,8 @@
               {
                 "id": "s1779210947111",
                 "nombre": "CONVOCATORIA",
-                "fi": "2026-06-02",
-                "ff": "2026-06-04",
+                "fi": "2026-06-11",
+                "ff": "2026-06-11",
                 "resp": "",
                 "est": "por_hacer",
                 "com": ""
