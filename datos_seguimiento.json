@@ -1781,7 +1781,7 @@
             "id": "p1779211255035f1",
             "nombre": "FASE 1 — Actos Preparatorios",
             "fi": "2026-05-19",
-            "ff": "2026-06-01",
+            "ff": "2026-06-10",
             "resp": "",
             "est": "por_hacer",
             "com": "",
@@ -1791,7 +1791,7 @@
                 "id": "s1779211531302",
                 "nombre": "INCLUSIÓN EN EL PAC",
                 "fi": "2026-05-19",
-                "ff": "2026-05-22",
+                "ff": "2026-06-02",
                 "resp": "",
                 "est": "en_progreso",
                 "com": ""
@@ -1799,8 +1799,8 @@
               {
                 "id": "s1779211561174",
                 "nombre": "REQUERIMIENTO ÁREA USUARIA",
-                "fi": "2026-05-26",
-                "ff": "2026-05-26",
+                "fi": "2026-06-03",
+                "ff": "2026-06-05",
                 "resp": "",
                 "est": "por_hacer",
                 "com": ""
@@ -1808,8 +1808,8 @@
               {
                 "id": "s1779211561678",
                 "nombre": "CERTIFICACIÓN PRESUPUESTAL",
-                "fi": "2026-05-27",
-                "ff": "2026-06-01",
+                "fi": "2026-06-08",
+                "ff": "2026-06-10",
                 "resp": "",
                 "est": "por_hacer",
                 "com": ""
@@ -1819,18 +1819,18 @@
           {
             "id": "p1779211255035f2",
             "nombre": "FASE 2 — Procedimiento de Selección",
-            "fi": "2026-06-02",
+            "fi": "2026-06-11",
             "ff": "2026-06-22",
             "resp": "",
             "est": "por_hacer",
             "com": "",
-            "exp": false,
+            "exp": true,
             "subs": [
               {
                 "id": "s1779211614358",
                 "nombre": "CONVOCATORIA",
-                "fi": "2026-06-02",
-                "ff": "2026-06-04",
+                "fi": "2026-06-11",
+                "ff": "2026-06-11",
                 "resp": "",
                 "est": "por_hacer",
                 "com": ""
@@ -1838,7 +1838,7 @@
               {
                 "id": "s1779211614918",
                 "nombre": "PRESENTACIÓN DE PROPUESTAS TÉCNICAS",
-                "fi": "2026-06-05",
+                "fi": "2026-06-12",
                 "ff": "2026-06-12",
                 "resp": "",
                 "est": "por_hacer",
