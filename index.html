@@ -1888,7 +1888,7 @@ function renderEstado(cui){
           || (CATALOGO[cui]?.proceso&&CATALOGO[cui].proceso!=='—'?CATALOGO[cui].proceso:null);
         if(!_proc) return '';
         const _pc=_proc==='ACFFAA'?'#c0392b':_proc==='FAP'?'#1a6b3c':'#555';
-        return `<span style="background:${_pc}18;border:1.5px solid ${_pc};color:${_pc};font-size:10px;font-weight:800;padding:3px 10px;border-radius:10px;letter-spacing:.3px">Proceso: ${_proc==='FAP'?'FAP (Entidad)':_proc}</span>`;
+        return `<span style="background:${_pc}18;border:1.5px solid ${_pc};color:${_pc};font-size:10px;font-weight:800;padding:3px 10px;border-radius:10px;letter-spacing:.3px">Proceso: ${_proc==='FAP'?'FAP':_proc}</span>`;
       })()}
     </div>
   </div>
@@ -3802,7 +3802,7 @@ function renderFila(tbody, inv, idx, data){
           style="border-color:${_pcol};color:${_pcol}"
           onchange="segActualizarProceso(${idx},this.value)">
           ${['—','ACFFAA','FAP'].map(p=>
-            `<option value="${p}" ${_proc===p?'selected':''}>${p==='FAP'?'FAP (Entidad)':p}</option>`
+            `<option value="${p}" ${_proc===p?'selected':''}>${p==='FAP'?'FAP':p}</option>`
           ).join('')}
         </select>`;
       })()
@@ -4161,7 +4161,7 @@ function segActualizarProceso(idx, proc){
   // 3. Disparar push a GitHub con el proceso actualizado
   const c=getGHCfg();
   if(c.token){ clearTimeout(ghPushTimer); ghPushTimer=setTimeout(doush, _ghSyncDelay); setSyncUI('saving','💾 Guardando Proceso...'); }
-  mostrarToast('✅ Proceso de '+inv.cui+' → '+(proc==='FAP'?'FAP (Entidad)':proc)+' guardado.','ok',3000);
+  mostrarToast('✅ Proceso de '+inv.cui+' → '+(proc==='FAP'?'FAP':proc)+' guardado.','ok',3000);
 }
 
 function segBuscar(q){
@@ -4731,7 +4731,7 @@ function generarReporte(){
         +'<span>'+cn+'</span>'
         +'<div style="display:flex;flex-direction:column;gap:2px;align-items:flex-end;flex-shrink:0">'
         +((CATALOGO[inv.cui]&&CATALOGO[inv.cui].uei)?'<span style="font-size:7px;font-weight:800;background:#eef2ff;border:1px solid #a5b4fc;color:#3730a3;padding:1px 5px;border-radius:4px;white-space:nowrap">UEI: '+CATALOGO[inv.cui].uei+'</span>':'')
-        +(function(){var _invS=null;for(var _si=0;_si<seg.length;_si++){if(seg[_si].cui===inv.cui){_invS=seg[_si];break;}}var _pr=(_invS&&_invS.proceso&&_invS.proceso!=='—'?_invS.proceso:null)||(CATALOGO[inv.cui]&&CATALOGO[inv.cui].proceso&&CATALOGO[inv.cui].proceso!=='—'?CATALOGO[inv.cui].proceso:null);if(!_pr)return '';var _pc=_pr==='ACFFAA'?'#c0392b':_pr==='FAP'?'#1a6b3c':'#555';return '<span style="font-size:6.5px;font-weight:800;background:'+_pc+'18;border:1px solid '+_pc+';color:'+_pc+';padding:1px 5px;border-radius:4px;white-space:nowrap">Proceso: '+(_pr==='FAP'?'FAP (Entidad)':_pr)+'</span>';})()
+        +(function(){var _invS=null;for(var _si=0;_si<seg.length;_si++){if(seg[_si].cui===inv.cui){_invS=seg[_si];break;}}var _pr=(_invS&&_invS.proceso&&_invS.proceso!=='—'?_invS.proceso:null)||(CATALOGO[inv.cui]&&CATALOGO[inv.cui].proceso&&CATALOGO[inv.cui].proceso!=='—'?CATALOGO[inv.cui].proceso:null);if(!_pr)return '';var _pc=_pr==='ACFFAA'?'#c0392b':_pr==='FAP'?'#1a6b3c':'#555';return '<span style="font-size:6.5px;font-weight:800;background:'+_pc+'18;border:1px solid '+_pc+';color:'+_pc+';padding:1px 5px;border-radius:4px;white-space:nowrap">Proceso: '+(_pr==='FAP'?'FAP':_pr)+'</span>';})()
         +'</div>'
       +'</div>'
       // ── KPIs numéricos ──
@@ -4795,7 +4795,7 @@ function generarReporte(){
         +(CATALOGO[inv.cui]&&CATALOGO[inv.cui].uei
           ?'<br><span style="font-size:6px;font-weight:700;color:#3730a3;background:#eef2ff;border:1px solid #c7d2fe;padding:0 3px;border-radius:3px">UEI: '+CATALOGO[inv.cui].uei+'</span>'
           :'')
-        +(function(){var _pc2=(inv.proceso&&inv.proceso!=='—'?inv.proceso:null)||(CATALOGO[inv.cui]&&CATALOGO[inv.cui].proceso&&CATALOGO[inv.cui].proceso!=='—'?CATALOGO[inv.cui].proceso:null);if(!_pc2)return '';var _pco=_pc2==='ACFFAA'?'#c0392b':_pc2==='FAP'?'#1a6b3c':'#555';return ' <span style="font-size:6px;font-weight:700;background:'+_pco+'18;border:1px solid '+_pco+';color:'+_pco+';padding:0 3px;border-radius:3px">Proceso: '+(_pc2==='FAP'?'FAP (Entidad)':_pc2)+'</span>';})()
+        +(function(){var _pc2=(inv.proceso&&inv.proceso!=='—'?inv.proceso:null)||(CATALOGO[inv.cui]&&CATALOGO[inv.cui].proceso&&CATALOGO[inv.cui].proceso!=='—'?CATALOGO[inv.cui].proceso:null);if(!_pc2)return '';var _pco=_pc2==='ACFFAA'?'#c0392b':_pc2==='FAP'?'#1a6b3c':'#555';return ' <span style="font-size:6px;font-weight:700;background:'+_pco+'18;border:1px solid '+_pco+';color:'+_pco+';padding:0 3px;border-radius:3px">Proceso: '+(_pc2==='FAP'?'FAP':_pc2)+'</span>';})()
       +'</td>'
       +'<td style="'+tdS+'text-align:center">'+bdg(ct)+'</td>'
       +'<td style="'+tdS+'text-align:center">'+bdg(cf)+'</td>'
@@ -5219,7 +5219,7 @@ function alrtRenderPanel(alertas){
           <span class="alrt-cui">${a.cui}</span>
           <span>${a.nombre}</span>
           ${a.uei?`<span style="font-size:8px;font-weight:800;background:#eef2ff;border:1px solid #a5b4fc;padding:1px 6px;border-radius:8px;color:#3730a3">(UEI: ${a.uei})</span>`:''}
-          ${(a.proceso&&a.proceso!=='—')?(()=>{const _pc=a.proceso==='ACFFAA'?'#c0392b':a.proceso==='FAP'?'#1a6b3c':'#555';return `<span style="font-size:8px;font-weight:800;background:${_pc}18;border:1px solid ${_pc};padding:1px 6px;border-radius:8px;color:${_pc}">Proceso: ${a.proceso==='FAP'?'FAP (Entidad)':a.proceso}</span>`;})():''}
+          ${(a.proceso&&a.proceso!=='—')?(()=>{const _pc=a.proceso==='ACFFAA'?'#c0392b':a.proceso==='FAP'?'#1a6b3c':'#555';return `<span style="font-size:8px;font-weight:800;background:${_pc}18;border:1px solid ${_pc};padding:1px 6px;border-radius:8px;color:${_pc}">Proceso: ${a.proceso==='FAP'?'FAP':a.proceso}</span>`;})():''}
         </div>
         <div class="alrt-tarea">${a.tarea}</div>
         ${a.padre ? `<div style="font-size:9px;color:#888;margin-bottom:3px">↳ En: ${a.padre}</div>` : ''}
