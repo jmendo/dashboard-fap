@@ -439,7 +439,8 @@
         "oct": 0,
         "nov": 0,
         "dic": 0
-      }
+      },
+      "proceso": "ACFFAA"
     },
     {
       "cui": "2234934",
@@ -460,7 +461,8 @@
         "oct": 0,
         "nov": 0,
         "dic": 0
-      }
+      },
+      "proceso": "ACFFAA"
     },
     {
       "cui": "2313734",
@@ -481,7 +483,8 @@
         "oct": 0,
         "nov": 0,
         "dic": 0
-      }
+      },
+      "proceso": "ACFFAA"
     },
     {
       "cui": "2163489",
@@ -502,7 +505,8 @@
         "oct": 0,
         "nov": 0,
         "dic": 0
-      }
+      },
+      "proceso": "—"
     },
     {
       "cui": "2598085",
@@ -523,7 +527,8 @@
         "oct": 0,
         "nov": 0,
         "dic": 0
-      }
+      },
+      "proceso": "—"
     },
     {
       "cui": "2652526",
@@ -544,7 +549,8 @@
         "oct": 0,
         "nov": 0,
         "dic": 0
-      }
+      },
+      "proceso": "—"
     },
     {
       "cui": "2662544",
@@ -565,7 +571,8 @@
         "oct": 0,
         "nov": 0,
         "dic": 0
-      }
+      },
+      "proceso": "—"
     },
     {
       "cui": "2644770",
@@ -586,7 +593,8 @@
         "oct": 0,
         "nov": 0,
         "dic": 0
-      }
+      },
+      "proceso": "—"
     },
     {
       "cui": "2676804",
@@ -607,7 +615,8 @@
         "oct": 0,
         "nov": 0,
         "dic": 0
-      }
+      },
+      "proceso": "—"
     },
     {
       "cui": "2494066",
@@ -628,7 +637,8 @@
         "oct": 0,
         "nov": 0,
         "dic": 0
-      }
+      },
+      "proceso": "—"
     },
     {
       "cui": "2481370",
@@ -649,7 +659,8 @@
         "oct": 0,
         "nov": 0,
         "dic": 0
-      }
+      },
+      "proceso": "—"
     },
     {
       "cui": "2674913",
@@ -670,7 +681,8 @@
         "oct": 0,
         "nov": 1538304,
         "dic": 0
-      }
+      },
+      "proceso": "—"
     },
     {
       "cui": "2641956",
@@ -691,7 +703,8 @@
         "oct": 0,
         "nov": 0,
         "dic": 598351
-      }
+      },
+      "proceso": "—"
     },
     {
       "cui": "2576672",
@@ -712,7 +725,8 @@
         "oct": 0,
         "nov": 0,
         "dic": 0
-      }
+      },
+      "proceso": "—"
     },
     {
       "cui": "2492600",
@@ -733,7 +747,8 @@
         "oct": 0,
         "nov": 146425,
         "dic": 0
-      }
+      },
+      "proceso": "—"
     },
     {
       "cui": "2702643",
@@ -755,7 +770,8 @@
         "nov": 0,
         "dic": 0
       },
-      "uei": "DITEL"
+      "uei": "DITEL",
+      "proceso": "—"
     }
   ],
   "snpmgi_v1_2492600": {
@@ -1117,180 +1133,6 @@
             "nombre": "Internamiento del activo (720 dc)",
             "fi": "2026-09-12",
             "ff": "2028-09-01",
-            "resp": "",
-            "est": "por_hacer",
-            "com": ""
-          }
-        ]
-      }
-    ]
-  },
-  "snpmgi_v1_2662544": {
-    "metaFisica": "Adquisición de diez (10) helibaldes y dos (02) tanques de almacenamiento de agua 54,000 litros c/u",
-    "devengadoLabel": "",
-    "comentarios": "Internamiento 60dc (01.09.2026).\n",
-    "resultado": {
-      "icono": "📋",
-      "titulo": "Meta AF-2026",
-      "subtitulo": ""
-    },
-    "gantt": [
-      {
-        "id": "t1",
-        "nombre": "FASE 1 — Actos preparatorios",
-        "fi": "2026-04-16",
-        "ff": "2026-05-13",
-        "resp": "",
-        "est": "completado",
-        "com": "",
-        "exp": true,
-        "subs": [
-          {
-            "id": "t1s1",
-            "nombre": "Estudio de mercado ACFFAA",
-            "fi": "2026-04-16",
-            "ff": "2026-05-07",
-            "resp": "",
-            "est": "completado",
-            "com": "En actualización de requerimiento por la FAP, debido a la escasez de postores."
-          },
-          {
-            "id": "s1776712900409",
-            "nombre": "Aprobación expediente de contratación",
-            "fi": "2026-05-11",
-            "ff": "2026-05-13",
-            "resp": "",
-            "est": "completado",
-            "com": ""
-          }
-        ]
-      },
-      {
-        "id": "t2",
-        "nombre": "FASE 2 — Procedimiento de selección",
-        "fi": "2026-05-14",
-        "ff": "2026-06-18",
-        "resp": "",
-        "est": "por_hacer",
-        "com": "",
-        "exp": true,
-        "subs": [
-          {
-            "id": "t2s1",
-            "nombre": "Convocatoria",
-            "fi": "2026-05-14",
-            "ff": "2026-05-14",
-            "resp": "",
-            "est": "completado",
-            "com": "1 d"
-          },
-          {
-            "id": "s1776713989563",
-            "nombre": "Registro de participantes(Presencial)",
-            "fi": "2026-05-15",
-            "ff": "2026-05-18",
-            "resp": "",
-            "est": "completado",
-            "com": "7 d"
-          },
-          {
-            "id": "s1776713990100",
-            "nombre": "Formulación de consultas y observaciones(Presencial)",
-            "fi": "2026-05-19",
-            "ff": "2026-05-26",
-            "resp": "",
-            "est": "completado",
-            "com": "5 d"
-          },
-          {
-            "id": "s1776713992116",
-            "nombre": "Absolución de consultas y observaciones",
-            "fi": "2026-05-27",
-            "ff": "2026-05-29",
-            "resp": "",
-            "est": "en_progreso",
-            "com": "1 d"
-          },
-          {
-            "id": "s1776714021404",
-            "nombre": "Presentación de propuestas(Presencial)",
-            "fi": "2026-06-04",
-            "ff": "2026-06-04",
-            "resp": "",
-            "est": "por_hacer",
-            "com": "2 d"
-          },
-          {
-            "id": "s1776714022316",
-            "nombre": "Buena Pro",
-            "fi": "2026-06-08",
-            "ff": "2026-06-08",
-            "resp": "",
-            "est": "por_hacer",
-            "com": "1 d"
-          },
-          {
-            "id": "s1776714236484",
-            "nombre": "Consentimiento",
-            "fi": "2026-06-09",
-            "ff": "2026-06-18",
-            "resp": "",
-            "est": "por_hacer",
-            "com": "8 d"
-          }
-        ]
-      },
-      {
-        "id": "t3",
-        "nombre": "FASE 3 — Ejecución Contractual",
-        "fi": "2026-06-19",
-        "ff": "2026-09-14",
-        "resp": "",
-        "est": "por_hacer",
-        "com": "",
-        "exp": true,
-        "subs": [
-          {
-            "id": "t3s1",
-            "nombre": "Perfeccionamiento",
-            "fi": "2026-06-19",
-            "ff": "2026-07-01",
-            "resp": "",
-            "est": "por_hacer",
-            "com": ""
-          },
-          {
-            "id": "s1776715924471",
-            "nombre": "Contrato",
-            "fi": "2026-07-02",
-            "ff": "2026-07-03",
-            "resp": "",
-            "est": "por_hacer",
-            "com": ""
-          },
-          {
-            "id": "s1776716028760",
-            "nombre": "Internamiento (60 dc)",
-            "fi": "2026-07-04",
-            "ff": "2026-09-01",
-            "resp": "",
-            "est": "por_hacer",
-            "com": ""
-          },
-          {
-            "id": "s1776716152738",
-            "nombre": "Recepción y Conformidad",
-            "fi": "2026-09-02",
-            "ff": "2026-09-08",
-            "resp": "",
-            "est": "por_hacer",
-            "com": ""
-          },
-          {
-            "id": "s1777927460391",
-            "nombre": "Devengado",
-            "fi": "2026-09-09",
-            "ff": "2026-09-14",
             "resp": "",
             "est": "por_hacer",
             "com": ""
@@ -2006,6 +1848,180 @@
             "nombre": "Nueva subtarea",
             "fi": "",
             "ff": "",
+            "resp": "",
+            "est": "por_hacer",
+            "com": ""
+          }
+        ]
+      }
+    ]
+  },
+  "snpmgi_v1_2662544": {
+    "metaFisica": "Adquisición de diez (10) helibaldes y dos (02) tanques de almacenamiento de agua 54,000 litros c/u",
+    "devengadoLabel": "",
+    "comentarios": "Internamiento 60dc (01.09.2026).\n",
+    "resultado": {
+      "icono": "📋",
+      "titulo": "Meta AF-2026",
+      "subtitulo": ""
+    },
+    "gantt": [
+      {
+        "id": "t1",
+        "nombre": "FASE 1 — Actos preparatorios",
+        "fi": "2026-04-16",
+        "ff": "2026-05-13",
+        "resp": "",
+        "est": "completado",
+        "com": "",
+        "exp": true,
+        "subs": [
+          {
+            "id": "t1s1",
+            "nombre": "Estudio de mercado ACFFAA",
+            "fi": "2026-04-16",
+            "ff": "2026-05-07",
+            "resp": "",
+            "est": "completado",
+            "com": "En actualización de requerimiento por la FAP, debido a la escasez de postores."
+          },
+          {
+            "id": "s1776712900409",
+            "nombre": "Aprobación expediente de contratación",
+            "fi": "2026-05-11",
+            "ff": "2026-05-13",
+            "resp": "",
+            "est": "completado",
+            "com": ""
+          }
+        ]
+      },
+      {
+        "id": "t2",
+        "nombre": "FASE 2 — Procedimiento de selección",
+        "fi": "2026-05-14",
+        "ff": "2026-06-18",
+        "resp": "",
+        "est": "por_hacer",
+        "com": "",
+        "exp": true,
+        "subs": [
+          {
+            "id": "t2s1",
+            "nombre": "Convocatoria",
+            "fi": "2026-05-14",
+            "ff": "2026-05-14",
+            "resp": "",
+            "est": "completado",
+            "com": "1 d"
+          },
+          {
+            "id": "s1776713989563",
+            "nombre": "Registro de participantes(Presencial)",
+            "fi": "2026-05-15",
+            "ff": "2026-05-18",
+            "resp": "",
+            "est": "completado",
+            "com": "7 d"
+          },
+          {
+            "id": "s1776713990100",
+            "nombre": "Formulación de consultas y observaciones(Presencial)",
+            "fi": "2026-05-19",
+            "ff": "2026-05-26",
+            "resp": "",
+            "est": "completado",
+            "com": "5 d"
+          },
+          {
+            "id": "s1776713992116",
+            "nombre": "Absolución de consultas y observaciones",
+            "fi": "2026-05-27",
+            "ff": "2026-05-29",
+            "resp": "",
+            "est": "en_progreso",
+            "com": "1 d"
+          },
+          {
+            "id": "s1776714021404",
+            "nombre": "Presentación de propuestas(Presencial)",
+            "fi": "2026-06-04",
+            "ff": "2026-06-04",
+            "resp": "",
+            "est": "por_hacer",
+            "com": "2 d"
+          },
+          {
+            "id": "s1776714022316",
+            "nombre": "Buena Pro",
+            "fi": "2026-06-08",
+            "ff": "2026-06-08",
+            "resp": "",
+            "est": "por_hacer",
+            "com": "1 d"
+          },
+          {
+            "id": "s1776714236484",
+            "nombre": "Consentimiento",
+            "fi": "2026-06-09",
+            "ff": "2026-06-18",
+            "resp": "",
+            "est": "por_hacer",
+            "com": "8 d"
+          }
+        ]
+      },
+      {
+        "id": "t3",
+        "nombre": "FASE 3 — Ejecución Contractual",
+        "fi": "2026-06-19",
+        "ff": "2026-09-14",
+        "resp": "",
+        "est": "por_hacer",
+        "com": "",
+        "exp": true,
+        "subs": [
+          {
+            "id": "t3s1",
+            "nombre": "Perfeccionamiento",
+            "fi": "2026-06-19",
+            "ff": "2026-07-01",
+            "resp": "",
+            "est": "por_hacer",
+            "com": ""
+          },
+          {
+            "id": "s1776715924471",
+            "nombre": "Contrato",
+            "fi": "2026-07-02",
+            "ff": "2026-07-03",
+            "resp": "",
+            "est": "por_hacer",
+            "com": ""
+          },
+          {
+            "id": "s1776716028760",
+            "nombre": "Internamiento (60 dc)",
+            "fi": "2026-07-04",
+            "ff": "2026-09-01",
+            "resp": "",
+            "est": "por_hacer",
+            "com": ""
+          },
+          {
+            "id": "s1776716152738",
+            "nombre": "Recepción y Conformidad",
+            "fi": "2026-09-02",
+            "ff": "2026-09-08",
+            "resp": "",
+            "est": "por_hacer",
+            "com": ""
+          },
+          {
+            "id": "s1777927460391",
+            "nombre": "Devengado",
+            "fi": "2026-09-09",
+            "ff": "2026-09-14",
             "resp": "",
             "est": "por_hacer",
             "com": ""
@@ -2946,97 +2962,113 @@
       "nombre": "HANGARES EFOPI",
       "tipo": "PI",
       "fuente": "RO",
-      "uei": "DIGLO"
+      "uei": "DIGLO",
+      "proceso": "—"
     },
     "2234934": {
       "nombre": "SPARTAN - C27J",
       "tipo": "PI",
       "fuente": "RO",
-      "uei": "DIGLO"
+      "uei": "DIGLO",
+      "proceso": "ACFFAA"
     },
     "2313734": {
       "nombre": "RADAR 3D",
       "tipo": "PI",
       "fuente": "ROOC",
-      "uei": "COMOP"
+      "uei": "COMOP",
+      "proceso": "ACFFAA"
     },
     "2481370": {
       "nombre": "SIST. COMUNICACIÓN SATELITAL",
       "tipo": "PI",
       "fuente": "RO",
-      "uei": "DITEL"
+      "uei": "DITEL",
+      "proceso": "—"
     },
     "2492600": {
       "nombre": "VEHÍCULOS - SETRA",
       "tipo": "IOARR",
       "fuente": "RO",
-      "uei": "DIGLO"
+      "uei": "DIGLO",
+      "proceso": "—"
     },
     "2494066": {
       "nombre": "PARACAIDAS",
       "tipo": "IOARR",
       "fuente": "RO",
-      "uei": "COMOP"
+      "uei": "COMOP",
+      "proceso": "—"
     },
     "2573425": {
       "nombre": "AVIONES CAZA",
       "tipo": "PI",
       "fuente": "ROOC",
-      "uei": "COMOP"
+      "uei": "COMOP",
+      "proceso": "ACFFAA"
     },
     "2576672": {
       "nombre": "SALA DE USOS MÚLTIPLES - ESFAP",
       "tipo": "IOARR",
       "fuente": "RO",
-      "uei": "DIGLO"
+      "uei": "DIGLO",
+      "proceso": "—"
     },
     "2598085": {
       "nombre": "CRIPTOLÓGICO",
       "tipo": "IOARR",
       "fuente": "RO",
-      "uei": "DITEL"
+      "uei": "DITEL",
+      "proceso": "—"
     },
     "2641956": {
       "nombre": "AERONAVES ACROBÁTICAS",
       "tipo": "PI",
       "fuente": "RO",
-      "uei": "COMOP"
+      "uei": "COMOP",
+      "proceso": "—"
     },
     "2644770": {
       "nombre": "LUCES DE BALIZAJES",
       "tipo": "IOARR",
       "fuente": "RO",
-      "uei": "DIGLO"
+      "uei": "DIGLO",
+      "proceso": "—"
     },
     "2652526": {
       "nombre": "REPOSICIÓN DATA CENTER",
       "tipo": "IOARR",
       "fuente": "RO",
-      "uei": "DITEL"
+      "uei": "DITEL",
+      "proceso": "—"
     },
     "2662544": {
       "nombre": "HELIBALDES",
       "tipo": "IOARR",
       "fuente": "RO",
-      "uei": "DIGLO"
+      "uei": "DIGLO",
+      "proceso": "—"
     },
     "2674913": {
       "nombre": "CERCO PERIMÉTRICO - ESSEL",
       "tipo": "IOARR",
       "fuente": "RO",
-      "uei": "DIGLO"
+      "uei": "DIGLO",
+      "proceso": "—"
     },
     "2676804": {
       "nombre": "ADQUIS. HARDWARE E IMPRESORAS",
       "tipo": "IOARR",
       "fuente": "RO",
-      "uei": "DITEL"
+      "uei": "DITEL",
+      "proceso": "—"
     },
     "2702643": {
       "nombre": "ADQUISICIÓN DE EQUIPOS - DIFAP",
       "tipo": "IOARR",
       "fuente": "RO",
-      "uei": "DITEL"
+      "uei": "DITEL",
+      "proceso": "—"
     }
   },
   "snpmgi_v1_2163489": {
