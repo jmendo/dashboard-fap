@@ -550,7 +550,7 @@
         "nov": 0,
         "dic": 0
       },
-      "proceso": "—"
+      "proceso": "ACFFAA"
     },
     {
       "cui": "2662544",
@@ -3040,7 +3040,7 @@
       "tipo": "IOARR",
       "fuente": "RO",
       "uei": "DITEL",
-      "proceso": "—"
+      "proceso": "ACFFAA"
     },
     "2662544": {
       "nombre": "HELIBALDES",
