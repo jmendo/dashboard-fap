@@ -572,7 +572,7 @@
         "nov": 0,
         "dic": 0
       },
-      "proceso": "—"
+      "proceso": "ACFFAA"
     },
     {
       "cui": "2644770",
@@ -594,7 +594,7 @@
         "nov": 0,
         "dic": 0
       },
-      "proceso": "—"
+      "proceso": "ACFFAA"
     },
     {
       "cui": "2676804",
@@ -3033,7 +3033,7 @@
       "tipo": "IOARR",
       "fuente": "RO",
       "uei": "DIGLO",
-      "proceso": "—"
+      "proceso": "ACFFAA"
     },
     "2652526": {
       "nombre": "REPOSICIÓN DATA CENTER",
@@ -3047,7 +3047,7 @@
       "tipo": "IOARR",
       "fuente": "RO",
       "uei": "DIGLO",
-      "proceso": "—"
+      "proceso": "ACFFAA"
     },
     "2674913": {
       "nombre": "CERCO PERIMÉTRICO - ESSEL",
