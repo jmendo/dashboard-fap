@@ -704,7 +704,7 @@
         "nov": 0,
         "dic": 598351
       },
-      "proceso": "FAP"
+      "proceso": "—"
     },
     {
       "cui": "2576672",
@@ -3026,7 +3026,7 @@
       "tipo": "PI",
       "fuente": "RO",
       "uei": "COMOP",
-      "proceso": "FAP"
+      "proceso": "—"
     },
     "2644770": {
       "nombre": "LUCES DE BALIZAJES",
