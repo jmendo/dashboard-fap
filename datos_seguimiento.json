@@ -682,7 +682,7 @@
         "nov": 1538304,
         "dic": 0
       },
-      "proceso": "—"
+      "proceso": "FAP"
     },
     {
       "cui": "2641956",
@@ -3054,7 +3054,7 @@
       "tipo": "IOARR",
       "fuente": "RO",
       "uei": "DIGLO",
-      "proceso": "—"
+      "proceso": "FAP"
     },
     "2676804": {
       "nombre": "ADQUIS. HARDWARE E IMPRESORAS",
