@@ -616,7 +616,7 @@
         "nov": 0,
         "dic": 0
       },
-      "proceso": "—"
+      "proceso": "FAP"
     },
     {
       "cui": "2494066",
@@ -3061,7 +3061,7 @@
       "tipo": "IOARR",
       "fuente": "RO",
       "uei": "DITEL",
-      "proceso": "—"
+      "proceso": "FAP"
     },
     "2702643": {
       "nombre": "ADQUISICIÓN DE EQUIPOS - DIFAP",
