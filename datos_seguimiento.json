@@ -2046,7 +2046,7 @@
         "fi": "",
         "ff": "",
         "resp": "",
-        "est": "por_hacer",
+        "est": "completado",
         "com": "",
         "exp": false,
         "subs": []
@@ -2112,9 +2112,9 @@
         "id": "t3",
         "nombre": "FASE Ejecución Contractual",
         "fi": "2026-05-05",
-        "ff": "2026-09-04",
+        "ff": "2026-06-03",
         "resp": "",
-        "est": "por_hacer",
+        "est": "completado",
         "com": "",
         "exp": true,
         "subs": [
@@ -2151,7 +2151,7 @@
             "fi": "2026-05-26",
             "ff": "2026-06-03",
             "resp": "",
-            "est": "en_progreso",
+            "est": "completado",
             "com": ""
           },
           {
@@ -2160,16 +2160,16 @@
             "fi": "2026-06-03",
             "ff": "2026-06-03",
             "resp": "",
-            "est": "por_hacer",
+            "est": "completado",
             "com": ""
           },
           {
             "id": "s1779126529688",
             "nombre": "Devengado",
-            "fi": "2026-09-01",
-            "ff": "2026-09-04",
+            "fi": "2026-06-03",
+            "ff": "2026-06-03",
             "resp": "",
-            "est": "por_hacer",
+            "est": "completado",
             "com": ""
           }
         ]
