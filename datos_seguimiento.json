@@ -748,7 +748,7 @@
         "nov": 146425,
         "dic": 0
       },
-      "proceso": "—"
+      "proceso": "FAP"
     },
     {
       "cui": "2702643",
@@ -2059,7 +2059,7 @@
         "resp": "",
         "est": "completado",
         "com": "",
-        "exp": true,
+        "exp": false,
         "subs": [
           {
             "id": "t2s1",
@@ -2116,7 +2116,7 @@
         "resp": "",
         "est": "completado",
         "com": "",
-        "exp": true,
+        "exp": false,
         "subs": [
           {
             "id": "t3s1",
@@ -2991,7 +2991,7 @@
       "tipo": "IOARR",
       "fuente": "RO",
       "uei": "DIGLO",
-      "proceso": "—"
+      "proceso": "FAP"
     },
     "2494066": {
       "nombre": "PARACAIDAS",
