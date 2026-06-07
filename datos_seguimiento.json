@@ -1,4 +1,79 @@
 {
+  "snpmgi_v1_2644770": {
+    "metaFisica": "",
+    "devengadoLabel": "",
+    "comentarios": "",
+    "gantt": [
+      {
+        "id": "t1",
+        "nombre": "FASE 1 — Actos preparatorios",
+        "fi": "",
+        "ff": "",
+        "resp": "",
+        "est": "por_hacer",
+        "com": "",
+        "exp": true,
+        "subs": [
+          {
+            "id": "t1s1",
+            "nombre": "Actividad 1",
+            "fi": "",
+            "ff": "",
+            "resp": "",
+            "est": "por_hacer",
+            "com": ""
+          }
+        ]
+      },
+      {
+        "id": "t2",
+        "nombre": "FASE 2 — Procedimiento de selección",
+        "fi": "",
+        "ff": "",
+        "resp": "",
+        "est": "por_hacer",
+        "com": "",
+        "exp": true,
+        "subs": [
+          {
+            "id": "t2s1",
+            "nombre": "Actividad 1",
+            "fi": "",
+            "ff": "",
+            "resp": "",
+            "est": "por_hacer",
+            "com": ""
+          }
+        ]
+      },
+      {
+        "id": "t3",
+        "nombre": "FASE 3 — Ejecución",
+        "fi": "",
+        "ff": "",
+        "resp": "",
+        "est": "por_hacer",
+        "com": "",
+        "exp": true,
+        "subs": [
+          {
+            "id": "t3s1",
+            "nombre": "Actividad 1",
+            "fi": "",
+            "ff": "",
+            "resp": "",
+            "est": "por_hacer",
+            "com": ""
+          }
+        ]
+      }
+    ],
+    "resultado": {
+      "icono": "📋",
+      "titulo": "Meta AF-2026",
+      "subtitulo": ""
+    }
+  },
   "snpmgi_v1_2481370": {
     "metaFisica": "",
     "devengadoLabel": "",
@@ -179,6 +254,153 @@
       "fuente": "RO",
       "uei": "DITEL",
       "proceso": "—"
+    }
+  },
+  "snpmgi_v1_2573425": {
+    "metaFisica": "Adelanto 02 Aeronaves Caza 1er Tramo",
+    "devengadoLabel": "Devengado AF-2026: S/ 1,659 millones",
+    "comentarios": "",
+    "gantt": [
+      {
+        "id": "t1",
+        "nombre": "ACTOS PREPARATORIOS",
+        "fi": "2026-02-17",
+        "ff": "2026-03-27",
+        "resp": "EMGRA/FAP",
+        "est": "completado",
+        "com": "",
+        "exp": true,
+        "subs": [
+          {
+            "id": "t1s1",
+            "nombre": "Asignación Presupuestal OEC (EMGRA)",
+            "fi": "2026-02-17",
+            "ff": "2026-02-19",
+            "resp": "EMGRA",
+            "est": "completado",
+            "com": ""
+          },
+          {
+            "id": "t1s2",
+            "nombre": "Certificación de Reserva CPP (EMGRA)",
+            "fi": "2026-02-17",
+            "ff": "2026-02-19",
+            "resp": "EMGRA",
+            "est": "completado",
+            "com": ""
+          },
+          {
+            "id": "t1s3",
+            "nombre": "Incorporación de recursos FAP/MINDEF",
+            "fi": "2026-03-01",
+            "ff": "2026-03-18",
+            "resp": "FAP/MINDEF",
+            "est": "completado",
+            "com": ""
+          },
+          {
+            "id": "t1s4",
+            "nombre": "Solicitud demanda adicional S/522,353,365",
+            "fi": "2026-02-27",
+            "ff": "2026-03-27",
+            "resp": "FAP/MINDEF",
+            "est": "completado",
+            "com": ""
+          }
+        ]
+      },
+      {
+        "id": "t2",
+        "nombre": "PROCEDIMIENTO DE SELECCIÓN",
+        "fi": "2026-04-07",
+        "ff": "2026-04-30",
+        "resp": "ACFFAA/SINTE",
+        "est": "en_progreso",
+        "com": "",
+        "exp": true,
+        "subs": [
+          {
+            "id": "t2s1",
+            "nombre": "Remisión Expediente de Inicio — ACFFAA",
+            "fi": "2026-04-07",
+            "ff": "2026-04-08",
+            "resp": "ACFFAA",
+            "est": "en_progreso",
+            "com": ""
+          },
+          {
+            "id": "t2s2",
+            "nombre": "Convocatoria",
+            "fi": "2026-04-08",
+            "ff": "2026-04-14",
+            "resp": "ACFFAA",
+            "est": "por_hacer",
+            "com": ""
+          },
+          {
+            "id": "t2s3",
+            "nombre": "Presentación de ofertas",
+            "fi": "2026-04-14",
+            "ff": "2026-04-15",
+            "resp": "ACFFAA",
+            "est": "por_hacer",
+            "com": ""
+          },
+          {
+            "id": "t2s4",
+            "nombre": "Otorgamiento de Buena Pro",
+            "fi": "2026-04-15",
+            "ff": "2026-04-15",
+            "resp": "ACFFAA",
+            "est": "por_hacer",
+            "com": ""
+          },
+          {
+            "id": "t2s5",
+            "nombre": "Consentimiento Buena Pro",
+            "fi": "2026-04-15",
+            "ff": "2026-04-30",
+            "resp": "SINTE",
+            "est": "por_hacer",
+            "com": ""
+          }
+        ]
+      },
+      {
+        "id": "t3",
+        "nombre": "EJECUCIÓN CONTRACTUAL",
+        "fi": "2026-04-27",
+        "ff": "2026-07-31",
+        "resp": "SINTE/DIREC",
+        "est": "por_hacer",
+        "com": "",
+        "exp": true,
+        "subs": [
+          {
+            "id": "t3s1",
+            "nombre": "Firma de contrato (SINTE)",
+            "fi": "2026-04-27",
+            "ff": "2026-04-30",
+            "resp": "SINTE",
+            "est": "por_hacer",
+            "com": ""
+          },
+          {
+            "id": "t3s2",
+            "nombre": "Pago Adelantado Carta de Crédito (DIREC)",
+            "fi": "2026-07-31",
+            "ff": "2026-07-31",
+            "resp": "DIREC",
+            "est": "por_hacer",
+            "com": ""
+          }
+        ]
+      }
+    ],
+    "resultado": {
+      "icono": "✈️",
+      "titulo": "Adelanto pago Aeronaves Caza",
+      "subtitulo": "1er Tramo"
     }
   }
 }
