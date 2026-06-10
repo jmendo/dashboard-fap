@@ -1390,7 +1390,7 @@
         "resp": "",
         "est": "por_hacer",
         "com": "",
-        "exp": true,
+        "exp": false,
         "fases": [
           {
             "id": "f1779229820791",
@@ -1589,13 +1589,13 @@
             "resp": "",
             "est": "por_hacer",
             "com": "",
-            "exp": false,
+            "exp": true,
             "subs": [
               {
                 "id": "s1779209669183",
                 "nombre": "INCLUSIÓN EN EL PAC",
                 "fi": "2026-05-20",
-                "ff": "2026-06-02",
+                "ff": "2026-06-10",
                 "resp": "",
                 "est": "en_progreso",
                 "com": "",
@@ -1773,7 +1773,7 @@
                 "id": "s1779210511399",
                 "nombre": "INCLUSIÓN EN EL PAC",
                 "fi": "2026-05-19",
-                "ff": "2026-06-02",
+                "ff": "2026-06-10",
                 "resp": "",
                 "est": "en_progreso",
                 "com": "",
@@ -1946,7 +1946,7 @@
         "resp": "",
         "est": "por_hacer",
         "com": "",
-        "exp": false,
+        "exp": true,
         "fases": [
           {
             "id": "p1779211255035f1",
@@ -1962,7 +1962,7 @@
                 "id": "s1779211531302",
                 "nombre": "INCLUSIÓN EN EL PAC",
                 "fi": "2026-05-19",
-                "ff": "2026-06-02",
+                "ff": "2026-06-10",
                 "resp": "",
                 "est": "en_progreso",
                 "com": "",
