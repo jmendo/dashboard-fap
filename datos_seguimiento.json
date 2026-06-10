@@ -2706,7 +2706,7 @@
             "fi": "2026-05-04",
             "ff": "2026-06-10",
             "resp": "ACFFAA",
-            "est": "en_progreso",
+            "est": "completado",
             "com": "observado 27.05 por la ACFFAA",
             "fib": "2026-05-04",
             "ffb": "2026-06-03"
@@ -2714,7 +2714,7 @@
           {
             "id": "s1777326941571",
             "nombre": "Interacción con el Mercado",
-            "fi": "2026-06-01",
+            "fi": "2026-06-11",
             "ff": "2026-06-12",
             "resp": "ACFFAA",
             "est": "por_hacer",
