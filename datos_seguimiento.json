@@ -885,7 +885,7 @@
             "fi": "2026-05-15",
             "ff": "2026-06-04",
             "resp": "FAP",
-            "est": "en_progreso",
+            "est": "completado",
             "com": ""
           },
           {
@@ -894,7 +894,7 @@
             "fi": "2026-06-05",
             "ff": "2026-06-05",
             "resp": "FAP",
-            "est": "por_hacer",
+            "est": "completado",
             "com": ""
           },
           {
@@ -2765,7 +2765,7 @@
         "resp": "",
         "est": "por_hacer",
         "com": "",
-        "exp": true,
+        "exp": false,
         "subs": [
           {
             "id": "t2s1",
@@ -2840,7 +2840,7 @@
         "resp": "",
         "est": "por_hacer",
         "com": "",
-        "exp": true,
+        "exp": false,
         "subs": [
           {
             "id": "t3s1",
