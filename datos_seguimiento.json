@@ -1470,7 +1470,7 @@
         "resp": "",
         "est": "por_hacer",
         "com": "",
-        "exp": true,
+        "exp": false,
         "fases": [
           {
             "id": "f1779229820791",
@@ -1480,7 +1480,7 @@
             "resp": "",
             "est": "por_hacer",
             "com": "",
-            "exp": true,
+            "exp": false,
             "subs": [
               {
                 "id": "s1779229888798",
@@ -1659,7 +1659,7 @@
         "resp": "",
         "est": "por_hacer",
         "com": "",
-        "exp": false,
+        "exp": true,
         "fases": [
           {
             "id": "p1779209592309f1",
