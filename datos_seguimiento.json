@@ -2299,8 +2299,8 @@
               {
                 "id": "s1779211160321",
                 "nombre": "INTERNAMIENTO (30DC)",
-                "fi": "2026-07-14",
-                "ff": "2026-08-24",
+                "fi": "2026-07-16",
+                "ff": "2026-08-26",
                 "resp": "",
                 "est": "por_hacer",
                 "com": "",
@@ -2308,7 +2308,15 @@
                 "ffb": "2026-08-21",
                 "uid": "umqfgsyqkk0kx",
                 "durMode": "dc",
-                "dc": true
+                "dc": true,
+                "preds": [
+                  {
+                    "uid": "umqfgsyqkb9px",
+                    "tipo": "FS",
+                    "lag": 0
+                  }
+                ],
+                "dur": 42
               },
               {
                 "id": "s1779211160946",
