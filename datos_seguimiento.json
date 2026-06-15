@@ -2904,7 +2904,7 @@
         "id": "t1",
         "nombre": "FASE 1 — Actos preparatorios",
         "fi": "2026-05-04",
-        "ff": "2026-07-01",
+        "ff": "2026-07-02",
         "resp": "",
         "est": "por_hacer",
         "com": "",
@@ -2979,14 +2979,23 @@
           {
             "id": "s1777067022868",
             "nombre": "Designación del Comité de Selección",
-            "fi": "2026-06-19",
-            "ff": "2026-06-19",
+            "fi": "2026-07-02",
+            "ff": "2026-07-02",
             "resp": "",
             "est": "por_hacer",
             "com": "",
             "fib": "2026-06-18",
             "ffb": "2026-06-18",
-            "uid": "umqfqssay3woe"
+            "uid": "umqfqssay3woe",
+            "preds": [
+              {
+                "uid": "umqfqssayjtzb",
+                "tipo": "FS",
+                "lag": 0
+              }
+            ],
+            "dur": 1,
+            "durMode": "dh"
           },
           {
             "id": "s1777067065987",
