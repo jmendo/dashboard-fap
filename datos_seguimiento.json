@@ -1521,14 +1521,23 @@
               {
                 "id": "s1779229930937",
                 "nombre": "CERTIFICACIÓN PRESUPUESTAL",
-                "fi": "2026-06-10",
-                "ff": "2026-06-10",
+                "fi": "2026-06-25",
+                "ff": "2026-06-25",
                 "resp": "",
                 "est": "en_progreso",
                 "com": "",
                 "fib": "2026-06-09",
                 "ffb": "2026-06-09",
-                "uid": "umqfgsyqkfqsl"
+                "uid": "umqfgsyqkfqsl",
+                "preds": [
+                  {
+                    "uid": "umqfgsyqk41kq",
+                    "tipo": "SS",
+                    "lag": 0
+                  }
+                ],
+                "dur": 1,
+                "durMode": "dh"
               }
             ],
             "fib": "2026-05-19",
