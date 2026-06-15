@@ -1976,14 +1976,23 @@
               {
                 "id": "s1779210325462",
                 "nombre": "COMPROMISO ANUAL",
-                "fi": "2026-07-06",
-                "ff": "2026-07-08",
+                "fi": "2026-07-09",
+                "ff": "2026-07-13",
                 "resp": "",
                 "est": "por_hacer",
                 "com": "",
                 "fib": "2026-07-03",
                 "ffb": "2026-07-07",
-                "uid": "umqfgsyqk2kt2"
+                "uid": "umqfgsyqk2kt2",
+                "preds": [
+                  {
+                    "uid": "umqfgsyqk3uiy",
+                    "tipo": "FS",
+                    "lag": 0
+                  }
+                ],
+                "dur": 3,
+                "durMode": "dh"
               },
               {
                 "id": "s1779210348574",
