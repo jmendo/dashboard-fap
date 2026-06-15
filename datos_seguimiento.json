@@ -1665,14 +1665,23 @@
               {
                 "id": "s1779230148423",
                 "nombre": "CONTRATO",
-                "fi": "2026-07-13",
-                "ff": "2026-07-14",
+                "fi": "2026-07-21",
+                "ff": "2026-07-22",
                 "resp": "",
                 "est": "por_hacer",
                 "com": "",
                 "fib": "2026-07-10",
                 "ffb": "2026-07-13",
-                "uid": "umqfgsyqk7500"
+                "uid": "umqfgsyqk7500",
+                "preds": [
+                  {
+                    "uid": "umqfgsyqk0oc6",
+                    "tipo": "FS",
+                    "lag": 0
+                  }
+                ],
+                "dur": 2,
+                "durMode": "dh"
               },
               {
                 "id": "s1779230174000",
