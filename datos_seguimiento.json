@@ -3140,14 +3140,23 @@
           {
             "id": "s1777066542530",
             "nombre": "Buena Pro",
-            "fi": "2026-07-15",
-            "ff": "2026-07-15",
+            "fi": "2026-07-30",
+            "ff": "2026-07-30",
             "resp": "",
             "est": "por_hacer",
             "com": "",
             "fib": "2026-07-14",
             "ffb": "2026-07-14",
-            "uid": "umqfqssaysn48"
+            "uid": "umqfqssaysn48",
+            "preds": [
+              {
+                "uid": "umqfqssayrhm5",
+                "tipo": "FS",
+                "lag": 0
+              }
+            ],
+            "dur": 1,
+            "durMode": "dh"
           },
           {
             "id": "s1777066543355",
