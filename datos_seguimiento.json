@@ -3246,8 +3246,8 @@
             "fib": "2026-08-13",
             "ffb": "2026-08-13",
             "uid": "umqfqssay1pbd",
-            "durMode": "dc",
-            "dc": true,
+            "durMode": "dh",
+            "dc": false,
             "preds": [
               {
                 "uid": "umqfqssay3zbc",
