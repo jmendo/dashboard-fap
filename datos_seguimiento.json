@@ -2430,7 +2430,7 @@
           {
             "id": "p1779211255035f2",
             "nombre": "FASE 2 — Procedimiento de Selección",
-            "fi": "2026-06-12",
+            "fi": "2026-06-16",
             "ff": "2026-07-01",
             "resp": "",
             "est": "por_hacer",
@@ -2461,14 +2461,23 @@
               {
                 "id": "s1779211614918",
                 "nombre": "PRESENTACIÓN DE PROPUESTAS TÉCNICAS",
-                "fi": "2026-06-12",
-                "ff": "2026-06-17",
+                "fi": "2026-06-17",
+                "ff": "2026-06-22",
                 "resp": "",
                 "est": "por_hacer",
                 "com": "",
                 "fib": "2026-06-12",
                 "ffb": "2026-06-17",
-                "uid": "umqfgsyqkeish"
+                "uid": "umqfgsyqkeish",
+                "preds": [
+                  {
+                    "uid": "umqfgsyqk272r",
+                    "tipo": "FS",
+                    "lag": 0
+                  }
+                ],
+                "dur": 4,
+                "durMode": "dh"
               },
               {
                 "id": "s1779211615590",
