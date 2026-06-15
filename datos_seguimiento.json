@@ -3119,14 +3119,23 @@
           {
             "id": "s1777066443131",
             "nombre": "Evaluación y Calificación",
-            "fi": "2026-07-13",
-            "ff": "2026-07-14",
+            "fi": "2026-07-24",
+            "ff": "2026-07-27",
             "resp": "",
             "est": "por_hacer",
             "com": "",
             "fib": "2026-07-10",
             "ffb": "2026-07-13",
-            "uid": "umqfqssayrhm5"
+            "uid": "umqfqssayrhm5",
+            "preds": [
+              {
+                "uid": "umqfqssay6lo6",
+                "tipo": "FS",
+                "lag": 0
+              }
+            ],
+            "dur": 2,
+            "durMode": "dh"
           },
           {
             "id": "s1777066542530",
