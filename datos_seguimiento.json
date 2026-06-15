@@ -2430,7 +2430,7 @@
           {
             "id": "p1779211255035f2",
             "nombre": "FASE 2 — Procedimiento de Selección",
-            "fi": "2026-06-11",
+            "fi": "2026-06-12",
             "ff": "2026-07-01",
             "resp": "",
             "est": "por_hacer",
@@ -2440,14 +2440,23 @@
               {
                 "id": "s1779211614358",
                 "nombre": "CONVOCATORIA",
-                "fi": "2026-06-11",
-                "ff": "2026-06-11",
+                "fi": "2026-06-16",
+                "ff": "2026-06-16",
                 "resp": "",
                 "est": "por_hacer",
                 "com": "",
                 "fib": "2026-06-11",
                 "ffb": "2026-06-11",
-                "uid": "umqfgsyqk272r"
+                "uid": "umqfgsyqk272r",
+                "preds": [
+                  {
+                    "uid": "umqfgsyqkssf3",
+                    "tipo": "FS",
+                    "lag": 0
+                  }
+                ],
+                "dur": 1,
+                "durMode": "dh"
               },
               {
                 "id": "s1779211614918",
