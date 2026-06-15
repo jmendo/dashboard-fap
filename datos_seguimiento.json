@@ -2353,7 +2353,7 @@
         "tipo": "proceso",
         "nombre": "PROCESO 4: LICENCIAS DE SOFTWARE DE INFORMACIÓN GEOGRÁFICA PROFESIONAL CON EXTENSIONES",
         "fi": "2026-05-19",
-        "ff": "2026-08-10",
+        "ff": "2026-08-12",
         "resp": "",
         "est": "por_hacer",
         "com": "",
@@ -2529,7 +2529,7 @@
             "id": "p1779211255035f3",
             "nombre": "FASE 3 — Ejecución Contractual",
             "fi": "2026-07-07",
-            "ff": "2026-08-10",
+            "ff": "2026-08-12",
             "resp": "",
             "est": "por_hacer",
             "com": "",
@@ -2623,14 +2623,23 @@
               {
                 "id": "s1779211811920",
                 "nombre": "DEVENGADO",
-                "fi": "2026-08-06",
-                "ff": "2026-08-10",
+                "fi": "2026-08-10",
+                "ff": "2026-08-12",
                 "resp": "",
                 "est": "por_hacer",
                 "com": "",
                 "fib": "2026-08-06",
                 "ffb": "2026-08-10",
-                "uid": "umqfgsyqkw46a"
+                "uid": "umqfgsyqkw46a",
+                "preds": [
+                  {
+                    "uid": "umqfgsyqk4qdw",
+                    "tipo": "FS",
+                    "lag": 0
+                  }
+                ],
+                "dur": 3,
+                "durMode": "dh"
               }
             ],
             "fib": "2026-07-02",
