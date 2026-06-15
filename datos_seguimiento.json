@@ -3282,14 +3282,23 @@
           {
             "id": "s1777066347882",
             "nombre": "Recepción y Conformidad",
-            "fi": "2026-11-12",
-            "ff": "2026-11-18",
+            "fi": "2026-10-28",
+            "ff": "2026-11-03",
             "resp": "",
             "est": "por_hacer",
             "com": "",
             "fib": "2026-11-11",
             "ffb": "2026-11-17",
-            "uid": "umqfqssayeh66"
+            "uid": "umqfqssayeh66",
+            "preds": [
+              {
+                "uid": "umqfqssay21kf",
+                "tipo": "FS",
+                "lag": 0
+              }
+            ],
+            "dur": 5,
+            "durMode": "dh"
           },
           {
             "id": "s1777066395034",
