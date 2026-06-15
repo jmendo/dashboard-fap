@@ -3238,8 +3238,8 @@
           {
             "id": "s1776799850665",
             "nombre": "Inicio de Plazo de Ejecución (90 dc)",
-            "fi": "2026-08-14",
-            "ff": "2026-08-14",
+            "fi": "2026-08-26",
+            "ff": "2026-08-26",
             "resp": "",
             "est": "por_hacer",
             "com": "",
@@ -3247,7 +3247,15 @@
             "ffb": "2026-08-13",
             "uid": "umqfqssay1pbd",
             "durMode": "dc",
-            "dc": true
+            "dc": true,
+            "preds": [
+              {
+                "uid": "umqfqssay3zbc",
+                "tipo": "FS",
+                "lag": 0
+              }
+            ],
+            "dur": 1
           },
           {
             "id": "s1777066346961",
