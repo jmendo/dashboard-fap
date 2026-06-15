@@ -3260,14 +3260,23 @@
           {
             "id": "s1777066346961",
             "nombre": "Ejecución de la Obra/Servicio",
-            "fi": "2026-08-17",
-            "ff": "2026-11-11",
+            "fi": "2026-08-27",
+            "ff": "2026-11-23",
             "resp": "",
             "est": "por_hacer",
             "com": "",
             "fib": "2026-08-14",
             "ffb": "2026-11-10",
-            "uid": "umqfqssay21kf"
+            "uid": "umqfqssay21kf",
+            "preds": [
+              {
+                "uid": "umqfqssay1pbd",
+                "tipo": "FS",
+                "lag": 0
+              }
+            ],
+            "dur": 62,
+            "durMode": "dh"
           },
           {
             "id": "s1777066347882",
