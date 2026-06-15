@@ -1924,24 +1924,33 @@
           {
             "id": "p1779209592309f3",
             "nombre": "FASE 3 — Ejecución Contractual",
-            "fi": "2026-06-23",
+            "fi": "2026-06-26",
             "ff": "2026-08-04",
             "resp": "",
             "est": "por_hacer",
             "com": "",
-            "exp": false,
+            "exp": true,
             "subs": [
               {
                 "id": "s1779210272926",
                 "nombre": "PERFECCIONAMIENTO",
-                "fi": "2026-06-23",
-                "ff": "2026-07-01",
+                "fi": "2026-06-26",
+                "ff": "2026-07-06",
                 "resp": "",
                 "est": "por_hacer",
                 "com": "",
                 "fib": "2026-06-22",
                 "ffb": "2026-06-30",
-                "uid": "umqfgsyqkqkdu"
+                "uid": "umqfgsyqkqkdu",
+                "preds": [
+                  {
+                    "uid": "umqfgsyqkz2e3",
+                    "tipo": "FS",
+                    "lag": 0
+                  }
+                ],
+                "dur": 6,
+                "durMode": "dh"
               },
               {
                 "id": "s1779210276622",
