@@ -3261,7 +3261,7 @@
             "id": "s1777066346961",
             "nombre": "Ejecución de la Obra/Servicio",
             "fi": "2026-08-27",
-            "ff": "2026-11-23",
+            "ff": "2026-10-27",
             "resp": "",
             "est": "por_hacer",
             "com": "",
@@ -3276,7 +3276,8 @@
               }
             ],
             "dur": 62,
-            "durMode": "dh"
+            "durMode": "dc",
+            "dc": true
           },
           {
             "id": "s1777066347882",
