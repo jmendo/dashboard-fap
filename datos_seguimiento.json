@@ -1478,7 +1478,7 @@
             "id": "f1779229820791",
             "nombre": "FASE 1 — Actos Preparatorios",
             "fi": "2026-05-19",
-            "ff": "2026-06-11",
+            "ff": "2026-06-17",
             "resp": "",
             "est": "por_hacer",
             "com": "",
@@ -1499,14 +1499,23 @@
               {
                 "id": "s1779229909343",
                 "nombre": "REQUERIMIENTO ÁREA USUARIA",
-                "fi": "2026-06-04",
-                "ff": "2026-06-09",
+                "fi": "2026-06-12",
+                "ff": "2026-06-17",
                 "resp": "",
                 "est": "por_hacer",
                 "com": "",
                 "fib": "2026-06-03",
                 "ffb": "2026-06-08",
-                "uid": "umqfgsyqk41kq"
+                "uid": "umqfgsyqk41kq",
+                "preds": [
+                  {
+                    "uid": "umqfgsyqkk4mi",
+                    "tipo": "FS",
+                    "lag": 0
+                  }
+                ],
+                "dur": 4,
+                "durMode": "dh"
               },
               {
                 "id": "s1779229930937",
