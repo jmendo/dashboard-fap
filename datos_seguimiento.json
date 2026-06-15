@@ -1537,7 +1537,7 @@
             "id": "f1779229823416",
             "nombre": "FASE 2 — Procedimiento de Selección",
             "fi": "2026-06-18",
-            "ff": "2026-06-30",
+            "ff": "2026-07-07",
             "resp": "",
             "est": "por_hacer",
             "com": "",
@@ -1609,14 +1609,23 @@
               {
                 "id": "s1779230067383",
                 "nombre": "CONSENTIMIENTO",
-                "fi": "2026-06-22",
-                "ff": "2026-06-30",
+                "fi": "2026-06-30",
+                "ff": "2026-07-07",
                 "resp": "",
                 "est": "por_hacer",
                 "com": "",
                 "fib": "2026-06-19",
                 "ffb": "2026-06-26",
-                "uid": "umqfgsyqk5npq"
+                "uid": "umqfgsyqk5npq",
+                "preds": [
+                  {
+                    "uid": "umqfgsyqkft2m",
+                    "tipo": "FS",
+                    "lag": 0
+                  }
+                ],
+                "dur": 6,
+                "durMode": "dh"
               }
             ],
             "fib": "2026-06-10",
