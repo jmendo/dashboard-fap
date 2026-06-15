@@ -2431,7 +2431,7 @@
             "id": "p1779211255035f2",
             "nombre": "FASE 2 — Procedimiento de Selección",
             "fi": "2026-06-16",
-            "ff": "2026-07-01",
+            "ff": "2026-07-06",
             "resp": "",
             "est": "por_hacer",
             "com": "",
@@ -2482,26 +2482,44 @@
               {
                 "id": "s1779211615590",
                 "nombre": "BUENA PRO",
-                "fi": "2026-06-18",
-                "ff": "2026-06-18",
+                "fi": "2026-06-23",
+                "ff": "2026-06-23",
                 "resp": "",
                 "est": "por_hacer",
                 "com": "",
                 "fib": "2026-06-18",
                 "ffb": "2026-06-18",
-                "uid": "umqfgsyqko7kj"
+                "uid": "umqfgsyqko7kj",
+                "preds": [
+                  {
+                    "uid": "umqfgsyqkeish",
+                    "tipo": "FS",
+                    "lag": 0
+                  }
+                ],
+                "dur": 1,
+                "durMode": "dh"
               },
               {
                 "id": "s1779211706065",
                 "nombre": "CONSENTIMIENTO",
-                "fi": "2026-06-19",
-                "ff": "2026-07-01",
+                "fi": "2026-06-24",
+                "ff": "2026-07-06",
                 "resp": "",
                 "est": "por_hacer",
                 "com": "",
                 "fib": "2026-06-19",
                 "ffb": "2026-07-01",
-                "uid": "umqfgsyqkxc97"
+                "uid": "umqfgsyqkxc97",
+                "preds": [
+                  {
+                    "uid": "umqfgsyqko7kj",
+                    "tipo": "FS",
+                    "lag": 0
+                  }
+                ],
+                "dur": 8,
+                "durMode": "dh"
               }
             ],
             "fib": "2026-06-11",
