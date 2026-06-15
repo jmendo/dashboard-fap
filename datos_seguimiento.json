@@ -2904,7 +2904,7 @@
         "id": "t1",
         "nombre": "FASE 1 — Actos preparatorios",
         "fi": "2026-05-04",
-        "ff": "2026-06-25",
+        "ff": "2026-07-01",
         "resp": "",
         "est": "por_hacer",
         "com": "",
@@ -2958,14 +2958,23 @@
           {
             "id": "s1777067022347",
             "nombre": "Aprobación del Expediente de Contratación",
-            "fi": "2026-06-16",
-            "ff": "2026-06-18",
+            "fi": "2026-06-26",
+            "ff": "2026-07-01",
             "resp": "",
             "est": "por_hacer",
             "com": "",
             "fib": "2026-06-15",
             "ffb": "2026-06-17",
-            "uid": "umqfqssayjtzb"
+            "uid": "umqfqssayjtzb",
+            "preds": [
+              {
+                "uid": "umqfqssaysg00",
+                "tipo": "FS",
+                "lag": 0
+              }
+            ],
+            "dur": 3,
+            "durMode": "dh"
           },
           {
             "id": "s1777067022868",
