@@ -1770,7 +1770,7 @@
         "tipo": "proceso",
         "nombre": "PROCESO 2: COMPUTADORA PORTATIL Y MONITOR",
         "fi": "2026-05-20",
-        "ff": "2026-08-04",
+        "ff": "2026-08-05",
         "resp": "",
         "est": "por_hacer",
         "com": "",
@@ -1925,7 +1925,7 @@
             "id": "p1779209592309f3",
             "nombre": "FASE 3 — Ejecución Contractual",
             "fi": "2026-06-26",
-            "ff": "2026-08-04",
+            "ff": "2026-08-05",
             "resp": "",
             "est": "por_hacer",
             "com": "",
@@ -1997,8 +1997,8 @@
               {
                 "id": "s1779210348574",
                 "nombre": "INTERNAMIENTO (15DC)",
-                "fi": "2026-07-09",
-                "ff": "2026-07-24",
+                "fi": "2026-07-14",
+                "ff": "2026-07-29",
                 "resp": "",
                 "est": "por_hacer",
                 "com": "",
@@ -2006,19 +2006,36 @@
                 "ffb": "2026-07-23",
                 "uid": "umqfgsyqkrlw8",
                 "durMode": "dc",
-                "dc": true
+                "dc": true,
+                "preds": [
+                  {
+                    "uid": "umqfgsyqk2kt2",
+                    "tipo": "FS",
+                    "lag": 0
+                  }
+                ],
+                "dur": 16
               },
               {
                 "id": "s1779210390294",
                 "nombre": "DEVENGADO",
-                "fi": "2026-07-27",
-                "ff": "2026-08-04",
+                "fi": "2026-07-30",
+                "ff": "2026-08-05",
                 "resp": "",
                 "est": "por_hacer",
                 "com": "",
                 "fib": "2026-07-24",
                 "ffb": "2026-08-03",
-                "uid": "umqfgsyqkdu0s"
+                "uid": "umqfgsyqkdu0s",
+                "preds": [
+                  {
+                    "uid": "umqfgsyqkrlw8",
+                    "tipo": "FS",
+                    "lag": 0
+                  }
+                ],
+                "dur": 5,
+                "durMode": "dh"
               }
             ],
             "fib": "2026-06-22",
