@@ -2226,7 +2226,7 @@
           {
             "id": "p1779210467534f3",
             "nombre": "FASE 3 — Ejecución Contractual",
-            "fi": "2026-07-02",
+            "fi": "2026-07-06",
             "ff": "2026-08-31",
             "resp": "",
             "est": "por_hacer",
@@ -2236,26 +2236,44 @@
               {
                 "id": "s1779211074153",
                 "nombre": "PERFECCIONAMIENTO",
-                "fi": "2026-07-02",
-                "ff": "2026-07-08",
+                "fi": "2026-07-06",
+                "ff": "2026-07-10",
                 "resp": "",
                 "est": "por_hacer",
                 "com": "",
                 "fib": "2026-07-01",
                 "ffb": "2026-07-07",
-                "uid": "umqfgsyqkmv9e"
+                "uid": "umqfgsyqkmv9e",
+                "preds": [
+                  {
+                    "uid": "umqfgsyqkgoni",
+                    "tipo": "FS",
+                    "lag": 0
+                  }
+                ],
+                "dur": 5,
+                "durMode": "dh"
               },
               {
                 "id": "s1779211076441",
                 "nombre": "CONTRATO",
-                "fi": "2026-07-09",
-                "ff": "2026-07-09",
+                "fi": "2026-07-13",
+                "ff": "2026-07-13",
                 "resp": "",
                 "est": "por_hacer",
                 "com": "",
                 "fib": "2026-07-08",
                 "ffb": "2026-07-08",
-                "uid": "umqfgsyqkbkjs"
+                "uid": "umqfgsyqkbkjs",
+                "preds": [
+                  {
+                    "uid": "umqfgsyqkmv9e",
+                    "tipo": "FS",
+                    "lag": 0
+                  }
+                ],
+                "dur": 1,
+                "durMode": "dh"
               },
               {
                 "id": "s1779211078425",
