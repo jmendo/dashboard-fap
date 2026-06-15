@@ -3025,7 +3025,7 @@
       {
         "id": "t2",
         "nombre": "FASE 2 — Procedimiento de selección",
-        "fi": "2026-07-01",
+        "fi": "2026-07-08",
         "ff": "2026-07-30",
         "resp": "",
         "est": "por_hacer",
@@ -3077,14 +3077,23 @@
           {
             "id": "s1777066442299",
             "nombre": "Absolución e Integración",
-            "fi": "2026-07-01",
-            "ff": "2026-07-07",
+            "fi": "2026-07-13",
+            "ff": "2026-07-17",
             "resp": "",
             "est": "por_hacer",
             "com": "",
             "fib": "2026-06-30",
             "ffb": "2026-07-06",
-            "uid": "umqfqssayt1po"
+            "uid": "umqfqssayt1po",
+            "preds": [
+              {
+                "uid": "umqfqssay7ohn",
+                "tipo": "FS",
+                "lag": 0
+              }
+            ],
+            "dur": 5,
+            "durMode": "dh"
           },
           {
             "id": "s1777066442723",
