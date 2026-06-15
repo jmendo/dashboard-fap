@@ -2051,7 +2051,7 @@
         "tipo": "proceso",
         "nombre": "PROCESO 3:ALMACENAMIENTO STORAGE",
         "fi": "2026-05-19",
-        "ff": "2026-08-31",
+        "ff": "2026-09-02",
         "resp": "",
         "est": "por_hacer",
         "com": "",
@@ -2227,7 +2227,7 @@
             "id": "p1779210467534f3",
             "nombre": "FASE 3 — Ejecución Contractual",
             "fi": "2026-07-06",
-            "ff": "2026-08-31",
+            "ff": "2026-09-02",
             "resp": "",
             "est": "por_hacer",
             "com": "",
@@ -2321,14 +2321,23 @@
               {
                 "id": "s1779211160946",
                 "nombre": "DEVENGADO",
-                "fi": "2026-08-25",
-                "ff": "2026-08-31",
+                "fi": "2026-08-27",
+                "ff": "2026-09-02",
                 "resp": "",
                 "est": "por_hacer",
                 "com": "",
                 "fib": "2026-08-24",
                 "ffb": "2026-08-28",
-                "uid": "umqfgsyqkz1ox"
+                "uid": "umqfgsyqkz1ox",
+                "preds": [
+                  {
+                    "uid": "umqfgsyqkk0kx",
+                    "tipo": "FS",
+                    "lag": 0
+                  }
+                ],
+                "dur": 5,
+                "durMode": "dh"
               }
             ],
             "fib": "2026-07-01",
