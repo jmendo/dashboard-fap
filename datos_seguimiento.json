@@ -2601,14 +2601,24 @@
               {
                 "id": "s1779211736383",
                 "nombre": "INTERNAMIENTO (15 DC)",
-                "fi": "2026-07-21",
-                "ff": "2026-08-05",
+                "fi": "2026-07-25",
+                "ff": "2026-08-09",
                 "resp": "",
                 "est": "por_hacer",
                 "com": "",
                 "fib": "2026-07-21",
                 "ffb": "2026-08-05",
-                "uid": "umqfgsyqk4qdw"
+                "uid": "umqfgsyqk4qdw",
+                "durMode": "dc",
+                "dc": true,
+                "preds": [
+                  {
+                    "uid": "umqfgsyqktlr7",
+                    "tipo": "FS",
+                    "lag": 0
+                  }
+                ],
+                "dur": 16
               },
               {
                 "id": "s1779211811920",
