@@ -2004,7 +2004,9 @@
                 "com": "",
                 "fib": "2026-07-08",
                 "ffb": "2026-07-23",
-                "uid": "umqfgsyqkrlw8"
+                "uid": "umqfgsyqkrlw8",
+                "durMode": "dc",
+                "dc": true
               },
               {
                 "id": "s1779210390294",
