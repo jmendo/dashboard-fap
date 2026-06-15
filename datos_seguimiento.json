@@ -3783,7 +3783,7 @@
         "id": "t3",
         "nombre": "FASE 3 — Ejecución",
         "fi": "2026-06-15",
-        "ff": "",
+        "ff": "2026-06-15",
         "resp": "",
         "est": "por_hacer",
         "com": "",
@@ -3793,11 +3793,13 @@
             "id": "t3s1",
             "nombre": "Devengado",
             "fi": "2026-06-15",
-            "ff": "",
+            "ff": "2026-06-15",
             "resp": "",
             "est": "por_hacer",
             "com": "",
-            "uid": "umqb342k9lj2e"
+            "uid": "umqb342k9lj2e",
+            "dur": 1,
+            "durMode": "dh"
           }
         ]
       }
