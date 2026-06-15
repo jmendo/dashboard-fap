@@ -1848,7 +1848,7 @@
             "id": "p1779209592309f2",
             "nombre": "FASE 2 — Procedimiento de Selección",
             "fi": "2026-06-17",
-            "ff": "2026-06-24",
+            "ff": "2026-06-25",
             "resp": "",
             "est": "por_hacer",
             "com": "",
@@ -1899,14 +1899,23 @@
               {
                 "id": "s1779210197574",
                 "nombre": "BUENA PRO",
-                "fi": "2026-06-22",
-                "ff": "2026-06-22",
+                "fi": "2026-06-25",
+                "ff": "2026-06-25",
                 "resp": "",
                 "est": "por_hacer",
                 "com": "",
                 "fib": "2026-06-19",
                 "ffb": "2026-06-19",
-                "uid": "umqfgsyqkz2e3"
+                "uid": "umqfgsyqkz2e3",
+                "preds": [
+                  {
+                    "uid": "umqfgsyqkcz9x",
+                    "tipo": "FS",
+                    "lag": 0
+                  }
+                ],
+                "dur": 1,
+                "durMode": "dh"
               }
             ],
             "fib": "2026-06-11",
