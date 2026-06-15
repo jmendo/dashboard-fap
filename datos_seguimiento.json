@@ -3025,7 +3025,7 @@
       {
         "id": "t2",
         "nombre": "FASE 2 — Procedimiento de selección",
-        "fi": "2026-06-26",
+        "fi": "2026-07-01",
         "ff": "2026-07-30",
         "resp": "",
         "est": "por_hacer",
@@ -3056,14 +3056,23 @@
           {
             "id": "s1777066441762",
             "nombre": "Consultas y Observaciones",
-            "fi": "2026-06-26",
-            "ff": "2026-06-30",
+            "fi": "2026-07-09",
+            "ff": "2026-07-10",
             "resp": "",
             "est": "por_hacer",
             "com": "",
             "fib": "2026-06-25",
             "ffb": "2026-06-29",
-            "uid": "umqfqssay7ohn"
+            "uid": "umqfqssay7ohn",
+            "preds": [
+              {
+                "uid": "umqfqssaybill",
+                "tipo": "FS",
+                "lag": 0
+              }
+            ],
+            "dur": 2,
+            "durMode": "dh"
           },
           {
             "id": "s1777066442299",
