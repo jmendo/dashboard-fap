@@ -296,7 +296,16 @@
             "com": "",
             "fib": "2026-06-15",
             "ffb": "2026-06-15",
-            "uid": "umqlc6enq202d"
+            "uid": "umqlc6enq202d",
+            "preds": [
+              {
+                "uid": "umqlc6enqliq1",
+                "tipo": "FS",
+                "lag": 0
+              }
+            ],
+            "dur": 1,
+            "durMode": "dh"
           },
           {
             "id": "s1779312722037",
