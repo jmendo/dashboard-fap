@@ -336,7 +336,7 @@
         "id": "t2",
         "nombre": "FASE 2 — Procedimiento de selección",
         "fi": "2026-06-19",
-        "ff": "2026-08-10",
+        "ff": "2026-07-31",
         "resp": "",
         "est": "por_hacer",
         "com": "",
@@ -450,38 +450,65 @@
           {
             "id": "s1779312794478",
             "nombre": "Evaluación, Calificación y Puntuación de Ofertas",
-            "fi": "2026-07-22",
-            "ff": "2026-07-24",
+            "fi": "2026-07-15",
+            "ff": "2026-07-16",
             "resp": "",
             "est": "por_hacer",
             "com": "",
             "fib": "2026-07-22",
             "ffb": "2026-07-24",
-            "uid": "umqlc6enqalat"
+            "uid": "umqlc6enqalat",
+            "preds": [
+              {
+                "uid": "umqlc6enq9u62",
+                "tipo": "FS",
+                "lag": 0
+              }
+            ],
+            "dur": 2,
+            "durMode": "dh"
           },
           {
             "id": "s1779312952526",
             "nombre": "Buena Pro",
-            "fi": "2026-07-27",
-            "ff": "2026-07-27",
+            "fi": "2026-07-17",
+            "ff": "2026-07-17",
             "resp": "",
             "est": "por_hacer",
             "com": "",
             "fib": "2026-07-27",
             "ffb": "2026-07-27",
-            "uid": "umqlc6enq8t1f"
+            "uid": "umqlc6enq8t1f",
+            "preds": [
+              {
+                "uid": "umqlc6enqalat",
+                "tipo": "FS",
+                "lag": 0
+              }
+            ],
+            "dur": 1,
+            "durMode": "dh"
           },
           {
             "id": "s1779312953126",
             "nombre": "Consentimiento",
-            "fi": "2026-07-30",
-            "ff": "2026-08-10",
+            "fi": "2026-07-20",
+            "ff": "2026-07-31",
             "resp": "",
             "est": "por_hacer",
             "com": "",
             "fib": "2026-07-30",
             "ffb": "2026-08-10",
-            "uid": "umqlc6enqt6et"
+            "uid": "umqlc6enqt6et",
+            "preds": [
+              {
+                "uid": "umqlc6enq8t1f",
+                "tipo": "FS",
+                "lag": 0
+              }
+            ],
+            "dur": 7,
+            "durMode": "dh"
           }
         ],
         "fib": "2026-06-18",
