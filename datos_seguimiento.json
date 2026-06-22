@@ -408,14 +408,23 @@
           {
             "id": "s1779312793446",
             "nombre": "Absolución de Consultas e Integración de Bases",
-            "fi": "2026-07-10",
-            "ff": "2026-07-16",
+            "fi": "2026-07-03",
+            "ff": "2026-07-09",
             "resp": "",
             "est": "por_hacer",
             "com": "",
             "fib": "2026-07-06",
             "ffb": "2026-07-10",
-            "uid": "umqlc6enqtehl"
+            "uid": "umqlc6enqtehl",
+            "preds": [
+              {
+                "uid": "umqlc6enqwb1x",
+                "tipo": "FS",
+                "lag": 0
+              }
+            ],
+            "dur": 5,
+            "durMode": "dh"
           },
           {
             "id": "s1779312794173",
