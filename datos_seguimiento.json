@@ -548,14 +548,23 @@
           {
             "id": "s1779313014918",
             "nombre": "Contrato",
-            "fi": "2026-08-21",
-            "ff": "2026-08-24",
+            "fi": "2026-08-17",
+            "ff": "2026-08-18",
             "resp": "",
             "est": "por_hacer",
             "com": "",
             "fib": "2026-08-21",
             "ffb": "2026-08-24",
-            "uid": "umqlc6enqaasf"
+            "uid": "umqlc6enqaasf",
+            "preds": [
+              {
+                "uid": "umqlc6enq8asb",
+                "tipo": "FS",
+                "lag": 0
+              }
+            ],
+            "dur": 2,
+            "durMode": "dh"
           },
           {
             "id": "s1779313015334",
