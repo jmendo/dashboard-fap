@@ -429,14 +429,23 @@
           {
             "id": "s1779312794173",
             "nombre": "Presentación de Ofertas",
-            "fi": "2026-07-17",
-            "ff": "2026-07-21",
+            "fi": "2026-07-10",
+            "ff": "2026-07-14",
             "resp": "",
             "est": "por_hacer",
             "com": "",
             "fib": "2026-07-13",
             "ffb": "2026-07-21",
-            "uid": "umqlc6enq9u62"
+            "uid": "umqlc6enq9u62",
+            "preds": [
+              {
+                "uid": "umqlc6enqtehl",
+                "tipo": "FS",
+                "lag": 0
+              }
+            ],
+            "dur": 3,
+            "durMode": "dh"
           },
           {
             "id": "s1779312794478",
