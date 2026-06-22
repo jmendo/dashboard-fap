@@ -336,7 +336,7 @@
         "id": "t2",
         "nombre": "FASE 2 — Procedimiento de selección",
         "fi": "2026-06-19",
-        "ff": "2026-08-03",
+        "ff": "2026-08-05",
         "resp": "",
         "est": "por_hacer",
         "com": "",
@@ -387,8 +387,8 @@
           {
             "id": "s1779312792997",
             "nombre": "Formulación de Consultas y Observaciones",
-            "fi": "2026-06-22",
-            "ff": "2026-07-02",
+            "fi": "2026-06-24",
+            "ff": "2026-07-06",
             "resp": "",
             "est": "por_hacer",
             "com": "",
@@ -397,7 +397,7 @@
             "uid": "umqlc6enqwb1x",
             "preds": [
               {
-                "uid": "umqlc6enq1uea",
+                "uid": "umqlc6enq1313",
                 "tipo": "FS",
                 "lag": 0
               }
@@ -408,8 +408,8 @@
           {
             "id": "s1779312793446",
             "nombre": "Absolución de Consultas e Integración de Bases",
-            "fi": "2026-07-03",
-            "ff": "2026-07-09",
+            "fi": "2026-07-07",
+            "ff": "2026-07-13",
             "resp": "",
             "est": "por_hacer",
             "com": "",
@@ -429,8 +429,8 @@
           {
             "id": "s1779312794173",
             "nombre": "Presentación de Ofertas",
-            "fi": "2026-07-10",
-            "ff": "2026-07-14",
+            "fi": "2026-07-14",
+            "ff": "2026-07-16",
             "resp": "",
             "est": "por_hacer",
             "com": "",
@@ -450,8 +450,8 @@
           {
             "id": "s1779312794478",
             "nombre": "Evaluación, Calificación y Puntuación de Ofertas",
-            "fi": "2026-07-15",
-            "ff": "2026-07-16",
+            "fi": "2026-07-17",
+            "ff": "2026-07-20",
             "resp": "",
             "est": "por_hacer",
             "com": "",
@@ -471,8 +471,8 @@
           {
             "id": "s1779312952526",
             "nombre": "Buena Pro",
-            "fi": "2026-07-17",
-            "ff": "2026-07-17",
+            "fi": "2026-07-21",
+            "ff": "2026-07-21",
             "resp": "",
             "est": "por_hacer",
             "com": "",
@@ -492,8 +492,8 @@
           {
             "id": "s1779312953126",
             "nombre": "Consentimiento",
-            "fi": "2026-07-20",
-            "ff": "2026-08-03",
+            "fi": "2026-07-22",
+            "ff": "2026-08-05",
             "resp": "",
             "est": "por_hacer",
             "com": "",
@@ -517,8 +517,8 @@
       {
         "id": "t3",
         "nombre": "FASE 3 — Ejecución",
-        "fi": "2026-08-04",
-        "ff": "2027-03-29",
+        "fi": "2026-08-07",
+        "ff": "2027-03-31",
         "resp": "",
         "est": "por_hacer",
         "com": "",
@@ -527,8 +527,8 @@
           {
             "id": "t3s1",
             "nombre": "Perfeccionamiento: Entrega de requisitos y Carta Fianza de Adelanto",
-            "fi": "2026-08-04",
-            "ff": "2026-08-14",
+            "fi": "2026-08-07",
+            "ff": "2026-08-18",
             "resp": "",
             "est": "por_hacer",
             "com": "",
@@ -548,8 +548,8 @@
           {
             "id": "s1779313014918",
             "nombre": "Contrato",
-            "fi": "2026-08-17",
-            "ff": "2026-08-18",
+            "fi": "2026-08-19",
+            "ff": "2026-08-20",
             "resp": "",
             "est": "por_hacer",
             "com": "",
@@ -569,8 +569,8 @@
           {
             "id": "s1779313015334",
             "nombre": "Devengado (Pago Adelantado)",
-            "fi": "2026-08-19",
-            "ff": "2026-08-24",
+            "fi": "2026-08-21",
+            "ff": "2026-08-26",
             "resp": "",
             "est": "por_hacer",
             "com": "",
@@ -590,8 +590,8 @@
           {
             "id": "s1779313015694",
             "nombre": "Internamiento del Bien (Plazo Principal de Ejecución 210 dc)",
-            "fi": "2026-08-25",
-            "ff": "2027-03-22",
+            "fi": "2026-08-27",
+            "ff": "2027-03-24",
             "resp": "",
             "est": "por_hacer",
             "com": "",
@@ -610,8 +610,8 @@
           {
             "id": "s1779313015958",
             "nombre": "Recepción y Conformidad Técnica de los Paracaídas",
-            "fi": "2027-03-23",
-            "ff": "2027-03-29",
+            "fi": "2027-03-29",
+            "ff": "2027-03-31",
             "resp": "",
             "est": "por_hacer",
             "com": "",
