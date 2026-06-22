@@ -518,7 +518,7 @@
         "id": "t3",
         "nombre": "FASE 3 — Ejecución",
         "fi": "2026-08-04",
-        "ff": "2026-08-28",
+        "ff": "2026-08-24",
         "resp": "",
         "est": "por_hacer",
         "com": "",
@@ -569,14 +569,23 @@
           {
             "id": "s1779313015334",
             "nombre": "Devengado (Pago Adelantado)",
-            "fi": "2026-08-25",
-            "ff": "2026-08-28",
+            "fi": "2026-08-19",
+            "ff": "2026-08-24",
             "resp": "",
             "est": "por_hacer",
             "com": "",
             "fib": "2026-08-25",
             "ffb": "2026-08-28",
-            "uid": "umqlc6enqgrzh"
+            "uid": "umqlc6enqgrzh",
+            "preds": [
+              {
+                "uid": "umqlc6enqaasf",
+                "tipo": "FS",
+                "lag": 0
+              }
+            ],
+            "dur": 4,
+            "durMode": "dh"
           },
           {
             "id": "s1779313015694",
