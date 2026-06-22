@@ -289,8 +289,8 @@
           {
             "id": "s1779312689780",
             "nombre": "Designación del Comité de Selección e Instalación",
-            "fi": "2026-06-22",
-            "ff": "2026-06-22",
+            "fi": "2026-06-19",
+            "ff": "2026-06-19",
             "resp": "",
             "est": "por_hacer",
             "com": "",
@@ -300,7 +300,7 @@
             "preds": [
               {
                 "uid": "umqlc6enqliq1",
-                "tipo": "FS",
+                "tipo": "SS",
                 "lag": 0
               }
             ],
