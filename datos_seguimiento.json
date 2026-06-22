@@ -387,14 +387,23 @@
           {
             "id": "s1779312792997",
             "nombre": "Formulación de Consultas y Observaciones",
-            "fi": "2026-06-30",
-            "ff": "2026-07-09",
+            "fi": "2026-06-22",
+            "ff": "2026-07-02",
             "resp": "",
             "est": "por_hacer",
             "com": "",
             "fib": "2026-06-19",
             "ffb": "2026-07-03",
-            "uid": "umqlc6enqwb1x"
+            "uid": "umqlc6enqwb1x",
+            "preds": [
+              {
+                "uid": "umqlc6enq1uea",
+                "tipo": "FS",
+                "lag": 0
+              }
+            ],
+            "dur": 8,
+            "durMode": "dh"
           },
           {
             "id": "s1779312793446",
