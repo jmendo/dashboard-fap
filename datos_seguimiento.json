@@ -214,7 +214,7 @@
         "id": "t1",
         "nombre": "FASE 1 — Actos preparatorios",
         "fi": "2026-05-12",
-        "ff": "2026-06-26",
+        "ff": "2026-06-19",
         "resp": "",
         "est": "por_hacer",
         "com": "",
@@ -310,14 +310,23 @@
           {
             "id": "s1779312722037",
             "nombre": "Elaboración y Aprobación de Bases Estánda",
-            "fi": "2026-06-25",
-            "ff": "2026-06-26",
+            "fi": "2026-06-19",
+            "ff": "2026-06-19",
             "resp": "",
             "est": "por_hacer",
             "com": "",
             "fib": "2026-06-16",
             "ffb": "2026-06-17",
-            "uid": "umqlc6enqdbpq"
+            "uid": "umqlc6enqdbpq",
+            "preds": [
+              {
+                "uid": "umqlc6enq202d",
+                "tipo": "SS",
+                "lag": 0
+              }
+            ],
+            "dur": 1,
+            "durMode": "dh"
           }
         ],
         "fib": "2026-05-12",
