@@ -345,14 +345,23 @@
           {
             "id": "t2s1",
             "nombre": "Convocatoria",
-            "fi": "2026-06-29",
-            "ff": "2026-06-29",
+            "fi": "2026-06-19",
+            "ff": "2026-06-19",
             "resp": "",
             "est": "por_hacer",
             "com": "",
             "fib": "2026-06-18",
             "ffb": "2026-06-18",
-            "uid": "umqlc6enq1uea"
+            "uid": "umqlc6enq1uea",
+            "preds": [
+              {
+                "uid": "umqlc6enqdbpq",
+                "tipo": "SS",
+                "lag": 0
+              }
+            ],
+            "dur": 1,
+            "durMode": "dh"
           },
           {
             "id": "s1779312792342",
