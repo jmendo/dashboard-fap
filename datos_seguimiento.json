@@ -590,12 +590,19 @@
           {
             "id": "s1779313015694",
             "nombre": "Internamiento del Bien (Plazo Principal de Ejecución 210 dc)",
-            "fi": "",
+            "fi": "2026-08-25",
             "ff": "",
             "resp": "",
             "est": "por_hacer",
             "com": "",
-            "uid": "umqlc6enq9gr9"
+            "uid": "umqlc6enq9gr9",
+            "preds": [
+              {
+                "uid": "umqlc6enqgrzh",
+                "tipo": "FS",
+                "lag": 0
+              }
+            ]
           },
           {
             "id": "s1779313015958",
