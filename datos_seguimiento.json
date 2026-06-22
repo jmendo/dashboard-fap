@@ -518,7 +518,7 @@
         "id": "t3",
         "nombre": "FASE 3 — Ejecución",
         "fi": "2026-08-04",
-        "ff": "2026-08-24",
+        "ff": "2027-03-22",
         "resp": "",
         "est": "por_hacer",
         "com": "",
@@ -591,7 +591,7 @@
             "id": "s1779313015694",
             "nombre": "Internamiento del Bien (Plazo Principal de Ejecución 210 dc)",
             "fi": "2026-08-25",
-            "ff": "",
+            "ff": "2027-03-22",
             "resp": "",
             "est": "por_hacer",
             "com": "",
@@ -604,7 +604,8 @@
               }
             ],
             "durMode": "dc",
-            "dc": true
+            "dc": true,
+            "dur": 210
           },
           {
             "id": "s1779313015958",
