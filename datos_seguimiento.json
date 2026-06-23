@@ -656,7 +656,14 @@
         "nov": 0,
         "dic": 0
       },
-      "proceso": "ACFFAA"
+      "proceso": "ACFFAA",
+      "fuentes": [
+        {
+          "fuente": "ROOC",
+          "pim": 1659353665,
+          "dev": 1630433501
+        }
+      ]
     },
     {
       "cui": "2234934",
@@ -678,7 +685,14 @@
         "nov": 0,
         "dic": 4058030
       },
-      "proceso": "ACFFAA"
+      "proceso": "ACFFAA",
+      "fuentes": [
+        {
+          "fuente": "RO",
+          "pim": 240000000,
+          "dev": 235941970
+        }
+      ]
     },
     {
       "cui": "2313734",
@@ -700,7 +714,19 @@
         "nov": 150000000,
         "dic": 0
       },
-      "proceso": "ACFFAA"
+      "proceso": "ACFFAA",
+      "fuentes": [
+        {
+          "fuente": "RO",
+          "pim": 732256,
+          "dev": 732256
+        },
+        {
+          "fuente": "ROOC",
+          "pim": 150000000,
+          "dev": 0
+        }
+      ]
     },
     {
       "cui": "2163489",
@@ -722,7 +748,14 @@
         "nov": 9324937,
         "dic": 0
       },
-      "proceso": "—"
+      "proceso": "—",
+      "fuentes": [
+        {
+          "fuente": "RO",
+          "pim": 9324937,
+          "dev": 0
+        }
+      ]
     },
     {
       "cui": "2598085",
@@ -744,7 +777,14 @@
         "nov": 0,
         "dic": 1394
       },
-      "proceso": "ACFFAA"
+      "proceso": "ACFFAA",
+      "fuentes": [
+        {
+          "fuente": "RO",
+          "pim": 5240386,
+          "dev": 5238992
+        }
+      ]
     },
     {
       "cui": "2652526",
@@ -766,7 +806,14 @@
         "nov": 0,
         "dic": 0
       },
-      "proceso": "ACFFAA"
+      "proceso": "ACFFAA",
+      "fuentes": [
+        {
+          "fuente": "RO",
+          "pim": 5135151,
+          "dev": 0
+        }
+      ]
     },
     {
       "cui": "2662544",
@@ -788,7 +835,14 @@
         "nov": 0,
         "dic": 0
       },
-      "proceso": "ACFFAA"
+      "proceso": "ACFFAA",
+      "fuentes": [
+        {
+          "fuente": "RO",
+          "pim": 6111241,
+          "dev": 0
+        }
+      ]
     },
     {
       "cui": "2644770",
@@ -810,7 +864,14 @@
         "nov": 0,
         "dic": 1494557
       },
-      "proceso": "ACFFAA"
+      "proceso": "ACFFAA",
+      "fuentes": [
+        {
+          "fuente": "RO",
+          "pim": 2448906,
+          "dev": 0
+        }
+      ]
     },
     {
       "cui": "2676804",
@@ -832,7 +893,14 @@
         "nov": 0,
         "dic": 1274
       },
-      "proceso": "FAP"
+      "proceso": "FAP",
+      "fuentes": [
+        {
+          "fuente": "RO",
+          "pim": 2904671,
+          "dev": 2903397
+        }
+      ]
     },
     {
       "cui": "2494066",
@@ -854,7 +922,14 @@
         "nov": 0,
         "dic": 0
       },
-      "proceso": "ACFFAA"
+      "proceso": "ACFFAA",
+      "fuentes": [
+        {
+          "fuente": "RO",
+          "pim": 1975832,
+          "dev": 0
+        }
+      ]
     },
     {
       "cui": "2481370",
@@ -876,7 +951,14 @@
         "nov": 0,
         "dic": 0
       },
-      "proceso": "ACFFAA"
+      "proceso": "ACFFAA",
+      "fuentes": [
+        {
+          "fuente": "RO",
+          "pim": 1390640,
+          "dev": 0
+        }
+      ]
     },
     {
       "cui": "2674913",
@@ -898,7 +980,14 @@
         "nov": 1538304,
         "dic": 0
       },
-      "proceso": "FAP"
+      "proceso": "FAP",
+      "fuentes": [
+        {
+          "fuente": "RO",
+          "pim": 1538304,
+          "dev": 0
+        }
+      ]
     },
     {
       "cui": "2641956",
@@ -920,7 +1009,14 @@
         "nov": 0,
         "dic": 598351
       },
-      "proceso": "FAP"
+      "proceso": "FAP",
+      "fuentes": [
+        {
+          "fuente": "RO",
+          "pim": 598351,
+          "dev": 0
+        }
+      ]
     },
     {
       "cui": "2576672",
@@ -942,7 +1038,14 @@
         "nov": 0,
         "dic": 23127
       },
-      "proceso": "FAP"
+      "proceso": "FAP",
+      "fuentes": [
+        {
+          "fuente": "RO",
+          "pim": 245627,
+          "dev": 222500
+        }
+      ]
     },
     {
       "cui": "2492600",
@@ -964,7 +1067,14 @@
         "nov": 146425,
         "dic": 0
       },
-      "proceso": "FAP"
+      "proceso": "FAP",
+      "fuentes": [
+        {
+          "fuente": "RO",
+          "pim": 146425,
+          "dev": 0
+        }
+      ]
     },
     {
       "cui": "2702643",
@@ -987,7 +1097,14 @@
         "dic": 1685959
       },
       "uei": "DITEL",
-      "proceso": "ACFFAA"
+      "proceso": "ACFFAA",
+      "fuentes": [
+        {
+          "fuente": "RO",
+          "pim": 1685959,
+          "dev": 0
+        }
+      ]
     }
   ],
   "snpmgi_v1_2492600": {
