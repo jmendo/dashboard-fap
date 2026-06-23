@@ -1581,7 +1581,16 @@
             "com": "2 d",
             "fib": "2026-06-03",
             "ffb": "2026-06-10",
-            "uid": "umqqp2germvom"
+            "uid": "umqqp2germvom",
+            "preds": [
+              {
+                "uid": "umqqp2gerkg1v",
+                "tipo": "FS",
+                "lag": 0
+              }
+            ],
+            "dur": 6,
+            "durMode": "dh"
           },
           {
             "id": "s1776714022316",
