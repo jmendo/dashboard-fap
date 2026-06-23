@@ -1602,7 +1602,16 @@
             "com": "1 d",
             "fib": "2026-06-12",
             "ffb": "2026-06-12",
-            "uid": "umqqp2geribm4"
+            "uid": "umqqp2geribm4",
+            "preds": [
+              {
+                "uid": "umqqp2germvom",
+                "tipo": "FS",
+                "lag": 0
+              }
+            ],
+            "dur": 1,
+            "durMode": "dh"
           },
           {
             "id": "s1776714236484",
