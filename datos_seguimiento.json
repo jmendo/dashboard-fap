@@ -1623,7 +1623,16 @@
             "com": "8 d",
             "fib": "2026-06-15",
             "ffb": "2026-06-24",
-            "uid": "umqqp2gerf1ue"
+            "uid": "umqqp2gerf1ue",
+            "preds": [
+              {
+                "uid": "umqqp2geribm4",
+                "tipo": "FS",
+                "lag": 0
+              }
+            ],
+            "dur": 8,
+            "durMode": "dh"
           }
         ],
         "fib": "2026-05-14",
