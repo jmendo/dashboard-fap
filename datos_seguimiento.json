@@ -1679,7 +1679,16 @@
             "com": "",
             "fib": "2026-07-07",
             "ffb": "2026-07-08",
-            "uid": "umqqp2gery0bp"
+            "uid": "umqqp2gery0bp",
+            "preds": [
+              {
+                "uid": "umqqp2gergdx3",
+                "tipo": "FS",
+                "lag": 0
+              }
+            ],
+            "dur": 2,
+            "durMode": "dh"
           },
           {
             "id": "s1776716028760",
