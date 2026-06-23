@@ -1693,8 +1693,8 @@
           {
             "id": "s1776716028760",
             "nombre": "Internamiento (60 dc)",
-            "fi": "2026-07-16",
-            "ff": "2026-09-14",
+            "fi": "2026-07-17",
+            "ff": "2026-09-15",
             "resp": "",
             "est": "por_hacer",
             "com": "",
@@ -1702,7 +1702,15 @@
             "ffb": "2026-09-06",
             "uid": "umqqp2gerykou",
             "durMode": "dc",
-            "dc": true
+            "dc": true,
+            "preds": [
+              {
+                "uid": "umqqp2gery0bp",
+                "tipo": "FS",
+                "lag": 0
+              }
+            ],
+            "dur": 61
           },
           {
             "id": "s1776716152738",
