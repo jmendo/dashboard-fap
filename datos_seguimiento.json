@@ -1539,7 +1539,16 @@
             "com": "5 d",
             "fib": "2026-05-19",
             "ffb": "2026-05-26",
-            "uid": "umqqp2gervbow"
+            "uid": "umqqp2gervbow",
+            "preds": [
+              {
+                "uid": "umqqp2germ28l",
+                "tipo": "FS",
+                "lag": 0
+              }
+            ],
+            "dur": 6,
+            "durMode": "dh"
           },
           {
             "id": "s1776713992116",
