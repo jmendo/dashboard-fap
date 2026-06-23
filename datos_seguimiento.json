@@ -1700,7 +1700,9 @@
             "com": "",
             "fib": "2026-07-08",
             "ffb": "2026-09-06",
-            "uid": "umqqp2gerykou"
+            "uid": "umqqp2gerykou",
+            "durMode": "dc",
+            "dc": true
           },
           {
             "id": "s1776716152738",
