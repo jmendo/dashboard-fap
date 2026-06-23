@@ -1642,7 +1642,7 @@
         "id": "t3",
         "nombre": "FASE 3 — Ejecución Contractual",
         "fi": "2026-07-06",
-        "ff": "2026-09-22",
+        "ff": "2026-09-24",
         "resp": "",
         "est": "por_hacer",
         "com": "",
@@ -1715,26 +1715,44 @@
           {
             "id": "s1776716152738",
             "nombre": "Recepción y Conformidad",
-            "fi": "2026-09-15",
-            "ff": "2026-09-17",
+            "fi": "2026-09-16",
+            "ff": "2026-09-18",
             "resp": "",
             "est": "por_hacer",
             "com": "",
             "fib": "2026-09-07",
             "ffb": "2026-09-09",
-            "uid": "umqqp2ger7xio"
+            "uid": "umqqp2ger7xio",
+            "preds": [
+              {
+                "uid": "umqqp2gerykou",
+                "tipo": "FS",
+                "lag": 0
+              }
+            ],
+            "dur": 3,
+            "durMode": "dh"
           },
           {
             "id": "s1777927460391",
             "nombre": "Devengado",
-            "fi": "2026-09-17",
-            "ff": "2026-09-22",
+            "fi": "2026-09-21",
+            "ff": "2026-09-24",
             "resp": "",
             "est": "por_hacer",
             "com": "",
             "fib": "2026-09-09",
             "ffb": "2026-09-14",
-            "uid": "umqqp2ger80os"
+            "uid": "umqqp2ger80os",
+            "preds": [
+              {
+                "uid": "umqqp2ger7xio",
+                "tipo": "FS",
+                "lag": 0
+              }
+            ],
+            "dur": 4,
+            "durMode": "dh"
           }
         ],
         "fib": "2026-06-25",
