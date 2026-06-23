@@ -1518,7 +1518,16 @@
             "com": "7 d",
             "fib": "2026-05-15",
             "ffb": "2026-05-18",
-            "uid": "umqqp2germ28l"
+            "uid": "umqqp2germ28l",
+            "preds": [
+              {
+                "uid": "umqqp2gerpc7r",
+                "tipo": "FS",
+                "lag": 0
+              }
+            ],
+            "dur": 2,
+            "durMode": "dh"
           },
           {
             "id": "s1776713990100",
