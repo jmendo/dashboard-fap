@@ -641,12 +641,12 @@
       "nombre": "AVIONES CAZA-PI",
       "fuente": "ROOC",
       "pim": 1659353665,
-      "dev": 1.63,
+      "dev": 0,
       "meses": {
         "ene": 0,
         "feb": 0,
         "mar": 0,
-        "abr": 1.63,
+        "abr": 0,
         "may": 0,
         "jun": 0,
         "jul": 0,
@@ -661,13 +661,11 @@
         {
           "fuente": "ROOC",
           "pim": 1659353665,
-          "dev": 1.63,
+          "dev": 0,
           "desde": null
         }
       ],
-      "mesFuente": {
-        "abr": "ROOC"
-      }
+      "mesFuente": {}
     },
     {
       "cui": "2234934",
