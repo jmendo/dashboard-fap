@@ -895,7 +895,7 @@
       "nombre": "ADQUIS. HARDWARE E IMPRESORAS-IOARR",
       "fuente": "RO",
       "pim": 2904671,
-      "dev": 1274,
+      "dev": 0,
       "meses": {
         "ene": 0,
         "feb": 0,
@@ -908,20 +908,18 @@
         "set": 0,
         "oct": 0,
         "nov": 0,
-        "dic": 1274
+        "dic": 0
       },
       "proceso": "FAP",
       "fuentes": [
         {
           "fuente": "RO",
           "pim": 2904671,
-          "dev": 1274,
+          "dev": 0,
           "desde": null
         }
       ],
-      "mesFuente": {
-        "dic": "RO"
-      }
+      "mesFuente": {}
     },
     {
       "cui": "2494066",
