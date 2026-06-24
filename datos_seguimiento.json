@@ -674,13 +674,13 @@
       "nombre": "SPARTAN - C27J-PI",
       "fuente": "RO",
       "pim": 240000000,
-      "dev": 0,
+      "dev": 239849969,
       "meses": {
         "ene": 0,
         "feb": 0,
         "mar": 0,
         "abr": 0,
-        "may": 0,
+        "may": 239849969,
         "jun": 0,
         "jul": 0,
         "ago": 0,
@@ -694,11 +694,13 @@
         {
           "fuente": "RO",
           "pim": 240000000,
-          "dev": 0,
+          "dev": 239849969,
           "desde": null
         }
       ],
-      "mesFuente": {}
+      "mesFuente": {
+        "may": "RO"
+      }
     },
     {
       "cui": "2313734",
