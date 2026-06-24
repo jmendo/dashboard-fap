@@ -661,7 +661,8 @@
         {
           "fuente": "ROOC",
           "pim": 1659353665,
-          "dev": 1630433501
+          "dev": 1630433501,
+          "desde": null
         }
       ]
     },
@@ -690,7 +691,8 @@
         {
           "fuente": "RO",
           "pim": 240000000,
-          "dev": 235941970
+          "dev": 235941970,
+          "desde": null
         }
       ]
     },
@@ -719,12 +721,14 @@
         {
           "fuente": "RO",
           "pim": 732256,
-          "dev": 732256
+          "dev": 732256,
+          "desde": "2026-06"
         },
         {
           "fuente": "ROOC",
           "pim": 150000000,
-          "dev": 0
+          "dev": 0,
+          "desde": null
         }
       ]
     },
@@ -753,7 +757,8 @@
         {
           "fuente": "RO",
           "pim": 9324937,
-          "dev": 0
+          "dev": 0,
+          "desde": null
         }
       ]
     },
@@ -782,7 +787,8 @@
         {
           "fuente": "RO",
           "pim": 5240386,
-          "dev": 5238992
+          "dev": 5238992,
+          "desde": null
         }
       ]
     },
@@ -811,7 +817,8 @@
         {
           "fuente": "RO",
           "pim": 5135151,
-          "dev": 0
+          "dev": 0,
+          "desde": null
         }
       ]
     },
@@ -840,7 +847,8 @@
         {
           "fuente": "RO",
           "pim": 6111241,
-          "dev": 0
+          "dev": 0,
+          "desde": null
         }
       ]
     },
@@ -869,7 +877,8 @@
         {
           "fuente": "RO",
           "pim": 2448906,
-          "dev": 0
+          "dev": 0,
+          "desde": null
         }
       ]
     },
@@ -898,7 +907,8 @@
         {
           "fuente": "RO",
           "pim": 2904671,
-          "dev": 2903397
+          "dev": 2903397,
+          "desde": null
         }
       ]
     },
@@ -927,7 +937,8 @@
         {
           "fuente": "RO",
           "pim": 1975832,
-          "dev": 0
+          "dev": 0,
+          "desde": null
         }
       ]
     },
@@ -956,7 +967,8 @@
         {
           "fuente": "RO",
           "pim": 1390640,
-          "dev": 0
+          "dev": 0,
+          "desde": null
         }
       ]
     },
@@ -985,7 +997,8 @@
         {
           "fuente": "RO",
           "pim": 1538304,
-          "dev": 0
+          "dev": 0,
+          "desde": null
         }
       ]
     },
@@ -1014,7 +1027,8 @@
         {
           "fuente": "RO",
           "pim": 598351,
-          "dev": 0
+          "dev": 0,
+          "desde": null
         }
       ]
     },
@@ -1043,7 +1057,8 @@
         {
           "fuente": "RO",
           "pim": 245627,
-          "dev": 222500
+          "dev": 222500,
+          "desde": null
         }
       ]
     },
@@ -1072,7 +1087,8 @@
         {
           "fuente": "RO",
           "pim": 146425,
-          "dev": 0
+          "dev": 0,
+          "desde": null
         }
       ]
     },
@@ -1102,7 +1118,8 @@
         {
           "fuente": "RO",
           "pim": 1685959,
-          "dev": 0
+          "dev": 0,
+          "desde": null
         }
       ]
     }
