@@ -641,12 +641,12 @@
       "nombre": "AVIONES CAZA-PI",
       "fuente": "ROOC",
       "pim": 1659353665,
-      "dev": 1630433501,
+      "dev": 1.63,
       "meses": {
         "ene": 0,
         "feb": 0,
         "mar": 0,
-        "abr": 1630433501,
+        "abr": 1.63,
         "may": 0,
         "jun": 0,
         "jul": 0,
@@ -661,17 +661,20 @@
         {
           "fuente": "ROOC",
           "pim": 1659353665,
-          "dev": 1630433501,
+          "dev": 1.63,
           "desde": null
         }
-      ]
+      ],
+      "mesFuente": {
+        "abr": "ROOC"
+      }
     },
     {
       "cui": "2234934",
       "nombre": "SPARTAN - C27J-PI",
       "fuente": "RO",
       "pim": 240000000,
-      "dev": 235941970,
+      "dev": 240000000,
       "meses": {
         "ene": 0,
         "feb": 0,
@@ -691,17 +694,21 @@
         {
           "fuente": "RO",
           "pim": 240000000,
-          "dev": 235941970,
+          "dev": 240000000,
           "desde": null
         }
-      ]
+      ],
+      "mesFuente": {
+        "may": "RO",
+        "dic": "RO"
+      }
     },
     {
       "cui": "2313734",
       "nombre": "RADAR 3D-PI",
       "fuente": "ROOC",
       "pim": 150732256,
-      "dev": 732256,
+      "dev": 150732256,
       "meses": {
         "ene": 0,
         "feb": 0,
@@ -722,22 +729,26 @@
           "fuente": "RO",
           "pim": 732256,
           "dev": 732256,
-          "desde": "2026-06"
+          "desde": "2026-06-01"
         },
         {
           "fuente": "ROOC",
           "pim": 150000000,
-          "dev": 0,
+          "dev": 150000000,
           "desde": null
         }
-      ]
+      ],
+      "mesFuente": {
+        "jun": "RO",
+        "nov": "ROOC"
+      }
     },
     {
       "cui": "2163489",
       "nombre": "HANGARES EFOPI-PI",
       "fuente": "RO",
       "pim": 9324937,
-      "dev": 0,
+      "dev": 9324937,
       "meses": {
         "ene": 0,
         "feb": 0,
@@ -757,17 +768,20 @@
         {
           "fuente": "RO",
           "pim": 9324937,
-          "dev": 0,
+          "dev": 9324937,
           "desde": null
         }
-      ]
+      ],
+      "mesFuente": {
+        "nov": "RO"
+      }
     },
     {
       "cui": "2598085",
       "nombre": "CRIPTOLÓGICO-IOARR",
       "fuente": "RO",
       "pim": 5240386,
-      "dev": 5238992,
+      "dev": 5240386,
       "meses": {
         "ene": 0,
         "feb": 0,
@@ -787,17 +801,21 @@
         {
           "fuente": "RO",
           "pim": 5240386,
-          "dev": 5238992,
+          "dev": 5240386,
           "desde": null
         }
-      ]
+      ],
+      "mesFuente": {
+        "jun": "RO",
+        "dic": "RO"
+      }
     },
     {
       "cui": "2652526",
       "nombre": "REPOSICIÓN DATA CENTER-IOARR",
       "fuente": "RO",
       "pim": 5135151,
-      "dev": 0,
+      "dev": 5135151,
       "meses": {
         "ene": 0,
         "feb": 0,
@@ -817,17 +835,20 @@
         {
           "fuente": "RO",
           "pim": 5135151,
-          "dev": 0,
+          "dev": 5135151,
           "desde": null
         }
-      ]
+      ],
+      "mesFuente": {
+        "jul": "RO"
+      }
     },
     {
       "cui": "2662544",
       "nombre": "HELIBALDES-IOARR",
       "fuente": "RO",
       "pim": 6111241,
-      "dev": 0,
+      "dev": 6111241,
       "meses": {
         "ene": 0,
         "feb": 0,
@@ -847,17 +868,20 @@
         {
           "fuente": "RO",
           "pim": 6111241,
-          "dev": 0,
+          "dev": 6111241,
           "desde": null
         }
-      ]
+      ],
+      "mesFuente": {
+        "ago": "RO"
+      }
     },
     {
       "cui": "2644770",
       "nombre": "LUCES DE BALIZAJES-IOARR",
       "fuente": "RO",
       "pim": 2448906,
-      "dev": 0,
+      "dev": 2448906,
       "meses": {
         "ene": 0,
         "feb": 0,
@@ -877,17 +901,21 @@
         {
           "fuente": "RO",
           "pim": 2448906,
-          "dev": 0,
+          "dev": 2448906,
           "desde": null
         }
-      ]
+      ],
+      "mesFuente": {
+        "set": "RO",
+        "dic": "RO"
+      }
     },
     {
       "cui": "2676804",
       "nombre": "ADQUIS. HARDWARE E IMPRESORAS-IOARR",
       "fuente": "RO",
       "pim": 2904671,
-      "dev": 2903397,
+      "dev": 2904671,
       "meses": {
         "ene": 0,
         "feb": 0,
@@ -907,17 +935,22 @@
         {
           "fuente": "RO",
           "pim": 2904671,
-          "dev": 2903397,
+          "dev": 2904671,
           "desde": null
         }
-      ]
+      ],
+      "mesFuente": {
+        "mar": "RO",
+        "abr": "RO",
+        "dic": "RO"
+      }
     },
     {
       "cui": "2494066",
       "nombre": "PARACAIDAS-IOARR",
       "fuente": "RO",
       "pim": 1975832,
-      "dev": 0,
+      "dev": 1975832,
       "meses": {
         "ene": 0,
         "feb": 0,
@@ -937,17 +970,20 @@
         {
           "fuente": "RO",
           "pim": 1975832,
-          "dev": 0,
+          "dev": 1975832,
           "desde": null
         }
-      ]
+      ],
+      "mesFuente": {
+        "set": "RO"
+      }
     },
     {
       "cui": "2481370",
       "nombre": "SIST. COMUNICACIÓN SATELITAL-PI",
       "fuente": "RO",
       "pim": 1390640,
-      "dev": 0,
+      "dev": 1390640,
       "meses": {
         "ene": 0,
         "feb": 0,
@@ -967,17 +1003,20 @@
         {
           "fuente": "RO",
           "pim": 1390640,
-          "dev": 0,
+          "dev": 1390640,
           "desde": null
         }
-      ]
+      ],
+      "mesFuente": {
+        "jul": "RO"
+      }
     },
     {
       "cui": "2674913",
       "nombre": "CERCO PERIMÉTRICO - ESSEL-IOARR",
       "fuente": "RO",
       "pim": 1538304,
-      "dev": 0,
+      "dev": 1538304,
       "meses": {
         "ene": 0,
         "feb": 0,
@@ -997,17 +1036,20 @@
         {
           "fuente": "RO",
           "pim": 1538304,
-          "dev": 0,
+          "dev": 1538304,
           "desde": null
         }
-      ]
+      ],
+      "mesFuente": {
+        "nov": "RO"
+      }
     },
     {
       "cui": "2641956",
       "nombre": "AERONAVES ACROBÁTICAS-PI",
       "fuente": "RO",
       "pim": 598351,
-      "dev": 0,
+      "dev": 598351,
       "meses": {
         "ene": 0,
         "feb": 0,
@@ -1027,17 +1069,20 @@
         {
           "fuente": "RO",
           "pim": 598351,
-          "dev": 0,
+          "dev": 598351,
           "desde": null
         }
-      ]
+      ],
+      "mesFuente": {
+        "dic": "RO"
+      }
     },
     {
       "cui": "2576672",
       "nombre": "SALA DE USOS MÚLTIPLES - ESFAP-IOARR",
       "fuente": "RO",
       "pim": 245627,
-      "dev": 222500,
+      "dev": 245627,
       "meses": {
         "ene": 0,
         "feb": 0,
@@ -1057,17 +1102,22 @@
         {
           "fuente": "RO",
           "pim": 245627,
-          "dev": 222500,
+          "dev": 245627,
           "desde": null
         }
-      ]
+      ],
+      "mesFuente": {
+        "abr": "RO",
+        "jun": "RO",
+        "dic": "RO"
+      }
     },
     {
       "cui": "2492600",
       "nombre": "VEHÍCULOS - SETRA-IOARR",
       "fuente": "RO",
       "pim": 146425,
-      "dev": 0,
+      "dev": 146425,
       "meses": {
         "ene": 0,
         "feb": 0,
@@ -1087,17 +1137,20 @@
         {
           "fuente": "RO",
           "pim": 146425,
-          "dev": 0,
+          "dev": 146425,
           "desde": null
         }
-      ]
+      ],
+      "mesFuente": {
+        "nov": "RO"
+      }
     },
     {
       "cui": "2702643",
       "nombre": "2702643: ADQUISICIÓN DE EQUIPOS - DIFAP-IOARR",
       "fuente": "RO",
       "pim": 1685959,
-      "dev": 0,
+      "dev": 1685959,
       "meses": {
         "ene": 0,
         "feb": 0,
@@ -1118,10 +1171,13 @@
         {
           "fuente": "RO",
           "pim": 1685959,
-          "dev": 0,
+          "dev": 1685959,
           "desde": null
         }
-      ]
+      ],
+      "mesFuente": {
+        "dic": "RO"
+      }
     }
   ],
   "snpmgi_v1_2492600": {
