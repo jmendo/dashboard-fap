@@ -703,7 +703,7 @@
       "nombre": "RADAR 3D-PI",
       "fuente": "ROOC",
       "pim": 150732256,
-      "dev": 150000000,
+      "dev": 0,
       "meses": {
         "ene": 0,
         "feb": 0,
@@ -715,7 +715,7 @@
         "ago": 0,
         "set": 0,
         "oct": 0,
-        "nov": 150000000,
+        "nov": 0,
         "dic": 0
       },
       "proceso": "ACFFAA",
@@ -729,13 +729,11 @@
         {
           "fuente": "ROOC",
           "pim": 150000000,
-          "dev": 150000000,
+          "dev": 0,
           "desde": null
         }
       ],
-      "mesFuente": {
-        "nov": "ROOC"
-      }
+      "mesFuente": {}
     },
     {
       "cui": "2163489",
@@ -775,14 +773,14 @@
       "nombre": "CRIPTOLÓGICO-IOARR",
       "fuente": "RO",
       "pim": 5240386,
-      "dev": 5240386,
+      "dev": 1394,
       "meses": {
         "ene": 0,
         "feb": 0,
         "mar": 0,
         "abr": 0,
         "may": 0,
-        "jun": 5238992,
+        "jun": 0,
         "jul": 0,
         "ago": 0,
         "set": 0,
@@ -795,12 +793,11 @@
         {
           "fuente": "RO",
           "pim": 5240386,
-          "dev": 5240386,
+          "dev": 1394,
           "desde": null
         }
       ],
       "mesFuente": {
-        "jun": "RO",
         "dic": "RO"
       }
     },
