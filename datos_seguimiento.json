@@ -866,7 +866,7 @@
       "nombre": "LUCES DE BALIZAJES-IOARR",
       "fuente": "RO",
       "pim": 2448906,
-      "dev": 1494557,
+      "dev": 0,
       "meses": {
         "ene": 0,
         "feb": 0,
@@ -879,32 +879,30 @@
         "set": 0,
         "oct": 0,
         "nov": 0,
-        "dic": 1494557
+        "dic": 0
       },
       "proceso": "ACFFAA",
       "fuentes": [
         {
           "fuente": "RO",
           "pim": 2448906,
-          "dev": 1494557,
+          "dev": 0,
           "desde": null
         }
       ],
-      "mesFuente": {
-        "dic": "RO"
-      }
+      "mesFuente": {}
     },
     {
       "cui": "2676804",
       "nombre": "ADQUIS. HARDWARE E IMPRESORAS-IOARR",
       "fuente": "RO",
       "pim": 2904671,
-      "dev": 2904671,
+      "dev": 1274,
       "meses": {
         "ene": 0,
         "feb": 0,
-        "mar": 1557538,
-        "abr": 1345859,
+        "mar": 0,
+        "abr": 0,
         "may": 0,
         "jun": 0,
         "jul": 0,
@@ -919,13 +917,11 @@
         {
           "fuente": "RO",
           "pim": 2904671,
-          "dev": 2904671,
+          "dev": 1274,
           "desde": null
         }
       ],
       "mesFuente": {
-        "mar": "RO",
-        "abr": "RO",
         "dic": "RO"
       }
     },
@@ -934,7 +930,7 @@
       "nombre": "PARACAIDAS-IOARR",
       "fuente": "RO",
       "pim": 1975832,
-      "dev": 1975832,
+      "dev": 0,
       "meses": {
         "ene": 0,
         "feb": 0,
@@ -944,7 +940,7 @@
         "jun": 0,
         "jul": 0,
         "ago": 0,
-        "set": 1975832,
+        "set": 0,
         "oct": 0,
         "nov": 0,
         "dic": 0
@@ -954,20 +950,18 @@
         {
           "fuente": "RO",
           "pim": 1975832,
-          "dev": 1975832,
+          "dev": 0,
           "desde": null
         }
       ],
-      "mesFuente": {
-        "set": "RO"
-      }
+      "mesFuente": {}
     },
     {
       "cui": "2481370",
       "nombre": "SIST. COMUNICACIÓN SATELITAL-PI",
       "fuente": "RO",
       "pim": 1390640,
-      "dev": 1390640,
+      "dev": 0,
       "meses": {
         "ene": 0,
         "feb": 0,
@@ -975,7 +969,7 @@
         "abr": 0,
         "may": 0,
         "jun": 0,
-        "jul": 1390640,
+        "jul": 0,
         "ago": 0,
         "set": 0,
         "oct": 0,
@@ -987,20 +981,18 @@
         {
           "fuente": "RO",
           "pim": 1390640,
-          "dev": 1390640,
+          "dev": 0,
           "desde": null
         }
       ],
-      "mesFuente": {
-        "jul": "RO"
-      }
+      "mesFuente": {}
     },
     {
       "cui": "2674913",
       "nombre": "CERCO PERIMÉTRICO - ESSEL-IOARR",
       "fuente": "RO",
       "pim": 1538304,
-      "dev": 1538304,
+      "dev": 0,
       "meses": {
         "ene": 0,
         "feb": 0,
@@ -1012,7 +1004,7 @@
         "ago": 0,
         "set": 0,
         "oct": 0,
-        "nov": 1538304,
+        "nov": 0,
         "dic": 0
       },
       "proceso": "FAP",
@@ -1020,20 +1012,18 @@
         {
           "fuente": "RO",
           "pim": 1538304,
-          "dev": 1538304,
+          "dev": 0,
           "desde": null
         }
       ],
-      "mesFuente": {
-        "nov": "RO"
-      }
+      "mesFuente": {}
     },
     {
       "cui": "2641956",
       "nombre": "AERONAVES ACROBÁTICAS-PI",
       "fuente": "RO",
       "pim": 598351,
-      "dev": 598351,
+      "dev": 0,
       "meses": {
         "ene": 0,
         "feb": 0,
@@ -1046,62 +1036,25 @@
         "set": 0,
         "oct": 0,
         "nov": 0,
-        "dic": 598351
+        "dic": 0
       },
       "proceso": "FAP",
       "fuentes": [
         {
           "fuente": "RO",
           "pim": 598351,
-          "dev": 598351,
+          "dev": 0,
           "desde": null
         }
       ],
-      "mesFuente": {
-        "dic": "RO"
-      }
+      "mesFuente": {}
     },
     {
       "cui": "2576672",
       "nombre": "SALA DE USOS MÚLTIPLES - ESFAP-IOARR",
       "fuente": "RO",
       "pim": 245627,
-      "dev": 245627,
-      "meses": {
-        "ene": 0,
-        "feb": 0,
-        "mar": 0,
-        "abr": 209700,
-        "may": 0,
-        "jun": 12800,
-        "jul": 0,
-        "ago": 0,
-        "set": 0,
-        "oct": 0,
-        "nov": 0,
-        "dic": 23127
-      },
-      "proceso": "FAP",
-      "fuentes": [
-        {
-          "fuente": "RO",
-          "pim": 245627,
-          "dev": 245627,
-          "desde": null
-        }
-      ],
-      "mesFuente": {
-        "abr": "RO",
-        "jun": "RO",
-        "dic": "RO"
-      }
-    },
-    {
-      "cui": "2492600",
-      "nombre": "VEHÍCULOS - SETRA-IOARR",
-      "fuente": "RO",
-      "pim": 146425,
-      "dev": 146425,
+      "dev": 0,
       "meses": {
         "ene": 0,
         "feb": 0,
@@ -1113,7 +1066,38 @@
         "ago": 0,
         "set": 0,
         "oct": 0,
-        "nov": 146425,
+        "nov": 0,
+        "dic": 0
+      },
+      "proceso": "FAP",
+      "fuentes": [
+        {
+          "fuente": "RO",
+          "pim": 245627,
+          "dev": 0,
+          "desde": null
+        }
+      ],
+      "mesFuente": {}
+    },
+    {
+      "cui": "2492600",
+      "nombre": "VEHÍCULOS - SETRA-IOARR",
+      "fuente": "RO",
+      "pim": 146425,
+      "dev": 0,
+      "meses": {
+        "ene": 0,
+        "feb": 0,
+        "mar": 0,
+        "abr": 0,
+        "may": 0,
+        "jun": 0,
+        "jul": 0,
+        "ago": 0,
+        "set": 0,
+        "oct": 0,
+        "nov": 0,
         "dic": 0
       },
       "proceso": "FAP",
@@ -1121,13 +1105,11 @@
         {
           "fuente": "RO",
           "pim": 146425,
-          "dev": 146425,
+          "dev": 0,
           "desde": null
         }
       ],
-      "mesFuente": {
-        "nov": "RO"
-      }
+      "mesFuente": {}
     },
     {
       "cui": "2702643",
