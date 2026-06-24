@@ -672,7 +672,7 @@
       "nombre": "SPARTAN - C27J-PI",
       "fuente": "RO",
       "pim": 240000000,
-      "dev": 4058030,
+      "dev": 0,
       "meses": {
         "ene": 0,
         "feb": 0,
@@ -685,34 +685,32 @@
         "set": 0,
         "oct": 0,
         "nov": 0,
-        "dic": 4058030
+        "dic": 0
       },
       "proceso": "ACFFAA",
       "fuentes": [
         {
           "fuente": "RO",
           "pim": 240000000,
-          "dev": 4058030,
+          "dev": 0,
           "desde": null
         }
       ],
-      "mesFuente": {
-        "dic": "RO"
-      }
+      "mesFuente": {}
     },
     {
       "cui": "2313734",
       "nombre": "RADAR 3D-PI",
       "fuente": "ROOC",
       "pim": 150732256,
-      "dev": 150732256,
+      "dev": 150000000,
       "meses": {
         "ene": 0,
         "feb": 0,
         "mar": 0,
         "abr": 0,
         "may": 0,
-        "jun": 732256,
+        "jun": 0,
         "jul": 0,
         "ago": 0,
         "set": 0,
@@ -725,7 +723,7 @@
         {
           "fuente": "RO",
           "pim": 732256,
-          "dev": 732256,
+          "dev": 0,
           "desde": "2026-06-01"
         },
         {
@@ -736,7 +734,6 @@
         }
       ],
       "mesFuente": {
-        "jun": "RO",
         "nov": "ROOC"
       }
     },
