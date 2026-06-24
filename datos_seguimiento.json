@@ -707,14 +707,14 @@
       "nombre": "RADAR 3D-PI",
       "fuente": "ROOC",
       "pim": 150732256,
-      "dev": 0,
+      "dev": 732256,
       "meses": {
         "ene": 0,
         "feb": 0,
         "mar": 0,
         "abr": 0,
         "may": 0,
-        "jun": 0,
+        "jun": 732256,
         "jul": 0,
         "ago": 0,
         "set": 0,
@@ -727,7 +727,7 @@
         {
           "fuente": "RO",
           "pim": 732256,
-          "dev": 0,
+          "dev": 732256,
           "desde": "2026-06-01"
         },
         {
@@ -737,7 +737,9 @@
           "desde": null
         }
       ],
-      "mesFuente": {}
+      "mesFuente": {
+        "jun": "RO"
+      }
     },
     {
       "cui": "2163489",
