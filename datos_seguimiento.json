@@ -1054,12 +1054,12 @@
       "nombre": "SALA DE USOS MÚLTIPLES - ESFAP-IOARR",
       "fuente": "RO",
       "pim": 245627,
-      "dev": 0,
+      "dev": 209700,
       "meses": {
         "ene": 0,
         "feb": 0,
         "mar": 0,
-        "abr": 0,
+        "abr": 209700,
         "may": 0,
         "jun": 0,
         "jul": 0,
@@ -1074,11 +1074,13 @@
         {
           "fuente": "RO",
           "pim": 245627,
-          "dev": 0,
+          "dev": 209700,
           "desde": null
         }
       ],
-      "mesFuente": {}
+      "mesFuente": {
+        "abr": "RO"
+      }
     },
     {
       "cui": "2492600",
