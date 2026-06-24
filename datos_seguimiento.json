@@ -640,7 +640,7 @@
       "cui": "2573425",
       "nombre": "AVIONES CAZA-PI",
       "fuente": "ROOC",
-      "pim": 1.659,
+      "pim": 2,
       "dev": 1659353665,
       "meses": {
         "ene": 0,
@@ -660,7 +660,7 @@
       "fuentes": [
         {
           "fuente": "ROOC",
-          "pim": 1.659,
+          "pim": 2,
           "dev": 1659353665,
           "desde": null
         }
