@@ -777,14 +777,14 @@
       "nombre": "CRIPTOLÓGICO-IOARR",
       "fuente": "RO",
       "pim": 5240386,
-      "dev": 0,
+      "dev": 5175412,
       "meses": {
         "ene": 0,
         "feb": 0,
         "mar": 0,
         "abr": 0,
         "may": 0,
-        "jun": 0,
+        "jun": 5175412,
         "jul": 0,
         "ago": 0,
         "set": 0,
@@ -797,11 +797,13 @@
         {
           "fuente": "RO",
           "pim": 5240386,
-          "dev": 0,
+          "dev": 5175412,
           "desde": null
         }
       ],
-      "mesFuente": {}
+      "mesFuente": {
+        "jun": "RO"
+      }
     },
     {
       "cui": "2652526",
