@@ -1116,7 +1116,7 @@
       "nombre": "2702643: ADQUISICIÓN DE EQUIPOS - DIFAP-IOARR",
       "fuente": "RO",
       "pim": 1685959,
-      "dev": 1685959,
+      "dev": 0,
       "meses": {
         "ene": 0,
         "feb": 0,
@@ -1129,7 +1129,7 @@
         "set": 0,
         "oct": 0,
         "nov": 0,
-        "dic": 1685959
+        "dic": 0
       },
       "uei": "DITEL",
       "proceso": "ACFFAA",
@@ -1137,13 +1137,11 @@
         {
           "fuente": "RO",
           "pim": 1685959,
-          "dev": 1685959,
+          "dev": 0,
           "desde": null
         }
       ],
-      "mesFuente": {
-        "dic": "RO"
-      }
+      "mesFuente": {}
     }
   ],
   "snpmgi_v1_2492600": {
