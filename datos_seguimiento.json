@@ -773,7 +773,7 @@
       "nombre": "CRIPTOLÓGICO-IOARR",
       "fuente": "RO",
       "pim": 5240386,
-      "dev": 1394,
+      "dev": 0,
       "meses": {
         "ene": 0,
         "feb": 0,
@@ -786,27 +786,25 @@
         "set": 0,
         "oct": 0,
         "nov": 0,
-        "dic": 1394
+        "dic": 0
       },
       "proceso": "ACFFAA",
       "fuentes": [
         {
           "fuente": "RO",
           "pim": 5240386,
-          "dev": 1394,
+          "dev": 0,
           "desde": null
         }
       ],
-      "mesFuente": {
-        "dic": "RO"
-      }
+      "mesFuente": {}
     },
     {
       "cui": "2652526",
       "nombre": "REPOSICIÓN DATA CENTER-IOARR",
       "fuente": "RO",
       "pim": 5135151,
-      "dev": 5135151,
+      "dev": 0,
       "meses": {
         "ene": 0,
         "feb": 0,
@@ -814,7 +812,7 @@
         "abr": 0,
         "may": 0,
         "jun": 0,
-        "jul": 5135151,
+        "jul": 0,
         "ago": 0,
         "set": 0,
         "oct": 0,
@@ -826,20 +824,18 @@
         {
           "fuente": "RO",
           "pim": 5135151,
-          "dev": 5135151,
+          "dev": 0,
           "desde": null
         }
       ],
-      "mesFuente": {
-        "jul": "RO"
-      }
+      "mesFuente": {}
     },
     {
       "cui": "2662544",
       "nombre": "HELIBALDES-IOARR",
       "fuente": "RO",
       "pim": 6111241,
-      "dev": 6111241,
+      "dev": 0,
       "meses": {
         "ene": 0,
         "feb": 0,
@@ -848,7 +844,7 @@
         "may": 0,
         "jun": 0,
         "jul": 0,
-        "ago": 6111241,
+        "ago": 0,
         "set": 0,
         "oct": 0,
         "nov": 0,
@@ -859,20 +855,18 @@
         {
           "fuente": "RO",
           "pim": 6111241,
-          "dev": 6111241,
+          "dev": 0,
           "desde": null
         }
       ],
-      "mesFuente": {
-        "ago": "RO"
-      }
+      "mesFuente": {}
     },
     {
       "cui": "2644770",
       "nombre": "LUCES DE BALIZAJES-IOARR",
       "fuente": "RO",
       "pim": 2448906,
-      "dev": 2448906,
+      "dev": 1494557,
       "meses": {
         "ene": 0,
         "feb": 0,
@@ -882,7 +876,7 @@
         "jun": 0,
         "jul": 0,
         "ago": 0,
-        "set": 954349,
+        "set": 0,
         "oct": 0,
         "nov": 0,
         "dic": 1494557
@@ -892,12 +886,11 @@
         {
           "fuente": "RO",
           "pim": 2448906,
-          "dev": 2448906,
+          "dev": 1494557,
           "desde": null
         }
       ],
       "mesFuente": {
-        "set": "RO",
         "dic": "RO"
       }
     },
