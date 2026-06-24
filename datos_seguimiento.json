@@ -740,7 +740,7 @@
       "nombre": "HANGARES EFOPI-PI",
       "fuente": "RO",
       "pim": 9324937,
-      "dev": 9324937,
+      "dev": 0,
       "meses": {
         "ene": 0,
         "feb": 0,
@@ -752,7 +752,7 @@
         "ago": 0,
         "set": 0,
         "oct": 0,
-        "nov": 9324937,
+        "nov": 0,
         "dic": 0
       },
       "proceso": "—",
@@ -760,13 +760,11 @@
         {
           "fuente": "RO",
           "pim": 9324937,
-          "dev": 9324937,
+          "dev": 0,
           "desde": null
         }
       ],
-      "mesFuente": {
-        "nov": "RO"
-      }
+      "mesFuente": {}
     },
     {
       "cui": "2598085",
