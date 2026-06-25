@@ -4559,7 +4559,7 @@
         "id": "t3",
         "nombre": "FASE 3 — Ejecución",
         "fi": "2026-06-25",
-        "ff": "2026-08-26",
+        "ff": "2026-08-31",
         "resp": "",
         "est": "por_hacer",
         "com": "",
@@ -4632,14 +4632,23 @@
           {
             "id": "s1776786491351",
             "nombre": "Devengado",
-            "fi": "2026-08-24",
-            "ff": "2026-08-26",
+            "fi": "2026-08-27",
+            "ff": "2026-08-31",
             "resp": "",
             "est": "por_hacer",
             "com": "",
             "fib": "2026-08-20",
             "ffb": "2026-08-24",
-            "uid": "umqu2lnpbrw83"
+            "uid": "umqu2lnpbrw83",
+            "preds": [
+              {
+                "uid": "umqu2lnpbydxq",
+                "tipo": "FS",
+                "lag": 0
+              }
+            ],
+            "dur": 3,
+            "durMode": "dh"
           }
         ],
         "fib": "2026-06-23",
