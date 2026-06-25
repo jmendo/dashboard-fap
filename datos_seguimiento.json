@@ -667,7 +667,22 @@
       ],
       "mesFuente": {
         "abr": "ROOC"
-      }
+      },
+      "metaMEF": {
+        "ene": 0,
+        "feb": 0,
+        "mar": 0,
+        "abr": 1630433501,
+        "may": 0,
+        "jun": 0,
+        "jul": 0,
+        "ago": 0,
+        "set": 0,
+        "oct": 0,
+        "nov": 0,
+        "dic": 0
+      },
+      "_metaSembrada": true
     },
     {
       "cui": "2234934",
@@ -700,7 +715,22 @@
       ],
       "mesFuente": {
         "may": "RO"
-      }
+      },
+      "metaMEF": {
+        "ene": 0,
+        "feb": 0,
+        "mar": 0,
+        "abr": 0,
+        "may": 236,
+        "jun": 0,
+        "jul": 0,
+        "ago": 0,
+        "set": 0,
+        "oct": 0,
+        "nov": 0,
+        "dic": 0
+      },
+      "_metaSembrada": true
     },
     {
       "cui": "2313734",
@@ -739,7 +769,22 @@
       ],
       "mesFuente": {
         "jun": "RO"
-      }
+      },
+      "metaMEF": {
+        "ene": 0,
+        "feb": 0,
+        "mar": 0,
+        "abr": 0,
+        "may": 0,
+        "jun": 732256,
+        "jul": 0,
+        "ago": 0,
+        "set": 0,
+        "oct": 0,
+        "nov": 0,
+        "dic": 0
+      },
+      "_metaSembrada": true
     },
     {
       "cui": "2163489",
@@ -770,7 +815,21 @@
           "desde": null
         }
       ],
-      "mesFuente": {}
+      "mesFuente": {},
+      "metaMEF": {
+        "ene": 0,
+        "feb": 0,
+        "mar": 0,
+        "abr": 0,
+        "may": 0,
+        "jun": 0,
+        "jul": 0,
+        "ago": 0,
+        "set": 0,
+        "oct": 0,
+        "nov": 0,
+        "dic": 0
+      }
     },
     {
       "cui": "2598085",
@@ -803,7 +862,22 @@
       ],
       "mesFuente": {
         "jun": "RO"
-      }
+      },
+      "metaMEF": {
+        "ene": 0,
+        "feb": 0,
+        "mar": 0,
+        "abr": 0,
+        "may": 0,
+        "jun": 5175412,
+        "jul": 0,
+        "ago": 0,
+        "set": 0,
+        "oct": 0,
+        "nov": 0,
+        "dic": 0
+      },
+      "_metaSembrada": true
     },
     {
       "cui": "2652526",
@@ -834,7 +908,21 @@
           "desde": null
         }
       ],
-      "mesFuente": {}
+      "mesFuente": {},
+      "metaMEF": {
+        "ene": 0,
+        "feb": 0,
+        "mar": 0,
+        "abr": 0,
+        "may": 0,
+        "jun": 0,
+        "jul": 0,
+        "ago": 0,
+        "set": 0,
+        "oct": 0,
+        "nov": 0,
+        "dic": 0
+      }
     },
     {
       "cui": "2662544",
@@ -865,7 +953,21 @@
           "desde": null
         }
       ],
-      "mesFuente": {}
+      "mesFuente": {},
+      "metaMEF": {
+        "ene": 0,
+        "feb": 0,
+        "mar": 0,
+        "abr": 0,
+        "may": 0,
+        "jun": 0,
+        "jul": 0,
+        "ago": 0,
+        "set": 0,
+        "oct": 0,
+        "nov": 0,
+        "dic": 0
+      }
     },
     {
       "cui": "2644770",
@@ -896,7 +998,21 @@
           "desde": null
         }
       ],
-      "mesFuente": {}
+      "mesFuente": {},
+      "metaMEF": {
+        "ene": 0,
+        "feb": 0,
+        "mar": 0,
+        "abr": 0,
+        "may": 0,
+        "jun": 0,
+        "jul": 0,
+        "ago": 0,
+        "set": 0,
+        "oct": 0,
+        "nov": 0,
+        "dic": 0
+      }
     },
     {
       "cui": "2676804",
@@ -930,7 +1046,22 @@
       "mesFuente": {
         "mar": "RO",
         "abr": "RO"
-      }
+      },
+      "metaMEF": {
+        "ene": 0,
+        "feb": 0,
+        "mar": 1557538,
+        "abr": 1345859,
+        "may": 0,
+        "jun": 0,
+        "jul": 0,
+        "ago": 0,
+        "set": 0,
+        "oct": 0,
+        "nov": 0,
+        "dic": 0
+      },
+      "_metaSembrada": true
     },
     {
       "cui": "2494066",
@@ -961,7 +1092,21 @@
           "desde": null
         }
       ],
-      "mesFuente": {}
+      "mesFuente": {},
+      "metaMEF": {
+        "ene": 0,
+        "feb": 0,
+        "mar": 0,
+        "abr": 0,
+        "may": 0,
+        "jun": 0,
+        "jul": 0,
+        "ago": 0,
+        "set": 0,
+        "oct": 0,
+        "nov": 0,
+        "dic": 0
+      }
     },
     {
       "cui": "2481370",
@@ -992,7 +1137,21 @@
           "desde": null
         }
       ],
-      "mesFuente": {}
+      "mesFuente": {},
+      "metaMEF": {
+        "ene": 0,
+        "feb": 0,
+        "mar": 0,
+        "abr": 0,
+        "may": 0,
+        "jun": 0,
+        "jul": 0,
+        "ago": 0,
+        "set": 0,
+        "oct": 0,
+        "nov": 0,
+        "dic": 0
+      }
     },
     {
       "cui": "2674913",
@@ -1023,7 +1182,21 @@
           "desde": null
         }
       ],
-      "mesFuente": {}
+      "mesFuente": {},
+      "metaMEF": {
+        "ene": 0,
+        "feb": 0,
+        "mar": 0,
+        "abr": 0,
+        "may": 0,
+        "jun": 0,
+        "jul": 0,
+        "ago": 0,
+        "set": 0,
+        "oct": 0,
+        "nov": 0,
+        "dic": 0
+      }
     },
     {
       "cui": "2641956",
@@ -1054,7 +1227,21 @@
           "desde": null
         }
       ],
-      "mesFuente": {}
+      "mesFuente": {},
+      "metaMEF": {
+        "ene": 0,
+        "feb": 0,
+        "mar": 0,
+        "abr": 0,
+        "may": 0,
+        "jun": 0,
+        "jul": 0,
+        "ago": 0,
+        "set": 0,
+        "oct": 0,
+        "nov": 0,
+        "dic": 0
+      }
     },
     {
       "cui": "2576672",
@@ -1088,7 +1275,22 @@
       "mesFuente": {
         "abr": "RO",
         "jun": "RO"
-      }
+      },
+      "metaMEF": {
+        "ene": 0,
+        "feb": 0,
+        "mar": 0,
+        "abr": 209700,
+        "may": 0,
+        "jun": 12800,
+        "jul": 0,
+        "ago": 0,
+        "set": 0,
+        "oct": 0,
+        "nov": 0,
+        "dic": 0
+      },
+      "_metaSembrada": true
     },
     {
       "cui": "2492600",
@@ -1119,7 +1321,21 @@
           "desde": null
         }
       ],
-      "mesFuente": {}
+      "mesFuente": {},
+      "metaMEF": {
+        "ene": 0,
+        "feb": 0,
+        "mar": 0,
+        "abr": 0,
+        "may": 0,
+        "jun": 0,
+        "jul": 0,
+        "ago": 0,
+        "set": 0,
+        "oct": 0,
+        "nov": 0,
+        "dic": 0
+      }
     },
     {
       "cui": "2702643",
@@ -1151,7 +1367,21 @@
           "desde": null
         }
       ],
-      "mesFuente": {}
+      "mesFuente": {},
+      "metaMEF": {
+        "ene": 0,
+        "feb": 0,
+        "mar": 0,
+        "abr": 0,
+        "may": 0,
+        "jun": 0,
+        "jul": 0,
+        "ago": 0,
+        "set": 0,
+        "oct": 0,
+        "nov": 0,
+        "dic": 0
+      }
     }
   ],
   "snpmgi_v1_2492600": {
