@@ -1150,13 +1150,14 @@
         "abr": 0,
         "may": 0,
         "jun": 0,
-        "jul": 0,
+        "jul": 1390640,
         "ago": 0,
         "set": 0,
         "oct": 0,
         "nov": 0,
         "dic": 0
-      }
+      },
+      "_metaSembrada": true
     },
     {
       "cui": "2674913",
