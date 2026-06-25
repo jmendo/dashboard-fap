@@ -4589,14 +4589,24 @@
           {
             "id": "s1776786372109",
             "nombre": "Internamiento (45 dc)",
-            "fi": "2026-07-07",
-            "ff": "2026-08-18",
+            "fi": "2026-07-08",
+            "ff": "2026-08-21",
             "resp": "",
             "est": "por_hacer",
             "com": "",
             "fib": "2026-07-03",
             "ffb": "2026-08-16",
-            "uid": "umqu2lnpbw7a3"
+            "uid": "umqu2lnpbw7a3",
+            "preds": [
+              {
+                "uid": "umqu2lnpbagof",
+                "tipo": "FS",
+                "lag": 0
+              }
+            ],
+            "dur": 45,
+            "durMode": "dc",
+            "dc": true
           },
           {
             "id": "s1776786457957",
