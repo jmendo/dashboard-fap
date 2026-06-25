@@ -5056,7 +5056,16 @@
             "com": "",
             "fib": "2026-06-18",
             "ffb": "2026-06-19",
-            "uid": "umqu26fil083h"
+            "uid": "umqu26fil083h",
+            "preds": [
+              {
+                "uid": "umqu26fil5mw2",
+                "tipo": "FS",
+                "lag": 0
+              }
+            ],
+            "dur": 2,
+            "durMode": "dh"
           },
           {
             "id": "s1777062879568",
