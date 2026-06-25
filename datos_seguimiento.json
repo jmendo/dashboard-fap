@@ -929,14 +929,14 @@
       "nombre": "HELIBALDES-IOARR",
       "fuente": "RO",
       "pim": 6111241,
-      "dev": 1000000,
+      "dev": 0,
       "meses": {
         "ene": 0,
         "feb": 0,
         "mar": 0,
         "abr": 0,
         "may": 0,
-        "jun": 1000000,
+        "jun": 0,
         "jul": 0,
         "ago": 0,
         "set": 0,
@@ -949,13 +949,11 @@
         {
           "fuente": "RO",
           "pim": 6111241,
-          "dev": 1000000,
+          "dev": 0,
           "desde": null
         }
       ],
-      "mesFuente": {
-        "jun": "RO"
-      },
+      "mesFuente": {},
       "metaMEF": {
         "ene": 0,
         "feb": 0,
