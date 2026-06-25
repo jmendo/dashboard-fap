@@ -5028,7 +5028,7 @@
         "id": "t1776712550272",
         "nombre": "Fase 3 - Ejecución Contractual",
         "fi": "2026-06-04",
-        "ff": "2027-01-19",
+        "ff": "2026-11-25",
         "resp": "",
         "est": "por_hacer",
         "com": "",
@@ -5113,14 +5113,23 @@
           {
             "id": "s1777063535402",
             "nombre": "Devengado",
-            "fi": "2027-01-12",
-            "ff": "2027-01-19",
+            "fi": "2026-11-18",
+            "ff": "2026-11-25",
             "resp": "",
             "est": "por_hacer",
             "com": "",
             "fib": "2026-12-10",
             "ffb": "2026-12-17",
-            "uid": "umqu26filkju6"
+            "uid": "umqu26filkju6",
+            "preds": [
+              {
+                "uid": "umqu26fil0dhs",
+                "tipo": "FS",
+                "lag": 0
+              }
+            ],
+            "dur": 6,
+            "durMode": "dh"
           }
         ],
         "fib": "2026-06-04",
