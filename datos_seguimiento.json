@@ -5071,7 +5071,7 @@
             "id": "s1777062879568",
             "nombre": "Internamiento del Bien ( hasta 210 dc)",
             "fi": "2026-07-22",
-            "ff": "2026-12-31",
+            "ff": "2026-11-07",
             "resp": "",
             "est": "por_hacer",
             "com": "Se debe hacer la entrega en 160 dc como maximo para asegurar el devengado en el 2026, con 210 dc se va al 15.01.2027.",
@@ -5086,7 +5086,8 @@
               }
             ],
             "dur": 109,
-            "durMode": "dh"
+            "durMode": "dc",
+            "dc": true
           },
           {
             "id": "s1777062880073",
