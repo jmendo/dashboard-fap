@@ -4436,7 +4436,8 @@
             "est": "completado",
             "com": "",
             "fib": "2026-03-16",
-            "ffb": "2026-03-16"
+            "ffb": "2026-03-16",
+            "uid": "umqu2lnpbeuy3"
           },
           {
             "id": "s1776707142411",
@@ -4447,7 +4448,8 @@
             "est": "completado",
             "com": "Estima aprobar EPOM 24-04-2026  POR MODIFICACION DE FICHAS.",
             "fib": "2026-03-17",
-            "ffb": "2026-04-29"
+            "ffb": "2026-04-29",
+            "uid": "umqu2lnpba3j3"
           }
         ],
         "fib": "2026-03-16",
@@ -4474,7 +4476,8 @@
             "fib": "2026-04-30",
             "ffb": "2026-04-30",
             "dur": 0,
-            "durMode": "dh"
+            "durMode": "dh",
+            "uid": "umqu2lnpbey2d"
           },
           {
             "id": "s1776712419937",
@@ -4485,7 +4488,8 @@
             "est": "completado",
             "com": "",
             "fib": "2026-05-04",
-            "ffb": "2026-05-05"
+            "ffb": "2026-05-05",
+            "uid": "umqu2lnpbwbhk"
           },
           {
             "id": "s1776712436345",
@@ -4496,7 +4500,8 @@
             "est": "completado",
             "com": "",
             "fib": "2026-05-06",
-            "ffb": "2026-05-12"
+            "ffb": "2026-05-12",
+            "uid": "umqu2lnpbsmm2"
           },
           {
             "id": "s1776712449265",
@@ -4507,7 +4512,8 @@
             "est": "completado",
             "com": "Proveedor unico",
             "fib": "2026-05-13",
-            "ffb": "2026-05-20"
+            "ffb": "2026-05-20",
+            "uid": "umqu2lnpbez9m"
           },
           {
             "id": "s1777927920424",
@@ -4518,7 +4524,8 @@
             "est": "completado",
             "com": "",
             "fib": "2026-05-21",
-            "ffb": "2026-05-29"
+            "ffb": "2026-05-29",
+            "uid": "umqu2lnpbnx0w"
           },
           {
             "id": "s1777927976521",
@@ -4529,7 +4536,8 @@
             "est": "completado",
             "com": "",
             "fib": "2026-06-02",
-            "ffb": "2026-06-10"
+            "ffb": "2026-06-10",
+            "uid": "umqu2lnpbe56z"
           },
           {
             "id": "s1777928002336",
@@ -4540,7 +4548,8 @@
             "est": "en_progreso",
             "com": "",
             "fib": "2026-06-11",
-            "ffb": "2026-06-22"
+            "ffb": "2026-06-22",
+            "uid": "umqu2lnpbsbkn"
           }
         ],
         "fib": "2026-04-30",
@@ -4565,7 +4574,17 @@
             "est": "por_hacer",
             "com": "",
             "fib": "2026-06-23",
-            "ffb": "2026-07-02"
+            "ffb": "2026-07-02",
+            "uid": "umqu2lnpbagof",
+            "preds": [
+              {
+                "uid": "umqu2lnpbsbkn",
+                "tipo": "FS",
+                "lag": 0
+              }
+            ],
+            "dur": 7,
+            "durMode": "dh"
           },
           {
             "id": "s1776786372109",
@@ -4576,7 +4595,8 @@
             "est": "por_hacer",
             "com": "",
             "fib": "2026-07-03",
-            "ffb": "2026-08-16"
+            "ffb": "2026-08-16",
+            "uid": "umqu2lnpbw7a3"
           },
           {
             "id": "s1776786457957",
@@ -4587,7 +4607,8 @@
             "est": "por_hacer",
             "com": "",
             "fib": "2026-08-17",
-            "ffb": "2026-08-19"
+            "ffb": "2026-08-19",
+            "uid": "umqu2lnpbydxq"
           },
           {
             "id": "s1776786491351",
@@ -4598,7 +4619,8 @@
             "est": "por_hacer",
             "com": "",
             "fib": "2026-08-20",
-            "ffb": "2026-08-24"
+            "ffb": "2026-08-24",
+            "uid": "umqu2lnpbrw83"
           }
         ],
         "fib": "2026-06-23",
