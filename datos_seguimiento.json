@@ -4611,14 +4611,23 @@
           {
             "id": "s1776786457957",
             "nombre": "Conformidad",
-            "fi": "2026-08-19",
-            "ff": "2026-08-21",
+            "fi": "2026-08-24",
+            "ff": "2026-08-26",
             "resp": "",
             "est": "por_hacer",
             "com": "",
             "fib": "2026-08-17",
             "ffb": "2026-08-19",
-            "uid": "umqu2lnpbydxq"
+            "uid": "umqu2lnpbydxq",
+            "preds": [
+              {
+                "uid": "umqu2lnpbw7a3",
+                "tipo": "FS",
+                "lag": 0
+              }
+            ],
+            "dur": 3,
+            "durMode": "dh"
           },
           {
             "id": "s1776786491351",
