@@ -1501,7 +1501,7 @@
         "subs": [
           {
             "id": "s1783449557303",
-            "nombre": "Remisión de Carta de Requermiento al Grupo Militar USA",
+            "nombre": "Remisión de Carta de Requermiento (LOR) al Grupo Militar USA",
             "fi": "2026-07-01",
             "ff": "2026-07-01",
             "resp": "",
@@ -1887,7 +1887,7 @@
             "subs": [
               {
                 "id": "s1783449557303",
-                "nombre": "Remisión de Carta de Requermiento al Grupo Militar USA",
+                "nombre": "Remisión de Carta de Requermiento (LOR) al Grupo Militar USA",
                 "fi": "2026-07-01",
                 "ff": "2026-07-01",
                 "resp": "",
