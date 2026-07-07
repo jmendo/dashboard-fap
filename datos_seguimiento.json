@@ -5105,7 +5105,7 @@
   "snpmgi_v1_2641956": {
     "metaFisica": "Adquisición de 01 Generador Portátil y 01 Tractor Remolque ",
     "devengadoLabel": "",
-    "comentarios": "Lo organiza el SETRA/ Internamiento hasta (210 dc)/Dev. 23 al 29 dic(carta credito)./El item 2 quedo desierto.\n",
+    "comentarios": "Lo organiza el SETRA/ Internamiento hasta (110 dc)/Dev. 23 al 29 dic(carta credito)./El item 2 quedo desierto.\n",
     "resultado": {
       "icono": "📋",
       "titulo": "Meta AF-2026",
@@ -5295,7 +5295,7 @@
           },
           {
             "id": "s1777062879568",
-            "nombre": "Internamiento del Bien ( hasta 210 dc)",
+            "nombre": "Internamiento del Bien ( hasta 110 dc)",
             "fi": "2026-07-14",
             "ff": "2026-10-31",
             "resp": "",
