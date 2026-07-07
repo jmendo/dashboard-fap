@@ -4164,7 +4164,7 @@
         "id": "t2",
         "nombre": "FASE 2 — Procedimiento de selección",
         "fi": "2026-07-15",
-        "ff": "2026-08-10",
+        "ff": "2026-08-11",
         "resp": "",
         "est": "por_hacer",
         "com": "",
@@ -4320,14 +4320,23 @@
           {
             "id": "s1777327783461",
             "nombre": "Consentimiento",
-            "fi": "2029-07-16",
-            "ff": "2026-07-27",
+            "fi": "2026-08-11",
+            "ff": "2026-08-11",
             "resp": "ACFFAA",
             "est": "por_hacer",
             "com": "",
             "fib": "2029-07-16",
             "ffb": "2026-07-27",
-            "uid": "umraqjgjzalda"
+            "uid": "umraqjgjzalda",
+            "preds": [
+              {
+                "uid": "umraqjgjzvgli",
+                "tipo": "FS",
+                "lag": 0
+              }
+            ],
+            "dur": 1,
+            "durMode": "dh"
           }
         ],
         "fib": "2026-06-19",
