@@ -4426,7 +4426,16 @@
             "com": "",
             "fib": "2026-10-22",
             "ffb": "2026-10-26",
-            "uid": "umraqjgjzqi3u"
+            "uid": "umraqjgjzqi3u",
+            "preds": [
+              {
+                "uid": "umraqjgjz16om",
+                "tipo": "FS",
+                "lag": 0
+              }
+            ],
+            "dur": 3,
+            "durMode": "dh"
           },
           {
             "id": "s1777328278168",
