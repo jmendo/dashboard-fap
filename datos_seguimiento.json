@@ -1529,6 +1529,15 @@
             ],
             "dur": 45,
             "durMode": "dh"
+          },
+          {
+            "id": "s1783450008895",
+            "nombre": "Perfeccionamiento",
+            "fi": "",
+            "ff": "",
+            "resp": "",
+            "est": "por_hacer",
+            "com": ""
           }
         ]
       }
@@ -1926,6 +1935,15 @@
                 ],
                 "dur": 45,
                 "durMode": "dh"
+              },
+              {
+                "id": "s1783450008895",
+                "nombre": "Perfeccionamiento",
+                "fi": "",
+                "ff": "",
+                "resp": "",
+                "est": "por_hacer",
+                "com": ""
               }
             ]
           }
