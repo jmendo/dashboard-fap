@@ -4163,8 +4163,8 @@
       {
         "id": "t2",
         "nombre": "FASE 2 — Procedimiento de selección",
-        "fi": "2026-07-13",
-        "ff": "2026-08-05",
+        "fi": "2026-07-15",
+        "ff": "2026-08-07",
         "resp": "",
         "est": "por_hacer",
         "com": "",
@@ -4278,14 +4278,23 @@
           {
             "id": "s1777327782789",
             "nombre": "Evaluación y Calificación",
-            "fi": "2026-07-13",
-            "ff": "2026-07-14",
+            "fi": "2026-08-05",
+            "ff": "2026-08-07",
             "resp": "ACFFAA",
             "est": "por_hacer",
             "com": "",
             "fib": "2026-07-13",
             "ffb": "2026-07-14",
-            "uid": "umraqjgjz15mm"
+            "uid": "umraqjgjz15mm",
+            "preds": [
+              {
+                "uid": "umraqjgjzwtea",
+                "tipo": "FS",
+                "lag": 0
+              }
+            ],
+            "dur": 2,
+            "durMode": "dh"
           },
           {
             "id": "s1777327783197",
