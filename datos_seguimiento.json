@@ -1506,7 +1506,9 @@
             "ff": "2026-07-01",
             "resp": "",
             "est": "completado",
-            "com": ""
+            "com": "",
+            "dur": 1,
+            "durMode": "dh"
           }
         ]
       }
@@ -1881,7 +1883,9 @@
                 "ff": "2026-07-01",
                 "resp": "",
                 "est": "completado",
-                "com": ""
+                "com": "",
+                "dur": 1,
+                "durMode": "dh"
               }
             ]
           }
