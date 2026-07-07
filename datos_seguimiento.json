@@ -4447,7 +4447,16 @@
             "com": "",
             "fib": "2026-10-27",
             "ffb": "2026-11-02",
-            "uid": "umraqjgjzon7n"
+            "uid": "umraqjgjzon7n",
+            "preds": [
+              {
+                "uid": "umraqjgjzqi3u",
+                "tipo": "FS",
+                "lag": 0
+              }
+            ],
+            "dur": 5,
+            "durMode": "dh"
           }
         ],
         "fib": "2026-07-30",
