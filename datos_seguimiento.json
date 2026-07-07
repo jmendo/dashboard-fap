@@ -5308,7 +5308,7 @@
         "resp": "",
         "est": "por_hacer",
         "com": "",
-        "exp": true,
+        "exp": false,
         "subs": [
           {
             "id": "t1s1",
@@ -5329,7 +5329,7 @@
         "resp": "",
         "est": "por_hacer",
         "com": "",
-        "exp": true,
+        "exp": false,
         "subs": [
           {
             "id": "t2s1",
@@ -5350,7 +5350,7 @@
         "resp": "",
         "est": "por_hacer",
         "com": "",
-        "exp": true,
+        "exp": false,
         "subs": [
           {
             "id": "t3s1",
@@ -5363,7 +5363,85 @@
           }
         ]
       }
-    ]
+    ],
+    "modalidades": [
+      {
+        "id": "mod_mrb3irqg_0ad5s",
+        "nombre": "Modalidad inicial",
+        "estado": "vigente",
+        "fechaAdopcion": null,
+        "fechaCambio": null,
+        "motivo": "",
+        "gantt": [
+          {
+            "id": "t1",
+            "nombre": "FASE 1 — Actos preparatorios",
+            "fi": "",
+            "ff": "",
+            "resp": "",
+            "est": "por_hacer",
+            "com": "",
+            "exp": false,
+            "subs": [
+              {
+                "id": "t1s1",
+                "nombre": "Actividad 1",
+                "fi": "",
+                "ff": "",
+                "resp": "",
+                "est": "por_hacer",
+                "com": ""
+              }
+            ]
+          },
+          {
+            "id": "t2",
+            "nombre": "FASE 2 — Procedimiento de selección",
+            "fi": "",
+            "ff": "",
+            "resp": "",
+            "est": "por_hacer",
+            "com": "",
+            "exp": false,
+            "subs": [
+              {
+                "id": "t2s1",
+                "nombre": "Actividad 1",
+                "fi": "",
+                "ff": "",
+                "resp": "",
+                "est": "por_hacer",
+                "com": ""
+              }
+            ]
+          },
+          {
+            "id": "t3",
+            "nombre": "FASE 3 — Ejecución",
+            "fi": "",
+            "ff": "",
+            "resp": "",
+            "est": "por_hacer",
+            "com": "",
+            "exp": false,
+            "subs": [
+              {
+                "id": "t3s1",
+                "nombre": "Actividad 1",
+                "fi": "",
+                "ff": "",
+                "resp": "",
+                "est": "por_hacer",
+                "com": ""
+              }
+            ]
+          }
+        ],
+        "lineaBase": null
+      }
+    ],
+    "modActivaId": "mod_mrb3irqg_0ad5s",
+    "lineaBase": null
   },
   "snpmgi_v1_2641956": {
     "metaFisica": "Adquisición de 01 Generador Portátil y 01 Tractor Remolque ",
@@ -5891,6 +5969,273 @@
           }
         ]
       }
-    ]
+    ],
+    "modalidades": [
+      {
+        "id": "mod_mrb3ifd5_brxj3",
+        "nombre": "Modalidad inicial",
+        "estado": "vigente",
+        "fechaAdopcion": null,
+        "fechaCambio": null,
+        "motivo": "",
+        "gantt": [
+          {
+            "id": "t1",
+            "nombre": "APROBACIÓN MODALIDAD SECRETO MILITAR/ACTOS PREPARATORIOS",
+            "fi": "2026-03-03",
+            "ff": "2026-04-16",
+            "resp": "",
+            "est": "completado",
+            "com": "",
+            "exp": false,
+            "subs": [
+              {
+                "id": "t1s1",
+                "nombre": "Nombramiento del Comité Multidisciplinario",
+                "fi": "2026-03-03",
+                "ff": "2026-03-03",
+                "resp": "",
+                "est": "completado",
+                "com": ""
+              },
+              {
+                "id": "s1774993011769",
+                "nombre": "Emisión informes del Comité (determinación modalidad secerto militar y acreditación solución identificada)",
+                "fi": "2026-03-04",
+                "ff": "2026-03-05",
+                "resp": "",
+                "est": "completado",
+                "com": ""
+              },
+              {
+                "id": "s1774993086123",
+                "nombre": "Emisión de Resolución COFAP aprobando modalidad de secreto militar",
+                "fi": "2026-03-06",
+                "ff": "2026-03-06",
+                "resp": "",
+                "est": "completado",
+                "com": ""
+              },
+              {
+                "id": "s1774993336053",
+                "nombre": "Estudio de mercado/ Selección del postor",
+                "fi": "2026-03-09",
+                "ff": "2026-03-09",
+                "resp": "",
+                "est": "completado",
+                "com": ""
+              },
+              {
+                "id": "s1774993434110",
+                "nombre": "Formulación de expediente para inclusión en lista de secreto militar",
+                "fi": "2026-03-10",
+                "ff": "2026-03-10",
+                "resp": "",
+                "est": "completado",
+                "com": ""
+              },
+              {
+                "id": "s1774993474014",
+                "nombre": "Trámite de expediente para inclusión en ACFFAA",
+                "fi": "2026-03-11",
+                "ff": "2026-03-11",
+                "resp": "",
+                "est": "completado",
+                "com": ""
+              },
+              {
+                "id": "s1774993505814",
+                "nombre": "Emisión de Acta del Comité de inclusión en lista de secreto militar",
+                "fi": "2026-03-12",
+                "ff": "2026-03-12",
+                "resp": "",
+                "est": "completado",
+                "com": ""
+              },
+              {
+                "id": "s1774993646120",
+                "nombre": "Elaboración del informe técnico legal de la inclusión",
+                "fi": "2026-03-13",
+                "ff": "2026-03-13",
+                "resp": "",
+                "est": "completado",
+                "com": ""
+              },
+              {
+                "id": "s1774993668111",
+                "nombre": "Remisión de expediente a MINDEF para emisión de DS",
+                "fi": "2026-03-16",
+                "ff": "2026-03-16",
+                "resp": "",
+                "est": "completado",
+                "com": ""
+              },
+              {
+                "id": "s1774993678064",
+                "nombre": "Emisión de DS que incluye contratación en lista de secreto militar (incluye informe de DGRRMM y OGAJ)",
+                "fi": "2026-03-17",
+                "ff": "2026-03-17",
+                "resp": "",
+                "est": "completado",
+                "com": ""
+              },
+              {
+                "id": "s1774993678576",
+                "nombre": "Formulación de expediente para opinión CGR",
+                "fi": "2026-03-18",
+                "ff": "2026-03-18",
+                "resp": "",
+                "est": "completado",
+                "com": ""
+              },
+              {
+                "id": "s1774993679128",
+                "nombre": "Trámite ante CGR",
+                "fi": "2026-03-19",
+                "ff": "2026-03-19",
+                "resp": "",
+                "est": "completado",
+                "com": ""
+              },
+              {
+                "id": "s1774993882697",
+                "nombre": "Emisión de opinión favorable de la CGR",
+                "fi": "2026-03-20",
+                "ff": "2026-04-10",
+                "resp": "",
+                "est": "completado",
+                "com": ""
+              },
+              {
+                "id": "s1774994152146",
+                "nombre": "ACFFAA solicita expediente de inicio a FAP",
+                "fi": "2026-04-13",
+                "ff": "2026-04-13",
+                "resp": "",
+                "est": "completado",
+                "com": ""
+              },
+              {
+                "id": "s1774994152586",
+                "nombre": "FAP remite expediente de inicio",
+                "fi": "2026-04-14",
+                "ff": "2026-04-15",
+                "resp": "",
+                "est": "completado",
+                "com": ""
+              },
+              {
+                "id": "s1774994153026",
+                "nombre": "Aprobación del expediente de contratación",
+                "fi": "2026-04-16",
+                "ff": "2026-04-16",
+                "resp": "",
+                "est": "completado",
+                "com": ""
+              }
+            ]
+          },
+          {
+            "id": "t2",
+            "nombre": "FASE 2 — Procedimiento de selección",
+            "fi": "2026-04-17",
+            "ff": "2026-04-17",
+            "resp": "",
+            "est": "completado",
+            "com": "",
+            "exp": false,
+            "subs": [
+              {
+                "id": "t2s1",
+                "nombre": "Convocatoria",
+                "fi": "2026-04-17",
+                "ff": "2026-04-17",
+                "resp": "",
+                "est": "completado",
+                "com": "Suscripción de contrato, suspendido"
+              },
+              {
+                "id": "s1774994408171",
+                "nombre": "Proceso de ofertas",
+                "fi": "2026-04-17",
+                "ff": "2026-04-17",
+                "resp": "",
+                "est": "completado",
+                "com": ""
+              },
+              {
+                "id": "s1774994483307",
+                "nombre": "Otorgamiento de Buena Pro",
+                "fi": "2026-04-17",
+                "ff": "2026-04-17",
+                "resp": "",
+                "est": "completado",
+                "com": ""
+              }
+            ]
+          },
+          {
+            "id": "t3",
+            "nombre": "FASE 3 — Ejecución Contractual Tramo 1",
+            "fi": "2026-04-21",
+            "ff": "2026-04-22",
+            "resp": "",
+            "est": "completado",
+            "com": "",
+            "exp": false,
+            "subs": [
+              {
+                "id": "t3s1",
+                "nombre": "Perfeccionamiento y Suscripción del contrato ",
+                "fi": "2026-04-21",
+                "ff": "2026-04-21",
+                "resp": "",
+                "est": "completado",
+                "com": ""
+              },
+              {
+                "id": "s1774993674143",
+                "nombre": "Compromiso anual y mensual",
+                "fi": "2026-04-22",
+                "ff": "2026-04-22",
+                "resp": "",
+                "est": "completado",
+                "com": ""
+              },
+              {
+                "id": "s1774994754324",
+                "nombre": "Postor remite documentación (carta de crédito)",
+                "fi": "2026-04-22",
+                "ff": "2026-04-22",
+                "resp": "",
+                "est": "completado",
+                "com": ""
+              },
+              {
+                "id": "s1774994801100",
+                "nombre": "Elaboración del expediente de pago",
+                "fi": "2026-04-22",
+                "ff": "2026-04-22",
+                "resp": "",
+                "est": "completado",
+                "com": ""
+              },
+              {
+                "id": "s1774994908276",
+                "nombre": "Devengado 1,659,353,665",
+                "fi": "2026-04-22",
+                "ff": "2026-04-22",
+                "resp": "",
+                "est": "completado",
+                "com": ""
+              }
+            ]
+          }
+        ],
+        "lineaBase": null
+      }
+    ],
+    "modActivaId": "mod_mrb3ifd5_brxj3",
+    "lineaBase": null
   }
 }
