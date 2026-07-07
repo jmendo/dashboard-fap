@@ -1493,7 +1493,7 @@
         "id": "t1783449467782",
         "nombre": "Fase FMS - EEUU\n",
         "fi": "2026-07-01",
-        "ff": "2026-09-08",
+        "ff": "2026-10-02",
         "resp": "",
         "est": "por_hacer",
         "com": "",
@@ -1534,7 +1534,7 @@
             "id": "s1783450008895",
             "nombre": "Perfeccionamiento",
             "fi": "2026-09-09",
-            "ff": "",
+            "ff": "2026-10-02",
             "resp": "",
             "est": "por_hacer",
             "com": "",
@@ -1545,7 +1545,9 @@
                 "tipo": "FS",
                 "lag": 0
               }
-            ]
+            ],
+            "dur": 18,
+            "durMode": "dh"
           }
         ]
       }
@@ -1907,7 +1909,7 @@
             "id": "t1783449467782",
             "nombre": "Fase FMS - EEUU\n",
             "fi": "2026-07-01",
-            "ff": "2026-09-08",
+            "ff": "2026-10-02",
             "resp": "",
             "est": "por_hacer",
             "com": "",
@@ -1948,7 +1950,7 @@
                 "id": "s1783450008895",
                 "nombre": "Perfeccionamiento",
                 "fi": "2026-09-09",
-                "ff": "",
+                "ff": "2026-10-02",
                 "resp": "",
                 "est": "por_hacer",
                 "com": "",
@@ -1959,7 +1961,9 @@
                     "tipo": "FS",
                     "lag": 0
                   }
-                ]
+                ],
+                "dur": 18,
+                "durMode": "dh"
               }
             ]
           }
