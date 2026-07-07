@@ -1498,7 +1498,17 @@
         "est": "por_hacer",
         "com": "",
         "exp": true,
-        "subs": []
+        "subs": [
+          {
+            "id": "s1783449557303",
+            "nombre": "Remisión de Carta de Requermiento",
+            "fi": "",
+            "ff": "",
+            "resp": "",
+            "est": "por_hacer",
+            "com": ""
+          }
+        ]
       }
     ],
     "lineaBase": null,
@@ -1863,7 +1873,17 @@
             "est": "por_hacer",
             "com": "",
             "exp": true,
-            "subs": []
+            "subs": [
+              {
+                "id": "s1783449557303",
+                "nombre": "Remisión de Carta de Requermiento",
+                "fi": "",
+                "ff": "",
+                "resp": "",
+                "est": "por_hacer",
+                "com": ""
+              }
+            ]
           }
         ],
         "lineaBase": null
