@@ -1492,8 +1492,8 @@
       {
         "id": "t1783449467782",
         "nombre": "Fase FMS - EEUU\n",
-        "fi": "",
-        "ff": "",
+        "fi": "2026-07-01",
+        "ff": "2026-07-01",
         "resp": "",
         "est": "por_hacer",
         "com": "",
@@ -1502,10 +1502,10 @@
           {
             "id": "s1783449557303",
             "nombre": "Remisión de Carta de Requermiento al Grupo Militar USA",
-            "fi": "",
-            "ff": "",
+            "fi": "2026-07-01",
+            "ff": "2026-07-01",
             "resp": "",
-            "est": "por_hacer",
+            "est": "completado",
             "com": ""
           }
         ]
@@ -1867,8 +1867,8 @@
           {
             "id": "t1783449467782",
             "nombre": "Fase FMS - EEUU\n",
-            "fi": "",
-            "ff": "",
+            "fi": "2026-07-01",
+            "ff": "2026-07-01",
             "resp": "",
             "est": "por_hacer",
             "com": "",
@@ -1877,10 +1877,10 @@
               {
                 "id": "s1783449557303",
                 "nombre": "Remisión de Carta de Requermiento al Grupo Militar USA",
-                "fi": "",
-                "ff": "",
+                "fi": "2026-07-01",
+                "ff": "2026-07-01",
                 "resp": "",
-                "est": "por_hacer",
+                "est": "completado",
                 "com": ""
               }
             ]
