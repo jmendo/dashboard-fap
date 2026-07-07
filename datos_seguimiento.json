@@ -1548,6 +1548,15 @@
             ],
             "dur": 18,
             "durMode": "dh"
+          },
+          {
+            "id": "s1783450054047",
+            "nombre": "Contrato",
+            "fi": "",
+            "ff": "",
+            "resp": "",
+            "est": "por_hacer",
+            "com": ""
           }
         ]
       }
@@ -1964,6 +1973,15 @@
                 ],
                 "dur": 18,
                 "durMode": "dh"
+              },
+              {
+                "id": "s1783450054047",
+                "nombre": "Contrato",
+                "fi": "",
+                "ff": "",
+                "resp": "",
+                "est": "por_hacer",
+                "com": ""
               }
             ]
           }
