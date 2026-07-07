@@ -1493,7 +1493,7 @@
         "id": "t1783449467782",
         "nombre": "Fase FMS - EEUU\n",
         "fi": "2026-07-01",
-        "ff": "2026-10-12",
+        "ff": "2026-10-21",
         "resp": "",
         "est": "por_hacer",
         "com": "",
@@ -1571,11 +1571,21 @@
           {
             "id": "s1783450099136",
             "nombre": "Gestión de desembolso.",
-            "fi": "",
-            "ff": "",
+            "fi": "2026-10-13",
+            "ff": "2026-10-21",
             "resp": "",
             "est": "por_hacer",
-            "com": ""
+            "com": "",
+            "uid": "umrb0637j1fzd",
+            "preds": [
+              {
+                "uid": "umrb04enj870v",
+                "tipo": "FS",
+                "lag": 0
+              }
+            ],
+            "dur": 7,
+            "durMode": "dh"
           }
         ]
       }
@@ -1937,7 +1947,7 @@
             "id": "t1783449467782",
             "nombre": "Fase FMS - EEUU\n",
             "fi": "2026-07-01",
-            "ff": "2026-10-12",
+            "ff": "2026-10-21",
             "resp": "",
             "est": "por_hacer",
             "com": "",
@@ -2015,11 +2025,21 @@
               {
                 "id": "s1783450099136",
                 "nombre": "Gestión de desembolso.",
-                "fi": "",
-                "ff": "",
+                "fi": "2026-10-13",
+                "ff": "2026-10-21",
                 "resp": "",
                 "est": "por_hacer",
-                "com": ""
+                "com": "",
+                "uid": "umrb0637j1fzd",
+                "preds": [
+                  {
+                    "uid": "umrb04enj870v",
+                    "tipo": "FS",
+                    "lag": 0
+                  }
+                ],
+                "dur": 7,
+                "durMode": "dh"
               }
             ]
           }
