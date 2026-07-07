@@ -4195,7 +4195,7 @@
             "id": "s1777327246986",
             "nombre": "Registro de Participantes",
             "fi": "2026-07-15",
-            "ff": "2026-08-05",
+            "ff": "2026-08-04",
             "resp": "ACFFAA",
             "est": "por_hacer",
             "com": "",
@@ -4209,7 +4209,7 @@
                 "lag": 0
               }
             ],
-            "dur": 13,
+            "dur": 12,
             "durMode": "dh"
           },
           {
