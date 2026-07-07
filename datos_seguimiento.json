@@ -4345,7 +4345,7 @@
       {
         "id": "t3",
         "nombre": "FASE 3 — Ejecución",
-        "fi": "2026-08-12",
+        "fi": "2026-08-14",
         "ff": "2026-11-02",
         "resp": "",
         "est": "por_hacer",
@@ -4376,14 +4376,23 @@
           {
             "id": "s1777327973678",
             "nombre": "Contrato",
-            "fi": "2026-08-12",
-            "ff": "2026-08-13",
+            "fi": "2026-09-02",
+            "ff": "2026-09-03",
             "resp": "",
             "est": "por_hacer",
             "com": "",
             "fib": "2026-08-12",
             "ffb": "2026-08-13",
-            "uid": "umraqjgjz6sdx"
+            "uid": "umraqjgjz6sdx",
+            "preds": [
+              {
+                "uid": "umraqjgjznb1j",
+                "tipo": "FS",
+                "lag": 0
+              }
+            ],
+            "dur": 2,
+            "durMode": "dh"
           },
           {
             "id": "s1777327973911",
