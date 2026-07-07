@@ -1552,11 +1552,19 @@
           {
             "id": "s1783450054047",
             "nombre": "Contrato",
-            "fi": "",
+            "fi": "2026-10-05",
             "ff": "",
             "resp": "",
             "est": "por_hacer",
-            "com": ""
+            "com": "",
+            "uid": "umrb04enj870v",
+            "preds": [
+              {
+                "uid": "umrb03gqoifzl",
+                "tipo": "FS",
+                "lag": 0
+              }
+            ]
           }
         ]
       }
@@ -1977,11 +1985,19 @@
               {
                 "id": "s1783450054047",
                 "nombre": "Contrato",
-                "fi": "",
+                "fi": "2026-10-05",
                 "ff": "",
                 "resp": "",
                 "est": "por_hacer",
-                "com": ""
+                "com": "",
+                "uid": "umrb04enj870v",
+                "preds": [
+                  {
+                    "uid": "umrb03gqoifzl",
+                    "tipo": "FS",
+                    "lag": 0
+                  }
+                ]
               }
             ]
           }
