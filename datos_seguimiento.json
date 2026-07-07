@@ -4216,7 +4216,7 @@
             "id": "s1777327247841",
             "nombre": "Consultas y Observaciones",
             "fi": "2026-07-16",
-            "ff": "2026-07-27",
+            "ff": "2026-07-22",
             "resp": "ACFFAA",
             "est": "por_hacer",
             "com": "",
@@ -4230,7 +4230,7 @@
                 "lag": 0
               }
             ],
-            "dur": 7,
+            "dur": 5,
             "durMode": "dh"
           },
           {
