@@ -4164,7 +4164,7 @@
         "id": "t2",
         "nombre": "FASE 2 — Procedimiento de selección",
         "fi": "2026-06-19",
-        "ff": "2026-07-27",
+        "ff": "2026-08-05",
         "resp": "",
         "est": "por_hacer",
         "com": "",
@@ -4194,14 +4194,23 @@
           {
             "id": "s1777327246986",
             "nombre": "Registro de Participantes",
-            "fi": "2026-06-19",
-            "ff": "2026-07-08",
+            "fi": "2026-07-15",
+            "ff": "2026-08-05",
             "resp": "ACFFAA",
             "est": "por_hacer",
             "com": "",
             "fib": "2026-06-19",
             "ffb": "2026-07-08",
-            "uid": "umraqjgjzomrg"
+            "uid": "umraqjgjzomrg",
+            "preds": [
+              {
+                "uid": "umraqjgjzragw",
+                "tipo": "SS",
+                "lag": 0
+              }
+            ],
+            "dur": 13,
+            "durMode": "dh"
           },
           {
             "id": "s1777327247841",
