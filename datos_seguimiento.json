@@ -1482,7 +1482,7 @@
   "snpmgi_v1_2313734": {
     "metaFisica": "Adquisición de 01 Radar 3D ",
     "devengadoLabel": "",
-    "comentarios": "Modalidad de ejecución a Competitivo al Extranjero, Clasificado como Secreto/Cambio de Modalidad a traves de FMS",
+    "comentarios": "Modalidad de ejecución a Competitivo al Extranjero, Clasificado como Secreto/Cambio de Modalidad bajo el Programa de Ventas Militares al Extranjero (Foreing Military Sales - FMS).",
     "resultado": {
       "icono": "📋",
       "titulo": "Meta AF-2026",
@@ -1493,7 +1493,7 @@
         "id": "t1783449467782",
         "nombre": "Fase FMS - EEUU\n",
         "fi": "2026-07-01",
-        "ff": "2026-07-01",
+        "ff": "2026-07-02",
         "resp": "",
         "est": "por_hacer",
         "com": "",
@@ -1508,16 +1508,27 @@
             "est": "completado",
             "com": "",
             "dur": 1,
-            "durMode": "dh"
+            "durMode": "dh",
+            "uid": "umrazyepbg7qw"
           },
           {
             "id": "s1783449641551",
             "nombre": "Evaluación de la Carta de Oferta y Aceptación (LOA)",
-            "fi": "",
-            "ff": "",
+            "fi": "2026-07-02",
+            "ff": "2026-07-02",
             "resp": "",
             "est": "por_hacer",
-            "com": ""
+            "com": "",
+            "uid": "umrazyepbxr9s",
+            "preds": [
+              {
+                "uid": "umrazyepbg7qw",
+                "tipo": "FS",
+                "lag": 0
+              }
+            ],
+            "dur": 0,
+            "durMode": "dh"
           }
         ]
       }
@@ -1879,7 +1890,7 @@
             "id": "t1783449467782",
             "nombre": "Fase FMS - EEUU\n",
             "fi": "2026-07-01",
-            "ff": "2026-07-01",
+            "ff": "2026-07-02",
             "resp": "",
             "est": "por_hacer",
             "com": "",
@@ -1894,16 +1905,27 @@
                 "est": "completado",
                 "com": "",
                 "dur": 1,
-                "durMode": "dh"
+                "durMode": "dh",
+                "uid": "umrazyepbg7qw"
               },
               {
                 "id": "s1783449641551",
                 "nombre": "Evaluación de la Carta de Oferta y Aceptación (LOA)",
-                "fi": "",
-                "ff": "",
+                "fi": "2026-07-02",
+                "ff": "2026-07-02",
                 "resp": "",
                 "est": "por_hacer",
-                "com": ""
+                "com": "",
+                "uid": "umrazyepbxr9s",
+                "preds": [
+                  {
+                    "uid": "umrazyepbg7qw",
+                    "tipo": "FS",
+                    "lag": 0
+                  }
+                ],
+                "dur": 0,
+                "durMode": "dh"
               }
             ]
           }
