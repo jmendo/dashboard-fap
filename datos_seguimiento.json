@@ -4163,7 +4163,7 @@
       {
         "id": "t2",
         "nombre": "FASE 2 — Procedimiento de selección",
-        "fi": "2026-06-19",
+        "fi": "2026-07-01",
         "ff": "2026-08-05",
         "resp": "",
         "est": "por_hacer",
@@ -4215,14 +4215,23 @@
           {
             "id": "s1777327247841",
             "nombre": "Consultas y Observaciones",
-            "fi": "2026-06-19",
-            "ff": "2026-06-30",
+            "fi": "2026-07-16",
+            "ff": "2026-07-27",
             "resp": "ACFFAA",
             "est": "por_hacer",
             "com": "",
             "fib": "2026-06-19",
             "ffb": "2026-06-30",
-            "uid": "umraqjgjz3pr1"
+            "uid": "umraqjgjz3pr1",
+            "preds": [
+              {
+                "uid": "umraqjgjzragw",
+                "tipo": "FS",
+                "lag": 0
+              }
+            ],
+            "dur": 7,
+            "durMode": "dh"
           },
           {
             "id": "s1777327248249",
