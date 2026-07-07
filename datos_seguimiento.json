@@ -1509,6 +1509,15 @@
             "com": "",
             "dur": 1,
             "durMode": "dh"
+          },
+          {
+            "id": "s1783449641551",
+            "nombre": "Nueva subtarea",
+            "fi": "",
+            "ff": "",
+            "resp": "",
+            "est": "por_hacer",
+            "com": ""
           }
         ]
       }
@@ -1886,6 +1895,15 @@
                 "com": "",
                 "dur": 1,
                 "durMode": "dh"
+              },
+              {
+                "id": "s1783449641551",
+                "nombre": "Nueva subtarea",
+                "fi": "",
+                "ff": "",
+                "resp": "",
+                "est": "por_hacer",
+                "com": ""
               }
             ]
           }
