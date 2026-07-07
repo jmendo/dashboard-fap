@@ -1586,6 +1586,15 @@
             ],
             "dur": 7,
             "durMode": "dh"
+          },
+          {
+            "id": "s1783450164327",
+            "nombre": "Devengado (Carta Credito)",
+            "fi": "",
+            "ff": "",
+            "resp": "",
+            "est": "por_hacer",
+            "com": ""
           }
         ]
       }
@@ -2040,6 +2049,15 @@
                 ],
                 "dur": 7,
                 "durMode": "dh"
+              },
+              {
+                "id": "s1783450164327",
+                "nombre": "Devengado (Carta Credito)",
+                "fi": "",
+                "ff": "",
+                "resp": "",
+                "est": "por_hacer",
+                "com": ""
               }
             ]
           }
