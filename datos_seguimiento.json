@@ -4345,7 +4345,7 @@
       {
         "id": "t3",
         "nombre": "FASE 3 — Ejecución",
-        "fi": "2026-07-30",
+        "fi": "2026-08-12",
         "ff": "2026-11-02",
         "resp": "",
         "est": "por_hacer",
@@ -4355,14 +4355,23 @@
           {
             "id": "t3s1",
             "nombre": "Perfeccionamiento",
-            "fi": "2026-07-30",
-            "ff": "2026-08-11",
+            "fi": "2026-08-21",
+            "ff": "2026-09-01",
             "resp": "",
             "est": "por_hacer",
             "com": "",
             "fib": "2026-07-30",
             "ffb": "2026-08-11",
-            "uid": "umraqjgjznb1j"
+            "uid": "umraqjgjznb1j",
+            "preds": [
+              {
+                "uid": "umraqjgjzalda",
+                "tipo": "FS",
+                "lag": 0
+              }
+            ],
+            "dur": 8,
+            "durMode": "dh"
           },
           {
             "id": "s1777327973678",
