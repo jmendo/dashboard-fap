@@ -4145,7 +4145,16 @@
             "com": "",
             "fib": "2026-06-16",
             "ffb": "2026-06-18",
-            "uid": "umraqjgjzrn78"
+            "uid": "umraqjgjzrn78",
+            "preds": [
+              {
+                "uid": "umraqjgjzpv84",
+                "tipo": "FS",
+                "lag": 0
+              }
+            ],
+            "dur": 2,
+            "durMode": "dh"
           }
         ],
         "fib": "2026-04-30",
