@@ -1488,7 +1488,19 @@
       "titulo": "Meta AF-2026",
       "subtitulo": ""
     },
-    "gantt": [],
+    "gantt": [
+      {
+        "id": "t1783449467782",
+        "nombre": "Fase FMS - EEUU\n",
+        "fi": "",
+        "ff": "",
+        "resp": "",
+        "est": "por_hacer",
+        "com": "",
+        "exp": true,
+        "subs": []
+      }
+    ],
     "lineaBase": null,
     "modalidades": [
       {
@@ -1841,7 +1853,19 @@
         "fechaAdopcion": "2026-07-07",
         "fechaCambio": null,
         "motivo": "",
-        "gantt": [],
+        "gantt": [
+          {
+            "id": "t1783449467782",
+            "nombre": "Fase FMS - EEUU\n",
+            "fi": "",
+            "ff": "",
+            "resp": "",
+            "est": "por_hacer",
+            "com": "",
+            "exp": true,
+            "subs": []
+          }
+        ],
         "lineaBase": null
       }
     ],
