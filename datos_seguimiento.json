@@ -4358,7 +4358,7 @@
           },
           {
             "id": "s1777326941571",
-            "nombre": "Interacción con el Mercado",
+            "nombre": "Estudio de Posibilidades que Ofrece el Mercado(EPOM)",
             "fi": "2026-06-11",
             "ff": "2026-07-09",
             "resp": "ACFFAA",
@@ -4728,7 +4728,435 @@
     ],
     "lineaBase": {
       "fecha": "2026-06-10"
-    }
+    },
+    "modalidades": [
+      {
+        "id": "mod_mrb3jkve_1cwhh",
+        "nombre": "Modalidad inicial",
+        "estado": "vigente",
+        "fechaAdopcion": null,
+        "fechaCambio": null,
+        "motivo": "",
+        "gantt": [
+          {
+            "id": "t1",
+            "nombre": "FASE 1 — Actos preparatorios",
+            "fi": "2026-04-30",
+            "ff": "2026-07-14",
+            "resp": "",
+            "est": "por_hacer",
+            "com": "",
+            "exp": true,
+            "subs": [
+              {
+                "id": "t1s1",
+                "nombre": "Remisión de expediente de inicio",
+                "fi": "2026-04-30",
+                "ff": "2026-04-30",
+                "resp": "SELEC",
+                "est": "completado",
+                "com": "",
+                "fib": "2026-04-30",
+                "ffb": "2026-04-30",
+                "uid": "umraqjgjzej78"
+              },
+              {
+                "id": "s1777326908359",
+                "nombre": "Evaluación y Control de Calidad",
+                "fi": "2026-05-04",
+                "ff": "2026-06-10",
+                "resp": "ACFFAA",
+                "est": "completado",
+                "com": "observado 27.05 por la ACFFAA",
+                "fib": "2026-05-04",
+                "ffb": "2026-06-03",
+                "uid": "umraqjgjz5hhy",
+                "preds": [
+                  {
+                    "uid": "umraqjgjzej78",
+                    "tipo": "FS",
+                    "lag": 0
+                  }
+                ],
+                "dur": 28,
+                "durMode": "dh"
+              },
+              {
+                "id": "s1777326941571",
+                "nombre": "Estudio de Posibilidades que Ofrece el Mercado(EPOM)",
+                "fi": "2026-06-11",
+                "ff": "2026-07-09",
+                "resp": "ACFFAA",
+                "est": "en_progreso",
+                "com": "",
+                "fib": "2026-06-01",
+                "ffb": "2026-06-12",
+                "uid": "umraqjgjzcous",
+                "preds": [
+                  {
+                    "uid": "umraqjgjz5hhy",
+                    "tipo": "FS",
+                    "lag": 0
+                  }
+                ],
+                "dur": 20,
+                "durMode": "dh"
+              },
+              {
+                "id": "s1777326978047",
+                "nombre": "Certificación y Aprobación Expediente de Contratación",
+                "fi": "2026-07-10",
+                "ff": "2026-07-10",
+                "resp": "ACFFAA - FAP",
+                "est": "por_hacer",
+                "com": "",
+                "fib": "2026-06-15",
+                "ffb": "2026-06-15",
+                "uid": "umraqjgjzpv84",
+                "preds": [
+                  {
+                    "uid": "umraqjgjzcous",
+                    "tipo": "FS",
+                    "lag": 0
+                  }
+                ],
+                "dur": 1,
+                "durMode": "dh"
+              },
+              {
+                "id": "s1777327023152",
+                "nombre": "Instalación de Comité y Bases",
+                "fi": "2026-07-13",
+                "ff": "2026-07-14",
+                "resp": "ACFFAA",
+                "est": "por_hacer",
+                "com": "",
+                "fib": "2026-06-16",
+                "ffb": "2026-06-18",
+                "uid": "umraqjgjzrn78",
+                "preds": [
+                  {
+                    "uid": "umraqjgjzpv84",
+                    "tipo": "FS",
+                    "lag": 0
+                  }
+                ],
+                "dur": 2,
+                "durMode": "dh"
+              }
+            ],
+            "fib": "2026-04-30",
+            "ffb": "2026-06-18"
+          },
+          {
+            "id": "t2",
+            "nombre": "FASE 2 — Procedimiento de selección",
+            "fi": "2026-07-15",
+            "ff": "2026-08-20",
+            "resp": "",
+            "est": "por_hacer",
+            "com": "",
+            "exp": true,
+            "subs": [
+              {
+                "id": "t2s1",
+                "nombre": "Convocatoria",
+                "fi": "2026-07-15",
+                "ff": "2026-07-15",
+                "resp": "ACFFAA",
+                "est": "por_hacer",
+                "com": "",
+                "fib": "2026-06-19",
+                "ffb": "2026-06-19",
+                "uid": "umraqjgjzragw",
+                "preds": [
+                  {
+                    "uid": "umraqjgjzrn78",
+                    "tipo": "FS",
+                    "lag": 0
+                  }
+                ],
+                "dur": 1,
+                "durMode": "dh"
+              },
+              {
+                "id": "s1777327246986",
+                "nombre": "Registro de Participantes",
+                "fi": "2026-07-15",
+                "ff": "2026-08-04",
+                "resp": "ACFFAA",
+                "est": "por_hacer",
+                "com": "",
+                "fib": "2026-06-19",
+                "ffb": "2026-07-08",
+                "uid": "umraqjgjzomrg",
+                "preds": [
+                  {
+                    "uid": "umraqjgjzragw",
+                    "tipo": "SS",
+                    "lag": 0
+                  }
+                ],
+                "dur": 12,
+                "durMode": "dh"
+              },
+              {
+                "id": "s1777327247841",
+                "nombre": "Consultas y Observaciones",
+                "fi": "2026-07-16",
+                "ff": "2026-07-22",
+                "resp": "ACFFAA",
+                "est": "por_hacer",
+                "com": "",
+                "fib": "2026-06-19",
+                "ffb": "2026-06-30",
+                "uid": "umraqjgjz3pr1",
+                "preds": [
+                  {
+                    "uid": "umraqjgjzragw",
+                    "tipo": "FS",
+                    "lag": 0
+                  }
+                ],
+                "dur": 5,
+                "durMode": "dh"
+              },
+              {
+                "id": "s1777327248249",
+                "nombre": "Absolución e Integración",
+                "fi": "2026-07-24",
+                "ff": "2026-07-30",
+                "resp": "ACFFAA",
+                "est": "por_hacer",
+                "com": "",
+                "fib": "2026-07-01",
+                "ffb": "2026-07-07",
+                "uid": "umraqjgjzrrqp",
+                "preds": [
+                  {
+                    "uid": "umraqjgjz3pr1",
+                    "tipo": "FS",
+                    "lag": 0
+                  }
+                ],
+                "dur": 3,
+                "durMode": "dh"
+              },
+              {
+                "id": "s1777327248651",
+                "nombre": "Presentación de Ofertas",
+                "fi": "2026-07-31",
+                "ff": "2026-08-04",
+                "resp": "ACFFAA",
+                "est": "por_hacer",
+                "com": "",
+                "fib": "2026-07-08",
+                "ffb": "2026-07-10",
+                "uid": "umraqjgjzwtea",
+                "preds": [
+                  {
+                    "uid": "umraqjgjzrrqp",
+                    "tipo": "FS",
+                    "lag": 0
+                  }
+                ],
+                "dur": 3,
+                "durMode": "dh"
+              },
+              {
+                "id": "s1777327782789",
+                "nombre": "Evaluación y Calificación",
+                "fi": "2026-08-05",
+                "ff": "2026-08-07",
+                "resp": "ACFFAA",
+                "est": "por_hacer",
+                "com": "",
+                "fib": "2026-07-13",
+                "ffb": "2026-07-14",
+                "uid": "umraqjgjz15mm",
+                "preds": [
+                  {
+                    "uid": "umraqjgjzwtea",
+                    "tipo": "FS",
+                    "lag": 0
+                  }
+                ],
+                "dur": 2,
+                "durMode": "dh"
+              },
+              {
+                "id": "s1777327783197",
+                "nombre": "Buena Pro",
+                "fi": "2026-08-10",
+                "ff": "2026-08-10",
+                "resp": "ACFFAA",
+                "est": "por_hacer",
+                "com": "",
+                "fib": "2026-07-15",
+                "ffb": "2026-07-15",
+                "uid": "umraqjgjzvgli",
+                "preds": [
+                  {
+                    "uid": "umraqjgjz15mm",
+                    "tipo": "FS",
+                    "lag": 0
+                  }
+                ],
+                "dur": 1,
+                "durMode": "dh"
+              },
+              {
+                "id": "s1777327783461",
+                "nombre": "Consentimiento",
+                "fi": "2026-08-11",
+                "ff": "2026-08-20",
+                "resp": "ACFFAA",
+                "est": "por_hacer",
+                "com": "",
+                "fib": "2029-07-16",
+                "ffb": "2026-07-27",
+                "uid": "umraqjgjzalda",
+                "preds": [
+                  {
+                    "uid": "umraqjgjzvgli",
+                    "tipo": "FS",
+                    "lag": 0
+                  }
+                ],
+                "dur": 8,
+                "durMode": "dh"
+              }
+            ],
+            "fib": "2026-06-19",
+            "ffb": "2026-07-27"
+          },
+          {
+            "id": "t3",
+            "nombre": "FASE 3 — Ejecución",
+            "fi": "2026-08-21",
+            "ff": "2026-11-02",
+            "resp": "",
+            "est": "por_hacer",
+            "com": "",
+            "exp": true,
+            "subs": [
+              {
+                "id": "t3s1",
+                "nombre": "Perfeccionamiento",
+                "fi": "2026-08-21",
+                "ff": "2026-09-01",
+                "resp": "",
+                "est": "por_hacer",
+                "com": "",
+                "fib": "2026-07-30",
+                "ffb": "2026-08-11",
+                "uid": "umraqjgjznb1j",
+                "preds": [
+                  {
+                    "uid": "umraqjgjzalda",
+                    "tipo": "FS",
+                    "lag": 0
+                  }
+                ],
+                "dur": 8,
+                "durMode": "dh"
+              },
+              {
+                "id": "s1777327973678",
+                "nombre": "Contrato",
+                "fi": "2026-09-02",
+                "ff": "2026-09-03",
+                "resp": "",
+                "est": "por_hacer",
+                "com": "",
+                "fib": "2026-08-12",
+                "ffb": "2026-08-13",
+                "uid": "umraqjgjz6sdx",
+                "preds": [
+                  {
+                    "uid": "umraqjgjznb1j",
+                    "tipo": "FS",
+                    "lag": 0
+                  }
+                ],
+                "dur": 2,
+                "durMode": "dh"
+              },
+              {
+                "id": "s1777327973911",
+                "nombre": "Internamiento",
+                "fi": "2026-09-04",
+                "ff": "2026-10-21",
+                "resp": "",
+                "est": "por_hacer",
+                "com": "",
+                "fib": "2026-08-14",
+                "ffb": "2026-10-21",
+                "uid": "umraqjgjz16om",
+                "preds": [
+                  {
+                    "uid": "umraqjgjz6sdx",
+                    "tipo": "FS",
+                    "lag": 0
+                  }
+                ],
+                "dur": 48,
+                "durMode": "dc",
+                "dc": true
+              },
+              {
+                "id": "s1777327974086",
+                "nombre": "Conformidad",
+                "fi": "2026-10-22",
+                "ff": "2026-10-26",
+                "resp": "",
+                "est": "por_hacer",
+                "com": "",
+                "fib": "2026-10-22",
+                "ffb": "2026-10-26",
+                "uid": "umraqjgjzqi3u",
+                "preds": [
+                  {
+                    "uid": "umraqjgjz16om",
+                    "tipo": "FS",
+                    "lag": 0
+                  }
+                ],
+                "dur": 3,
+                "durMode": "dh"
+              },
+              {
+                "id": "s1777328278168",
+                "nombre": "Devengado 30%",
+                "fi": "2026-10-27",
+                "ff": "2026-11-02",
+                "resp": "",
+                "est": "por_hacer",
+                "com": "",
+                "fib": "2026-10-27",
+                "ffb": "2026-11-02",
+                "uid": "umraqjgjzon7n",
+                "preds": [
+                  {
+                    "uid": "umraqjgjzqi3u",
+                    "tipo": "FS",
+                    "lag": 0
+                  }
+                ],
+                "dur": 5,
+                "durMode": "dh"
+              }
+            ],
+            "fib": "2026-07-30",
+            "ffb": "2026-11-02"
+          }
+        ],
+        "lineaBase": {
+          "fecha": "2026-06-10"
+        }
+      }
+    ],
+    "modActivaId": "mod_mrb3jkve_1cwhh"
   },
   "snpmgi_v1_2652526": {
     "metaFisica": "Adquisición de Sistemas Antidenegación DDOS y solución Firewall ",
