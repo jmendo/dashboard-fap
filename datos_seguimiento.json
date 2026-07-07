@@ -1533,12 +1533,19 @@
           {
             "id": "s1783450008895",
             "nombre": "Perfeccionamiento",
-            "fi": "",
+            "fi": "2026-09-09",
             "ff": "",
             "resp": "",
             "est": "por_hacer",
             "com": "",
-            "uid": "umrb03gqoifzl"
+            "uid": "umrb03gqoifzl",
+            "preds": [
+              {
+                "uid": "umrazyepbxr9s",
+                "tipo": "FS",
+                "lag": 0
+              }
+            ]
           }
         ]
       }
@@ -1940,12 +1947,19 @@
               {
                 "id": "s1783450008895",
                 "nombre": "Perfeccionamiento",
-                "fi": "",
+                "fi": "2026-09-09",
                 "ff": "",
                 "resp": "",
                 "est": "por_hacer",
                 "com": "",
-                "uid": "umrb03gqoifzl"
+                "uid": "umrb03gqoifzl",
+                "preds": [
+                  {
+                    "uid": "umrazyepbxr9s",
+                    "tipo": "FS",
+                    "lag": 0
+                  }
+                ]
               }
             ]
           }
