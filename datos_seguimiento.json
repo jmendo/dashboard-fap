@@ -1590,11 +1590,19 @@
           {
             "id": "s1783450164327",
             "nombre": "Devengado (Carta Credito)",
-            "fi": "",
+            "fi": "2026-10-22",
             "ff": "",
             "resp": "",
             "est": "por_hacer",
-            "com": ""
+            "com": "",
+            "uid": "umrb06zggyvzk",
+            "preds": [
+              {
+                "uid": "umrb0637j1fzd",
+                "tipo": "FS",
+                "lag": 0
+              }
+            ]
           }
         ]
       }
@@ -2053,11 +2061,19 @@
               {
                 "id": "s1783450164327",
                 "nombre": "Devengado (Carta Credito)",
-                "fi": "",
+                "fi": "2026-10-22",
                 "ff": "",
                 "resp": "",
                 "est": "por_hacer",
-                "com": ""
+                "com": "",
+                "uid": "umrb06zggyvzk",
+                "preds": [
+                  {
+                    "uid": "umrb0637j1fzd",
+                    "tipo": "FS",
+                    "lag": 0
+                  }
+                ]
               }
             ]
           }
