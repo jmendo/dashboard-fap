@@ -4345,7 +4345,7 @@
       {
         "id": "t3",
         "nombre": "FASE 3 — Ejecución",
-        "fi": "2026-08-14",
+        "fi": "2026-08-21",
         "ff": "2026-11-02",
         "resp": "",
         "est": "por_hacer",
@@ -4397,14 +4397,24 @@
           {
             "id": "s1777327973911",
             "nombre": "Internamiento",
-            "fi": "2026-08-14",
+            "fi": "2026-09-04",
             "ff": "2026-10-21",
             "resp": "",
             "est": "por_hacer",
             "com": "",
             "fib": "2026-08-14",
             "ffb": "2026-10-21",
-            "uid": "umraqjgjz16om"
+            "uid": "umraqjgjz16om",
+            "preds": [
+              {
+                "uid": "umraqjgjz6sdx",
+                "tipo": "FS",
+                "lag": 0
+              }
+            ],
+            "dur": 48,
+            "durMode": "dc",
+            "dc": true
           },
           {
             "id": "s1777327974086",
