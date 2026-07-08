@@ -5678,7 +5678,7 @@
             "id": "s1776703101390",
             "nombre": "Acta de Conformidad",
             "fi": "2026-07-03",
-            "ff": "2026-07-07",
+            "ff": "2026-07-08",
             "resp": "",
             "est": "en_progreso",
             "com": ""
@@ -5694,7 +5694,112 @@
           }
         ]
       }
-    ]
+    ],
+    "modalidades": [
+      {
+        "id": "mod_mrc74099_hxtrc",
+        "nombre": "Modalidad inicial",
+        "estado": "vigente",
+        "fechaAdopcion": null,
+        "fechaCambio": null,
+        "motivo": "",
+        "gantt": [
+          {
+            "id": "t1",
+            "nombre": "FASE 1 — Actos preparatorios",
+            "fi": "",
+            "ff": "",
+            "resp": "",
+            "est": "por_hacer",
+            "com": "",
+            "exp": true,
+            "subs": [
+              {
+                "id": "t1s1",
+                "nombre": "Actividad 1",
+                "fi": "",
+                "ff": "",
+                "resp": "",
+                "est": "por_hacer",
+                "com": ""
+              }
+            ]
+          },
+          {
+            "id": "t2",
+            "nombre": "FASE 2 — Procedimiento de selección",
+            "fi": "",
+            "ff": "",
+            "resp": "",
+            "est": "por_hacer",
+            "com": "",
+            "exp": true,
+            "subs": [
+              {
+                "id": "t2s1",
+                "nombre": "Actividad 1",
+                "fi": "",
+                "ff": "",
+                "resp": "",
+                "est": "por_hacer",
+                "com": ""
+              }
+            ]
+          },
+          {
+            "id": "t3",
+            "nombre": "FASE 3 Ejecución Contractual",
+            "fi": "2026-03-03",
+            "ff": "2026-07-15",
+            "resp": "",
+            "est": "por_hacer",
+            "com": "",
+            "exp": true,
+            "subs": [
+              {
+                "id": "t3s1",
+                "nombre": "Contrarto (N°046-CS-SINFA) ",
+                "fi": "2026-03-03",
+                "ff": "2026-03-04",
+                "resp": "",
+                "est": "completado",
+                "com": ""
+              },
+              {
+                "id": "s1776702935635",
+                "nombre": "Internamiento (120 dias calendario)",
+                "fi": "2026-03-04",
+                "ff": "2026-07-02",
+                "resp": "",
+                "est": "completado",
+                "com": "Internamiento 120 dc."
+              },
+              {
+                "id": "s1776703101390",
+                "nombre": "Acta de Conformidad",
+                "fi": "2026-07-03",
+                "ff": "2026-07-08",
+                "resp": "",
+                "est": "en_progreso",
+                "com": ""
+              },
+              {
+                "id": "s1776703176622",
+                "nombre": "Devengado",
+                "fi": "2026-07-07",
+                "ff": "2026-07-15",
+                "resp": "",
+                "est": "por_hacer",
+                "com": ""
+              }
+            ]
+          }
+        ],
+        "lineaBase": null
+      }
+    ],
+    "modActivaId": "mod_mrc74099_hxtrc",
+    "lineaBase": null
   },
   "snpmgi_arch_2234934": [
     {
