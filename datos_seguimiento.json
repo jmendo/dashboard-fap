@@ -5680,7 +5680,7 @@
             "fi": "2026-07-03",
             "ff": "2026-07-08",
             "resp": "",
-            "est": "en_progreso",
+            "est": "completado",
             "com": ""
           },
           {
@@ -5689,7 +5689,7 @@
             "fi": "2026-07-09",
             "ff": "2026-07-10",
             "resp": "",
-            "est": "por_hacer",
+            "est": "en_progreso",
             "com": ""
           }
         ]
@@ -5780,7 +5780,7 @@
                 "fi": "2026-07-03",
                 "ff": "2026-07-08",
                 "resp": "",
-                "est": "en_progreso",
+                "est": "completado",
                 "com": ""
               },
               {
@@ -5789,7 +5789,7 @@
                 "fi": "2026-07-09",
                 "ff": "2026-07-10",
                 "resp": "",
-                "est": "por_hacer",
+                "est": "en_progreso",
                 "com": ""
               }
             ]
