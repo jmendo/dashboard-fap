@@ -2683,15 +2683,6 @@
             "resp": "",
             "est": "por_hacer",
             "com": ""
-          },
-          {
-            "id": "s1784042312786",
-            "nombre": "Nueva subtarea",
-            "fi": "",
-            "ff": "",
-            "resp": "",
-            "est": "por_hacer",
-            "com": ""
           }
         ]
       }
@@ -3123,15 +3114,6 @@
               {
                 "id": "s1784042312202",
                 "nombre": "Consentimiento",
-                "fi": "",
-                "ff": "",
-                "resp": "",
-                "est": "por_hacer",
-                "com": ""
-              },
-              {
-                "id": "s1784042312786",
-                "nombre": "Nueva subtarea",
                 "fi": "",
                 "ff": "",
                 "resp": "",
