@@ -2753,7 +2753,7 @@
         "id": "t1784042429451",
         "nombre": "Fase Ejecución Contractual",
         "fi": "2026-08-31",
-        "ff": "2026-09-11",
+        "ff": "2026-09-18",
         "resp": "",
         "est": "por_hacer",
         "com": "",
@@ -2800,12 +2800,21 @@
           {
             "id": "s1784042451843",
             "nombre": "Remisión de Pago",
-            "fi": "",
-            "ff": "",
+            "fi": "2026-09-14",
+            "ff": "2026-09-18",
             "resp": "",
             "est": "por_hacer",
             "com": "",
-            "uid": "umrkux3e2xvt1"
+            "uid": "umrkux3e2xvt1",
+            "preds": [
+              {
+                "uid": "umrkux3e2unav",
+                "tipo": "FS",
+                "lag": 0
+              }
+            ],
+            "dur": 5,
+            "durMode": "dh"
           },
           {
             "id": "s1784042452650",
@@ -3332,7 +3341,7 @@
             "id": "t1784042429451",
             "nombre": "Fase Ejecución Contractual",
             "fi": "2026-08-31",
-            "ff": "2026-09-11",
+            "ff": "2026-09-18",
             "resp": "",
             "est": "por_hacer",
             "com": "",
@@ -3379,12 +3388,21 @@
               {
                 "id": "s1784042451843",
                 "nombre": "Remisión de Pago",
-                "fi": "",
-                "ff": "",
+                "fi": "2026-09-14",
+                "ff": "2026-09-18",
                 "resp": "",
                 "est": "por_hacer",
                 "com": "",
-                "uid": "umrkux3e2xvt1"
+                "uid": "umrkux3e2xvt1",
+                "preds": [
+                  {
+                    "uid": "umrkux3e2unav",
+                    "tipo": "FS",
+                    "lag": 0
+                  }
+                ],
+                "dur": 5,
+                "durMode": "dh"
               },
               {
                 "id": "s1784042452650",
