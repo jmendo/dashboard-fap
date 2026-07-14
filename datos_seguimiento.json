@@ -2636,12 +2636,19 @@
           {
             "id": "s1784042265258",
             "nombre": "Registro de participantes(Presencial)",
-            "fi": "",
+            "fi": "2026-07-15",
             "ff": "",
             "resp": "",
             "est": "por_hacer",
             "com": "",
-            "uid": "umrkux3e21vdb"
+            "uid": "umrkux3e21vdb",
+            "preds": [
+              {
+                "uid": "umrkux3e2vdaf",
+                "tipo": "FS",
+                "lag": 0
+              }
+            ]
           },
           {
             "id": "s1784042271314",
@@ -3143,12 +3150,19 @@
               {
                 "id": "s1784042265258",
                 "nombre": "Registro de participantes(Presencial)",
-                "fi": "",
+                "fi": "2026-07-15",
                 "ff": "",
                 "resp": "",
                 "est": "por_hacer",
                 "com": "",
-                "uid": "umrkux3e21vdb"
+                "uid": "umrkux3e21vdb",
+                "preds": [
+                  {
+                    "uid": "umrkux3e2vdaf",
+                    "tipo": "FS",
+                    "lag": 0
+                  }
+                ]
               },
               {
                 "id": "s1784042271314",
