@@ -2610,7 +2610,19 @@
       "titulo": "Meta AF-2026",
       "subtitulo": ""
     },
-    "gantt": [],
+    "gantt": [
+      {
+        "id": "t1784042119809",
+        "nombre": "Fase Selección",
+        "fi": "",
+        "ff": "",
+        "resp": "",
+        "est": "por_hacer",
+        "com": "",
+        "exp": true,
+        "subs": []
+      }
+    ],
     "lineaBase": null,
     "modalidades": [
       {
@@ -2961,7 +2973,19 @@
         "fechaAdopcion": "2026-07-14",
         "fechaCambio": null,
         "motivo": "",
-        "gantt": [],
+        "gantt": [
+          {
+            "id": "t1784042119809",
+            "nombre": "Fase Selección",
+            "fi": "",
+            "ff": "",
+            "resp": "",
+            "est": "por_hacer",
+            "com": "",
+            "exp": true,
+            "subs": []
+          }
+        ],
         "lineaBase": null
       }
     ],
