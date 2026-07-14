@@ -2615,7 +2615,7 @@
         "id": "t1784042119809",
         "nombre": "Fase Selección",
         "fi": "2026-07-14",
-        "ff": "2026-07-14",
+        "ff": "2026-08-14",
         "resp": "",
         "est": "por_hacer",
         "com": "",
@@ -2637,7 +2637,7 @@
             "id": "s1784042265258",
             "nombre": "Registro de participantes(Presencial)",
             "fi": "2026-07-15",
-            "ff": "",
+            "ff": "2026-08-14",
             "resp": "",
             "est": "por_hacer",
             "com": "",
@@ -2648,7 +2648,9 @@
                 "tipo": "FS",
                 "lag": 0
               }
-            ]
+            ],
+            "dur": 19,
+            "durMode": "dh"
           },
           {
             "id": "s1784042271314",
@@ -3129,7 +3131,7 @@
             "id": "t1784042119809",
             "nombre": "Fase Selección",
             "fi": "2026-07-14",
-            "ff": "2026-07-14",
+            "ff": "2026-08-14",
             "resp": "",
             "est": "por_hacer",
             "com": "",
@@ -3151,7 +3153,7 @@
                 "id": "s1784042265258",
                 "nombre": "Registro de participantes(Presencial)",
                 "fi": "2026-07-15",
-                "ff": "",
+                "ff": "2026-08-14",
                 "resp": "",
                 "est": "por_hacer",
                 "com": "",
@@ -3162,7 +3164,9 @@
                     "tipo": "FS",
                     "lag": 0
                   }
-                ]
+                ],
+                "dur": 19,
+                "durMode": "dh"
               },
               {
                 "id": "s1784042271314",
