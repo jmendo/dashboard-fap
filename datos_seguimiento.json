@@ -2716,7 +2716,7 @@
           },
           {
             "id": "s1784042451843",
-            "nombre": "Internamiento (60 dc)",
+            "nombre": "Remisión de Pago",
             "fi": "",
             "ff": "",
             "resp": "",
@@ -2725,7 +2725,7 @@
           },
           {
             "id": "s1784042452650",
-            "nombre": "Recepción y Conformidad",
+            "nombre": "Devengado (Carta Credito)",
             "fi": "",
             "ff": "",
             "resp": "",
@@ -3209,7 +3209,7 @@
               },
               {
                 "id": "s1784042451843",
-                "nombre": "Internamiento (60 dc)",
+                "nombre": "Remisión de Pago",
                 "fi": "",
                 "ff": "",
                 "resp": "",
@@ -3218,7 +3218,7 @@
               },
               {
                 "id": "s1784042452650",
-                "nombre": "Recepción y Conformidad",
+                "nombre": "Devengado (Carta Credito)",
                 "fi": "",
                 "ff": "",
                 "resp": "",
