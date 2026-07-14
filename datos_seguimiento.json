@@ -2615,7 +2615,7 @@
         "id": "t1784042119809",
         "nombre": "Fase Selección",
         "fi": "2026-07-14",
-        "ff": "2026-08-14",
+        "ff": "2026-08-17",
         "resp": "",
         "est": "por_hacer",
         "com": "",
@@ -2694,7 +2694,7 @@
             "id": "s1784042273250",
             "nombre": "Presentación de propuestas y Evaluación(Presencial)",
             "fi": "2026-08-03",
-            "ff": "2026-08-12",
+            "ff": "2026-08-17",
             "resp": "",
             "est": "por_hacer",
             "com": "",
@@ -2706,7 +2706,7 @@
                 "lag": 0
               }
             ],
-            "dur": 7,
+            "dur": 10,
             "durMode": "dh"
           },
           {
@@ -3158,7 +3158,7 @@
             "id": "t1784042119809",
             "nombre": "Fase Selección",
             "fi": "2026-07-14",
-            "ff": "2026-08-14",
+            "ff": "2026-08-17",
             "resp": "",
             "est": "por_hacer",
             "com": "",
@@ -3237,7 +3237,7 @@
                 "id": "s1784042273250",
                 "nombre": "Presentación de propuestas y Evaluación(Presencial)",
                 "fi": "2026-08-03",
-                "ff": "2026-08-12",
+                "ff": "2026-08-17",
                 "resp": "",
                 "est": "por_hacer",
                 "com": "",
@@ -3249,7 +3249,7 @@
                     "lag": 0
                   }
                 ],
-                "dur": 7,
+                "dur": 10,
                 "durMode": "dh"
               },
               {
