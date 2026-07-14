@@ -2655,12 +2655,19 @@
           {
             "id": "s1784042271314",
             "nombre": "Formulación de consultas y observaciones(Presencial)",
-            "fi": "",
+            "fi": "2026-07-15",
             "ff": "",
             "resp": "",
             "est": "por_hacer",
             "com": "",
-            "uid": "umrkux3e2z8ug"
+            "uid": "umrkux3e2z8ug",
+            "preds": [
+              {
+                "uid": "umrkux3e2vdaf",
+                "tipo": "FS",
+                "lag": 0
+              }
+            ]
           },
           {
             "id": "s1784042272634",
@@ -3171,12 +3178,19 @@
               {
                 "id": "s1784042271314",
                 "nombre": "Formulación de consultas y observaciones(Presencial)",
-                "fi": "",
+                "fi": "2026-07-15",
                 "ff": "",
                 "resp": "",
                 "est": "por_hacer",
                 "com": "",
-                "uid": "umrkux3e2z8ug"
+                "uid": "umrkux3e2z8ug",
+                "preds": [
+                  {
+                    "uid": "umrkux3e2vdaf",
+                    "tipo": "FS",
+                    "lag": 0
+                  }
+                ]
               },
               {
                 "id": "s1784042272634",
