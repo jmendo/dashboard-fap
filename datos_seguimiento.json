@@ -2653,6 +2653,15 @@
             ],
             "dur": 3,
             "durMode": "dh"
+          },
+          {
+            "id": "s1784042249802",
+            "nombre": "Nueva subtarea",
+            "fi": "",
+            "ff": "",
+            "resp": "",
+            "est": "por_hacer",
+            "com": ""
           }
         ],
         "fib": "2026-04-16",
@@ -2994,6 +3003,15 @@
                 ],
                 "dur": 3,
                 "durMode": "dh"
+              },
+              {
+                "id": "s1784042249802",
+                "nombre": "Nueva subtarea",
+                "fi": "",
+                "ff": "",
+                "resp": "",
+                "est": "por_hacer",
+                "com": ""
               }
             ],
             "fib": "2026-04-16",
