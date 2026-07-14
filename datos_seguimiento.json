@@ -2674,6 +2674,24 @@
             "resp": "",
             "est": "por_hacer",
             "com": ""
+          },
+          {
+            "id": "s1784042312202",
+            "nombre": "Nueva subtarea",
+            "fi": "",
+            "ff": "",
+            "resp": "",
+            "est": "por_hacer",
+            "com": ""
+          },
+          {
+            "id": "s1784042312786",
+            "nombre": "Nueva subtarea",
+            "fi": "",
+            "ff": "",
+            "resp": "",
+            "est": "por_hacer",
+            "com": ""
           }
         ]
       }
@@ -3095,6 +3113,24 @@
               },
               {
                 "id": "s1784042273754",
+                "nombre": "Nueva subtarea",
+                "fi": "",
+                "ff": "",
+                "resp": "",
+                "est": "por_hacer",
+                "com": ""
+              },
+              {
+                "id": "s1784042312202",
+                "nombre": "Nueva subtarea",
+                "fi": "",
+                "ff": "",
+                "resp": "",
+                "est": "por_hacer",
+                "com": ""
+              },
+              {
+                "id": "s1784042312786",
                 "nombre": "Nueva subtarea",
                 "fi": "",
                 "ff": "",
