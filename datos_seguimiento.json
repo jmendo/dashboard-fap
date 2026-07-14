@@ -2629,6 +2629,15 @@
             "resp": "",
             "est": "por_hacer",
             "com": ""
+          },
+          {
+            "id": "s1784042265258",
+            "nombre": "Registro de participantes(Presencial)",
+            "fi": "",
+            "ff": "",
+            "resp": "",
+            "est": "por_hacer",
+            "com": ""
           }
         ]
       }
@@ -3006,6 +3015,15 @@
               {
                 "id": "s1784042136714",
                 "nombre": "Convocatoria",
+                "fi": "",
+                "ff": "",
+                "resp": "",
+                "est": "por_hacer",
+                "com": ""
+              },
+              {
+                "id": "s1784042265258",
+                "nombre": "Registro de participantes(Presencial)",
                 "fi": "",
                 "ff": "",
                 "resp": "",
