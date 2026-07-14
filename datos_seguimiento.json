@@ -2752,7 +2752,7 @@
       {
         "id": "t1784042429451",
         "nombre": "Fase Ejecución Contractual",
-        "fi": "",
+        "fi": "2026-08-31",
         "ff": "",
         "resp": "",
         "est": "por_hacer",
@@ -2762,12 +2762,19 @@
           {
             "id": "s1784042449795",
             "nombre": "Perfeccionamiento",
-            "fi": "",
+            "fi": "2026-08-31",
             "ff": "",
             "resp": "",
             "est": "por_hacer",
             "com": "",
-            "uid": "umrkux3e26qcj"
+            "uid": "umrkux3e26qcj",
+            "preds": [
+              {
+                "uid": "umrkux3e2ej23",
+                "tipo": "FS",
+                "lag": 0
+              }
+            ]
           },
           {
             "id": "s1784042450859",
@@ -3313,7 +3320,7 @@
           {
             "id": "t1784042429451",
             "nombre": "Fase Ejecución Contractual",
-            "fi": "",
+            "fi": "2026-08-31",
             "ff": "",
             "resp": "",
             "est": "por_hacer",
@@ -3323,12 +3330,19 @@
               {
                 "id": "s1784042449795",
                 "nombre": "Perfeccionamiento",
-                "fi": "",
+                "fi": "2026-08-31",
                 "ff": "",
                 "resp": "",
                 "est": "por_hacer",
                 "com": "",
-                "uid": "umrkux3e26qcj"
+                "uid": "umrkux3e26qcj",
+                "preds": [
+                  {
+                    "uid": "umrkux3e2ej23",
+                    "tipo": "FS",
+                    "lag": 0
+                  }
+                ]
               },
               {
                 "id": "s1784042450859",
