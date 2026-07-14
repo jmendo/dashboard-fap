@@ -2674,12 +2674,19 @@
           {
             "id": "s1784042272634",
             "nombre": "Absolución de consultas y observaciones",
-            "fi": "",
+            "fi": "2026-07-27",
             "ff": "",
             "resp": "",
             "est": "por_hacer",
             "com": "",
-            "uid": "umrkux3e2l6cj"
+            "uid": "umrkux3e2l6cj",
+            "preds": [
+              {
+                "uid": "umrkux3e2z8ug",
+                "tipo": "FS",
+                "lag": 0
+              }
+            ]
           },
           {
             "id": "s1784042273250",
@@ -3199,12 +3206,19 @@
               {
                 "id": "s1784042272634",
                 "nombre": "Absolución de consultas y observaciones",
-                "fi": "",
+                "fi": "2026-07-27",
                 "ff": "",
                 "resp": "",
                 "est": "por_hacer",
                 "com": "",
-                "uid": "umrkux3e2l6cj"
+                "uid": "umrkux3e2l6cj",
+                "preds": [
+                  {
+                    "uid": "umrkux3e2z8ug",
+                    "tipo": "FS",
+                    "lag": 0
+                  }
+                ]
               },
               {
                 "id": "s1784042273250",
