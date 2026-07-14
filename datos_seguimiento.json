@@ -2615,7 +2615,7 @@
         "id": "t1784042119809",
         "nombre": "Fase Selección",
         "fi": "2026-07-14",
-        "ff": "2026-08-18",
+        "ff": "2026-08-28",
         "resp": "",
         "est": "por_hacer",
         "com": "",
@@ -2731,12 +2731,21 @@
           {
             "id": "s1784042312202",
             "nombre": "Consentimiento",
-            "fi": "",
-            "ff": "",
+            "fi": "2026-08-19",
+            "ff": "2026-08-28",
             "resp": "",
             "est": "por_hacer",
             "com": "",
-            "uid": "umrkux3e2ej23"
+            "uid": "umrkux3e2ej23",
+            "preds": [
+              {
+                "uid": "umrkux3e27ehw",
+                "tipo": "FS",
+                "lag": 0
+              }
+            ],
+            "dur": 8,
+            "durMode": "dh"
           }
         ]
       },
@@ -3167,7 +3176,7 @@
             "id": "t1784042119809",
             "nombre": "Fase Selección",
             "fi": "2026-07-14",
-            "ff": "2026-08-18",
+            "ff": "2026-08-28",
             "resp": "",
             "est": "por_hacer",
             "com": "",
@@ -3283,12 +3292,21 @@
               {
                 "id": "s1784042312202",
                 "nombre": "Consentimiento",
-                "fi": "",
-                "ff": "",
+                "fi": "2026-08-19",
+                "ff": "2026-08-28",
                 "resp": "",
                 "est": "por_hacer",
                 "com": "",
-                "uid": "umrkux3e2ej23"
+                "uid": "umrkux3e2ej23",
+                "preds": [
+                  {
+                    "uid": "umrkux3e27ehw",
+                    "tipo": "FS",
+                    "lag": 0
+                  }
+                ],
+                "dur": 8,
+                "durMode": "dh"
               }
             ]
           },
