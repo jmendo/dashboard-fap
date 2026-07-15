@@ -6169,7 +6169,16 @@
             "com": "",
             "fib": "2026-05-25",
             "ffb": "2026-05-25",
-            "uid": "umqfqssayebae"
+            "uid": "umqfqssayebae",
+            "preds": [
+              {
+                "uid": "umqfqssaysg00",
+                "tipo": "FS",
+                "lag": 0
+              }
+            ],
+            "dur": 1,
+            "durMode": "dh"
           },
           {
             "id": "s1777067022347",
@@ -6608,7 +6617,16 @@
                 "com": "",
                 "fib": "2026-05-25",
                 "ffb": "2026-05-25",
-                "uid": "umqfqssayebae"
+                "uid": "umqfqssayebae",
+                "preds": [
+                  {
+                    "uid": "umqfqssaysg00",
+                    "tipo": "FS",
+                    "lag": 0
+                  }
+                ],
+                "dur": 1,
+                "durMode": "dh"
               },
               {
                 "id": "s1777067022347",
