@@ -9110,7 +9110,7 @@
     "gantt": [
       {
         "id": "t1",
-        "nombre": "ASE 1 — Actos preparatorios",
+        "nombre": "ASE 1 — Actos preparatorios: Proceso Tracto Remolque",
         "fi": "2026-04-07",
         "ff": "2026-04-28",
         "resp": "",
@@ -9547,7 +9547,7 @@
         "gantt": [
           {
             "id": "t1",
-            "nombre": "ASE 1 — Actos preparatorios",
+            "nombre": "ASE 1 — Actos preparatorios: Proceso Tracto Remolque",
             "fi": "2026-04-07",
             "ff": "2026-04-28",
             "resp": "",
