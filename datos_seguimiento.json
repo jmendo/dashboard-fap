@@ -9159,7 +9159,7 @@
         "resp": "",
         "est": "por_hacer",
         "com": "",
-        "exp": true,
+        "exp": false,
         "subs": [
           {
             "id": "s1777062878065",
@@ -9263,6 +9263,52 @@
         ],
         "fib": "2026-06-04",
         "ffb": "2026-12-17"
+      },
+      {
+        "id": "p1784145377258",
+        "tipo": "proceso",
+        "nombre": "PROCESO 2: Generador Portatil",
+        "fi": "",
+        "ff": "",
+        "resp": "",
+        "est": "por_hacer",
+        "com": "",
+        "exp": true,
+        "fases": [
+          {
+            "id": "p1784145377258f1",
+            "nombre": "FASE 1 — Actos Preparatorios",
+            "fi": "",
+            "ff": "",
+            "resp": "",
+            "est": "por_hacer",
+            "com": "",
+            "exp": false,
+            "subs": []
+          },
+          {
+            "id": "p1784145377258f2",
+            "nombre": "FASE 2 — Procedimiento de Selección",
+            "fi": "",
+            "ff": "",
+            "resp": "",
+            "est": "por_hacer",
+            "com": "",
+            "exp": true,
+            "subs": []
+          },
+          {
+            "id": "p1784145377258f3",
+            "nombre": "FASE 3 — Ejecución Contractual",
+            "fi": "",
+            "ff": "",
+            "resp": "",
+            "est": "por_hacer",
+            "com": "",
+            "exp": true,
+            "subs": []
+          }
+        ]
       }
     ],
     "lineaBase": {
@@ -9421,7 +9467,7 @@
             "resp": "",
             "est": "por_hacer",
             "com": "",
-            "exp": true,
+            "exp": false,
             "subs": [
               {
                 "id": "s1777062878065",
@@ -9525,6 +9571,52 @@
             ],
             "fib": "2026-06-04",
             "ffb": "2026-12-17"
+          },
+          {
+            "id": "p1784145377258",
+            "tipo": "proceso",
+            "nombre": "PROCESO 2: Generador Portatil",
+            "fi": "",
+            "ff": "",
+            "resp": "",
+            "est": "por_hacer",
+            "com": "",
+            "exp": true,
+            "fases": [
+              {
+                "id": "p1784145377258f1",
+                "nombre": "FASE 1 — Actos Preparatorios",
+                "fi": "",
+                "ff": "",
+                "resp": "",
+                "est": "por_hacer",
+                "com": "",
+                "exp": false,
+                "subs": []
+              },
+              {
+                "id": "p1784145377258f2",
+                "nombre": "FASE 2 — Procedimiento de Selección",
+                "fi": "",
+                "ff": "",
+                "resp": "",
+                "est": "por_hacer",
+                "com": "",
+                "exp": true,
+                "subs": []
+              },
+              {
+                "id": "p1784145377258f3",
+                "nombre": "FASE 3 — Ejecución Contractual",
+                "fi": "",
+                "ff": "",
+                "resp": "",
+                "est": "por_hacer",
+                "com": "",
+                "exp": true,
+                "subs": []
+              }
+            ]
           }
         ],
         "lineaBase": {
