@@ -9395,15 +9395,6 @@
                 "resp": "",
                 "est": "por_hacer",
                 "com": ""
-              },
-              {
-                "id": "s1784145508197",
-                "nombre": "Nueva subtarea",
-                "fi": "",
-                "ff": "",
-                "resp": "",
-                "est": "por_hacer",
-                "com": ""
               }
             ]
           },
@@ -9726,15 +9717,6 @@
                   {
                     "id": "s1784145507653",
                     "nombre": "Aprobación expediente de contratación",
-                    "fi": "",
-                    "ff": "",
-                    "resp": "",
-                    "est": "por_hacer",
-                    "com": ""
-                  },
-                  {
-                    "id": "s1784145508197",
-                    "nombre": "Nueva subtarea",
                     "fi": "",
                     "ff": "",
                     "resp": "",
