@@ -9485,7 +9485,7 @@
             "subs": [
               {
                 "id": "s1784145711696",
-                "nombre": "Nueva subtarea",
+                "nombre": "Perfeccionamiento",
                 "fi": "",
                 "ff": "",
                 "resp": "",
@@ -9503,6 +9503,33 @@
               },
               {
                 "id": "s1784145712688",
+                "nombre": "Nueva subtarea",
+                "fi": "",
+                "ff": "",
+                "resp": "",
+                "est": "por_hacer",
+                "com": ""
+              },
+              {
+                "id": "s1784145724280",
+                "nombre": "Nueva subtarea",
+                "fi": "",
+                "ff": "",
+                "resp": "",
+                "est": "por_hacer",
+                "com": ""
+              },
+              {
+                "id": "s1784145724791",
+                "nombre": "Nueva subtarea",
+                "fi": "",
+                "ff": "",
+                "resp": "",
+                "est": "por_hacer",
+                "com": ""
+              },
+              {
+                "id": "s1784145725264",
                 "nombre": "Nueva subtarea",
                 "fi": "",
                 "ff": "",
@@ -9904,7 +9931,7 @@
                 "subs": [
                   {
                     "id": "s1784145711696",
-                    "nombre": "Nueva subtarea",
+                    "nombre": "Perfeccionamiento",
                     "fi": "",
                     "ff": "",
                     "resp": "",
@@ -9922,6 +9949,33 @@
                   },
                   {
                     "id": "s1784145712688",
+                    "nombre": "Nueva subtarea",
+                    "fi": "",
+                    "ff": "",
+                    "resp": "",
+                    "est": "por_hacer",
+                    "com": ""
+                  },
+                  {
+                    "id": "s1784145724280",
+                    "nombre": "Nueva subtarea",
+                    "fi": "",
+                    "ff": "",
+                    "resp": "",
+                    "est": "por_hacer",
+                    "com": ""
+                  },
+                  {
+                    "id": "s1784145724791",
+                    "nombre": "Nueva subtarea",
+                    "fi": "",
+                    "ff": "",
+                    "resp": "",
+                    "est": "por_hacer",
+                    "com": ""
+                  },
+                  {
+                    "id": "s1784145725264",
                     "nombre": "Nueva subtarea",
                     "fi": "",
                     "ff": "",
