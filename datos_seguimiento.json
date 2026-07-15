@@ -9376,8 +9376,36 @@
             "resp": "",
             "est": "por_hacer",
             "com": "",
-            "exp": false,
-            "subs": []
+            "exp": true,
+            "subs": [
+              {
+                "id": "s1784145506541",
+                "nombre": "Estudio de mercado ACFFAA",
+                "fi": "",
+                "ff": "",
+                "resp": "",
+                "est": "por_hacer",
+                "com": ""
+              },
+              {
+                "id": "s1784145507653",
+                "nombre": "Nueva subtarea",
+                "fi": "",
+                "ff": "",
+                "resp": "",
+                "est": "por_hacer",
+                "com": ""
+              },
+              {
+                "id": "s1784145508197",
+                "nombre": "Nueva subtarea",
+                "fi": "",
+                "ff": "",
+                "resp": "",
+                "est": "por_hacer",
+                "com": ""
+              }
+            ]
           },
           {
             "id": "p1784145377258f2",
@@ -9684,8 +9712,36 @@
                 "resp": "",
                 "est": "por_hacer",
                 "com": "",
-                "exp": false,
-                "subs": []
+                "exp": true,
+                "subs": [
+                  {
+                    "id": "s1784145506541",
+                    "nombre": "Estudio de mercado ACFFAA",
+                    "fi": "",
+                    "ff": "",
+                    "resp": "",
+                    "est": "por_hacer",
+                    "com": ""
+                  },
+                  {
+                    "id": "s1784145507653",
+                    "nombre": "Nueva subtarea",
+                    "fi": "",
+                    "ff": "",
+                    "resp": "",
+                    "est": "por_hacer",
+                    "com": ""
+                  },
+                  {
+                    "id": "s1784145508197",
+                    "nombre": "Nueva subtarea",
+                    "fi": "",
+                    "ff": "",
+                    "resp": "",
+                    "est": "por_hacer",
+                    "com": ""
+                  }
+                ]
               },
               {
                 "id": "p1784145377258f2",
