@@ -9179,7 +9179,7 @@
             "id": "s1777062878960",
             "nombre": "Contrato",
             "fi": "2026-07-10",
-            "ff": "2026-07-13",
+            "ff": "2026-07-14",
             "resp": "",
             "est": "en_progreso",
             "com": "",
@@ -9193,14 +9193,14 @@
                 "lag": 0
               }
             ],
-            "dur": 2,
+            "dur": 3,
             "durMode": "dh"
           },
           {
             "id": "s1777062879568",
             "nombre": "Internamiento del Bien ( hasta 110 dc)",
-            "fi": "2026-07-14",
-            "ff": "2026-10-31",
+            "fi": "2026-07-15",
+            "ff": "2026-11-01",
             "resp": "",
             "est": "por_hacer",
             "com": "Se debe hacer la entrega en 160 dc como maximo para asegurar el devengado en el 2026, con 210 dc se va al 15.01.2027.",
@@ -9441,7 +9441,7 @@
                 "id": "s1777062878960",
                 "nombre": "Contrato",
                 "fi": "2026-07-10",
-                "ff": "2026-07-13",
+                "ff": "2026-07-14",
                 "resp": "",
                 "est": "en_progreso",
                 "com": "",
@@ -9455,14 +9455,14 @@
                     "lag": 0
                   }
                 ],
-                "dur": 2,
+                "dur": 3,
                 "durMode": "dh"
               },
               {
                 "id": "s1777062879568",
                 "nombre": "Internamiento del Bien ( hasta 110 dc)",
-                "fi": "2026-07-14",
-                "ff": "2026-10-31",
+                "fi": "2026-07-15",
+                "ff": "2026-11-01",
                 "resp": "",
                 "est": "por_hacer",
                 "com": "Se debe hacer la entrega en 160 dc como maximo para asegurar el devengado en el 2026, con 210 dc se va al 15.01.2027.",
