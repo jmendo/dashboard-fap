@@ -6170,13 +6170,7 @@
             "fib": "2026-05-25",
             "ffb": "2026-05-25",
             "uid": "umqfqssayebae",
-            "preds": [
-              {
-                "uid": "umqfqssaysg00",
-                "tipo": "FS",
-                "lag": 0
-              }
-            ],
+            "preds": [],
             "dur": 1,
             "durMode": "dh"
           },
@@ -6618,13 +6612,7 @@
                 "fib": "2026-05-25",
                 "ffb": "2026-05-25",
                 "uid": "umqfqssayebae",
-                "preds": [
-                  {
-                    "uid": "umqfqssaysg00",
-                    "tipo": "FS",
-                    "lag": 0
-                  }
-                ],
+                "preds": [],
                 "dur": 1,
                 "durMode": "dh"
               },
