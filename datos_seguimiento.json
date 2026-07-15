@@ -9482,7 +9482,35 @@
             "est": "por_hacer",
             "com": "",
             "exp": true,
-            "subs": []
+            "subs": [
+              {
+                "id": "s1784145711696",
+                "nombre": "Nueva subtarea",
+                "fi": "",
+                "ff": "",
+                "resp": "",
+                "est": "por_hacer",
+                "com": ""
+              },
+              {
+                "id": "s1784145712207",
+                "nombre": "Nueva subtarea",
+                "fi": "",
+                "ff": "",
+                "resp": "",
+                "est": "por_hacer",
+                "com": ""
+              },
+              {
+                "id": "s1784145712688",
+                "nombre": "Nueva subtarea",
+                "fi": "",
+                "ff": "",
+                "resp": "",
+                "est": "por_hacer",
+                "com": ""
+              }
+            ]
           }
         ]
       }
@@ -9873,7 +9901,35 @@
                 "est": "por_hacer",
                 "com": "",
                 "exp": true,
-                "subs": []
+                "subs": [
+                  {
+                    "id": "s1784145711696",
+                    "nombre": "Nueva subtarea",
+                    "fi": "",
+                    "ff": "",
+                    "resp": "",
+                    "est": "por_hacer",
+                    "com": ""
+                  },
+                  {
+                    "id": "s1784145712207",
+                    "nombre": "Nueva subtarea",
+                    "fi": "",
+                    "ff": "",
+                    "resp": "",
+                    "est": "por_hacer",
+                    "com": ""
+                  },
+                  {
+                    "id": "s1784145712688",
+                    "nombre": "Nueva subtarea",
+                    "fi": "",
+                    "ff": "",
+                    "resp": "",
+                    "est": "por_hacer",
+                    "com": ""
+                  }
+                ]
               }
             ]
           }
