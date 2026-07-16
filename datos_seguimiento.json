@@ -1321,7 +1321,7 @@
       "nombre": "REPOSICIÓN DATA CENTER-IOARR",
       "fuente": "RO",
       "pim": 5135151,
-      "dev": 0,
+      "dev": 5129990,
       "meses": {
         "ene": 0,
         "feb": 0,
@@ -1329,7 +1329,7 @@
         "abr": 0,
         "may": 0,
         "jun": 0,
-        "jul": 0,
+        "jul": 5129990,
         "ago": 0,
         "set": 0,
         "oct": 0,
@@ -1341,11 +1341,13 @@
         {
           "fuente": "RO",
           "pim": 5135151,
-          "dev": 0,
+          "dev": 5129990,
           "desde": null
         }
       ],
-      "mesFuente": {},
+      "mesFuente": {
+        "jul": "RO"
+      },
       "metaMEF": {
         "ene": 0,
         "feb": 0,
