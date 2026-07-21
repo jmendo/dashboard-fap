@@ -1836,7 +1836,7 @@
       "nombre": "2721367: EQUIPO TACTICO - GRUFE-IOARR",
       "fuente": "RO",
       "pim": 2006556,
-      "dev": 2006556,
+      "dev": 0,
       "proceso": "ACFFAA",
       "meses": {
         "ene": 0,
@@ -1849,17 +1849,15 @@
         "ago": 0,
         "set": 0,
         "oct": 0,
-        "nov": 2006556,
+        "nov": 0,
         "dic": 0
       },
-      "mesFuente": {
-        "nov": "RO"
-      },
+      "mesFuente": {},
       "fuentes": [
         {
           "fuente": "RO",
           "pim": 2006556,
-          "dev": 2006556,
+          "dev": 0,
           "desde": null
         }
       ],
