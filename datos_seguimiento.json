@@ -1830,6 +1830,54 @@
         "dic": 1685959
       },
       "_metaSembrada": true
+    },
+    {
+      "cui": "2721367",
+      "nombre": "2721367: EQUIPO TACTICO - GRUFE-IOARR",
+      "fuente": "RO",
+      "pim": 2006556,
+      "dev": 2006556,
+      "proceso": "—",
+      "meses": {
+        "ene": 0,
+        "feb": 0,
+        "mar": 0,
+        "abr": 0,
+        "may": 0,
+        "jun": 0,
+        "jul": 0,
+        "ago": 0,
+        "set": 0,
+        "oct": 0,
+        "nov": 2006556,
+        "dic": 0
+      },
+      "mesFuente": {
+        "nov": "RO"
+      },
+      "fuentes": [
+        {
+          "fuente": "RO",
+          "pim": 2006556,
+          "dev": 2006556,
+          "desde": null
+        }
+      ],
+      "metaMEF": {
+        "ene": 0,
+        "feb": 0,
+        "mar": 0,
+        "abr": 0,
+        "may": 0,
+        "jun": 0,
+        "jul": 0,
+        "ago": 0,
+        "set": 0,
+        "oct": 0,
+        "nov": 2006556,
+        "dic": 0
+      },
+      "_metaSembrada": true
     }
   ],
   "snpmgi_v1_2492600": {
@@ -8945,6 +8993,13 @@
       "fuente": "RO",
       "uei": "DITEL",
       "proceso": "ACFFAA"
+    },
+    "2721367": {
+      "nombre": "EQUIPO TACTICO - GRUFE",
+      "tipo": "IOARR",
+      "fuente": "RO",
+      "uei": "COMOP",
+      "proceso": "—"
     }
   },
   "snpmgi_v1_2163489": {
