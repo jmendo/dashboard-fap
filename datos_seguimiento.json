@@ -1877,7 +1877,8 @@
         "nov": 2006556,
         "dic": 0
       },
-      "_metaSembrada": true
+      "_metaSembrada": true,
+      "uei": "COMOP"
     }
   ],
   "snpmgi_v1_2721367": {
@@ -9151,7 +9152,7 @@
       "nombre": "EQUIPO TACTICO - GRUFE",
       "tipo": "IOARR",
       "fuente": "RO",
-      "uei": "—",
+      "uei": "COMOP",
       "proceso": "ACFFAA"
     }
   },
