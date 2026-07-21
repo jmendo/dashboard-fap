@@ -3627,7 +3627,7 @@
         "resp": "",
         "est": "por_hacer",
         "com": "",
-        "exp": true,
+        "exp": false,
         "fases": [
           {
             "id": "f1779229820791",
@@ -3637,7 +3637,7 @@
             "resp": "",
             "est": "por_hacer",
             "com": "",
-            "exp": true,
+            "exp": false,
             "subs": [
               {
                 "id": "s1779229888798",
@@ -3706,7 +3706,7 @@
             "resp": "",
             "est": "por_hacer",
             "com": "",
-            "exp": true,
+            "exp": false,
             "subs": [
               {
                 "id": "s1779229974839",
@@ -3804,7 +3804,7 @@
             "resp": "",
             "est": "por_hacer",
             "com": "",
-            "exp": true,
+            "exp": false,
             "subs": [
               {
                 "id": "s1779230100007",
@@ -3939,7 +3939,7 @@
             "resp": "",
             "est": "por_hacer",
             "com": "",
-            "exp": true,
+            "exp": false,
             "subs": [
               {
                 "id": "s1779209669183",
@@ -4008,7 +4008,7 @@
             "resp": "",
             "est": "por_hacer",
             "com": "",
-            "exp": true,
+            "exp": false,
             "subs": [
               {
                 "id": "s1779210134101",
@@ -4085,7 +4085,7 @@
             "resp": "",
             "est": "por_hacer",
             "com": "",
-            "exp": true,
+            "exp": false,
             "subs": [
               {
                 "id": "s1779210272926",
@@ -4220,7 +4220,7 @@
             "resp": "",
             "est": "por_hacer",
             "com": "",
-            "exp": true,
+            "exp": false,
             "subs": [
               {
                 "id": "s1779210511399",
@@ -4289,7 +4289,7 @@
             "resp": "",
             "est": "por_hacer",
             "com": "",
-            "exp": true,
+            "exp": false,
             "subs": [
               {
                 "id": "s1779210947111",
@@ -4387,7 +4387,7 @@
             "resp": "",
             "est": "por_hacer",
             "com": "",
-            "exp": true,
+            "exp": false,
             "subs": [
               {
                 "id": "s1779211074153",
@@ -4522,7 +4522,7 @@
             "resp": "",
             "est": "por_hacer",
             "com": "",
-            "exp": true,
+            "exp": false,
             "subs": [
               {
                 "id": "s1779211531302",
@@ -4591,7 +4591,7 @@
             "resp": "",
             "est": "por_hacer",
             "com": "",
-            "exp": true,
+            "exp": false,
             "subs": [
               {
                 "id": "s1779211614358",
@@ -4689,7 +4689,7 @@
             "resp": "",
             "est": "por_hacer",
             "com": "",
-            "exp": true,
+            "exp": false,
             "subs": [
               {
                 "id": "s1779211734903",
@@ -4832,7 +4832,7 @@
             "resp": "",
             "est": "por_hacer",
             "com": "",
-            "exp": true,
+            "exp": false,
             "fases": [
               {
                 "id": "f1779229820791",
@@ -4842,7 +4842,7 @@
                 "resp": "",
                 "est": "por_hacer",
                 "com": "",
-                "exp": true,
+                "exp": false,
                 "subs": [
                   {
                     "id": "s1779229888798",
@@ -4911,7 +4911,7 @@
                 "resp": "",
                 "est": "por_hacer",
                 "com": "",
-                "exp": true,
+                "exp": false,
                 "subs": [
                   {
                     "id": "s1779229974839",
@@ -5009,7 +5009,7 @@
                 "resp": "",
                 "est": "por_hacer",
                 "com": "",
-                "exp": true,
+                "exp": false,
                 "subs": [
                   {
                     "id": "s1779230100007",
@@ -5144,7 +5144,7 @@
                 "resp": "",
                 "est": "por_hacer",
                 "com": "",
-                "exp": true,
+                "exp": false,
                 "subs": [
                   {
                     "id": "s1779209669183",
@@ -5213,7 +5213,7 @@
                 "resp": "",
                 "est": "por_hacer",
                 "com": "",
-                "exp": true,
+                "exp": false,
                 "subs": [
                   {
                     "id": "s1779210134101",
@@ -5290,7 +5290,7 @@
                 "resp": "",
                 "est": "por_hacer",
                 "com": "",
-                "exp": true,
+                "exp": false,
                 "subs": [
                   {
                     "id": "s1779210272926",
@@ -5425,7 +5425,7 @@
                 "resp": "",
                 "est": "por_hacer",
                 "com": "",
-                "exp": true,
+                "exp": false,
                 "subs": [
                   {
                     "id": "s1779210511399",
@@ -5494,7 +5494,7 @@
                 "resp": "",
                 "est": "por_hacer",
                 "com": "",
-                "exp": true,
+                "exp": false,
                 "subs": [
                   {
                     "id": "s1779210947111",
@@ -5592,7 +5592,7 @@
                 "resp": "",
                 "est": "por_hacer",
                 "com": "",
-                "exp": true,
+                "exp": false,
                 "subs": [
                   {
                     "id": "s1779211074153",
@@ -5727,7 +5727,7 @@
                 "resp": "",
                 "est": "por_hacer",
                 "com": "",
-                "exp": true,
+                "exp": false,
                 "subs": [
                   {
                     "id": "s1779211531302",
@@ -5796,7 +5796,7 @@
                 "resp": "",
                 "est": "por_hacer",
                 "com": "",
-                "exp": true,
+                "exp": false,
                 "subs": [
                   {
                     "id": "s1779211614358",
@@ -5894,7 +5894,7 @@
                 "resp": "",
                 "est": "por_hacer",
                 "com": "",
-                "exp": true,
+                "exp": false,
                 "subs": [
                   {
                     "id": "s1779211734903",
