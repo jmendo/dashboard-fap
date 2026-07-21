@@ -1742,7 +1742,7 @@
       "cui": "2492600",
       "nombre": "VEHÍCULOS - SETRA-IOARR",
       "fuente": "RO",
-      "pim": 146425,
+      "pim": 707626,
       "dev": 0,
       "meses": {
         "ene": 0,
@@ -1762,7 +1762,7 @@
       "fuentes": [
         {
           "fuente": "RO",
-          "pim": 146425,
+          "pim": 707626,
           "dev": 0,
           "desde": null
         }
