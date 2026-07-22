@@ -10017,7 +10017,7 @@
           {
             "id": "p1784145377258f1",
             "nombre": "FASE 1 — Actos Preparatorios",
-            "fi": "",
+            "fi": "2026-07-13",
             "ff": "",
             "resp": "",
             "est": "por_hacer",
@@ -10027,7 +10027,7 @@
               {
                 "id": "s1784145506541",
                 "nombre": "Estudio de mercado",
-                "fi": "",
+                "fi": "2026-07-13",
                 "ff": "",
                 "resp": "",
                 "est": "por_hacer",
@@ -10454,7 +10454,7 @@
               {
                 "id": "p1784145377258f1",
                 "nombre": "FASE 1 — Actos Preparatorios",
-                "fi": "",
+                "fi": "2026-07-13",
                 "ff": "",
                 "resp": "",
                 "est": "por_hacer",
@@ -10464,7 +10464,7 @@
                   {
                     "id": "s1784145506541",
                     "nombre": "Estudio de mercado",
-                    "fi": "",
+                    "fi": "2026-07-13",
                     "ff": "",
                     "resp": "",
                     "est": "por_hacer",
