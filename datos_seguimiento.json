@@ -2814,246 +2814,58 @@
     },
     "gantt": [
       {
-        "id": "t1",
-        "nombre": "FASE 1 — Actos preparatorios",
-        "fi": "2026-04-16",
-        "ff": "2026-05-13",
-        "resp": "",
-        "est": "completado",
-        "com": "",
-        "exp": true,
-        "subs": [
-          {
-            "id": "t1s1",
-            "nombre": "Estudio de mercado ACFFAA",
-            "fi": "2026-04-16",
-            "ff": "2026-05-07",
-            "resp": "",
-            "est": "completado",
-            "com": "En actualización de requerimiento por la FAP, debido a la escasez de postores.",
-            "fib": "2026-04-16",
-            "ffb": "2026-05-07",
-            "uid": "umqqp2gers7lz"
-          },
-          {
-            "id": "s1776712900409",
-            "nombre": "Aprobación expediente de contratación",
-            "fi": "2026-05-11",
-            "ff": "2026-05-13",
-            "resp": "",
-            "est": "completado",
-            "com": "",
-            "fib": "2026-05-11",
-            "ffb": "2026-05-13",
-            "uid": "umqqp2gerw92k",
-            "preds": [
-              {
-                "uid": "umqqp2gers7lz",
-                "tipo": "FS",
-                "lag": 0
-              }
-            ],
-            "dur": 3,
-            "durMode": "dh"
-          },
-          {
-            "id": "s1784042249802",
-            "nombre": "Nueva subtarea",
-            "fi": "",
-            "ff": "",
-            "resp": "",
-            "est": "por_hacer",
-            "com": ""
-          }
-        ],
-        "fib": "2026-04-16",
-        "ffb": "2026-05-13"
-      },
-      {
-        "id": "t2",
-        "nombre": "FASE 2 — Procedimiento de selección",
-        "fi": "2026-05-14",
-        "ff": "2026-07-03",
+        "id": "t1784042119809",
+        "nombre": "Fase Selección",
+        "fi": "2026-07-21",
+        "ff": "2026-09-04",
         "resp": "",
         "est": "por_hacer",
         "com": "",
         "exp": true,
         "subs": [
           {
-            "id": "t2s1",
+            "id": "s1784042136714",
             "nombre": "Convocatoria",
-            "fi": "2026-05-14",
-            "ff": "2026-05-14",
-            "resp": "",
-            "est": "completado",
-            "com": "1 d",
-            "fib": "2026-05-14",
-            "ffb": "2026-05-14",
-            "uid": "umqqp2gerpc7r",
-            "preds": [
-              {
-                "uid": "umqqp2gerw92k",
-                "tipo": "FS",
-                "lag": 0
-              }
-            ],
-            "dur": 1,
-            "durMode": "dh"
-          },
-          {
-            "id": "s1776713989563",
-            "nombre": "Registro de participantes(Presencial)",
-            "fi": "2026-05-15",
-            "ff": "2026-05-18",
-            "resp": "",
-            "est": "completado",
-            "com": "7 d",
-            "fib": "2026-05-15",
-            "ffb": "2026-05-18",
-            "uid": "umqqp2germ28l",
-            "preds": [
-              {
-                "uid": "umqqp2gerpc7r",
-                "tipo": "FS",
-                "lag": 0
-              }
-            ],
-            "dur": 2,
-            "durMode": "dh"
-          },
-          {
-            "id": "s1776713990100",
-            "nombre": "Formulación de consultas y observaciones(Presencial)",
-            "fi": "2026-05-19",
-            "ff": "2026-05-26",
-            "resp": "",
-            "est": "completado",
-            "com": "5 d",
-            "fib": "2026-05-19",
-            "ffb": "2026-05-26",
-            "uid": "umqqp2gervbow",
-            "preds": [
-              {
-                "uid": "umqqp2germ28l",
-                "tipo": "FS",
-                "lag": 0
-              }
-            ],
-            "dur": 6,
-            "durMode": "dh"
-          },
-          {
-            "id": "s1776713992116",
-            "nombre": "Absolución de consultas y observaciones",
-            "fi": "2026-05-27",
-            "ff": "2026-06-02",
-            "resp": "",
-            "est": "completado",
-            "com": "1 d",
-            "fib": "2026-05-27",
-            "ffb": "2026-06-02",
-            "uid": "umqqp2gerkg1v",
-            "preds": [
-              {
-                "uid": "umqqp2gervbow",
-                "tipo": "FS",
-                "lag": 0
-              }
-            ],
-            "dur": 5,
-            "durMode": "dh"
-          },
-          {
-            "id": "s1776714021404",
-            "nombre": "Presentación de propuestas(Presencial)",
-            "fi": "2026-06-03",
-            "ff": "2026-06-19",
-            "resp": "",
-            "est": "completado",
-            "com": "2 d",
-            "fib": "2026-06-03",
-            "ffb": "2026-06-10",
-            "uid": "umqqp2germvom",
-            "preds": [
-              {
-                "uid": "umqqp2gerkg1v",
-                "tipo": "FS",
-                "lag": 0
-              }
-            ],
-            "dur": 13,
-            "durMode": "dh"
-          },
-          {
-            "id": "s1776714022316",
-            "nombre": "Buena Pro",
-            "fi": "2026-06-22",
-            "ff": "2026-06-22",
-            "resp": "",
-            "est": "completado",
-            "com": "1 d",
-            "fib": "2026-06-12",
-            "ffb": "2026-06-12",
-            "uid": "umqqp2geribm4",
-            "preds": [
-              {
-                "uid": "umqqp2germvom",
-                "tipo": "FS",
-                "lag": 0
-              }
-            ],
-            "dur": 1,
-            "durMode": "dh"
-          },
-          {
-            "id": "s1776714236484",
-            "nombre": "Consentimiento",
-            "fi": "2026-06-23",
-            "ff": "2026-07-03",
-            "resp": "",
-            "est": "completado",
-            "com": "8 d",
-            "fib": "2026-06-15",
-            "ffb": "2026-06-24",
-            "uid": "umqqp2gerf1ue",
-            "preds": [
-              {
-                "uid": "umqqp2geribm4",
-                "tipo": "FS",
-                "lag": 0
-              }
-            ],
-            "dur": 8,
-            "durMode": "dh"
-          }
-        ],
-        "fib": "2026-05-14",
-        "ffb": "2026-06-24"
-      },
-      {
-        "id": "t3",
-        "nombre": "FASE 3 — Ejecución Contractual",
-        "fi": "2026-07-06",
-        "ff": "2026-09-24",
-        "resp": "",
-        "est": "por_hacer",
-        "com": "",
-        "exp": true,
-        "subs": [
-          {
-            "id": "t3s1",
-            "nombre": "Perfeccionamiento",
-            "fi": "2026-07-06",
-            "ff": "2026-07-14",
+            "fi": "2026-07-21",
+            "ff": "2026-07-21",
             "resp": "",
             "est": "en_progreso",
             "com": "",
-            "fib": "2026-06-25",
-            "ffb": "2026-07-06",
-            "uid": "umqqp2gergdx3",
+            "dur": 1,
+            "durMode": "dh",
+            "uid": "umrkux3e2vdaf"
+          },
+          {
+            "id": "s1784042265258",
+            "nombre": "Registro de participantes(Presencial)",
+            "fi": "2026-07-22",
+            "ff": "2026-08-21",
+            "resp": "",
+            "est": "por_hacer",
+            "com": "",
+            "uid": "umrkux3e21vdb",
             "preds": [
               {
-                "uid": "umqqp2gerf1ue",
+                "uid": "umrkux3e2vdaf",
+                "tipo": "FS",
+                "lag": 0
+              }
+            ],
+            "dur": 19,
+            "durMode": "dh"
+          },
+          {
+            "id": "s1784042271314",
+            "nombre": "Formulación de consultas y observaciones(Presencial)",
+            "fi": "2026-07-22",
+            "ff": "2026-08-04",
+            "resp": "",
+            "est": "por_hacer",
+            "com": "",
+            "uid": "umrkux3e2z8ug",
+            "preds": [
+              {
+                "uid": "umrkux3e2vdaf",
                 "tipo": "FS",
                 "lag": 0
               }
@@ -3062,62 +2874,17 @@
             "durMode": "dh"
           },
           {
-            "id": "s1776715924471",
-            "nombre": "Contrato",
-            "fi": "2026-07-15",
-            "ff": "2026-07-16",
+            "id": "s1784042272634",
+            "nombre": "Absolución de consultas y observaciones e Integración de Bases",
+            "fi": "2026-08-05",
+            "ff": "2026-08-10",
             "resp": "",
             "est": "por_hacer",
             "com": "",
-            "fib": "2026-07-07",
-            "ffb": "2026-07-08",
-            "uid": "umqqp2gery0bp",
+            "uid": "umrkux3e2l6cj",
             "preds": [
               {
-                "uid": "umqqp2gergdx3",
-                "tipo": "FS",
-                "lag": 0
-              }
-            ],
-            "dur": 2,
-            "durMode": "dh"
-          },
-          {
-            "id": "s1776716028760",
-            "nombre": "Internamiento (60 dc)",
-            "fi": "2026-07-17",
-            "ff": "2026-09-15",
-            "resp": "",
-            "est": "por_hacer",
-            "com": "",
-            "fib": "2026-07-08",
-            "ffb": "2026-09-06",
-            "uid": "umqqp2gerykou",
-            "durMode": "dc",
-            "dc": true,
-            "preds": [
-              {
-                "uid": "umqqp2gery0bp",
-                "tipo": "FS",
-                "lag": 0
-              }
-            ],
-            "dur": 61
-          },
-          {
-            "id": "s1776716152738",
-            "nombre": "Recepción y Conformidad",
-            "fi": "2026-09-16",
-            "ff": "2026-09-18",
-            "resp": "",
-            "est": "por_hacer",
-            "com": "",
-            "fib": "2026-09-07",
-            "ffb": "2026-09-09",
-            "uid": "umqqp2ger7xio",
-            "preds": [
-              {
-                "uid": "umqqp2gerykou",
+                "uid": "umrkux3e2z8ug",
                 "tipo": "FS",
                 "lag": 0
               }
@@ -3126,34 +2893,174 @@
             "durMode": "dh"
           },
           {
-            "id": "s1777927460391",
-            "nombre": "Devengado",
-            "fi": "2026-09-21",
-            "ff": "2026-09-24",
+            "id": "s1784042273250",
+            "nombre": "Presentación de propuestas y Evaluación(Presencial)",
+            "fi": "2026-08-11",
+            "ff": "2026-08-24",
             "resp": "",
             "est": "por_hacer",
             "com": "",
-            "fib": "2026-09-09",
-            "ffb": "2026-09-14",
-            "uid": "umqqp2ger80os",
+            "uid": "umrkux3e202v8",
             "preds": [
               {
-                "uid": "umqqp2ger7xio",
+                "uid": "umrkux3e2l6cj",
                 "tipo": "FS",
                 "lag": 0
               }
             ],
-            "dur": 4,
+            "dur": 10,
+            "durMode": "dh"
+          },
+          {
+            "id": "s1784042273754",
+            "nombre": "Buena Pro",
+            "fi": "2026-08-25",
+            "ff": "2026-08-25",
+            "resp": "",
+            "est": "por_hacer",
+            "com": "",
+            "uid": "umrkux3e27ehw",
+            "preds": [
+              {
+                "uid": "umrkux3e202v8",
+                "tipo": "FS",
+                "lag": 0
+              }
+            ],
+            "dur": 1,
+            "durMode": "dh"
+          },
+          {
+            "id": "s1784042312202",
+            "nombre": "Consentimiento",
+            "fi": "2026-08-26",
+            "ff": "2026-09-04",
+            "resp": "",
+            "est": "por_hacer",
+            "com": "",
+            "uid": "umrkux3e2ej23",
+            "preds": [
+              {
+                "uid": "umrkux3e27ehw",
+                "tipo": "FS",
+                "lag": 0
+              }
+            ],
+            "dur": 8,
             "durMode": "dh"
           }
-        ],
-        "fib": "2026-06-25",
-        "ffb": "2026-09-14"
+        ]
+      },
+      {
+        "id": "t1784042429451",
+        "nombre": "Fase Ejecución Contractual",
+        "fi": "2026-09-07",
+        "ff": "2026-11-17",
+        "resp": "",
+        "est": "por_hacer",
+        "com": "",
+        "exp": true,
+        "subs": [
+          {
+            "id": "s1784042449795",
+            "nombre": "Perfeccionamiento",
+            "fi": "2026-09-07",
+            "ff": "2026-09-16",
+            "resp": "",
+            "est": "por_hacer",
+            "com": "",
+            "uid": "umrkux3e26qcj",
+            "preds": [
+              {
+                "uid": "umrkux3e2ej23",
+                "tipo": "FS",
+                "lag": 0
+              }
+            ],
+            "dur": 8,
+            "durMode": "dh"
+          },
+          {
+            "id": "s1784042450859",
+            "nombre": "Contrato",
+            "fi": "2026-09-17",
+            "ff": "2026-09-18",
+            "resp": "",
+            "est": "por_hacer",
+            "com": "",
+            "uid": "umrkux3e2unav",
+            "preds": [
+              {
+                "uid": "umrkux3e26qcj",
+                "tipo": "FS",
+                "lag": 0
+              }
+            ],
+            "dur": 2,
+            "durMode": "dh"
+          },
+          {
+            "id": "s1784042451843",
+            "nombre": "Remisión de Pago",
+            "fi": "2026-09-21",
+            "ff": "2026-09-25",
+            "resp": "",
+            "est": "por_hacer",
+            "com": "",
+            "uid": "umrkux3e2xvt1",
+            "preds": [
+              {
+                "uid": "umrkux3e2unav",
+                "tipo": "FS",
+                "lag": 0
+              }
+            ],
+            "dur": 5,
+            "durMode": "dh"
+          },
+          {
+            "id": "s1784042452650",
+            "nombre": "Devengado (Carta Credito)",
+            "fi": "2026-09-28",
+            "ff": "2026-09-30",
+            "resp": "",
+            "est": "por_hacer",
+            "com": "",
+            "uid": "umrkux3e213vb",
+            "preds": [
+              {
+                "uid": "umrkux3e2xvt1",
+                "tipo": "FS",
+                "lag": 0
+              }
+            ],
+            "dur": 3,
+            "durMode": "dh"
+          },
+          {
+            "id": "s1784042453299",
+            "nombre": "Internamiento 60dc",
+            "fi": "2026-09-19",
+            "ff": "2026-11-17",
+            "resp": "",
+            "est": "por_hacer",
+            "com": "",
+            "uid": "umrkux3e2069y",
+            "preds": [
+              {
+                "uid": "umrkux3e2unav",
+                "tipo": "FS",
+                "lag": 0
+              }
+            ],
+            "durMode": "dc",
+            "dc": true,
+            "dur": 60
+          }
+        ]
       }
     ],
-    "lineaBase": {
-      "fecha": "2026-06-10"
-    },
+    "lineaBase": null,
     "modalidades": [
       {
         "id": "mod_mrdld9o7_xaxcj",
@@ -3763,7 +3670,7 @@
         "lineaBase": null
       }
     ],
-    "modActivaId": "mod_mrdld9o7_xaxcj"
+    "modActivaId": "mod_mrkslvmc_w1bl1"
   },
   "snpmgi_v1_2702643": {
     "metaFisica": "Adquisición 01 Almacenamiento STORAGE, 08 Laptops, 12 Estaciones de Trabajo, y 40 Licencias ",
