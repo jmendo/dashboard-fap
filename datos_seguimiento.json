@@ -2165,12 +2165,19 @@
           {
             "id": "s1784734972487",
             "nombre": "Evaluación y Calificación",
-            "fi": "",
+            "fi": "2026-08-13",
             "ff": "",
             "resp": "",
             "est": "por_hacer",
             "com": "",
-            "uid": "umrw95i68x1je"
+            "uid": "umrw95i68x1je",
+            "preds": [
+              {
+                "uid": "umrw95i68sqi3",
+                "tipo": "FS",
+                "lag": 0
+              }
+            ]
           },
           {
             "id": "s1784734978560",
@@ -2339,12 +2346,19 @@
               {
                 "id": "s1784734972487",
                 "nombre": "Evaluación y Calificación",
-                "fi": "",
+                "fi": "2026-08-13",
                 "ff": "",
                 "resp": "",
                 "est": "por_hacer",
                 "com": "",
-                "uid": "umrw95i68x1je"
+                "uid": "umrw95i68x1je",
+                "preds": [
+                  {
+                    "uid": "umrw95i68sqi3",
+                    "tipo": "FS",
+                    "lag": 0
+                  }
+                ]
               },
               {
                 "id": "s1784734978560",
