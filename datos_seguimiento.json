@@ -10073,16 +10073,6 @@
                 ],
                 "dur": 2,
                 "durMode": "dh"
-              },
-              {
-                "id": "s1784736886081",
-                "nombre": "Nueva subtarea",
-                "fi": "",
-                "ff": "",
-                "resp": "",
-                "est": "por_hacer",
-                "com": "",
-                "uid": "umrwaa2up3lna"
               }
             ]
           },
@@ -10564,16 +10554,6 @@
                     ],
                     "dur": 2,
                     "durMode": "dh"
-                  },
-                  {
-                    "id": "s1784736886081",
-                    "nombre": "Nueva subtarea",
-                    "fi": "",
-                    "ff": "",
-                    "resp": "",
-                    "est": "por_hacer",
-                    "com": "",
-                    "uid": "umrwaa2up3lna"
                   }
                 ]
               },
