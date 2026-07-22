@@ -2225,7 +2225,7 @@
         "id": "t3",
         "nombre": "FASE 3 — Ejecución",
         "fi": "2026-08-25",
-        "ff": "2026-10-15",
+        "ff": "2026-10-22",
         "resp": "",
         "est": "por_hacer",
         "com": "",
@@ -2274,7 +2274,7 @@
             "id": "s1784735298865",
             "nombre": "Recepción y Conformidad",
             "fi": "2026-10-16",
-            "ff": "",
+            "ff": "2026-10-22",
             "resp": "",
             "est": "por_hacer",
             "com": "",
@@ -2285,7 +2285,9 @@
                 "tipo": "FS",
                 "lag": 0
               }
-            ]
+            ],
+            "dur": 5,
+            "durMode": "dh"
           },
           {
             "id": "s1784735299345",
@@ -2512,7 +2514,7 @@
             "id": "t3",
             "nombre": "FASE 3 — Ejecución",
             "fi": "2026-08-25",
-            "ff": "2026-10-15",
+            "ff": "2026-10-22",
             "resp": "",
             "est": "por_hacer",
             "com": "",
@@ -2561,7 +2563,7 @@
                 "id": "s1784735298865",
                 "nombre": "Recepción y Conformidad",
                 "fi": "2026-10-16",
-                "ff": "",
+                "ff": "2026-10-22",
                 "resp": "",
                 "est": "por_hacer",
                 "com": "",
@@ -2572,7 +2574,9 @@
                     "tipo": "FS",
                     "lag": 0
                   }
-                ]
+                ],
+                "dur": 5,
+                "durMode": "dh"
               },
               {
                 "id": "s1784735299345",
