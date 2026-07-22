@@ -2068,7 +2068,7 @@
         "id": "t2",
         "nombre": "FASE 2 — Procedimiento de selección",
         "fi": "2026-07-30",
-        "ff": "2026-08-14",
+        "ff": "2026-08-17",
         "resp": "",
         "est": "por_hacer",
         "com": "",
@@ -2184,12 +2184,21 @@
           {
             "id": "s1784734978560",
             "nombre": "Buena Pro",
-            "fi": "",
-            "ff": "",
+            "fi": "2026-08-17",
+            "ff": "2026-08-17",
             "resp": "",
             "est": "por_hacer",
             "com": "",
-            "uid": "umrw95i68ijou"
+            "uid": "umrw95i68ijou",
+            "preds": [
+              {
+                "uid": "umrw95i68x1je",
+                "tipo": "FS",
+                "lag": 0
+              }
+            ],
+            "dur": 1,
+            "durMode": "dh"
           },
           {
             "id": "s1784735247104",
@@ -2198,7 +2207,8 @@
             "ff": "",
             "resp": "",
             "est": "por_hacer",
-            "com": ""
+            "com": "",
+            "uid": "umrw9ai3titsk"
           }
         ]
       },
@@ -2260,7 +2270,7 @@
             "id": "t2",
             "nombre": "FASE 2 — Procedimiento de selección",
             "fi": "2026-07-30",
-            "ff": "2026-08-14",
+            "ff": "2026-08-17",
             "resp": "",
             "est": "por_hacer",
             "com": "",
@@ -2376,12 +2386,21 @@
               {
                 "id": "s1784734978560",
                 "nombre": "Buena Pro",
-                "fi": "",
-                "ff": "",
+                "fi": "2026-08-17",
+                "ff": "2026-08-17",
                 "resp": "",
                 "est": "por_hacer",
                 "com": "",
-                "uid": "umrw95i68ijou"
+                "uid": "umrw95i68ijou",
+                "preds": [
+                  {
+                    "uid": "umrw95i68x1je",
+                    "tipo": "FS",
+                    "lag": 0
+                  }
+                ],
+                "dur": 1,
+                "durMode": "dh"
               },
               {
                 "id": "s1784735247104",
@@ -2390,7 +2409,8 @@
                 "ff": "",
                 "resp": "",
                 "est": "por_hacer",
-                "com": ""
+                "com": "",
+                "uid": "umrw9ai3titsk"
               }
             ]
           },
