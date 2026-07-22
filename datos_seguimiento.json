@@ -10158,12 +10158,21 @@
               {
                 "id": "s1784145712207",
                 "nombre": "Internamiento (Plazo de Entrega)",
-                "fi": "",
+                "fi": "2026-08-15",
                 "ff": "",
                 "resp": "",
                 "est": "por_hacer",
                 "com": "",
-                "uid": "umrwaa2up225b"
+                "uid": "umrwaa2up225b",
+                "preds": [
+                  {
+                    "uid": "umrwaa2upyso8",
+                    "tipo": "FS",
+                    "lag": 0
+                  }
+                ],
+                "durMode": "dc",
+                "dc": true
               },
               {
                 "id": "s1784145712688",
@@ -10616,12 +10625,21 @@
                   {
                     "id": "s1784145712207",
                     "nombre": "Internamiento (Plazo de Entrega)",
-                    "fi": "",
+                    "fi": "2026-08-15",
                     "ff": "",
                     "resp": "",
                     "est": "por_hacer",
                     "com": "",
-                    "uid": "umrwaa2up225b"
+                    "uid": "umrwaa2up225b",
+                    "preds": [
+                      {
+                        "uid": "umrwaa2upyso8",
+                        "tipo": "FS",
+                        "lag": 0
+                      }
+                    ],
+                    "durMode": "dc",
+                    "dc": true
                   },
                   {
                     "id": "s1784145712688",
