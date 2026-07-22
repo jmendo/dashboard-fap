@@ -2108,12 +2108,19 @@
           {
             "id": "s1784734971632",
             "nombre": "Consultas y Observaciones",
-            "fi": "",
+            "fi": "2026-07-31",
             "ff": "",
             "resp": "",
             "est": "por_hacer",
             "com": "",
-            "uid": "umrw95i68qpgu"
+            "uid": "umrw95i68qpgu",
+            "preds": [
+              {
+                "uid": "umrw95i68hpfn",
+                "tipo": "FS",
+                "lag": 0
+              }
+            ]
           },
           {
             "id": "s1784734972024",
@@ -2255,12 +2262,19 @@
               {
                 "id": "s1784734971632",
                 "nombre": "Consultas y Observaciones",
-                "fi": "",
+                "fi": "2026-07-31",
                 "ff": "",
                 "resp": "",
                 "est": "por_hacer",
                 "com": "",
-                "uid": "umrw95i68qpgu"
+                "uid": "umrw95i68qpgu",
+                "preds": [
+                  {
+                    "uid": "umrw95i68hpfn",
+                    "tipo": "FS",
+                    "lag": 0
+                  }
+                ]
               },
               {
                 "id": "s1784734972024",
