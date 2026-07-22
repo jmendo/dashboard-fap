@@ -2109,7 +2109,7 @@
             "id": "s1784734971632",
             "nombre": "Consultas y Observaciones",
             "fi": "2026-07-31",
-            "ff": "",
+            "ff": "2026-08-04",
             "resp": "",
             "est": "por_hacer",
             "com": "",
@@ -2120,7 +2120,9 @@
                 "tipo": "FS",
                 "lag": 0
               }
-            ]
+            ],
+            "dur": 3,
+            "durMode": "dh"
           },
           {
             "id": "s1784734972024",
@@ -2263,7 +2265,7 @@
                 "id": "s1784734971632",
                 "nombre": "Consultas y Observaciones",
                 "fi": "2026-07-31",
-                "ff": "",
+                "ff": "2026-08-04",
                 "resp": "",
                 "est": "por_hacer",
                 "com": "",
@@ -2274,7 +2276,9 @@
                     "tipo": "FS",
                     "lag": 0
                   }
-                ]
+                ],
+                "dur": 3,
+                "durMode": "dh"
               },
               {
                 "id": "s1784734972024",
