@@ -10058,12 +10058,19 @@
               {
                 "id": "s1784736885472",
                 "nombre": "Aprobación del Expediente de Contratación",
-                "fi": "",
+                "fi": "2026-08-04",
                 "ff": "",
                 "resp": "",
                 "est": "por_hacer",
                 "com": "",
-                "uid": "umrwaa2upky25"
+                "uid": "umrwaa2upky25",
+                "preds": [
+                  {
+                    "uid": "umrwaa2upauy2",
+                    "tipo": "FS",
+                    "lag": 0
+                  }
+                ]
               },
               {
                 "id": "s1784736886081",
@@ -10540,12 +10547,19 @@
                   {
                     "id": "s1784736885472",
                     "nombre": "Aprobación del Expediente de Contratación",
-                    "fi": "",
+                    "fi": "2026-08-04",
                     "ff": "",
                     "resp": "",
                     "est": "por_hacer",
                     "com": "",
-                    "uid": "umrwaa2upky25"
+                    "uid": "umrwaa2upky25",
+                    "preds": [
+                      {
+                        "uid": "umrwaa2upauy2",
+                        "tipo": "FS",
+                        "lag": 0
+                      }
+                    ]
                   },
                   {
                     "id": "s1784736886081",
