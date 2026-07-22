@@ -2233,7 +2233,7 @@
         "subs": [
           {
             "id": "t3s1",
-            "nombre": "Perfeccionamiento (Orden de Compra)",
+            "nombre": "Perfeccionamiento y Contrato (Orden de Compra)",
             "fi": "2026-08-25",
             "ff": "2026-08-31",
             "resp": "",
@@ -2253,12 +2253,19 @@
           {
             "id": "s1784735298264",
             "nombre": "Internamiento (Plazo de Entrega)",
-            "fi": "",
+            "fi": "2026-09-01",
             "ff": "",
             "resp": "",
             "est": "por_hacer",
             "com": "",
-            "uid": "umrw9bzvt5dk6"
+            "uid": "umrw9bzvt5dk6",
+            "preds": [
+              {
+                "uid": "umrw95i68h9nq",
+                "tipo": "FS",
+                "lag": 0
+              }
+            ]
           },
           {
             "id": "s1784735298865",
@@ -2503,7 +2510,7 @@
             "subs": [
               {
                 "id": "t3s1",
-                "nombre": "Perfeccionamiento (Orden de Compra)",
+                "nombre": "Perfeccionamiento y Contrato (Orden de Compra)",
                 "fi": "2026-08-25",
                 "ff": "2026-08-31",
                 "resp": "",
@@ -2523,12 +2530,19 @@
               {
                 "id": "s1784735298264",
                 "nombre": "Internamiento (Plazo de Entrega)",
-                "fi": "",
+                "fi": "2026-09-01",
                 "ff": "",
                 "resp": "",
                 "est": "por_hacer",
                 "com": "",
-                "uid": "umrw9bzvt5dk6"
+                "uid": "umrw9bzvt5dk6",
+                "preds": [
+                  {
+                    "uid": "umrw95i68h9nq",
+                    "tipo": "FS",
+                    "lag": 0
+                  }
+                ]
               },
               {
                 "id": "s1784735298865",
