@@ -2224,7 +2224,7 @@
       {
         "id": "t3",
         "nombre": "FASE 3 — Ejecución",
-        "fi": "",
+        "fi": "2026-08-25",
         "ff": "",
         "resp": "",
         "est": "por_hacer",
@@ -2234,12 +2234,19 @@
           {
             "id": "t3s1",
             "nombre": "Perfeccionamiento (Orden de Compra",
-            "fi": "",
+            "fi": "2026-08-25",
             "ff": "",
             "resp": "",
             "est": "por_hacer",
             "com": "",
-            "uid": "umrw95i68h9nq"
+            "uid": "umrw95i68h9nq",
+            "preds": [
+              {
+                "uid": "umrw9ai3titsk",
+                "tipo": "FS",
+                "lag": 0
+              }
+            ]
           },
           {
             "id": "s1784735298264",
@@ -2248,7 +2255,8 @@
             "ff": "",
             "resp": "",
             "est": "por_hacer",
-            "com": ""
+            "com": "",
+            "uid": "umrw9bzvt5dk6"
           },
           {
             "id": "s1784735298865",
@@ -2257,7 +2265,8 @@
             "ff": "",
             "resp": "",
             "est": "por_hacer",
-            "com": ""
+            "com": "",
+            "uid": "umrw9bzvtxgv6"
           },
           {
             "id": "s1784735299345",
@@ -2266,7 +2275,8 @@
             "ff": "",
             "resp": "",
             "est": "por_hacer",
-            "com": ""
+            "com": "",
+            "uid": "umrw9bzvtsud8"
           },
           {
             "id": "s1784735299833",
@@ -2275,7 +2285,8 @@
             "ff": "",
             "resp": "",
             "est": "por_hacer",
-            "com": ""
+            "com": "",
+            "uid": "umrw9bzvte41i"
           },
           {
             "id": "s1784735300296",
@@ -2284,7 +2295,8 @@
             "ff": "",
             "resp": "",
             "est": "por_hacer",
-            "com": ""
+            "com": "",
+            "uid": "umrw9bzvt1t7z"
           }
         ]
       }
@@ -2480,7 +2492,7 @@
           {
             "id": "t3",
             "nombre": "FASE 3 — Ejecución",
-            "fi": "",
+            "fi": "2026-08-25",
             "ff": "",
             "resp": "",
             "est": "por_hacer",
@@ -2490,12 +2502,19 @@
               {
                 "id": "t3s1",
                 "nombre": "Perfeccionamiento (Orden de Compra",
-                "fi": "",
+                "fi": "2026-08-25",
                 "ff": "",
                 "resp": "",
                 "est": "por_hacer",
                 "com": "",
-                "uid": "umrw95i68h9nq"
+                "uid": "umrw95i68h9nq",
+                "preds": [
+                  {
+                    "uid": "umrw9ai3titsk",
+                    "tipo": "FS",
+                    "lag": 0
+                  }
+                ]
               },
               {
                 "id": "s1784735298264",
@@ -2504,7 +2523,8 @@
                 "ff": "",
                 "resp": "",
                 "est": "por_hacer",
-                "com": ""
+                "com": "",
+                "uid": "umrw9bzvt5dk6"
               },
               {
                 "id": "s1784735298865",
@@ -2513,7 +2533,8 @@
                 "ff": "",
                 "resp": "",
                 "est": "por_hacer",
-                "com": ""
+                "com": "",
+                "uid": "umrw9bzvtxgv6"
               },
               {
                 "id": "s1784735299345",
@@ -2522,7 +2543,8 @@
                 "ff": "",
                 "resp": "",
                 "est": "por_hacer",
-                "com": ""
+                "com": "",
+                "uid": "umrw9bzvtsud8"
               },
               {
                 "id": "s1784735299833",
@@ -2531,7 +2553,8 @@
                 "ff": "",
                 "resp": "",
                 "est": "por_hacer",
-                "com": ""
+                "com": "",
+                "uid": "umrw9bzvte41i"
               },
               {
                 "id": "s1784735300296",
@@ -2540,7 +2563,8 @@
                 "ff": "",
                 "resp": "",
                 "est": "por_hacer",
-                "com": ""
+                "com": "",
+                "uid": "umrw9bzvt1t7z"
               }
             ]
           }
