@@ -2059,7 +2059,8 @@
             "ff": "",
             "resp": "",
             "est": "por_hacer",
-            "com": ""
+            "com": "",
+            "uid": "umrw95i68fqpa"
           }
         ]
       },
@@ -2082,16 +2083,25 @@
             "est": "por_hacer",
             "com": "",
             "dur": 1,
-            "durMode": "dh"
+            "durMode": "dh",
+            "uid": "umrw95i68hpfn"
           },
           {
             "id": "s1784734971128",
             "nombre": "\tRegistro de Participantes",
-            "fi": "",
+            "fi": "2026-07-31",
             "ff": "",
             "resp": "",
             "est": "por_hacer",
-            "com": ""
+            "com": "",
+            "uid": "umrw95i68ejum",
+            "preds": [
+              {
+                "uid": "umrw95i68hpfn",
+                "tipo": "FS",
+                "lag": 0
+              }
+            ]
           },
           {
             "id": "s1784734971632",
@@ -2100,7 +2110,8 @@
             "ff": "",
             "resp": "",
             "est": "por_hacer",
-            "com": ""
+            "com": "",
+            "uid": "umrw95i68qpgu"
           },
           {
             "id": "s1784734972024",
@@ -2109,7 +2120,8 @@
             "ff": "",
             "resp": "",
             "est": "por_hacer",
-            "com": ""
+            "com": "",
+            "uid": "umrw95i682l8l"
           },
           {
             "id": "s1784734972272",
@@ -2118,7 +2130,8 @@
             "ff": "",
             "resp": "",
             "est": "por_hacer",
-            "com": ""
+            "com": "",
+            "uid": "umrw95i68sqi3"
           },
           {
             "id": "s1784734972487",
@@ -2127,7 +2140,8 @@
             "ff": "",
             "resp": "",
             "est": "por_hacer",
-            "com": ""
+            "com": "",
+            "uid": "umrw95i68x1je"
           },
           {
             "id": "s1784734978560",
@@ -2136,7 +2150,8 @@
             "ff": "",
             "resp": "",
             "est": "por_hacer",
-            "com": ""
+            "com": "",
+            "uid": "umrw95i68ijou"
           }
         ]
       },
@@ -2157,7 +2172,8 @@
             "ff": "",
             "resp": "",
             "est": "por_hacer",
-            "com": ""
+            "com": "",
+            "uid": "umrw95i68h9nq"
           }
         ]
       }
@@ -2188,7 +2204,8 @@
                 "ff": "",
                 "resp": "",
                 "est": "por_hacer",
-                "com": ""
+                "com": "",
+                "uid": "umrw95i68fqpa"
               }
             ]
           },
@@ -2211,16 +2228,25 @@
                 "est": "por_hacer",
                 "com": "",
                 "dur": 1,
-                "durMode": "dh"
+                "durMode": "dh",
+                "uid": "umrw95i68hpfn"
               },
               {
                 "id": "s1784734971128",
                 "nombre": "\tRegistro de Participantes",
-                "fi": "",
+                "fi": "2026-07-31",
                 "ff": "",
                 "resp": "",
                 "est": "por_hacer",
-                "com": ""
+                "com": "",
+                "uid": "umrw95i68ejum",
+                "preds": [
+                  {
+                    "uid": "umrw95i68hpfn",
+                    "tipo": "FS",
+                    "lag": 0
+                  }
+                ]
               },
               {
                 "id": "s1784734971632",
@@ -2229,7 +2255,8 @@
                 "ff": "",
                 "resp": "",
                 "est": "por_hacer",
-                "com": ""
+                "com": "",
+                "uid": "umrw95i68qpgu"
               },
               {
                 "id": "s1784734972024",
@@ -2238,7 +2265,8 @@
                 "ff": "",
                 "resp": "",
                 "est": "por_hacer",
-                "com": ""
+                "com": "",
+                "uid": "umrw95i682l8l"
               },
               {
                 "id": "s1784734972272",
@@ -2247,7 +2275,8 @@
                 "ff": "",
                 "resp": "",
                 "est": "por_hacer",
-                "com": ""
+                "com": "",
+                "uid": "umrw95i68sqi3"
               },
               {
                 "id": "s1784734972487",
@@ -2256,7 +2285,8 @@
                 "ff": "",
                 "resp": "",
                 "est": "por_hacer",
-                "com": ""
+                "com": "",
+                "uid": "umrw95i68x1je"
               },
               {
                 "id": "s1784734978560",
@@ -2265,7 +2295,8 @@
                 "ff": "",
                 "resp": "",
                 "est": "por_hacer",
-                "com": ""
+                "com": "",
+                "uid": "umrw95i68ijou"
               }
             ]
           },
@@ -2286,7 +2317,8 @@
                 "ff": "",
                 "resp": "",
                 "est": "por_hacer",
-                "com": ""
+                "com": "",
+                "uid": "umrw95i68h9nq"
               }
             ]
           }
