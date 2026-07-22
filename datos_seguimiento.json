@@ -2076,7 +2076,7 @@
         "subs": [
           {
             "id": "t2s1",
-            "nombre": "\tConvocatoria",
+            "nombre": "Convocatoria",
             "fi": "2026-07-30",
             "ff": "2026-07-30",
             "resp": "",
@@ -2223,7 +2223,7 @@
             "subs": [
               {
                 "id": "t2s1",
-                "nombre": "\tConvocatoria",
+                "nombre": "Convocatoria",
                 "fi": "2026-07-30",
                 "ff": "2026-07-30",
                 "resp": "",
