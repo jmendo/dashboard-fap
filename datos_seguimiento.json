@@ -10123,56 +10123,6 @@
                 ],
                 "dur": 2,
                 "durMode": "dh"
-              },
-              {
-                "id": "s1784145540917",
-                "nombre": "Formulación de consultas y observaciones(Presencial)",
-                "fi": "",
-                "ff": "",
-                "resp": "",
-                "est": "por_hacer",
-                "com": "",
-                "uid": "umrwaa2upoidv"
-              },
-              {
-                "id": "s1784145541653",
-                "nombre": "Absolución de consultas y observaciones e Integración de Bases",
-                "fi": "",
-                "ff": "",
-                "resp": "",
-                "est": "por_hacer",
-                "com": "",
-                "uid": "umrwaa2up7b64"
-              },
-              {
-                "id": "s1784145640543",
-                "nombre": "Presentación de propuestas y Evaluación",
-                "fi": "",
-                "ff": "",
-                "resp": "",
-                "est": "por_hacer",
-                "com": "",
-                "uid": "umrwaa2up3a3v"
-              },
-              {
-                "id": "s1784145641151",
-                "nombre": "Buena Pro",
-                "fi": "",
-                "ff": "",
-                "resp": "",
-                "est": "por_hacer",
-                "com": "",
-                "uid": "umrwaa2up7omu"
-              },
-              {
-                "id": "s1784145641599",
-                "nombre": "Consentimiento",
-                "fi": "",
-                "ff": "",
-                "resp": "",
-                "est": "por_hacer",
-                "com": "",
-                "uid": "umrwaa2upcx7t"
               }
             ]
           },
@@ -10622,56 +10572,6 @@
                     ],
                     "dur": 2,
                     "durMode": "dh"
-                  },
-                  {
-                    "id": "s1784145540917",
-                    "nombre": "Formulación de consultas y observaciones(Presencial)",
-                    "fi": "",
-                    "ff": "",
-                    "resp": "",
-                    "est": "por_hacer",
-                    "com": "",
-                    "uid": "umrwaa2upoidv"
-                  },
-                  {
-                    "id": "s1784145541653",
-                    "nombre": "Absolución de consultas y observaciones e Integración de Bases",
-                    "fi": "",
-                    "ff": "",
-                    "resp": "",
-                    "est": "por_hacer",
-                    "com": "",
-                    "uid": "umrwaa2up7b64"
-                  },
-                  {
-                    "id": "s1784145640543",
-                    "nombre": "Presentación de propuestas y Evaluación",
-                    "fi": "",
-                    "ff": "",
-                    "resp": "",
-                    "est": "por_hacer",
-                    "com": "",
-                    "uid": "umrwaa2up3a3v"
-                  },
-                  {
-                    "id": "s1784145641151",
-                    "nombre": "Buena Pro",
-                    "fi": "",
-                    "ff": "",
-                    "resp": "",
-                    "est": "por_hacer",
-                    "com": "",
-                    "uid": "umrwaa2up7omu"
-                  },
-                  {
-                    "id": "s1784145641599",
-                    "nombre": "Consentimiento",
-                    "fi": "",
-                    "ff": "",
-                    "resp": "",
-                    "est": "por_hacer",
-                    "com": "",
-                    "uid": "umrwaa2upcx7t"
                   }
                 ]
               },
