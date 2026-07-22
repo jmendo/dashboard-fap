@@ -2146,12 +2146,19 @@
           {
             "id": "s1784734972272",
             "nombre": "Presentación de Ofertas",
-            "fi": "",
+            "fi": "2026-08-10",
             "ff": "",
             "resp": "",
             "est": "por_hacer",
             "com": "",
-            "uid": "umrw95i68sqi3"
+            "uid": "umrw95i68sqi3",
+            "preds": [
+              {
+                "uid": "umrw95i682l8l",
+                "tipo": "FS",
+                "lag": 0
+              }
+            ]
           },
           {
             "id": "s1784734972487",
@@ -2311,12 +2318,19 @@
               {
                 "id": "s1784734972272",
                 "nombre": "Presentación de Ofertas",
-                "fi": "",
+                "fi": "2026-08-10",
                 "ff": "",
                 "resp": "",
                 "est": "por_hacer",
                 "com": "",
-                "uid": "umrw95i68sqi3"
+                "uid": "umrw95i68sqi3",
+                "preds": [
+                  {
+                    "uid": "umrw95i682l8l",
+                    "tipo": "FS",
+                    "lag": 0
+                  }
+                ]
               },
               {
                 "id": "s1784734972487",
