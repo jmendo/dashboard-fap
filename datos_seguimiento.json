@@ -2075,7 +2075,7 @@
         "subs": [
           {
             "id": "t2s1",
-            "nombre": "Actividad 1",
+            "nombre": "\tConvocatoria",
             "fi": "",
             "ff": "",
             "resp": "",
@@ -2120,6 +2120,15 @@
           },
           {
             "id": "s1784734972487",
+            "nombre": "Nueva subtarea",
+            "fi": "",
+            "ff": "",
+            "resp": "",
+            "est": "por_hacer",
+            "com": ""
+          },
+          {
+            "id": "s1784734978560",
             "nombre": "Nueva subtarea",
             "fi": "",
             "ff": "",
@@ -2193,7 +2202,7 @@
             "subs": [
               {
                 "id": "t2s1",
-                "nombre": "Actividad 1",
+                "nombre": "\tConvocatoria",
                 "fi": "",
                 "ff": "",
                 "resp": "",
@@ -2238,6 +2247,15 @@
               },
               {
                 "id": "s1784734972487",
+                "nombre": "Nueva subtarea",
+                "fi": "",
+                "ff": "",
+                "resp": "",
+                "est": "por_hacer",
+                "com": ""
+              },
+              {
+                "id": "s1784734978560",
                 "nombre": "Nueva subtarea",
                 "fi": "",
                 "ff": "",
