@@ -10008,7 +10008,7 @@
         "tipo": "proceso",
         "nombre": "PROCESO 2: Generador Portatil (GPU) S/230,400 - Contrato menor",
         "fi": "2026-07-13",
-        "ff": "2026-08-13",
+        "ff": "2026-08-14",
         "resp": "",
         "est": "por_hacer",
         "com": "",
@@ -10130,7 +10130,7 @@
             "id": "p1784145377258f3",
             "nombre": "FASE 3 — Ejecución Contractual",
             "fi": "2026-08-14",
-            "ff": "",
+            "ff": "2026-08-14",
             "resp": "",
             "est": "por_hacer",
             "com": "",
@@ -10140,7 +10140,7 @@
                 "id": "s1784145711696",
                 "nombre": "Perfeccionamiento (Orden de Compra)",
                 "fi": "2026-08-14",
-                "ff": "",
+                "ff": "2026-08-14",
                 "resp": "",
                 "est": "por_hacer",
                 "com": "",
@@ -10151,7 +10151,9 @@
                     "tipo": "FS",
                     "lag": 0
                   }
-                ]
+                ],
+                "dur": 1,
+                "durMode": "dh"
               },
               {
                 "id": "s1784145712207",
@@ -10464,7 +10466,7 @@
             "tipo": "proceso",
             "nombre": "PROCESO 2: Generador Portatil (GPU) S/230,400 - Contrato menor",
             "fi": "2026-07-13",
-            "ff": "2026-08-13",
+            "ff": "2026-08-14",
             "resp": "",
             "est": "por_hacer",
             "com": "",
@@ -10586,7 +10588,7 @@
                 "id": "p1784145377258f3",
                 "nombre": "FASE 3 — Ejecución Contractual",
                 "fi": "2026-08-14",
-                "ff": "",
+                "ff": "2026-08-14",
                 "resp": "",
                 "est": "por_hacer",
                 "com": "",
@@ -10596,7 +10598,7 @@
                     "id": "s1784145711696",
                     "nombre": "Perfeccionamiento (Orden de Compra)",
                     "fi": "2026-08-14",
-                    "ff": "",
+                    "ff": "2026-08-14",
                     "resp": "",
                     "est": "por_hacer",
                     "com": "",
@@ -10607,7 +10609,9 @@
                         "tipo": "FS",
                         "lag": 0
                       }
-                    ]
+                    ],
+                    "dur": 1,
+                    "durMode": "dh"
                   },
                   {
                     "id": "s1784145712207",
