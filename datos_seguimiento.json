@@ -2190,6 +2190,15 @@
             "est": "por_hacer",
             "com": "",
             "uid": "umrw95i68ijou"
+          },
+          {
+            "id": "s1784735247104",
+            "nombre": "Nueva subtarea",
+            "fi": "",
+            "ff": "",
+            "resp": "",
+            "est": "por_hacer",
+            "com": ""
           }
         ]
       },
@@ -2373,6 +2382,15 @@
                 "est": "por_hacer",
                 "com": "",
                 "uid": "umrw95i68ijou"
+              },
+              {
+                "id": "s1784735247104",
+                "nombre": "Nueva subtarea",
+                "fi": "",
+                "ff": "",
+                "resp": "",
+                "est": "por_hacer",
+                "com": ""
               }
             ]
           },
