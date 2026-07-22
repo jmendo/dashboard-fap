@@ -10039,12 +10039,19 @@
               {
                 "id": "s1784145507653",
                 "nombre": "Estrategia de Contratación",
-                "fi": "",
+                "fi": "2026-08-03",
                 "ff": "",
                 "resp": "",
                 "est": "por_hacer",
                 "com": "",
-                "uid": "umrwaa2upauy2"
+                "uid": "umrwaa2upauy2",
+                "preds": [
+                  {
+                    "uid": "umrwaa2upulis",
+                    "tipo": "FS",
+                    "lag": 0
+                  }
+                ]
               },
               {
                 "id": "s1784736885472",
@@ -10512,12 +10519,19 @@
                   {
                     "id": "s1784145507653",
                     "nombre": "Estrategia de Contratación",
-                    "fi": "",
+                    "fi": "2026-08-03",
                     "ff": "",
                     "resp": "",
                     "est": "por_hacer",
                     "com": "",
-                    "uid": "umrwaa2upauy2"
+                    "uid": "umrwaa2upauy2",
+                    "preds": [
+                      {
+                        "uid": "umrwaa2upulis",
+                        "tipo": "FS",
+                        "lag": 0
+                      }
+                    ]
                   },
                   {
                     "id": "s1784736885472",
