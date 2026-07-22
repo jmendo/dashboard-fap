@@ -2307,26 +2307,6 @@
             ],
             "dur": 7,
             "durMode": "dh"
-          },
-          {
-            "id": "s1784735299833",
-            "nombre": "Nueva subtarea",
-            "fi": "",
-            "ff": "",
-            "resp": "",
-            "est": "por_hacer",
-            "com": "",
-            "uid": "umrw9bzvte41i"
-          },
-          {
-            "id": "s1784735300296",
-            "nombre": "Nueva subtarea",
-            "fi": "",
-            "ff": "",
-            "resp": "",
-            "est": "por_hacer",
-            "com": "",
-            "uid": "umrw9bzvt1t7z"
           }
         ]
       }
@@ -2605,26 +2585,6 @@
                 ],
                 "dur": 7,
                 "durMode": "dh"
-              },
-              {
-                "id": "s1784735299833",
-                "nombre": "Nueva subtarea",
-                "fi": "",
-                "ff": "",
-                "resp": "",
-                "est": "por_hacer",
-                "com": "",
-                "uid": "umrw9bzvte41i"
-              },
-              {
-                "id": "s1784735300296",
-                "nombre": "Nueva subtarea",
-                "fi": "",
-                "ff": "",
-                "resp": "",
-                "est": "por_hacer",
-                "com": "",
-                "uid": "umrw9bzvt1t7z"
               }
             ]
           }
