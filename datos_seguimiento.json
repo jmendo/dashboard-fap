@@ -2166,7 +2166,7 @@
             "id": "s1784734972487",
             "nombre": "Evaluación y Calificación",
             "fi": "2026-08-13",
-            "ff": "",
+            "ff": "2026-08-14",
             "resp": "",
             "est": "por_hacer",
             "com": "",
@@ -2177,7 +2177,9 @@
                 "tipo": "FS",
                 "lag": 0
               }
-            ]
+            ],
+            "dur": 2,
+            "durMode": "dh"
           },
           {
             "id": "s1784734978560",
@@ -2347,7 +2349,7 @@
                 "id": "s1784734972487",
                 "nombre": "Evaluación y Calificación",
                 "fi": "2026-08-13",
-                "ff": "",
+                "ff": "2026-08-14",
                 "resp": "",
                 "est": "por_hacer",
                 "com": "",
@@ -2358,7 +2360,9 @@
                     "tipo": "FS",
                     "lag": 0
                   }
-                ]
+                ],
+                "dur": 2,
+                "durMode": "dh"
               },
               {
                 "id": "s1784734978560",
