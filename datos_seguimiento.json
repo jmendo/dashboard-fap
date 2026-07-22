@@ -10178,12 +10178,19 @@
               {
                 "id": "s1784145712688",
                 "nombre": "Recepción y Conformidad",
-                "fi": "",
+                "fi": "2026-09-29",
                 "ff": "",
                 "resp": "",
                 "est": "por_hacer",
                 "com": "",
-                "uid": "umrwaa2up3dgp"
+                "uid": "umrwaa2up3dgp",
+                "preds": [
+                  {
+                    "uid": "umrwaa2up225b",
+                    "tipo": "FS",
+                    "lag": 0
+                  }
+                ]
               },
               {
                 "id": "s1784145724280",
@@ -10646,12 +10653,19 @@
                   {
                     "id": "s1784145712688",
                     "nombre": "Recepción y Conformidad",
-                    "fi": "",
+                    "fi": "2026-09-29",
                     "ff": "",
                     "resp": "",
                     "est": "por_hacer",
                     "com": "",
-                    "uid": "umrwaa2up3dgp"
+                    "uid": "umrwaa2up3dgp",
+                    "preds": [
+                      {
+                        "uid": "umrwaa2up225b",
+                        "tipo": "FS",
+                        "lag": 0
+                      }
+                    ]
                   },
                   {
                     "id": "s1784145724280",
