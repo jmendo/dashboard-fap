@@ -10079,7 +10079,7 @@
           {
             "id": "p1784145377258f2",
             "nombre": "FASE 2 — Procedimiento de Selección",
-            "fi": "",
+            "fi": "2026-08-07",
             "ff": "",
             "resp": "",
             "est": "por_hacer",
@@ -10089,12 +10089,19 @@
               {
                 "id": "s1784145538693",
                 "nombre": "Solicitud de Cotizaciones",
-                "fi": "",
+                "fi": "2026-08-07",
                 "ff": "",
                 "resp": "",
                 "est": "por_hacer",
                 "com": "",
-                "uid": "umrwaa2upx8zz"
+                "uid": "umrwaa2upx8zz",
+                "preds": [
+                  {
+                    "uid": "umrwaa2upky25",
+                    "tipo": "FS",
+                    "lag": 0
+                  }
+                ]
               },
               {
                 "id": "s1784145539876",
@@ -10560,7 +10567,7 @@
               {
                 "id": "p1784145377258f2",
                 "nombre": "FASE 2 — Procedimiento de Selección",
-                "fi": "",
+                "fi": "2026-08-07",
                 "ff": "",
                 "resp": "",
                 "est": "por_hacer",
@@ -10570,12 +10577,19 @@
                   {
                     "id": "s1784145538693",
                     "nombre": "Solicitud de Cotizaciones",
-                    "fi": "",
+                    "fi": "2026-08-07",
                     "ff": "",
                     "resp": "",
                     "est": "por_hacer",
                     "com": "",
-                    "uid": "umrwaa2upx8zz"
+                    "uid": "umrwaa2upx8zz",
+                    "preds": [
+                      {
+                        "uid": "umrwaa2upky25",
+                        "tipo": "FS",
+                        "lag": 0
+                      }
+                    ]
                   },
                   {
                     "id": "s1784145539876",
