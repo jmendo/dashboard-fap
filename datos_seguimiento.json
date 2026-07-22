@@ -10006,7 +10006,7 @@
       {
         "id": "p1784145377258",
         "tipo": "proceso",
-        "nombre": "PROCESO 2: Generador Portatil",
+        "nombre": "PROCESO 2: Generador Portatil (GPU) S/230,400",
         "fi": "",
         "ff": "",
         "resp": "",
@@ -10443,7 +10443,7 @@
           {
             "id": "p1784145377258",
             "tipo": "proceso",
-            "nombre": "PROCESO 2: Generador Portatil",
+            "nombre": "PROCESO 2: Generador Portatil (GPU) S/230,400",
             "fi": "",
             "ff": "",
             "resp": "",
