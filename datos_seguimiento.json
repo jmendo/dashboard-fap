@@ -2292,12 +2292,19 @@
           {
             "id": "s1784735299345",
             "nombre": "Devengado (pago)",
-            "fi": "",
+            "fi": "2026-10-23",
             "ff": "",
             "resp": "",
             "est": "por_hacer",
             "com": "",
-            "uid": "umrw9bzvtsud8"
+            "uid": "umrw9bzvtsud8",
+            "preds": [
+              {
+                "uid": "umrw9bzvtxgv6",
+                "tipo": "FS",
+                "lag": 0
+              }
+            ]
           },
           {
             "id": "s1784735299833",
@@ -2581,12 +2588,19 @@
               {
                 "id": "s1784735299345",
                 "nombre": "Devengado (pago)",
-                "fi": "",
+                "fi": "2026-10-23",
                 "ff": "",
                 "resp": "",
                 "est": "por_hacer",
                 "com": "",
-                "uid": "umrw9bzvtsud8"
+                "uid": "umrw9bzvtsud8",
+                "preds": [
+                  {
+                    "uid": "umrw9bzvtxgv6",
+                    "tipo": "FS",
+                    "lag": 0
+                  }
+                ]
               },
               {
                 "id": "s1784735299833",
