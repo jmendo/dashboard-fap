@@ -2068,7 +2068,7 @@
         "id": "t2",
         "nombre": "FASE 2 — Procedimiento de selección",
         "fi": "2026-07-30",
-        "ff": "2026-08-17",
+        "ff": "2026-08-24",
         "resp": "",
         "est": "por_hacer",
         "com": "",
@@ -2203,12 +2203,21 @@
           {
             "id": "s1784735247104",
             "nombre": "Consentimiento",
-            "fi": "",
-            "ff": "",
+            "fi": "2026-08-18",
+            "ff": "2026-08-24",
             "resp": "",
             "est": "por_hacer",
             "com": "",
-            "uid": "umrw9ai3titsk"
+            "uid": "umrw9ai3titsk",
+            "preds": [
+              {
+                "uid": "umrw95i68ijou",
+                "tipo": "FS",
+                "lag": 0
+              }
+            ],
+            "dur": 5,
+            "durMode": "dh"
           }
         ]
       },
@@ -2270,7 +2279,7 @@
             "id": "t2",
             "nombre": "FASE 2 — Procedimiento de selección",
             "fi": "2026-07-30",
-            "ff": "2026-08-17",
+            "ff": "2026-08-24",
             "resp": "",
             "est": "por_hacer",
             "com": "",
@@ -2405,12 +2414,21 @@
               {
                 "id": "s1784735247104",
                 "nombre": "Consentimiento",
-                "fi": "",
-                "ff": "",
+                "fi": "2026-08-18",
+                "ff": "2026-08-24",
                 "resp": "",
                 "est": "por_hacer",
                 "com": "",
-                "uid": "umrw9ai3titsk"
+                "uid": "umrw9ai3titsk",
+                "preds": [
+                  {
+                    "uid": "umrw95i68ijou",
+                    "tipo": "FS",
+                    "lag": 0
+                  }
+                ],
+                "dur": 5,
+                "durMode": "dh"
               }
             ]
           },
