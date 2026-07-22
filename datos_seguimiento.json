@@ -2127,12 +2127,19 @@
           {
             "id": "s1784734972024",
             "nombre": "Absolución e Integración",
-            "fi": "",
+            "fi": "2026-08-05",
             "ff": "",
             "resp": "",
             "est": "por_hacer",
             "com": "",
-            "uid": "umrw95i682l8l"
+            "uid": "umrw95i682l8l",
+            "preds": [
+              {
+                "uid": "umrw95i68qpgu",
+                "tipo": "FS",
+                "lag": 0
+              }
+            ]
           },
           {
             "id": "s1784734972272",
@@ -2283,12 +2290,19 @@
               {
                 "id": "s1784734972024",
                 "nombre": "Absolución e Integración",
-                "fi": "",
+                "fi": "2026-08-05",
                 "ff": "",
                 "resp": "",
                 "est": "por_hacer",
                 "com": "",
-                "uid": "umrw95i682l8l"
+                "uid": "umrw95i682l8l",
+                "preds": [
+                  {
+                    "uid": "umrw95i68qpgu",
+                    "tipo": "FS",
+                    "lag": 0
+                  }
+                ]
               },
               {
                 "id": "s1784734972272",
