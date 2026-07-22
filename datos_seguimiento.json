@@ -2225,7 +2225,7 @@
         "id": "t3",
         "nombre": "FASE 3 — Ejecución",
         "fi": "2026-08-25",
-        "ff": "2026-08-31",
+        "ff": "2026-10-15",
         "resp": "",
         "est": "por_hacer",
         "com": "",
@@ -2254,7 +2254,7 @@
             "id": "s1784735298264",
             "nombre": "Internamiento (Plazo de Entrega)",
             "fi": "2026-09-01",
-            "ff": "",
+            "ff": "2026-10-15",
             "resp": "",
             "est": "por_hacer",
             "com": "",
@@ -2265,7 +2265,10 @@
                 "tipo": "FS",
                 "lag": 0
               }
-            ]
+            ],
+            "durMode": "dc",
+            "dc": true,
+            "dur": 45
           },
           {
             "id": "s1784735298865",
@@ -2502,7 +2505,7 @@
             "id": "t3",
             "nombre": "FASE 3 — Ejecución",
             "fi": "2026-08-25",
-            "ff": "2026-08-31",
+            "ff": "2026-10-15",
             "resp": "",
             "est": "por_hacer",
             "com": "",
@@ -2531,7 +2534,7 @@
                 "id": "s1784735298264",
                 "nombre": "Internamiento (Plazo de Entrega)",
                 "fi": "2026-09-01",
-                "ff": "",
+                "ff": "2026-10-15",
                 "resp": "",
                 "est": "por_hacer",
                 "com": "",
@@ -2542,7 +2545,10 @@
                     "tipo": "FS",
                     "lag": 0
                   }
-                ]
+                ],
+                "durMode": "dc",
+                "dc": true,
+                "dur": 45
               },
               {
                 "id": "s1784735298865",
