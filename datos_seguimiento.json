@@ -10195,16 +10195,6 @@
                 "durMode": "dh"
               },
               {
-                "id": "s1784145724280",
-                "nombre": "Recepción y Conformidad",
-                "fi": "",
-                "ff": "",
-                "resp": "",
-                "est": "por_hacer",
-                "com": "",
-                "uid": "umrwaa2upfwah"
-              },
-              {
                 "id": "s1784145724791",
                 "nombre": "Devengado",
                 "fi": "",
@@ -10670,16 +10660,6 @@
                     ],
                     "dur": 7,
                     "durMode": "dh"
-                  },
-                  {
-                    "id": "s1784145724280",
-                    "nombre": "Recepción y Conformidad",
-                    "fi": "",
-                    "ff": "",
-                    "resp": "",
-                    "est": "por_hacer",
-                    "com": "",
-                    "uid": "umrwaa2upfwah"
                   },
                   {
                     "id": "s1784145724791",
