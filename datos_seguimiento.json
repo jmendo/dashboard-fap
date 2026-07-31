@@ -10088,7 +10088,7 @@
             "id": "p1784145377258f2",
             "nombre": "FASE 2 — Procedimiento de Selección",
             "fi": "2026-07-30",
-            "ff": "2026-08-18",
+            "ff": "2026-08-25",
             "resp": "",
             "est": "por_hacer",
             "com": "",
@@ -10211,11 +10211,21 @@
               {
                 "id": "s1785530350771",
                 "nombre": "Consentimiento",
-                "fi": "",
-                "ff": "",
+                "fi": "2026-08-19",
+                "ff": "2026-08-25",
                 "resp": "",
                 "est": "por_hacer",
-                "com": ""
+                "com": "",
+                "uid": "ums9eobfmqp5n",
+                "preds": [
+                  {
+                    "uid": "ums9eimey072t",
+                    "tipo": "FS",
+                    "lag": 0
+                  }
+                ],
+                "dur": 5,
+                "durMode": "dh"
               }
             ],
             "fib": "2026-08-07",
@@ -10671,7 +10681,7 @@
                 "id": "p1784145377258f2",
                 "nombre": "FASE 2 — Procedimiento de Selección",
                 "fi": "2026-07-30",
-                "ff": "2026-08-18",
+                "ff": "2026-08-25",
                 "resp": "",
                 "est": "por_hacer",
                 "com": "",
@@ -10794,11 +10804,21 @@
                   {
                     "id": "s1785530350771",
                     "nombre": "Consentimiento",
-                    "fi": "",
-                    "ff": "",
+                    "fi": "2026-08-19",
+                    "ff": "2026-08-25",
                     "resp": "",
                     "est": "por_hacer",
-                    "com": ""
+                    "com": "",
+                    "uid": "ums9eobfmqp5n",
+                    "preds": [
+                      {
+                        "uid": "ums9eimey072t",
+                        "tipo": "FS",
+                        "lag": 0
+                      }
+                    ],
+                    "dur": 5,
+                    "durMode": "dh"
                   }
                 ],
                 "fib": "2026-08-07",
