@@ -10008,7 +10008,7 @@
         "tipo": "proceso",
         "nombre": "PROCESO 2: Generador Portatil (GPU) S/230,400 - Contrato menor",
         "fi": "2026-07-13",
-        "ff": "2026-10-07",
+        "ff": "2026-10-27",
         "resp": "",
         "est": "por_hacer",
         "com": "",
@@ -10234,8 +10234,8 @@
           {
             "id": "p1784145377258f3",
             "nombre": "FASE 3 — Ejecución Contractual",
-            "fi": "2026-08-07",
-            "ff": "2026-10-07",
+            "fi": "2026-08-26",
+            "ff": "2026-10-27",
             "resp": "",
             "est": "por_hacer",
             "com": "",
@@ -10244,15 +10244,15 @@
               {
                 "id": "s1784145711696",
                 "nombre": "Perfeccionamiento (Orden de Compra)",
-                "fi": "2026-08-07",
-                "ff": "2026-08-07",
+                "fi": "2026-08-26",
+                "ff": "2026-08-26",
                 "resp": "",
                 "est": "por_hacer",
                 "com": "",
                 "uid": "umrwaa2upyso8",
                 "preds": [
                   {
-                    "uid": "umrwaa2upxhld",
+                    "uid": "ums9eobfmqp5n",
                     "tipo": "FS",
                     "lag": 0
                   }
@@ -10265,8 +10265,8 @@
               {
                 "id": "s1784145712207",
                 "nombre": "Internamiento (Plazo de Entrega)",
-                "fi": "2026-08-08",
-                "ff": "2026-09-21",
+                "fi": "2026-08-27",
+                "ff": "2026-10-10",
                 "resp": "",
                 "est": "por_hacer",
                 "com": "",
@@ -10287,8 +10287,8 @@
               {
                 "id": "s1784145712688",
                 "nombre": "Recepción y Conformidad",
-                "fi": "2026-09-22",
-                "ff": "2026-09-30",
+                "fi": "2026-10-12",
+                "ff": "2026-10-20",
                 "resp": "",
                 "est": "por_hacer",
                 "com": "",
@@ -10308,8 +10308,8 @@
               {
                 "id": "s1784145724791",
                 "nombre": "Devengado(pago)",
-                "fi": "2026-10-01",
-                "ff": "2026-10-07",
+                "fi": "2026-10-21",
+                "ff": "2026-10-27",
                 "resp": "",
                 "est": "por_hacer",
                 "com": "",
@@ -10601,7 +10601,7 @@
             "tipo": "proceso",
             "nombre": "PROCESO 2: Generador Portatil (GPU) S/230,400 - Contrato menor",
             "fi": "2026-07-13",
-            "ff": "2026-10-07",
+            "ff": "2026-10-27",
             "resp": "",
             "est": "por_hacer",
             "com": "",
@@ -10827,8 +10827,8 @@
               {
                 "id": "p1784145377258f3",
                 "nombre": "FASE 3 — Ejecución Contractual",
-                "fi": "2026-08-07",
-                "ff": "2026-10-07",
+                "fi": "2026-08-26",
+                "ff": "2026-10-27",
                 "resp": "",
                 "est": "por_hacer",
                 "com": "",
@@ -10837,15 +10837,15 @@
                   {
                     "id": "s1784145711696",
                     "nombre": "Perfeccionamiento (Orden de Compra)",
-                    "fi": "2026-08-07",
-                    "ff": "2026-08-07",
+                    "fi": "2026-08-26",
+                    "ff": "2026-08-26",
                     "resp": "",
                     "est": "por_hacer",
                     "com": "",
                     "uid": "umrwaa2upyso8",
                     "preds": [
                       {
-                        "uid": "umrwaa2upxhld",
+                        "uid": "ums9eobfmqp5n",
                         "tipo": "FS",
                         "lag": 0
                       }
@@ -10858,8 +10858,8 @@
                   {
                     "id": "s1784145712207",
                     "nombre": "Internamiento (Plazo de Entrega)",
-                    "fi": "2026-08-08",
-                    "ff": "2026-09-21",
+                    "fi": "2026-08-27",
+                    "ff": "2026-10-10",
                     "resp": "",
                     "est": "por_hacer",
                     "com": "",
@@ -10880,8 +10880,8 @@
                   {
                     "id": "s1784145712688",
                     "nombre": "Recepción y Conformidad",
-                    "fi": "2026-09-22",
-                    "ff": "2026-09-30",
+                    "fi": "2026-10-12",
+                    "ff": "2026-10-20",
                     "resp": "",
                     "est": "por_hacer",
                     "com": "",
@@ -10901,8 +10901,8 @@
                   {
                     "id": "s1784145724791",
                     "nombre": "Devengado(pago)",
-                    "fi": "2026-10-01",
-                    "ff": "2026-10-07",
+                    "fi": "2026-10-21",
+                    "ff": "2026-10-27",
                     "resp": "",
                     "est": "por_hacer",
                     "com": "",
