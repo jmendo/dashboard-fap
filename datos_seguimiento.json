@@ -10087,8 +10087,8 @@
           {
             "id": "p1784145377258f2",
             "nombre": "FASE 2 — Procedimiento de Selección",
-            "fi": "2026-08-04",
-            "ff": "2026-08-05",
+            "fi": "2026-07-30",
+            "ff": "2026-07-30",
             "resp": "",
             "est": "por_hacer",
             "com": "",
@@ -10097,12 +10097,21 @@
               {
                 "id": "s1785530027698",
                 "nombre": "Convocatoria",
-                "fi": "",
-                "ff": "",
+                "fi": "2026-07-30",
+                "ff": "2026-07-30",
                 "resp": "",
                 "est": "por_hacer",
                 "com": "",
-                "uid": "ums9ehrffpap3"
+                "uid": "ums9ehrffpap3",
+                "preds": [
+                  {
+                    "uid": "umrwaa2upky25",
+                    "tipo": "FS",
+                    "lag": 0
+                  }
+                ],
+                "dur": 1,
+                "durMode": "dh"
               },
               {
                 "id": "s1785530028305",
@@ -10597,8 +10606,8 @@
               {
                 "id": "p1784145377258f2",
                 "nombre": "FASE 2 — Procedimiento de Selección",
-                "fi": "2026-08-04",
-                "ff": "2026-08-05",
+                "fi": "2026-07-30",
+                "ff": "2026-07-30",
                 "resp": "",
                 "est": "por_hacer",
                 "com": "",
@@ -10607,12 +10616,21 @@
                   {
                     "id": "s1785530027698",
                     "nombre": "Convocatoria",
-                    "fi": "",
-                    "ff": "",
+                    "fi": "2026-07-30",
+                    "ff": "2026-07-30",
                     "resp": "",
                     "est": "por_hacer",
                     "com": "",
-                    "uid": "ums9ehrffpap3"
+                    "uid": "ums9ehrffpap3",
+                    "preds": [
+                      {
+                        "uid": "umrwaa2upky25",
+                        "tipo": "FS",
+                        "lag": 0
+                      }
+                    ],
+                    "dur": 1,
+                    "durMode": "dh"
                   },
                   {
                     "id": "s1785530028305",
