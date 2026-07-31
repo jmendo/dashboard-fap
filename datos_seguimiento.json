@@ -10088,7 +10088,7 @@
             "id": "p1784145377258f2",
             "nombre": "FASE 2 — Procedimiento de Selección",
             "fi": "2026-07-30",
-            "ff": "2026-08-10",
+            "ff": "2026-08-07",
             "resp": "",
             "est": "por_hacer",
             "com": "",
@@ -10117,7 +10117,7 @@
                 "id": "s1785530028305",
                 "nombre": "Registro de participantes(Presencial)",
                 "fi": "2026-07-31",
-                "ff": "2026-08-10",
+                "ff": "2026-08-07",
                 "resp": "",
                 "est": "por_hacer",
                 "com": "",
@@ -10129,13 +10129,13 @@
                     "lag": 0
                   }
                 ],
-                "dur": 6,
+                "dur": 5,
                 "durMode": "dh"
               },
               {
                 "id": "s1785530028730",
                 "nombre": "Formulación de consultas y observaciones(Presencial)",
-                "fi": "2026-08-11",
+                "fi": "2026-08-10",
                 "ff": "",
                 "resp": "",
                 "est": "por_hacer",
@@ -10643,7 +10643,7 @@
                 "id": "p1784145377258f2",
                 "nombre": "FASE 2 — Procedimiento de Selección",
                 "fi": "2026-07-30",
-                "ff": "2026-08-10",
+                "ff": "2026-08-07",
                 "resp": "",
                 "est": "por_hacer",
                 "com": "",
@@ -10672,7 +10672,7 @@
                     "id": "s1785530028305",
                     "nombre": "Registro de participantes(Presencial)",
                     "fi": "2026-07-31",
-                    "ff": "2026-08-10",
+                    "ff": "2026-08-07",
                     "resp": "",
                     "est": "por_hacer",
                     "com": "",
@@ -10684,13 +10684,13 @@
                         "lag": 0
                       }
                     ],
-                    "dur": 6,
+                    "dur": 5,
                     "durMode": "dh"
                   },
                   {
                     "id": "s1785530028730",
                     "nombre": "Formulación de consultas y observaciones(Presencial)",
-                    "fi": "2026-08-11",
+                    "fi": "2026-08-10",
                     "ff": "",
                     "resp": "",
                     "est": "por_hacer",
