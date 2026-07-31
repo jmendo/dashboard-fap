@@ -10088,7 +10088,7 @@
             "id": "p1784145377258f2",
             "nombre": "FASE 2 — Procedimiento de Selección",
             "fi": "2026-07-30",
-            "ff": "2026-08-14",
+            "ff": "2026-08-18",
             "resp": "",
             "est": "por_hacer",
             "com": "",
@@ -10193,7 +10193,7 @@
                 "id": "s1785530075954",
                 "nombre": "Buena Pro",
                 "fi": "2026-08-17",
-                "ff": "",
+                "ff": "2026-08-18",
                 "resp": "",
                 "est": "por_hacer",
                 "com": "",
@@ -10204,7 +10204,9 @@
                     "tipo": "FS",
                     "lag": 0
                   }
-                ]
+                ],
+                "dur": 2,
+                "durMode": "dh"
               },
               {
                 "id": "s1785530076371",
@@ -10670,7 +10672,7 @@
                 "id": "p1784145377258f2",
                 "nombre": "FASE 2 — Procedimiento de Selección",
                 "fi": "2026-07-30",
-                "ff": "2026-08-14",
+                "ff": "2026-08-18",
                 "resp": "",
                 "est": "por_hacer",
                 "com": "",
@@ -10775,7 +10777,7 @@
                     "id": "s1785530075954",
                     "nombre": "Buena Pro",
                     "fi": "2026-08-17",
-                    "ff": "",
+                    "ff": "2026-08-18",
                     "resp": "",
                     "est": "por_hacer",
                     "com": "",
@@ -10786,7 +10788,9 @@
                         "tipo": "FS",
                         "lag": 0
                       }
-                    ]
+                    ],
+                    "dur": 2,
+                    "durMode": "dh"
                   },
                   {
                     "id": "s1785530076371",
