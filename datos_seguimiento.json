@@ -10152,6 +10152,24 @@
                 "est": "por_hacer",
                 "com": "",
                 "uid": "ums9ehrffcgpc"
+              },
+              {
+                "id": "s1785530075954",
+                "nombre": "Nueva subtarea",
+                "fi": "",
+                "ff": "",
+                "resp": "",
+                "est": "por_hacer",
+                "com": ""
+              },
+              {
+                "id": "s1785530076371",
+                "nombre": "Nueva subtarea",
+                "fi": "",
+                "ff": "",
+                "resp": "",
+                "est": "por_hacer",
+                "com": ""
               }
             ],
             "fib": "2026-08-07",
@@ -10671,6 +10689,24 @@
                     "est": "por_hacer",
                     "com": "",
                     "uid": "ums9ehrffcgpc"
+                  },
+                  {
+                    "id": "s1785530075954",
+                    "nombre": "Nueva subtarea",
+                    "fi": "",
+                    "ff": "",
+                    "resp": "",
+                    "est": "por_hacer",
+                    "com": ""
+                  },
+                  {
+                    "id": "s1785530076371",
+                    "nombre": "Nueva subtarea",
+                    "fi": "",
+                    "ff": "",
+                    "resp": "",
+                    "est": "por_hacer",
+                    "com": ""
                   }
                 ],
                 "fib": "2026-08-07",
