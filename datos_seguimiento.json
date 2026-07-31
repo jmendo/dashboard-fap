@@ -10088,7 +10088,7 @@
             "id": "p1784145377258f2",
             "nombre": "FASE 2 — Procedimiento de Selección",
             "fi": "2026-07-30",
-            "ff": "2026-07-30",
+            "ff": "2026-08-10",
             "resp": "",
             "est": "por_hacer",
             "com": "",
@@ -10117,7 +10117,7 @@
                 "id": "s1785530028305",
                 "nombre": "Registro de participantes(Presencial)",
                 "fi": "2026-07-31",
-                "ff": "",
+                "ff": "2026-08-10",
                 "resp": "",
                 "est": "por_hacer",
                 "com": "",
@@ -10128,7 +10128,9 @@
                     "tipo": "FS",
                     "lag": 0
                   }
-                ]
+                ],
+                "dur": 6,
+                "durMode": "dh"
               },
               {
                 "id": "s1785530028730",
@@ -10634,7 +10636,7 @@
                 "id": "p1784145377258f2",
                 "nombre": "FASE 2 — Procedimiento de Selección",
                 "fi": "2026-07-30",
-                "ff": "2026-07-30",
+                "ff": "2026-08-10",
                 "resp": "",
                 "est": "por_hacer",
                 "com": "",
@@ -10663,7 +10665,7 @@
                     "id": "s1785530028305",
                     "nombre": "Registro de participantes(Presencial)",
                     "fi": "2026-07-31",
-                    "ff": "",
+                    "ff": "2026-08-10",
                     "resp": "",
                     "est": "por_hacer",
                     "com": "",
@@ -10674,7 +10676,9 @@
                         "tipo": "FS",
                         "lag": 0
                       }
-                    ]
+                    ],
+                    "dur": 6,
+                    "durMode": "dh"
                   },
                   {
                     "id": "s1785530028730",
