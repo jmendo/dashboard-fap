@@ -10088,7 +10088,7 @@
             "id": "p1784145377258f2",
             "nombre": "FASE 2 — Procedimiento de Selección",
             "fi": "2026-07-30",
-            "ff": "2026-08-07",
+            "ff": "2026-08-10",
             "resp": "",
             "est": "por_hacer",
             "com": "",
@@ -10135,8 +10135,8 @@
               {
                 "id": "s1785530028730",
                 "nombre": "Formulación de consultas y observaciones(Presencial)",
-                "fi": "2026-07-31",
-                "ff": "2026-07-31",
+                "fi": "2026-08-10",
+                "ff": "2026-08-10",
                 "resp": "",
                 "est": "por_hacer",
                 "com": "",
@@ -10144,7 +10144,7 @@
                 "preds": [
                   {
                     "uid": "ums9ehrffl8fm",
-                    "tipo": "SS",
+                    "tipo": "FS",
                     "lag": 0
                   }
                 ],
@@ -10645,7 +10645,7 @@
                 "id": "p1784145377258f2",
                 "nombre": "FASE 2 — Procedimiento de Selección",
                 "fi": "2026-07-30",
-                "ff": "2026-08-07",
+                "ff": "2026-08-10",
                 "resp": "",
                 "est": "por_hacer",
                 "com": "",
@@ -10692,8 +10692,8 @@
                   {
                     "id": "s1785530028730",
                     "nombre": "Formulación de consultas y observaciones(Presencial)",
-                    "fi": "2026-07-31",
-                    "ff": "2026-07-31",
+                    "fi": "2026-08-10",
+                    "ff": "2026-08-10",
                     "resp": "",
                     "est": "por_hacer",
                     "com": "",
@@ -10701,7 +10701,7 @@
                     "preds": [
                       {
                         "uid": "ums9ehrffl8fm",
-                        "tipo": "SS",
+                        "tipo": "FS",
                         "lag": 0
                       }
                     ],
