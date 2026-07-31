@@ -10192,12 +10192,19 @@
               {
                 "id": "s1785530075954",
                 "nombre": "Buena Pro",
-                "fi": "",
+                "fi": "2026-08-17",
                 "ff": "",
                 "resp": "",
                 "est": "por_hacer",
                 "com": "",
-                "uid": "ums9eimey072t"
+                "uid": "ums9eimey072t",
+                "preds": [
+                  {
+                    "uid": "ums9ehrffcgpc",
+                    "tipo": "FS",
+                    "lag": 0
+                  }
+                ]
               },
               {
                 "id": "s1785530076371",
@@ -10767,12 +10774,19 @@
                   {
                     "id": "s1785530075954",
                     "nombre": "Buena Pro",
-                    "fi": "",
+                    "fi": "2026-08-17",
                     "ff": "",
                     "resp": "",
                     "est": "por_hacer",
                     "com": "",
-                    "uid": "ums9eimey072t"
+                    "uid": "ums9eimey072t",
+                    "preds": [
+                      {
+                        "uid": "ums9ehrffcgpc",
+                        "tipo": "FS",
+                        "lag": 0
+                      }
+                    ]
                   },
                   {
                     "id": "s1785530076371",
