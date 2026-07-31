@@ -9898,7 +9898,7 @@
         "resp": "",
         "est": "por_hacer",
         "com": "",
-        "exp": true,
+        "exp": false,
         "subs": [
           {
             "id": "s1777062878065",
@@ -10012,7 +10012,7 @@
         "resp": "",
         "est": "por_hacer",
         "com": "",
-        "exp": false,
+        "exp": true,
         "fases": [
           {
             "id": "p1784145377258f1",
@@ -10022,7 +10022,7 @@
             "resp": "",
             "est": "por_hacer",
             "com": "",
-            "exp": false,
+            "exp": true,
             "subs": [
               {
                 "id": "s1784145506541",
@@ -10400,7 +10400,7 @@
             "resp": "",
             "est": "por_hacer",
             "com": "",
-            "exp": true,
+            "exp": false,
             "subs": [
               {
                 "id": "s1777062878065",
@@ -10514,7 +10514,7 @@
             "resp": "",
             "est": "por_hacer",
             "com": "",
-            "exp": false,
+            "exp": true,
             "fases": [
               {
                 "id": "p1784145377258f1",
@@ -10524,7 +10524,7 @@
                 "resp": "",
                 "est": "por_hacer",
                 "com": "",
-                "exp": false,
+                "exp": true,
                 "subs": [
                   {
                     "id": "s1784145506541",
