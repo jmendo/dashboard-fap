@@ -10116,12 +10116,19 @@
               {
                 "id": "s1785530028305",
                 "nombre": "Registro de participantes(Presencial)",
-                "fi": "",
+                "fi": "2026-07-31",
                 "ff": "",
                 "resp": "",
                 "est": "por_hacer",
                 "com": "",
-                "uid": "ums9ehrffl8fm"
+                "uid": "ums9ehrffl8fm",
+                "preds": [
+                  {
+                    "uid": "ums9ehrffpap3",
+                    "tipo": "FS",
+                    "lag": 0
+                  }
+                ]
               },
               {
                 "id": "s1785530028730",
@@ -10160,7 +10167,8 @@
                 "ff": "",
                 "resp": "",
                 "est": "por_hacer",
-                "com": ""
+                "com": "",
+                "uid": "ums9eimey072t"
               },
               {
                 "id": "s1785530076371",
@@ -10169,7 +10177,8 @@
                 "ff": "",
                 "resp": "",
                 "est": "por_hacer",
-                "com": ""
+                "com": "",
+                "uid": "ums9eimeybfam"
               }
             ],
             "fib": "2026-08-07",
@@ -10653,12 +10662,19 @@
                   {
                     "id": "s1785530028305",
                     "nombre": "Registro de participantes(Presencial)",
-                    "fi": "",
+                    "fi": "2026-07-31",
                     "ff": "",
                     "resp": "",
                     "est": "por_hacer",
                     "com": "",
-                    "uid": "ums9ehrffl8fm"
+                    "uid": "ums9ehrffl8fm",
+                    "preds": [
+                      {
+                        "uid": "ums9ehrffpap3",
+                        "tipo": "FS",
+                        "lag": 0
+                      }
+                    ]
                   },
                   {
                     "id": "s1785530028730",
@@ -10697,7 +10713,8 @@
                     "ff": "",
                     "resp": "",
                     "est": "por_hacer",
-                    "com": ""
+                    "com": "",
+                    "uid": "ums9eimey072t"
                   },
                   {
                     "id": "s1785530076371",
@@ -10706,7 +10723,8 @@
                     "ff": "",
                     "resp": "",
                     "est": "por_hacer",
-                    "com": ""
+                    "com": "",
+                    "uid": "ums9eimeybfam"
                   }
                 ],
                 "fib": "2026-08-07",
