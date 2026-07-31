@@ -10020,7 +10020,7 @@
             "fi": "2026-07-13",
             "ff": "2026-07-27",
             "resp": "",
-            "est": "por_hacer",
+            "est": "completado",
             "com": "",
             "exp": true,
             "subs": [
@@ -10030,7 +10030,7 @@
                 "fi": "2026-07-13",
                 "ff": "2026-07-21",
                 "resp": "",
-                "est": "en_progreso",
+                "est": "completado",
                 "com": "",
                 "dur": 7,
                 "durMode": "dh",
@@ -10044,7 +10044,7 @@
                 "fi": "2026-07-22",
                 "ff": "2026-07-22",
                 "resp": "",
-                "est": "por_hacer",
+                "est": "completado",
                 "com": "",
                 "uid": "umrwaa2upauy2",
                 "preds": [
@@ -10065,7 +10065,7 @@
                 "fi": "2026-07-24",
                 "ff": "2026-07-27",
                 "resp": "",
-                "est": "por_hacer",
+                "est": "completado",
                 "com": "",
                 "uid": "umrwaa2upky25",
                 "preds": [
@@ -10613,7 +10613,7 @@
                 "fi": "2026-07-13",
                 "ff": "2026-07-27",
                 "resp": "",
-                "est": "por_hacer",
+                "est": "completado",
                 "com": "",
                 "exp": true,
                 "subs": [
@@ -10623,7 +10623,7 @@
                     "fi": "2026-07-13",
                     "ff": "2026-07-21",
                     "resp": "",
-                    "est": "en_progreso",
+                    "est": "completado",
                     "com": "",
                     "dur": 7,
                     "durMode": "dh",
@@ -10637,7 +10637,7 @@
                     "fi": "2026-07-22",
                     "ff": "2026-07-22",
                     "resp": "",
-                    "est": "por_hacer",
+                    "est": "completado",
                     "com": "",
                     "uid": "umrwaa2upauy2",
                     "preds": [
@@ -10658,7 +10658,7 @@
                     "fi": "2026-07-24",
                     "ff": "2026-07-27",
                     "resp": "",
-                    "est": "por_hacer",
+                    "est": "completado",
                     "com": "",
                     "uid": "umrwaa2upky25",
                     "preds": [
