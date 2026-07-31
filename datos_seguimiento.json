@@ -10207,16 +10207,6 @@
                 ],
                 "dur": 2,
                 "durMode": "dh"
-              },
-              {
-                "id": "s1785530076371",
-                "nombre": "Nueva subtarea",
-                "fi": "",
-                "ff": "",
-                "resp": "",
-                "est": "por_hacer",
-                "com": "",
-                "uid": "ums9eimeybfam"
               }
             ],
             "fib": "2026-08-07",
@@ -10791,16 +10781,6 @@
                     ],
                     "dur": 2,
                     "durMode": "dh"
-                  },
-                  {
-                    "id": "s1785530076371",
-                    "nombre": "Nueva subtarea",
-                    "fi": "",
-                    "ff": "",
-                    "resp": "",
-                    "est": "por_hacer",
-                    "com": "",
-                    "uid": "ums9eimeybfam"
                   }
                 ],
                 "fib": "2026-08-07",
