@@ -4216,7 +4216,7 @@
         "resp": "",
         "est": "por_hacer",
         "com": "",
-        "exp": false,
+        "exp": true,
         "fases": [
           {
             "id": "f1779229820791",
@@ -5421,7 +5421,7 @@
             "resp": "",
             "est": "por_hacer",
             "com": "",
-            "exp": false,
+            "exp": true,
             "fases": [
               {
                 "id": "f1779229820791",
