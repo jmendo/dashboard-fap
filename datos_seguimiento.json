@@ -6709,7 +6709,7 @@
         "resp": "",
         "est": "completado",
         "com": "",
-        "exp": false,
+        "exp": true,
         "subs": []
       },
       {
@@ -6835,7 +6835,156 @@
           }
         ]
       }
-    ]
+    ],
+    "modalidades": [
+      {
+        "id": "mod_msgno6qi_ebvc7",
+        "nombre": "Modalidad inicial",
+        "estado": "vigente",
+        "fechaAdopcion": null,
+        "fechaCambio": null,
+        "motivo": "",
+        "gantt": [
+          {
+            "id": "t1",
+            "nombre": "FASE 1 — Actos preparatorios",
+            "fi": "",
+            "ff": "",
+            "resp": "",
+            "est": "completado",
+            "com": "",
+            "exp": true,
+            "subs": []
+          },
+          {
+            "id": "t2",
+            "nombre": "FASE Procedimiento de selección",
+            "fi": "2026-03-31",
+            "ff": "2026-05-04",
+            "resp": "",
+            "est": "completado",
+            "com": "",
+            "exp": false,
+            "subs": [
+              {
+                "id": "t2s1",
+                "nombre": "Convocatoria",
+                "fi": "2026-03-31",
+                "ff": "2026-03-31",
+                "resp": "",
+                "est": "completado",
+                "com": ""
+              },
+              {
+                "id": "s1776374387099",
+                "nombre": "Registro de participantes",
+                "fi": "2026-04-01",
+                "ff": "2026-04-01",
+                "resp": "",
+                "est": "completado",
+                "com": ""
+              },
+              {
+                "id": "s1776374418157",
+                "nombre": "Presentación de propuestas",
+                "fi": "2026-04-20",
+                "ff": "2026-04-20",
+                "resp": "",
+                "est": "completado",
+                "com": ""
+              },
+              {
+                "id": "s1776374446924",
+                "nombre": "Buena Pro",
+                "fi": "2026-04-21",
+                "ff": "2026-04-21",
+                "resp": "",
+                "est": "completado",
+                "com": ""
+              },
+              {
+                "id": "s1777587044435",
+                "nombre": "Consentimiento",
+                "fi": "2026-04-22",
+                "ff": "2026-05-04",
+                "resp": "",
+                "est": "completado",
+                "com": ""
+              }
+            ]
+          },
+          {
+            "id": "t3",
+            "nombre": "FASE Ejecución Contractual",
+            "fi": "2026-05-05",
+            "ff": "2026-06-03",
+            "resp": "",
+            "est": "completado",
+            "com": "",
+            "exp": false,
+            "subs": [
+              {
+                "id": "t3s1",
+                "nombre": "Suscripción de contrato",
+                "fi": "2026-05-05",
+                "ff": "2026-05-14",
+                "resp": "",
+                "est": "completado",
+                "com": ""
+              },
+              {
+                "id": "s1776374551463",
+                "nombre": "Compromiso",
+                "fi": "2026-05-15",
+                "ff": "2026-05-19",
+                "resp": "",
+                "est": "completado",
+                "com": ""
+              },
+              {
+                "id": "s1776798202486",
+                "nombre": "Orden de compra",
+                "fi": "2026-05-20",
+                "ff": "2026-05-25",
+                "resp": "",
+                "est": "completado",
+                "com": ""
+              },
+              {
+                "id": "s1776798226990",
+                "nombre": "Internamiento (90dc)",
+                "fi": "2026-05-26",
+                "ff": "2026-06-03",
+                "resp": "",
+                "est": "completado",
+                "com": ""
+              },
+              {
+                "id": "s1779126485256",
+                "nombre": "Conformidad",
+                "fi": "2026-06-03",
+                "ff": "2026-06-03",
+                "resp": "",
+                "est": "completado",
+                "com": ""
+              },
+              {
+                "id": "s1779126529688",
+                "nombre": "Devengado",
+                "fi": "2026-06-03",
+                "ff": "2026-06-03",
+                "resp": "",
+                "est": "completado",
+                "com": ""
+              }
+            ]
+          }
+        ],
+        "lineaBase": null
+      }
+    ],
+    "modActivaId": "mod_msgno6qi_ebvc7",
+    "lineaBase": null
   },
   "snpmgi_v1_2674913": {
     "metaFisica": "Construcción de Torre de Salto - ESSEL",
