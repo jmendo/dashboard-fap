@@ -10171,7 +10171,7 @@
             "resp": "",
             "est": "completado",
             "com": "",
-            "exp": false,
+            "exp": true,
             "subs": [
               {
                 "id": "s1784145506541",
@@ -10764,7 +10764,7 @@
                 "resp": "",
                 "est": "completado",
                 "com": "",
-                "exp": false,
+                "exp": true,
                 "subs": [
                   {
                     "id": "s1784145506541",
