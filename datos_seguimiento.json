@@ -2583,7 +2583,7 @@
         "tipo": "proceso",
         "nombre": "PROCESO 2: Cisterna",
         "fi": "2026-08-04",
-        "ff": "2026-08-25",
+        "ff": "2026-09-01",
         "resp": "",
         "est": "por_hacer",
         "com": "",
@@ -2605,7 +2605,7 @@
             "id": "p1786392639324f2",
             "nombre": "FASE 2 — Procedimiento de Selección",
             "fi": "2026-08-04",
-            "ff": "2026-08-25",
+            "ff": "2026-09-01",
             "resp": "",
             "est": "por_hacer",
             "com": "",
@@ -2760,7 +2760,7 @@
                 "id": "s1786392954950",
                 "nombre": "Consetimiento",
                 "fi": "2026-08-26",
-                "ff": "",
+                "ff": "2026-09-01",
                 "resp": "",
                 "est": "por_hacer",
                 "com": "",
@@ -2771,7 +2771,9 @@
                     "tipo": "FS",
                     "lag": 0
                   }
-                ]
+                ],
+                "dur": 5,
+                "durMode": "dh"
               }
             ]
           },
@@ -3090,7 +3092,7 @@
             "tipo": "proceso",
             "nombre": "PROCESO 2: Cisterna",
             "fi": "2026-08-04",
-            "ff": "2026-08-25",
+            "ff": "2026-09-01",
             "resp": "",
             "est": "por_hacer",
             "com": "",
@@ -3112,7 +3114,7 @@
                 "id": "p1786392639324f2",
                 "nombre": "FASE 2 — Procedimiento de Selección",
                 "fi": "2026-08-04",
-                "ff": "2026-08-25",
+                "ff": "2026-09-01",
                 "resp": "",
                 "est": "por_hacer",
                 "com": "",
@@ -3267,7 +3269,7 @@
                     "id": "s1786392954950",
                     "nombre": "Consetimiento",
                     "fi": "2026-08-26",
-                    "ff": "",
+                    "ff": "2026-09-01",
                     "resp": "",
                     "est": "por_hacer",
                     "com": "",
@@ -3278,7 +3280,9 @@
                         "tipo": "FS",
                         "lag": 0
                       }
-                    ]
+                    ],
+                    "dur": 5,
+                    "durMode": "dh"
                   }
                 ]
               },
