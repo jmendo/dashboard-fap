@@ -2665,7 +2665,7 @@
                 "id": "s1786392672381",
                 "nombre": "Absolución de Consultas y observaciones",
                 "fi": "2026-08-14",
-                "ff": "",
+                "ff": "2026-08-14",
                 "resp": "",
                 "est": "por_hacer",
                 "com": "",
@@ -2676,17 +2676,26 @@
                     "tipo": "FS",
                     "lag": 0
                   }
-                ]
+                ],
+                "dur": 1,
+                "durMode": "dh"
               },
               {
                 "id": "s1786392672956",
-                "nombre": "Nueva subtarea",
-                "fi": "",
+                "nombre": "Integración de Bases",
+                "fi": "2026-08-17",
                 "ff": "",
                 "resp": "",
                 "est": "por_hacer",
                 "com": "",
-                "uid": "umsno3s2do5b4"
+                "uid": "umsno3s2do5b4",
+                "preds": [
+                  {
+                    "uid": "umsno3s2dn7md",
+                    "tipo": "FS",
+                    "lag": 0
+                  }
+                ]
               },
               {
                 "id": "s1786392673516",
@@ -3107,7 +3116,7 @@
                     "id": "s1786392672381",
                     "nombre": "Absolución de Consultas y observaciones",
                     "fi": "2026-08-14",
-                    "ff": "",
+                    "ff": "2026-08-14",
                     "resp": "",
                     "est": "por_hacer",
                     "com": "",
@@ -3118,17 +3127,26 @@
                         "tipo": "FS",
                         "lag": 0
                       }
-                    ]
+                    ],
+                    "dur": 1,
+                    "durMode": "dh"
                   },
                   {
                     "id": "s1786392672956",
-                    "nombre": "Nueva subtarea",
-                    "fi": "",
+                    "nombre": "Integración de Bases",
+                    "fi": "2026-08-17",
                     "ff": "",
                     "resp": "",
                     "est": "por_hacer",
                     "com": "",
-                    "uid": "umsno3s2do5b4"
+                    "uid": "umsno3s2do5b4",
+                    "preds": [
+                      {
+                        "uid": "umsno3s2dn7md",
+                        "tipo": "FS",
+                        "lag": 0
+                      }
+                    ]
                   },
                   {
                     "id": "s1786392673516",
