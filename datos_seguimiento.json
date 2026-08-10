@@ -2330,7 +2330,7 @@
             "fi": "2026-08-03",
             "ff": "2026-08-03",
             "resp": "",
-            "est": "por_hacer",
+            "est": "completado",
             "com": "",
             "dur": 1,
             "durMode": "dh",
@@ -2344,7 +2344,7 @@
             "fi": "2026-08-04",
             "ff": "2026-08-13",
             "resp": "",
-            "est": "por_hacer",
+            "est": "en_progreso",
             "com": "",
             "uid": "umrw95i68ejum",
             "preds": [
@@ -2365,7 +2365,7 @@
             "fi": "2026-08-04",
             "ff": "2026-08-07",
             "resp": "",
-            "est": "por_hacer",
+            "est": "completado",
             "com": "",
             "uid": "umrw95i68qpgu",
             "preds": [
@@ -2636,7 +2636,7 @@
                 "fi": "2026-08-03",
                 "ff": "2026-08-03",
                 "resp": "",
-                "est": "por_hacer",
+                "est": "completado",
                 "com": "",
                 "dur": 1,
                 "durMode": "dh",
@@ -2650,7 +2650,7 @@
                 "fi": "2026-08-04",
                 "ff": "2026-08-13",
                 "resp": "",
-                "est": "por_hacer",
+                "est": "en_progreso",
                 "com": "",
                 "uid": "umrw95i68ejum",
                 "preds": [
@@ -2671,7 +2671,7 @@
                 "fi": "2026-08-04",
                 "ff": "2026-08-07",
                 "resp": "",
-                "est": "por_hacer",
+                "est": "completado",
                 "com": "",
                 "uid": "umrw95i68qpgu",
                 "preds": [
