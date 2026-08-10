@@ -198,7 +198,211 @@
           }
         ]
       }
-    ]
+    ],
+    "modalidades": [
+      {
+        "id": "mod_msnily7f_1gio9",
+        "nombre": "Modalidad inicial",
+        "estado": "vigente",
+        "fechaAdopcion": null,
+        "fechaCambio": null,
+        "motivo": "",
+        "gantt": [
+          {
+            "id": "t1",
+            "nombre": "ACTUACIONES PREPARATORIAS FAP",
+            "fi": "2025-10-17",
+            "ff": "2026-03-26",
+            "resp": "",
+            "est": "completado",
+            "com": "",
+            "exp": true,
+            "subs": [
+              {
+                "id": "t1s1",
+                "nombre": "REMISIÓN DEL REQUERIMIENTO",
+                "fi": "2025-10-17",
+                "ff": "2025-12-15",
+                "resp": "MINDEF",
+                "est": "completado",
+                "com": ""
+              },
+              {
+                "id": "s1774910677735",
+                "nombre": "TRÁMITE DE ESTANDARIZACIÓN",
+                "fi": "2025-11-05",
+                "ff": "2026-02-16",
+                "resp": "",
+                "est": "completado",
+                "com": ""
+              },
+              {
+                "id": "s1774910738647",
+                "nombre": "TRÁMITE DE INCLUSIÓN PAC",
+                "fi": "2026-02-17",
+                "ff": "2026-02-24",
+                "resp": "FAP",
+                "est": "completado",
+                "com": ""
+              },
+              {
+                "id": "s1774910778647",
+                "nombre": "EMISIÓN DE CCP",
+                "fi": "2026-02-25",
+                "ff": "2026-02-27",
+                "resp": "EMGRA",
+                "est": "completado",
+                "com": ""
+              },
+              {
+                "id": "s1774910816032",
+                "nombre": "FORMULACIÓN DE RCG PROVEEDOR ÚNICO",
+                "fi": "2026-03-02",
+                "ff": "2026-03-03",
+                "resp": "",
+                "est": "completado",
+                "com": ""
+              },
+              {
+                "id": "s1774910937016",
+                "nombre": "APROBACIÓN MEDIANTE RCG DE PROVEEDOR UNICO",
+                "fi": "2026-03-04",
+                "ff": "2026-03-04",
+                "resp": "COFAP",
+                "est": "completado",
+                "com": ""
+              },
+              {
+                "id": "s1777302885003",
+                "nombre": "APROBACIÓN DEL EXPEDIENTE DE CONTRATACIÓN",
+                "fi": "2026-03-26",
+                "ff": "2026-03-26",
+                "resp": "ACFFAA",
+                "est": "completado",
+                "com": ""
+              }
+            ]
+          },
+          {
+            "id": "t1774911088489",
+            "nombre": "PROCEDIMIENTO DE SELECCIÓN",
+            "fi": "2026-04-28",
+            "ff": "2026-05-04",
+            "resp": "",
+            "est": "completado",
+            "com": "",
+            "exp": true,
+            "subs": [
+              {
+                "id": "s1774911303714",
+                "nombre": "CONVOCATORIA",
+                "fi": "2026-04-28",
+                "ff": "2026-04-28",
+                "resp": "ACFFAA",
+                "est": "completado",
+                "com": "A la espera que la plataforma PLADICOP se habilite para lanzar convocatoria.(28.04.2026)"
+              },
+              {
+                "id": "s1775580403288",
+                "nombre": "Buena Pro",
+                "fi": "2026-05-04",
+                "ff": "2026-05-04",
+                "resp": "ACFFAA",
+                "est": "completado",
+                "com": ""
+              },
+              {
+                "id": "s1777305459684",
+                "nombre": "Consentimiento",
+                "fi": "2026-05-04",
+                "ff": "2026-05-04",
+                "resp": "ACFFAA",
+                "est": "completado",
+                "com": ""
+              }
+            ]
+          },
+          {
+            "id": "t1774911391027",
+            "nombre": "EJECUCIÓN CONTRACTUAL",
+            "fi": "2026-05-05",
+            "ff": "2027-12-24",
+            "resp": "",
+            "est": "por_hacer",
+            "com": "",
+            "exp": true,
+            "subs": [
+              {
+                "id": "s1774911400387",
+                "nombre": "CONTRATO",
+                "fi": "2026-05-05",
+                "ff": "2026-05-12",
+                "resp": "SEBAT",
+                "est": "completado",
+                "com": ""
+              },
+              {
+                "id": "s1774911412658",
+                "nombre": "COMPROMISO ANUAL",
+                "fi": "2026-05-13",
+                "ff": "2026-05-14",
+                "resp": "SEBAT",
+                "est": "completado",
+                "com": ""
+              },
+              {
+                "id": "s1774911481011",
+                "nombre": "ORDEN DE COMPRA",
+                "fi": "2026-05-15",
+                "ff": "2026-05-15",
+                "resp": "SEBAT",
+                "est": "completado",
+                "com": ""
+              },
+              {
+                "id": "s1774911511667",
+                "nombre": "REMISION DE EXPEDIENTE DE PAGO A DIREC",
+                "fi": "2026-05-18",
+                "ff": "2026-05-22",
+                "resp": "SEBAT",
+                "est": "completado",
+                "com": ""
+              },
+              {
+                "id": "s1774911547115",
+                "nombre": "REVISION DE EXPEDIENTE DE PAGO (DIREC)",
+                "fi": "2026-05-22",
+                "ff": "2026-05-22",
+                "resp": "SEBAT",
+                "est": "completado",
+                "com": ""
+              },
+              {
+                "id": "s1774911576227",
+                "nombre": "DEVENGADO (ADELANTO CON CARTA DE CRÉDITO)",
+                "fi": "2026-05-25",
+                "ff": "2026-05-26",
+                "resp": "DIREC",
+                "est": "completado",
+                "com": ""
+              },
+              {
+                "id": "s1774911611163",
+                "nombre": "INTERNAMIENTO DE ACTIVO EN LA UP (560 DÍAS)",
+                "fi": "2026-05-27",
+                "ff": "2027-12-24",
+                "resp": "SEBAT",
+                "est": "por_hacer",
+                "com": ""
+              }
+            ]
+          }
+        ],
+        "lineaBase": null
+      }
+    ],
+    "modActivaId": "mod_msnily7f_1gio9",
+    "lineaBase": null
   },
   "snpmgi_v1_2494066": {
     "metaFisica": "Adquisición de paracaídas principales (41) y de reserva (10)  ",
@@ -1877,6 +2081,54 @@
       },
       "_metaSembrada": true,
       "uei": "COMOP"
+    },
+    {
+      "cui": "2475661",
+      "nombre": "2475661: BOEING-IOARR",
+      "fuente": "RO",
+      "pim": 6999770,
+      "dev": 6999770,
+      "proceso": "—",
+      "meses": {
+        "ene": 0,
+        "feb": 0,
+        "mar": 0,
+        "abr": 0,
+        "may": 0,
+        "jun": 0,
+        "jul": 0,
+        "ago": 0,
+        "set": 6999770,
+        "oct": 0,
+        "nov": 0,
+        "dic": 0
+      },
+      "mesFuente": {
+        "set": "RO"
+      },
+      "fuentes": [
+        {
+          "fuente": "RO",
+          "pim": 6999770,
+          "dev": 6999770,
+          "desde": null
+        }
+      ],
+      "metaMEF": {
+        "ene": 0,
+        "feb": 0,
+        "mar": 0,
+        "abr": 0,
+        "may": 0,
+        "jun": 0,
+        "jul": 0,
+        "ago": 0,
+        "set": 6999770,
+        "oct": 0,
+        "nov": 0,
+        "dic": 0
+      },
+      "_metaSembrada": true
     }
   ],
   "snpmgi_v1_2721367": {
@@ -9640,6 +9892,13 @@
       "fuente": "ROOC",
       "uei": "COMOP",
       "proceso": "ACFFAA"
+    },
+    "2475661": {
+      "nombre": "BOEING",
+      "tipo": "IOARR",
+      "fuente": "RO",
+      "uei": "COMOP",
+      "proceso": "—"
     },
     "2481370": {
       "nombre": "SIST. COMUNICACIÓN SATELITAL",
