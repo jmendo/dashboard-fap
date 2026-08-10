@@ -2087,7 +2087,7 @@
       "nombre": "2475661: BOEING-IOARR",
       "fuente": "RO",
       "pim": 6999770,
-      "dev": 6999770,
+      "dev": 0,
       "proceso": "—",
       "meses": {
         "ene": 0,
@@ -2098,19 +2098,17 @@
         "jun": 0,
         "jul": 0,
         "ago": 0,
-        "set": 6999770,
+        "set": 0,
         "oct": 0,
         "nov": 0,
         "dic": 0
       },
-      "mesFuente": {
-        "set": "RO"
-      },
+      "mesFuente": {},
       "fuentes": [
         {
           "fuente": "RO",
           "pim": 6999770,
-          "dev": 6999770,
+          "dev": 0,
           "desde": "2026-08-07"
         }
       ],
