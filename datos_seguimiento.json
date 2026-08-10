@@ -2583,7 +2583,7 @@
         "tipo": "proceso",
         "nombre": "PROCESO 2: Cisterna",
         "fi": "2026-08-04",
-        "ff": "2026-08-24",
+        "ff": "2026-08-25",
         "resp": "",
         "est": "por_hacer",
         "com": "",
@@ -2605,7 +2605,7 @@
             "id": "p1786392639324f2",
             "nombre": "FASE 2 — Procedimiento de Selección",
             "fi": "2026-08-04",
-            "ff": "2026-08-24",
+            "ff": "2026-08-25",
             "resp": "",
             "est": "por_hacer",
             "com": "",
@@ -2741,7 +2741,7 @@
                 "id": "s1786392954213",
                 "nombre": "Buena Pro",
                 "fi": "2026-08-25",
-                "ff": "",
+                "ff": "2026-08-25",
                 "resp": "",
                 "est": "por_hacer",
                 "com": "",
@@ -2752,17 +2752,26 @@
                     "tipo": "FS",
                     "lag": 0
                   }
-                ]
+                ],
+                "dur": 1,
+                "durMode": "dh"
               },
               {
                 "id": "s1786392954950",
-                "nombre": "Nueva subtarea",
-                "fi": "",
+                "nombre": "Consetimiento",
+                "fi": "2026-08-26",
                 "ff": "",
                 "resp": "",
                 "est": "por_hacer",
                 "com": "",
-                "uid": "umsno8z99f24j"
+                "uid": "umsno8z99f24j",
+                "preds": [
+                  {
+                    "uid": "umsno8z999axu",
+                    "tipo": "FS",
+                    "lag": 0
+                  }
+                ]
               }
             ]
           },
@@ -3081,7 +3090,7 @@
             "tipo": "proceso",
             "nombre": "PROCESO 2: Cisterna",
             "fi": "2026-08-04",
-            "ff": "2026-08-24",
+            "ff": "2026-08-25",
             "resp": "",
             "est": "por_hacer",
             "com": "",
@@ -3103,7 +3112,7 @@
                 "id": "p1786392639324f2",
                 "nombre": "FASE 2 — Procedimiento de Selección",
                 "fi": "2026-08-04",
-                "ff": "2026-08-24",
+                "ff": "2026-08-25",
                 "resp": "",
                 "est": "por_hacer",
                 "com": "",
@@ -3239,7 +3248,7 @@
                     "id": "s1786392954213",
                     "nombre": "Buena Pro",
                     "fi": "2026-08-25",
-                    "ff": "",
+                    "ff": "2026-08-25",
                     "resp": "",
                     "est": "por_hacer",
                     "com": "",
@@ -3250,17 +3259,26 @@
                         "tipo": "FS",
                         "lag": 0
                       }
-                    ]
+                    ],
+                    "dur": 1,
+                    "durMode": "dh"
                   },
                   {
                     "id": "s1786392954950",
-                    "nombre": "Nueva subtarea",
-                    "fi": "",
+                    "nombre": "Consetimiento",
+                    "fi": "2026-08-26",
                     "ff": "",
                     "resp": "",
                     "est": "por_hacer",
                     "com": "",
-                    "uid": "umsno8z99f24j"
+                    "uid": "umsno8z99f24j",
+                    "preds": [
+                      {
+                        "uid": "umsno8z999axu",
+                        "tipo": "FS",
+                        "lag": 0
+                      }
+                    ]
                   }
                 ]
               },
