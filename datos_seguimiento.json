@@ -2581,8 +2581,8 @@
         "id": "p1786392639324",
         "tipo": "proceso",
         "nombre": "PROCESO 2: Cisterna",
-        "fi": "",
-        "ff": "",
+        "fi": "2026-08-04",
+        "ff": "2026-08-04",
         "resp": "",
         "est": "por_hacer",
         "com": "",
@@ -2602,8 +2602,8 @@
           {
             "id": "p1786392639324f2",
             "nombre": "FASE 2 — Procedimiento de Selección",
-            "fi": "",
-            "ff": "",
+            "fi": "2026-08-04",
+            "ff": "2026-08-04",
             "resp": "",
             "est": "por_hacer",
             "com": "",
@@ -2612,11 +2612,13 @@
               {
                 "id": "s1786392670420",
                 "nombre": "Convocatoria",
-                "fi": "",
-                "ff": "",
+                "fi": "2026-08-04",
+                "ff": "2026-08-04",
                 "resp": "",
                 "est": "por_hacer",
-                "com": ""
+                "com": "",
+                "dur": 1,
+                "durMode": "dh"
               },
               {
                 "id": "s1786392670931",
@@ -2986,8 +2988,8 @@
             "id": "p1786392639324",
             "tipo": "proceso",
             "nombre": "PROCESO 2: Cisterna",
-            "fi": "",
-            "ff": "",
+            "fi": "2026-08-04",
+            "ff": "2026-08-04",
             "resp": "",
             "est": "por_hacer",
             "com": "",
@@ -3007,8 +3009,8 @@
               {
                 "id": "p1786392639324f2",
                 "nombre": "FASE 2 — Procedimiento de Selección",
-                "fi": "",
-                "ff": "",
+                "fi": "2026-08-04",
+                "ff": "2026-08-04",
                 "resp": "",
                 "est": "por_hacer",
                 "com": "",
@@ -3017,11 +3019,13 @@
                   {
                     "id": "s1786392670420",
                     "nombre": "Convocatoria",
-                    "fi": "",
-                    "ff": "",
+                    "fi": "2026-08-04",
+                    "ff": "2026-08-04",
                     "resp": "",
                     "est": "por_hacer",
-                    "com": ""
+                    "com": "",
+                    "dur": 1,
+                    "durMode": "dh"
                   },
                   {
                     "id": "s1786392670931",
