@@ -2301,18 +2301,7 @@
         "est": "por_hacer",
         "com": "",
         "exp": true,
-        "subs": [
-          {
-            "id": "t1s1",
-            "nombre": "Actividad 1",
-            "fi": "",
-            "ff": "",
-            "resp": "",
-            "est": "por_hacer",
-            "com": "",
-            "uid": "umrw95i68fqpa"
-          }
-        ]
+        "subs": []
       },
       {
         "id": "t2",
@@ -2607,18 +2596,7 @@
             "est": "por_hacer",
             "com": "",
             "exp": true,
-            "subs": [
-              {
-                "id": "t1s1",
-                "nombre": "Actividad 1",
-                "fi": "",
-                "ff": "",
-                "resp": "",
-                "est": "por_hacer",
-                "com": "",
-                "uid": "umrw95i68fqpa"
-              }
-            ]
+            "subs": []
           },
           {
             "id": "t2",
