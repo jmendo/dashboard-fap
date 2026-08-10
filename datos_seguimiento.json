@@ -2646,7 +2646,7 @@
                 "id": "s1786392671364",
                 "nombre": "Formulación de Consultas y observaciones",
                 "fi": "2026-08-05",
-                "ff": "",
+                "ff": "2026-08-13",
                 "resp": "",
                 "est": "por_hacer",
                 "com": "",
@@ -2657,7 +2657,9 @@
                     "tipo": "FS",
                     "lag": 0
                   }
-                ]
+                ],
+                "dur": 6,
+                "durMode": "dh"
               },
               {
                 "id": "s1786392672381",
@@ -3079,7 +3081,7 @@
                     "id": "s1786392671364",
                     "nombre": "Formulación de Consultas y observaciones",
                     "fi": "2026-08-05",
-                    "ff": "",
+                    "ff": "2026-08-13",
                     "resp": "",
                     "est": "por_hacer",
                     "com": "",
@@ -3090,7 +3092,9 @@
                         "tipo": "FS",
                         "lag": 0
                       }
-                    ]
+                    ],
+                    "dur": 6,
+                    "durMode": "dh"
                   },
                   {
                     "id": "s1786392672381",
