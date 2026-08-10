@@ -2583,7 +2583,7 @@
         "tipo": "proceso",
         "nombre": "PROCESO 2: Cisterna",
         "fi": "2026-08-04",
-        "ff": "2026-08-04",
+        "ff": "2026-08-19",
         "resp": "",
         "est": "por_hacer",
         "com": "",
@@ -2605,7 +2605,7 @@
             "id": "p1786392639324f2",
             "nombre": "FASE 2 — Procedimiento de Selección",
             "fi": "2026-08-04",
-            "ff": "2026-08-04",
+            "ff": "2026-08-19",
             "resp": "",
             "est": "por_hacer",
             "com": "",
@@ -2626,12 +2626,21 @@
               {
                 "id": "s1786392670931",
                 "nombre": "Registro de participantes",
-                "fi": "",
-                "ff": "",
+                "fi": "2026-08-05",
+                "ff": "2026-08-19",
                 "resp": "",
                 "est": "por_hacer",
                 "com": "",
-                "uid": "umsno3s2dfhrb"
+                "uid": "umsno3s2dfhrb",
+                "preds": [
+                  {
+                    "uid": "umsno3s2dgz0k",
+                    "tipo": "FS",
+                    "lag": 0
+                  }
+                ],
+                "dur": 10,
+                "durMode": "dh"
               },
               {
                 "id": "s1786392671364",
@@ -3000,7 +3009,7 @@
             "tipo": "proceso",
             "nombre": "PROCESO 2: Cisterna",
             "fi": "2026-08-04",
-            "ff": "2026-08-04",
+            "ff": "2026-08-19",
             "resp": "",
             "est": "por_hacer",
             "com": "",
@@ -3022,7 +3031,7 @@
                 "id": "p1786392639324f2",
                 "nombre": "FASE 2 — Procedimiento de Selección",
                 "fi": "2026-08-04",
-                "ff": "2026-08-04",
+                "ff": "2026-08-19",
                 "resp": "",
                 "est": "por_hacer",
                 "com": "",
@@ -3043,12 +3052,21 @@
                   {
                     "id": "s1786392670931",
                     "nombre": "Registro de participantes",
-                    "fi": "",
-                    "ff": "",
+                    "fi": "2026-08-05",
+                    "ff": "2026-08-19",
                     "resp": "",
                     "est": "por_hacer",
                     "com": "",
-                    "uid": "umsno3s2dfhrb"
+                    "uid": "umsno3s2dfhrb",
+                    "preds": [
+                      {
+                        "uid": "umsno3s2dgz0k",
+                        "tipo": "FS",
+                        "lag": 0
+                      }
+                    ],
+                    "dur": 10,
+                    "durMode": "dh"
                   },
                   {
                     "id": "s1786392671364",
