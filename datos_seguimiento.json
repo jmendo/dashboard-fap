@@ -8029,8 +8029,8 @@
           {
             "id": "s1777327246986",
             "nombre": "Registro de Participantes",
-            "fi": "2026-08-04",
-            "ff": "2026-08-20",
+            "fi": "2026-08-05",
+            "ff": "2026-08-21",
             "resp": "ACFFAA",
             "est": "por_hacer",
             "com": "",
@@ -8040,7 +8040,7 @@
             "preds": [
               {
                 "uid": "umraqjgjzragw",
-                "tipo": "SS",
+                "tipo": "FS",
                 "lag": 0
               }
             ],
@@ -8454,8 +8454,8 @@
               {
                 "id": "s1777327246986",
                 "nombre": "Registro de Participantes",
-                "fi": "2026-08-04",
-                "ff": "2026-08-20",
+                "fi": "2026-08-05",
+                "ff": "2026-08-21",
                 "resp": "ACFFAA",
                 "est": "por_hacer",
                 "com": "",
@@ -8465,7 +8465,7 @@
                 "preds": [
                   {
                     "uid": "umraqjgjzragw",
-                    "tipo": "SS",
+                    "tipo": "FS",
                     "lag": 0
                   }
                 ],
