@@ -2580,7 +2580,7 @@
       {
         "id": "p1786392639324",
         "tipo": "proceso",
-        "nombre": "PROCESO 1: Descripción del proceso",
+        "nombre": "PROCESO 2: Cisterna",
         "fi": "",
         "ff": "",
         "resp": "",
@@ -2921,7 +2921,7 @@
           {
             "id": "p1786392639324",
             "tipo": "proceso",
-            "nombre": "PROCESO 1: Descripción del proceso",
+            "nombre": "PROCESO 2: Cisterna",
             "fi": "",
             "ff": "",
             "resp": "",
