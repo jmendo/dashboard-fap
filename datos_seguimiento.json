@@ -2720,13 +2720,20 @@
               },
               {
                 "id": "s1786392674004",
-                "nombre": "Nueva subtarea",
-                "fi": "",
+                "nombre": "Calificación y Evaluación de propuestas",
+                "fi": "2026-08-21",
                 "ff": "",
                 "resp": "",
                 "est": "por_hacer",
                 "com": "",
-                "uid": "umsno3s2d7ekx"
+                "uid": "umsno3s2d7ekx",
+                "preds": [
+                  {
+                    "uid": "umsno3s2d4bwm",
+                    "tipo": "FS",
+                    "lag": 0
+                  }
+                ]
               }
             ]
           },
@@ -3182,13 +3189,20 @@
                   },
                   {
                     "id": "s1786392674004",
-                    "nombre": "Nueva subtarea",
-                    "fi": "",
+                    "nombre": "Calificación y Evaluación de propuestas",
+                    "fi": "2026-08-21",
                     "ff": "",
                     "resp": "",
                     "est": "por_hacer",
                     "com": "",
-                    "uid": "umsno3s2d7ekx"
+                    "uid": "umsno3s2d7ekx",
+                    "preds": [
+                      {
+                        "uid": "umsno3s2d4bwm",
+                        "tipo": "FS",
+                        "lag": 0
+                      }
+                    ]
                   }
                 ]
               },
