@@ -2664,12 +2664,19 @@
               {
                 "id": "s1786392672381",
                 "nombre": "Absolución de Consultas y observaciones",
-                "fi": "",
+                "fi": "2026-08-14",
                 "ff": "",
                 "resp": "",
                 "est": "por_hacer",
                 "com": "",
-                "uid": "umsno3s2dn7md"
+                "uid": "umsno3s2dn7md",
+                "preds": [
+                  {
+                    "uid": "umsno3s2dafeg",
+                    "tipo": "FS",
+                    "lag": 0
+                  }
+                ]
               },
               {
                 "id": "s1786392672956",
@@ -3099,12 +3106,19 @@
                   {
                     "id": "s1786392672381",
                     "nombre": "Absolución de Consultas y observaciones",
-                    "fi": "",
+                    "fi": "2026-08-14",
                     "ff": "",
                     "resp": "",
                     "est": "por_hacer",
                     "com": "",
-                    "uid": "umsno3s2dn7md"
+                    "uid": "umsno3s2dn7md",
+                    "preds": [
+                      {
+                        "uid": "umsno3s2dafeg",
+                        "tipo": "FS",
+                        "lag": 0
+                      }
+                    ]
                   },
                   {
                     "id": "s1786392672956",
