@@ -2583,7 +2583,7 @@
         "tipo": "proceso",
         "nombre": "PROCESO 2: Cisterna",
         "fi": "2026-08-04",
-        "ff": "2026-08-20",
+        "ff": "2026-08-24",
         "resp": "",
         "est": "por_hacer",
         "com": "",
@@ -2605,7 +2605,7 @@
             "id": "p1786392639324f2",
             "nombre": "FASE 2 — Procedimiento de Selección",
             "fi": "2026-08-04",
-            "ff": "2026-08-20",
+            "ff": "2026-08-24",
             "resp": "",
             "est": "por_hacer",
             "com": "",
@@ -2722,7 +2722,7 @@
                 "id": "s1786392674004",
                 "nombre": "Calificación y Evaluación de propuestas",
                 "fi": "2026-08-21",
-                "ff": "",
+                "ff": "2026-08-24",
                 "resp": "",
                 "est": "por_hacer",
                 "com": "",
@@ -2733,7 +2733,9 @@
                     "tipo": "FS",
                     "lag": 0
                   }
-                ]
+                ],
+                "dur": 2,
+                "durMode": "dh"
               }
             ]
           },
@@ -3052,7 +3054,7 @@
             "tipo": "proceso",
             "nombre": "PROCESO 2: Cisterna",
             "fi": "2026-08-04",
-            "ff": "2026-08-20",
+            "ff": "2026-08-24",
             "resp": "",
             "est": "por_hacer",
             "com": "",
@@ -3074,7 +3076,7 @@
                 "id": "p1786392639324f2",
                 "nombre": "FASE 2 — Procedimiento de Selección",
                 "fi": "2026-08-04",
-                "ff": "2026-08-20",
+                "ff": "2026-08-24",
                 "resp": "",
                 "est": "por_hacer",
                 "com": "",
@@ -3191,7 +3193,7 @@
                     "id": "s1786392674004",
                     "nombre": "Calificación y Evaluación de propuestas",
                     "fi": "2026-08-21",
-                    "ff": "",
+                    "ff": "2026-08-24",
                     "resp": "",
                     "est": "por_hacer",
                     "com": "",
@@ -3202,7 +3204,9 @@
                         "tipo": "FS",
                         "lag": 0
                       }
-                    ]
+                    ],
+                    "dur": 2,
+                    "durMode": "dh"
                   }
                 ]
               },
