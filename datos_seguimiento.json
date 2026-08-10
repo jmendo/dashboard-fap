@@ -7891,7 +7891,7 @@
         "fi": "2026-04-30",
         "ff": "2026-08-03",
         "resp": "",
-        "est": "por_hacer",
+        "est": "completado",
         "com": "",
         "exp": true,
         "subs": [
@@ -8316,7 +8316,7 @@
             "fi": "2026-04-30",
             "ff": "2026-08-03",
             "resp": "",
-            "est": "por_hacer",
+            "est": "completado",
             "com": "",
             "exp": true,
             "subs": [
