@@ -2608,7 +2608,71 @@
             "est": "por_hacer",
             "com": "",
             "exp": true,
-            "subs": []
+            "subs": [
+              {
+                "id": "s1786392670420",
+                "nombre": "Nueva subtarea",
+                "fi": "",
+                "ff": "",
+                "resp": "",
+                "est": "por_hacer",
+                "com": ""
+              },
+              {
+                "id": "s1786392670931",
+                "nombre": "Nueva subtarea",
+                "fi": "",
+                "ff": "",
+                "resp": "",
+                "est": "por_hacer",
+                "com": ""
+              },
+              {
+                "id": "s1786392671364",
+                "nombre": "Nueva subtarea",
+                "fi": "",
+                "ff": "",
+                "resp": "",
+                "est": "por_hacer",
+                "com": ""
+              },
+              {
+                "id": "s1786392672381",
+                "nombre": "Nueva subtarea",
+                "fi": "",
+                "ff": "",
+                "resp": "",
+                "est": "por_hacer",
+                "com": ""
+              },
+              {
+                "id": "s1786392672956",
+                "nombre": "Nueva subtarea",
+                "fi": "",
+                "ff": "",
+                "resp": "",
+                "est": "por_hacer",
+                "com": ""
+              },
+              {
+                "id": "s1786392673516",
+                "nombre": "Nueva subtarea",
+                "fi": "",
+                "ff": "",
+                "resp": "",
+                "est": "por_hacer",
+                "com": ""
+              },
+              {
+                "id": "s1786392674004",
+                "nombre": "Nueva subtarea",
+                "fi": "",
+                "ff": "",
+                "resp": "",
+                "est": "por_hacer",
+                "com": ""
+              }
+            ]
           },
           {
             "id": "p1786392639324f3",
@@ -2949,7 +3013,71 @@
                 "est": "por_hacer",
                 "com": "",
                 "exp": true,
-                "subs": []
+                "subs": [
+                  {
+                    "id": "s1786392670420",
+                    "nombre": "Nueva subtarea",
+                    "fi": "",
+                    "ff": "",
+                    "resp": "",
+                    "est": "por_hacer",
+                    "com": ""
+                  },
+                  {
+                    "id": "s1786392670931",
+                    "nombre": "Nueva subtarea",
+                    "fi": "",
+                    "ff": "",
+                    "resp": "",
+                    "est": "por_hacer",
+                    "com": ""
+                  },
+                  {
+                    "id": "s1786392671364",
+                    "nombre": "Nueva subtarea",
+                    "fi": "",
+                    "ff": "",
+                    "resp": "",
+                    "est": "por_hacer",
+                    "com": ""
+                  },
+                  {
+                    "id": "s1786392672381",
+                    "nombre": "Nueva subtarea",
+                    "fi": "",
+                    "ff": "",
+                    "resp": "",
+                    "est": "por_hacer",
+                    "com": ""
+                  },
+                  {
+                    "id": "s1786392672956",
+                    "nombre": "Nueva subtarea",
+                    "fi": "",
+                    "ff": "",
+                    "resp": "",
+                    "est": "por_hacer",
+                    "com": ""
+                  },
+                  {
+                    "id": "s1786392673516",
+                    "nombre": "Nueva subtarea",
+                    "fi": "",
+                    "ff": "",
+                    "resp": "",
+                    "est": "por_hacer",
+                    "com": ""
+                  },
+                  {
+                    "id": "s1786392674004",
+                    "nombre": "Nueva subtarea",
+                    "fi": "",
+                    "ff": "",
+                    "resp": "",
+                    "est": "por_hacer",
+                    "com": ""
+                  }
+                ]
               },
               {
                 "id": "p1786392639324f3",
