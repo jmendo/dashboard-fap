@@ -8030,7 +8030,7 @@
             "id": "s1777327246986",
             "nombre": "Registro de Participantes",
             "fi": "2026-08-05",
-            "ff": "2026-08-21",
+            "ff": "2026-08-31",
             "resp": "ACFFAA",
             "est": "por_hacer",
             "com": "",
@@ -8044,7 +8044,7 @@
                 "lag": 0
               }
             ],
-            "dur": 12,
+            "dur": 18,
             "durMode": "dh"
           },
           {
@@ -8455,7 +8455,7 @@
                 "id": "s1777327246986",
                 "nombre": "Registro de Participantes",
                 "fi": "2026-08-05",
-                "ff": "2026-08-21",
+                "ff": "2026-08-31",
                 "resp": "ACFFAA",
                 "est": "por_hacer",
                 "com": "",
@@ -8469,7 +8469,7 @@
                     "lag": 0
                   }
                 ],
-                "dur": 12,
+                "dur": 18,
                 "durMode": "dh"
               },
               {
