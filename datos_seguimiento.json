@@ -3432,7 +3432,7 @@
           },
           {
             "id": "s1783450164327",
-            "nombre": "Devengado (Carta Credito)",
+            "nombre": "Devengado (Carta Fianza)",
             "fi": "2026-11-23",
             "ff": "2026-11-27",
             "resp": "",
@@ -3906,7 +3906,7 @@
               },
               {
                 "id": "s1783450164327",
-                "nombre": "Devengado (Carta Credito)",
+                "nombre": "Devengado (Carta Fianza)",
                 "fi": "2026-11-23",
                 "ff": "2026-11-27",
                 "resp": "",
