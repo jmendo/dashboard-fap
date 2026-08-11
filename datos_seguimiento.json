@@ -3335,7 +3335,7 @@
         "id": "t1783449467782",
         "nombre": "Fase FMS - EEUU\n",
         "fi": "2026-07-01",
-        "ff": "2026-10-26",
+        "ff": "2026-09-30",
         "resp": "",
         "est": "por_hacer",
         "com": "",
@@ -3357,7 +3357,7 @@
             "id": "s1783449641551",
             "nombre": "Evaluación de la Carta de Oferta y Aceptación (LOA)",
             "fi": "2026-07-02",
-            "ff": "2026-09-08",
+            "ff": "2026-08-15",
             "resp": "USA",
             "est": "en_progreso",
             "com": "",
@@ -3370,13 +3370,14 @@
               }
             ],
             "dur": 45,
-            "durMode": "dh"
+            "durMode": "dc",
+            "dc": true
           },
           {
             "id": "s1783450008895",
             "nombre": "Perfeccionamiento",
-            "fi": "2026-09-09",
-            "ff": "2026-10-02",
+            "fi": "2026-08-17",
+            "ff": "2026-09-09",
             "resp": "",
             "est": "por_hacer",
             "com": "",
@@ -3394,8 +3395,8 @@
           {
             "id": "s1783450054047",
             "nombre": "Contrato",
-            "fi": "2026-10-05",
-            "ff": "2026-10-12",
+            "fi": "2026-09-10",
+            "ff": "2026-09-16",
             "resp": "",
             "est": "por_hacer",
             "com": "",
@@ -3413,8 +3414,8 @@
           {
             "id": "s1783450099136",
             "nombre": "Gestión de desembolso.",
-            "fi": "2026-10-13",
-            "ff": "2026-10-21",
+            "fi": "2026-09-17",
+            "ff": "2026-09-25",
             "resp": "",
             "est": "por_hacer",
             "com": "",
@@ -3432,8 +3433,8 @@
           {
             "id": "s1783450164327",
             "nombre": "Devengado (Carta Credito)",
-            "fi": "2026-10-22",
-            "ff": "2026-10-26",
+            "fi": "2026-09-28",
+            "ff": "2026-09-30",
             "resp": "",
             "est": "por_hacer",
             "com": "",
@@ -3808,7 +3809,7 @@
             "id": "t1783449467782",
             "nombre": "Fase FMS - EEUU\n",
             "fi": "2026-07-01",
-            "ff": "2026-10-26",
+            "ff": "2026-09-30",
             "resp": "",
             "est": "por_hacer",
             "com": "",
@@ -3830,7 +3831,7 @@
                 "id": "s1783449641551",
                 "nombre": "Evaluación de la Carta de Oferta y Aceptación (LOA)",
                 "fi": "2026-07-02",
-                "ff": "2026-09-08",
+                "ff": "2026-08-15",
                 "resp": "USA",
                 "est": "en_progreso",
                 "com": "",
@@ -3843,13 +3844,14 @@
                   }
                 ],
                 "dur": 45,
-                "durMode": "dh"
+                "durMode": "dc",
+                "dc": true
               },
               {
                 "id": "s1783450008895",
                 "nombre": "Perfeccionamiento",
-                "fi": "2026-09-09",
-                "ff": "2026-10-02",
+                "fi": "2026-08-17",
+                "ff": "2026-09-09",
                 "resp": "",
                 "est": "por_hacer",
                 "com": "",
@@ -3867,8 +3869,8 @@
               {
                 "id": "s1783450054047",
                 "nombre": "Contrato",
-                "fi": "2026-10-05",
-                "ff": "2026-10-12",
+                "fi": "2026-09-10",
+                "ff": "2026-09-16",
                 "resp": "",
                 "est": "por_hacer",
                 "com": "",
@@ -3886,8 +3888,8 @@
               {
                 "id": "s1783450099136",
                 "nombre": "Gestión de desembolso.",
-                "fi": "2026-10-13",
-                "ff": "2026-10-21",
+                "fi": "2026-09-17",
+                "ff": "2026-09-25",
                 "resp": "",
                 "est": "por_hacer",
                 "com": "",
@@ -3905,8 +3907,8 @@
               {
                 "id": "s1783450164327",
                 "nombre": "Devengado (Carta Credito)",
-                "fi": "2026-10-22",
-                "ff": "2026-10-26",
+                "fi": "2026-09-28",
+                "ff": "2026-09-30",
                 "resp": "",
                 "est": "por_hacer",
                 "com": "",
@@ -10301,7 +10303,7 @@
       "nombre": "BOEING",
       "tipo": "IOARR",
       "fuente": "RO",
-      "uei": "COMOP",
+      "uei": "—",
       "proceso": "—"
     },
     "2481370": {
