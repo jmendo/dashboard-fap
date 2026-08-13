@@ -2300,7 +2300,7 @@
         "resp": "",
         "est": "por_hacer",
         "com": "",
-        "exp": false,
+        "exp": true,
         "subs": [],
         "uid": "umsno3s2dkqlj"
       },
@@ -2587,7 +2587,7 @@
         "resp": "",
         "est": "por_hacer",
         "com": "",
-        "exp": false,
+        "exp": true,
         "fases": [
           {
             "id": "p1786392639324f1",
@@ -2809,7 +2809,7 @@
             "resp": "",
             "est": "por_hacer",
             "com": "",
-            "exp": false,
+            "exp": true,
             "subs": [],
             "uid": "umsno3s2dkqlj"
           },
@@ -3096,7 +3096,7 @@
             "resp": "",
             "est": "por_hacer",
             "com": "",
-            "exp": false,
+            "exp": true,
             "fases": [
               {
                 "id": "p1786392639324f1",
