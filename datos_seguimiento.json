@@ -2597,7 +2597,7 @@
             "resp": "",
             "est": "por_hacer",
             "com": "",
-            "exp": true,
+            "exp": false,
             "subs": [],
             "uid": "umsno3s2dv04v"
           },
@@ -3106,7 +3106,7 @@
                 "resp": "",
                 "est": "por_hacer",
                 "com": "",
-                "exp": true,
+                "exp": false,
                 "subs": [],
                 "uid": "umsno3s2dv04v"
               },
