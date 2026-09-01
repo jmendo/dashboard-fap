@@ -10826,7 +10826,7 @@
         "resp": "",
         "est": "por_hacer",
         "com": "",
-        "exp": false,
+        "exp": true,
         "fases": [
           {
             "id": "p1784145377258f1",
@@ -11419,7 +11419,7 @@
             "resp": "",
             "est": "por_hacer",
             "com": "",
-            "exp": false,
+            "exp": true,
             "fases": [
               {
                 "id": "p1784145377258f1",
